@@ -54,7 +54,17 @@ class StockData:
 
     def find_recommended_action(self):
         # TODO: find section of page that states buy/sell/hold recommendation
-        pass
+        # analysis_sections = self.soup.find_all("div", class_="wsod_twoCol")
+        # print(analysis_sections)
+        # recommended_section = analysis_sections[1]
+        # print(recommended_section)
+        recommendation_section = self.soup.find_all("strong", class_="wsod_rating")
+        if len(recommendation_section) == 0:
+            self.data_found = False
+            return ""
+
+        self.recommended_action = recommendation_section[0].text
+        print(self.recommended_action)
 
     def print_report(self):
         print(self.ticker, self.name)
@@ -111,7 +121,10 @@ class StockSearcher:
             stock.print_one_line_report()
 
 
-searcher = StockSearcher(file_name = 'constituents.csv')
-searcher.get_stocks_from_file()
-searcher.get_data_of_stocks()
-searcher.print_highest_projected_stocks()
+# searcher = StockSearcher(file_name = 'constituents.csv')
+# searcher.get_stocks_from_file()
+# searcher.get_data_of_stocks()
+# searcher.print_highest_projected_stocks()
+test_stock = StockData("AAPL", "Apple", "Tech")
+test_stock.get_soup()
+test_stock.find_recommended_action()
