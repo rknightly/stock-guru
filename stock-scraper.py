@@ -53,26 +53,32 @@ class StockData:
         self.estimated_change_percent = float(projected_change[0].text[:-1])
 
     def find_recommended_action(self):
-        # TODO: find section of page that states buy/sell/hold recommendation
-        # analysis_sections = self.soup.find_all("div", class_="wsod_twoCol")
-        # print(analysis_sections)
-        # recommended_section = analysis_sections[1]
-        # print(recommended_section)
+        # find section of page that states buy/sell/hold recommendation
         recommendation_section = self.soup.find_all("strong", class_="wsod_rating")
         if len(recommendation_section) == 0:
             self.data_found = False
             return ""
 
         self.recommended_action = recommendation_section[0].text
-        print(self.recommended_action)
+
+    def find_data(self):
+        self.find_estimated_change_percent()
+        self.find_recommended_action()
 
     def print_report(self):
         print(self.ticker, self.name)
         print("Estimated Change: %.1f%%" % self.estimated_change_percent)
+        print(self.recommended_action)
         print()
 
+    def make_one_line_report(self):
+        return str(self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action)
+
     def print_one_line_report(self):
-        print(self.ticker, self.name + ":", str(self.estimated_change_percent) + "%")
+        print(self.make_one_line_report())
+
+    def should_buy(self):
+        return self.recommended_action == "Buy"
 
 # TODO: add analyst count report and estimate spread report
 
@@ -88,7 +94,6 @@ class StockSearcher:
             reader = csv.reader(f)
             for row in reader:
                 file_rows.append(row)
-        print(file_rows)
 
         for stock_info in file_rows:
             ticker, name, industry = stock_info
@@ -101,7 +106,7 @@ class StockSearcher:
         # Request data for each stock
         for index, stock in enumerate(self.stock_list):
             stock.get_soup()
-            stock.find_estimated_change_percent()
+            stock.find_data()
             if not stock.data_found:
                 indeces_to_remove.append(index)
             stock.print_report()
@@ -110,21 +115,37 @@ class StockSearcher:
         for index in indeces_to_remove[::-1]:
             self.stock_list.pop(index)
 
-    def print_highest_projected_stocks(self):
+    def find_highest_projected_stocks(self):
         print("=========== REPORT ============")
 
         # Sort the stocks by their estimated change percent, highest to lowest
         sorted_stocks = sorted(self.stock_list,
                                key=lambda stock: stock.estimated_change_percent,
-                               reverse=True)
-        for stock in sorted_stocks[:50]:
+                               reverse=True)[:50]
+
+        for stock in sorted_stocks:
             stock.print_one_line_report()
 
+        return sorted_stocks
 
-# searcher = StockSearcher(file_name = 'constituents.csv')
-# searcher.get_stocks_from_file()
-# searcher.get_data_of_stocks()
-# searcher.print_highest_projected_stocks()
-test_stock = StockData("AAPL", "Apple", "Tech")
-test_stock.get_soup()
-test_stock.find_recommended_action()
+    def filter_for_buy(self):
+        stocks_to_buy = [stock for stock in self.stock_list if stock.should_buy()]
+        self.stock_list = stocks_to_buy
+
+    def write_results_to_file(self, stocks_to_write):
+        with open('results.txt', 'w') as results_file:
+            for stock in stocks_to_write:
+                results_file.write(stock.make_one_line_report() + "\n")
+
+    def run(self):
+        self.get_stocks_from_file()
+        self.get_data_of_stocks()
+        self.filter_for_buy()
+        highest_projected = self.find_highest_projected_stocks()
+        self.write_results_to_file(highest_projected)
+
+searcher = StockSearcher(file_name = 'constituents.csv')
+searcher.run()
+# test_stock = StockData("AAPL", "Apple", "Tech")
+# test_stock.get_soup()
+# test_stock.find_data()
