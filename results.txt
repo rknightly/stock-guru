@@ -1,50 +1,50 @@
-HBI Hanesbrands Inc: 73.87% Buy
-MNK Mallinckrodt Plc: 58.12% Buy
-PBI Pitney-Bowes: 47.95% Buy
-FTR Frontier Communications: 46.2% Buy
-RRC Range Resources Corp.: 43.41% Buy
-PVH PVH Corp.: 37.03% Buy
-ALXN Alexion Pharmaceuticals: 35.06% Buy
-TDG TransDigm Group: 32.79% Buy
-SIG Signet Jewelers: 31.06% Buy
-EW Edwards Lifesciences: 30.43% Buy
-MNST Monster Beverage: 28.99% Buy
-MPC Marathon Petroleum: 28.74% Buy
-GILD Gilead Sciences: 28.56% Buy
-DAL Delta Air Lines: 27.59% Buy
-MYL Mylan N.V.: 27.52% Buy
-COG Cabot Oil & Gas: 25.99% Buy
-MAT Mattel Inc.: 25.87% Buy
-XRX Xerox Corp.: 25.87% Buy
-TSO Tesoro Petroleum Co.: 25.72% Buy
-DLTR Dollar Tree: 25.18% Buy
-BIIB BIOGEN IDEC Inc.: 25.06% Buy
-NFX Newfield Exploration Co: 24.91% Buy
-GOOG Alphabet Inc Class C: 24.77% Buy
-CTSH Cognizant Technology Solutions: 23.81% Buy
-NWL Newell Rubbermaid Co.: 23.69% Buy
-AMT American Tower Corp A: 23.52% Buy
-LUK Leucadia National Corp.: 23.2% Buy
-AZO AutoZone Inc: 22.88% Buy
-GOOGL Alphabet Inc Class A: 21.93% Buy
-NWSA News Corp. Class A: 21.84% Buy
-PXD Pioneer Natural Resources: 21.3% Buy
-ETFC E*Trade: 20.79% Buy
-STZ Constellation Brands: 20.75% Buy
-CELG Celgene Corp.: 20.63% Buy
-AMG Affiliated Managers Group Inc: 20.15% Buy
-ATVI Activision Blizzard: 19.97% Buy
-JCI Johnson Controls: 19.55% Buy
-TYC Tyco International: 19.55% Buy
-ORLY O'Reilly Automotive: 19.3% Buy
-PYPL PayPal: 18.72% Buy
-NWS News Corp. Class B: 18.65% Buy
-EXPE Expedia Inc.: 18.49% Buy
-CRM Salesforce.com: 18.44% Buy
-FB Facebook: 18.34% Buy
-WBA Walgreens Boots Alliance: 18.06% Buy
-SBUX Starbucks Corp.: 18.05% Buy
-TAP Molson Coors Brewing Company: 18.04% Buy
-MET MetLife Inc.: 17.83% Buy
-SYF Synchrony Financial: 17.78% Buy
-CCI Crown Castle International Corp.: 17.76% Buy
+RRC Range Resources Corp.: 91.87% Buy
+APC Anadarko Petroleum Corp: 71.74% Buy
+DVN Devon Energy Corp.: 61.65% Buy
+MNK Mallinckrodt Plc: 60.51% Buy
+NFX Newfield Exploration Co: 60.25% Buy
+XEC Cimarex Energy: 59.24% Buy
+NBL Noble Energy Inc: 57.23% Buy
+KR Kroger Co.: 53.98% Buy
+HAL Halliburton Co.: 49.84% Buy
+FL Foot Locker Inc: 45.07% Buy
+PXD Pioneer Natural Resources: 43.4% Buy
+CXO Concho Resources: 39.79% Buy
+FTI FMC Technologies Inc.: 38.63% Buy
+DLTR Dollar Tree: 35.17% Buy
+KMI Kinder Morgan: 34.88% Buy
+AA Alcoa Inc: 34.83% Buy
+SLB Schlumberger Ltd.: 34.37% Buy
+ORLY O'Reilly Automotive: 33.42% Buy
+MYL Mylan N.V.: 33.3% Buy
+FOX Twenty-First Century Fox Class B: 32.78% Buy
+PWR Quanta Services Inc.: 31.87% Buy
+ALXN Alexion Pharmaceuticals: 31.23% Buy
+COP ConocoPhillips: 30.72% Buy
+FOXA Twenty-First Century Fox Class A: 29.37% Buy
+WDC Western Digital: 28.95% Buy
+COG Cabot Oil & Gas: 28.89% Buy
+NUE Nucor Corp.: 27.7% Buy
+EOG EOG Resources: 26.88% Buy
+DFS Discover Financial Services: 26.11% Buy
+ROST Ross Stores: 25.78% Buy
+AAP Advance Auto Parts: 25.0% Buy
+UHS Universal Health Services, Inc.: 24.1% Buy
+SPG Simon Property Group Inc: 23.91% Buy
+CBS CBS Corp.: 23.79% Buy
+AZO AutoZone Inc: 23.11% Buy
+HBI Hanesbrands Inc: 22.67% Buy
+SNA Snap-On Inc.: 22.52% Buy
+TAP Molson Coors Brewing Company: 22.25% Buy
+NKE Nike: 21.98% Buy
+TJX TJX Companies Inc.: 21.26% Buy
+ADI Analog Devices, Inc.: 21.0% Buy
+MPC Marathon Petroleum: 20.82% Buy
+GT Goodyear Tire & Rubber: 20.7% Buy
+WBA Walgreens Boots Alliance: 20.29% Buy
+COF Capital One Financial: 20.26% Buy
+AMAT Applied Materials Inc: 20.01% Buy
+SRCL Stericycle Inc: 19.67% Buy
+MU Micron Technology: 19.55% Buy
+NRG NRG Energy: 19.4% Buy
+DIS The Walt Disney Company: 19.32% Buy
