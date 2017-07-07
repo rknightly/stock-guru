@@ -1,0 +1,50 @@
+6TYC Tyco International: 15.79% Buy
+5AAP Advance Auto Parts: 52.5% Buy
+5AZO AutoZone Inc: 43.84% Buy
+5PWR Quanta Services Inc.: 27.47% Buy
+5TSO Tesoro Petroleum Co.: 10.18% Buy
+4ORLY O'Reilly Automotive: 74.88% Buy
+4FL Foot Locker Inc: 42.2% Buy
+4SLB Schlumberger Ltd.: 36.94% Buy
+4WDC Western Digital: 35.94% Buy
+4GE General Electric: 22.44% Buy
+4KHC Kraft Heinz Co: 18.69% Buy
+4HBI Hanesbrands Inc: 17.65% Buy
+4CSCO Cisco Systems: 16.41% Buy
+4JCI Johnson Controls: 15.85% Buy
+4SBUX Starbucks Corp.: 14.22% Buy
+4CSRA CSRA Inc.: 12.85% Buy
+4DOW Dow Chemical: 12.79% Buy
+4AMZN Amazon.com Inc: 12.57% Buy
+4LUK Leucadia National Corp.: 12.25% Buy
+4GS Goldman Sachs Group: 11.16% Buy
+4TXT Textron Inc.: 10.28% Buy
+4LLY Lilly (Eli) & Co.: 9.48% Buy
+4AMT American Tower Corp A: 8.76% Buy
+4HRS Harris Corporation: 8.06% Buy
+4AJG Arthur J. Gallagher & Co.: 5.58% Buy
+4CNC Centene Corporation: 4.65% Buy
+4LH Laboratory Corp. of America Holding: 3.67% Buy
+4PPG PPG Industries: 3.59% Buy
+4VRSK Verisk Analytics: 0.41% Buy
+3RRC Range Resources Corp.: 79.08% Buy
+3APC Anadarko Petroleum Corp: 78.9% Buy
+3NFX Newfield Exploration Co: 70.83% Buy
+3MNK Mallinckrodt Plc: 64.32% Buy
+3DVN Devon Energy Corp.: 63.38% Buy
+3XEC Cimarex Energy: 54.77% Buy
+3NBL Noble Energy Inc: 51.8% Buy
+3HAL Halliburton Co.: 46.28% Buy
+3PXD Pioneer Natural Resources: 43.53% Buy
+3COP ConocoPhillips: 37.82% Buy
+3FTI FMC Technologies Inc.: 35.03% Buy
+3MYL Mylan N.V.: 33.16% Buy
+3DLTR Dollar Tree: 32.55% Buy
+3EQT EQT Corporation: 31.83% Buy
+3KMI Kinder Morgan: 30.65% Buy
+3CXO Concho Resources: 30.58% Buy
+3ROST Ross Stores: 27.98% Buy
+3ALXN Alexion Pharmaceuticals: 27.93% Buy
+3AA Alcoa Inc: 27.72% Buy
+3DFS Discover Financial Services: 27.12% Buy
+3CAG ConAgra Foods Inc.: 25.15% Buy

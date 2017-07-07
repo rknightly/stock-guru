@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import csv
 
+
 class StockData:
     def __init__(self, ticker, name, industry):
         self.ticker = ticker
@@ -13,7 +14,7 @@ class StockData:
 
         self.data_found = False
 
-        self.soup  = BeautifulSoup()
+        self.soup = BeautifulSoup()
         self.zack_soup = BeautifulSoup()
 
     def get_soup(self):
@@ -73,10 +74,10 @@ class StockData:
         # find 1-5 zacks rank and return as int
         research_section = self.zack_soup.find_all("section", id="premium_research")
         if len(research_section) == 0:
-            return 0
+            return 6 #not found
         rank_chip = research_section[0].find_all("span", class_="rank_chip")
         if len(rank_chip) == 0:
-            return 0
+            return 6 #not found
 
         return int(rank_chip[0].text)
 
@@ -93,7 +94,7 @@ class StockData:
         print()
 
     def make_one_line_report(self):
-        return str(self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action)
+        return str(self.zacks_rank) + self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action
 
     def print_one_line_report(self):
         print(self.make_one_line_report())
@@ -141,8 +142,8 @@ class StockSearcher:
 
         # Sort the stocks by their estimated change percent, highest to lowest
         sorted_stocks = sorted(self.stock_list,
-                               key=lambda stock: stock.estimated_change_percent,
-                               reverse=True)[:50]
+                               key=lambda stock: (stock.zacks_rank,
+                                                  -stock.estimated_change_percent)[:50])
 
         for stock in sorted_stocks:
             stock.print_one_line_report()
