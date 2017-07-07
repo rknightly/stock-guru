@@ -14,12 +14,20 @@ class StockData:
         self.data_found = False
 
         self.soup  = BeautifulSoup()
+        self.zack_soup = BeautifulSoup()
 
     def get_soup(self):
+        # CNN
         url_address = "http://money.cnn.com/quote/forecast/forecast.html?symb=%s" % self.ticker
         r = urllib.request.urlopen(url_address).read()
 
         self.soup = BeautifulSoup(r, "html.parser")
+
+        # Zacks
+        url_address = "http://www.zacks.com/stock/quote/%s" % self.ticker
+        r = urllib.request.urlopen(url_address).read()
+
+        self.zack_soup = BeautifulSoup(r, "html.parser")
 
     def find_estimated_change_percent(self):
         # search the soup for the forecast
@@ -61,14 +69,27 @@ class StockData:
 
         self.recommended_action = recommendation_section[0].text
 
+    def find_zacks_rank(self):
+        # find 1-5 zacks rank and return as int
+        research_section = self.zack_soup.find_all("section", id="premium_research")
+        if len(research_section) == 0:
+            return 0
+        rank_chip = research_section[0].find_all("span", class_="rank_chip")
+        if len(rank_chip) == 0:
+            return 0
+
+        return int(rank_chip[0].text)
+
     def find_data(self):
         self.find_estimated_change_percent()
         self.find_recommended_action()
+        self.zacks_rank = self.find_zacks_rank()
 
     def print_report(self):
         print(self.ticker, self.name)
         print("Estimated Change: %.1f%%" % self.estimated_change_percent)
         print(self.recommended_action)
+        print("Zacks:", self.zacks_rank)
         print()
 
     def make_one_line_report(self):
@@ -144,8 +165,7 @@ class StockSearcher:
         highest_projected = self.find_highest_projected_stocks()
         self.write_results_to_file(highest_projected)
 
-searcher = StockSearcher(file_name = 'constituents.csv')
-searcher.run()
-# test_stock = StockData("AAPL", "Apple", "Tech")
-# test_stock.get_soup()
-# test_stock.find_data()
+if __name__ == "__main__":
+    searcher = StockSearcher(file_name = 'constituents.csv')
+    searcher.run()
+
