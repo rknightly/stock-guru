@@ -1,7 +1,9 @@
 import unittest.main
 from unittest import TestCase
+from src.StockSearcher import StockSearcher
+from src.StockData import StockData
 
-from src.stockScraper import *
+from src.main import *
 
 
 class TestStockData(TestCase):
@@ -11,16 +13,16 @@ class TestStockData(TestCase):
 
     def testFindsAppleData(self):
         test_stock = StockData("AAPL", "Apple", "Tech")
-        test_stock.get_soup()
+        test_stock.get_soups()
         test_stock.find_data()
 
     def testLoadsZacksPage(self):
         test_stock = StockData("AAPL", "Apple", "Tech")
-        test_stock.get_soup()
+        test_stock.get_soups()
 
     def testGetsZacksRank(self):
         test_stock = StockData("AAPL", "Apple", "Tech")
-        test_stock.get_soup()
+        test_stock.get_soups()
 
         self.assertEqual(test_stock.find_zacks_rank(), 3)
 

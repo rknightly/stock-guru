@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import urllib.request
-import csv
 
 
 class StockData:
@@ -16,15 +15,21 @@ class StockData:
         self.connection_succeeded = False
         self.data_found = False
 
-        self.soup = BeautifulSoup()
+        self.cnn_soup = BeautifulSoup()
         self.zack_soup = BeautifulSoup()
 
-    def get_soup(self):
+    def get_soups(self):
+        """
+        Get the data from both cnn and zacks and store the beautiful soup from
+        each site
+        """
+
         # CNN
         try:
-            url_address = "http://money.cnn.com/quote/forecast/forecast.html?symb=%s" % self.ticker
+            url_address = "http://money.cnn.com/quote/forecast/forecast.html" \
+                          "?symb=%s" % self.ticker
             r = urllib.request.urlopen(url_address).read()
-            self.soup = BeautifulSoup(r, "html.parser")
+            self.cnn_soup = BeautifulSoup(r, "html.parser")
             self.connection_succeeded = True
         except ConnectionResetError:
             print("connection reset")
@@ -42,13 +47,13 @@ class StockData:
 
     def find_estimated_change_percent(self):
         # search the soup for the forecast
-        analysis = self.soup.find_all("div", id="wsod_forecasts")
+        analysis = self.cnn_soup.find_all("div", id="wsod_forecasts")
 
         # If bad ticker given, print error and skip rest
         if len(analysis) == 0:
             print("No data found for:", self.ticker, self.name)
             self.data_found = False
-            return
+            return 0
         else:
             self.data_found = True
 
@@ -67,20 +72,20 @@ class StockData:
         if len(projected_change) == 0:
             print("No data found for:", self.ticker, self.name)
             self.data_found = False
-            return
+            return 0
 
         just_nums = projected_change[0].text[:-1]
         no_commas = just_nums.replace(',', '')
-        self.estimated_change_percent = float(no_commas)
+        return float(no_commas)
 
     def find_recommended_action(self):
         # find section of page that states buy/sell/hold recommendation
-        recommendation_section = self.soup.find_all("strong", class_="wsod_rating")
+        recommendation_section = self.cnn_soup.find_all("strong", class_="wsod_rating")
         if len(recommendation_section) == 0:
             self.data_found = False
             return ""
 
-        self.recommended_action = recommendation_section[0].text
+        return recommendation_section[0].text
 
     def find_zacks_rank(self):
         # find 1-5 zacks rank and return as int
@@ -102,8 +107,8 @@ class StockData:
     def find_data(self):
         if not self.connection_succeeded:
             return
-        self.find_estimated_change_percent()
-        self.find_recommended_action()
+        self.estimated_change_percent = self.find_estimated_change_percent()
+        self.recommended_action = self.find_recommended_action()
         self.zacks_rank = self.find_zacks_rank()
 
     def print_report(self):
@@ -121,73 +126,3 @@ class StockData:
 
     def should_buy(self):
         return self.recommended_action == "Buy"
-
-# TODO: add analyst count report and estimate spread report
-
-
-class StockSearcher:
-    def __init__(self, file_name):
-        self.file_name = file_name
-
-        self.stock_list = []
-
-    def get_stocks_from_file(self):
-        file_rows = []
-        with open(self.file_name) as f:
-            reader = csv.reader(f)
-            for row in reader:
-                file_rows.append(row)
-
-        for stock_info in file_rows:
-            ticker, name, industry, cap = stock_info[:4]
-            # Only count if value in billions
-            if cap[-1] == "B":
-                stock_data = StockData(ticker, name, industry)
-                self.stock_list.append(stock_data)
-
-    def get_data_of_stocks(self):
-        indeces_to_remove = []
-        # Request data for each stock
-        for index, stock in enumerate(self.stock_list):
-            stock.get_soup()
-            stock.find_data()
-            if not stock.data_found:
-                indeces_to_remove.append(index)
-            stock.print_report()
-
-        # remove stocks with no results
-        for index in indeces_to_remove[::-1]:
-            self.stock_list.pop(index)
-
-    def find_highest_projected_stocks(self):
-        print("=========== REPORT ============")
-
-        # Sort the stocks by their estimated change percent, highest to lowest
-        sorted_stocks = sorted(self.stock_list,
-                               key=lambda stock: (stock.zacks_rank,
-                                                  -stock.estimated_change_percent))[:50]
-
-        for stock in sorted_stocks:
-            stock.print_one_line_report()
-
-        return sorted_stocks
-
-    def filter_for_buy(self):
-        stocks_to_buy = [stock for stock in self.stock_list if stock.should_buy()]
-        self.stock_list = stocks_to_buy
-
-    def write_results_to_file(self, stocks_to_write):
-        with open('results.txt', 'w') as results_file:
-            for stock in stocks_to_write:
-                results_file.write(stock.make_one_line_report() + "\n")
-
-    def run(self):
-        self.get_stocks_from_file()
-        self.get_data_of_stocks()
-        self.filter_for_buy()
-        highest_projected = self.find_highest_projected_stocks()
-        self.write_results_to_file(highest_projected)
-
-if __name__ == "__main__":
-    searcher = StockSearcher(file_name = 'shortened-cap.csv')
-    searcher.run()
