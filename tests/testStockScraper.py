@@ -1,3 +1,4 @@
+import unittest.main
 from unittest import TestCase
 
 from src.stockScraper import *
@@ -22,3 +23,6 @@ class TestStockData(TestCase):
         test_stock.get_soup()
 
         self.assertEqual(test_stock.find_zacks_rank(), 3)
+
+if __name__ == "__main__":
+    unittest.main()

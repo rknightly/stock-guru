@@ -11,6 +11,7 @@ class StockData:
 
         self.estimated_change_percent = 0
         self.recommended_action = ""
+        self.zacks_rank = 6
 
         self.connection_succeeded = False
         self.data_found = False
@@ -138,10 +139,11 @@ class StockSearcher:
                 file_rows.append(row)
 
         for stock_info in file_rows:
-            ticker, name, industry = stock_info[:3]
-            stock_data = StockData(ticker, name, industry)
-
-            self.stock_list.append(stock_data)
+            ticker, name, industry, cap = stock_info[:4]
+            # Only count if value in billions
+            if cap[-1] == "B":
+                stock_data = StockData(ticker, name, industry)
+                self.stock_list.append(stock_data)
 
     def get_data_of_stocks(self):
         indeces_to_remove = []
@@ -163,7 +165,7 @@ class StockSearcher:
         # Sort the stocks by their estimated change percent, highest to lowest
         sorted_stocks = sorted(self.stock_list,
                                key=lambda stock: (stock.zacks_rank,
-                                                  -stock.estimated_change_percent)[:50])
+                                                  -stock.estimated_change_percent))[:50]
 
         for stock in sorted_stocks:
             stock.print_one_line_report()
@@ -187,5 +189,5 @@ class StockSearcher:
         self.write_results_to_file(highest_projected)
 
 if __name__ == "__main__":
-    searcher = StockSearcher(file_name = 'combined.csv')
+    searcher = StockSearcher(file_name = 'shortened-cap.csv')
     searcher.run()
