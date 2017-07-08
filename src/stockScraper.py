@@ -12,6 +12,7 @@ class StockData:
         self.estimated_change_percent = 0
         self.recommended_action = ""
 
+        self.connection_succeeded = False
         self.data_found = False
 
         self.soup = BeautifulSoup()
@@ -19,16 +20,24 @@ class StockData:
 
     def get_soup(self):
         # CNN
-        url_address = "http://money.cnn.com/quote/forecast/forecast.html?symb=%s" % self.ticker
-        r = urllib.request.urlopen(url_address).read()
-
-        self.soup = BeautifulSoup(r, "html.parser")
+        try:
+            url_address = "http://money.cnn.com/quote/forecast/forecast.html?symb=%s" % self.ticker
+            r = urllib.request.urlopen(url_address).read()
+            self.soup = BeautifulSoup(r, "html.parser")
+            self.connection_succeeded = True
+        except ConnectionResetError:
+            print("connection reset")
+            return
 
         # Zacks
-        url_address = "http://www.zacks.com/stock/quote/%s" % self.ticker
-        r = urllib.request.urlopen(url_address).read()
-
-        self.zack_soup = BeautifulSoup(r, "html.parser")
+        try:
+            url_address = "http://www.zacks.com/stock/quote/%s" % self.ticker
+            r = urllib.request.urlopen(url_address).read()
+            self.zack_soup = BeautifulSoup(r, "html.parser")
+            self.connection_succeeded = True
+        except ConnectionResetError:
+            print("connection reset")
+            self.is_valid
 
     def find_estimated_change_percent(self):
         # search the soup for the forecast
@@ -59,7 +68,9 @@ class StockData:
             self.data_found = False
             return
 
-        self.estimated_change_percent = float(projected_change[0].text[:-1])
+        just_nums = projected_change[0].text[:-1]
+        no_commas = just_nums.replace(',', '')
+        self.estimated_change_percent = float(no_commas)
 
     def find_recommended_action(self):
         # find section of page that states buy/sell/hold recommendation
@@ -72,16 +83,24 @@ class StockData:
 
     def find_zacks_rank(self):
         # find 1-5 zacks rank and return as int
+        rank = 6
         research_section = self.zack_soup.find_all("section", id="premium_research")
         if len(research_section) == 0:
-            return 6 #not found
+            return rank #not found
         rank_chip = research_section[0].find_all("span", class_="rank_chip")
         if len(rank_chip) == 0:
-            return 6 #not found
+            return rank #not found
 
-        return int(rank_chip[0].text)
+        try:
+            rank = int(rank_chip[0].text)
+        except ValueError:
+            print("Value error")
+
+        return rank
 
     def find_data(self):
+        if not self.connection_succeeded:
+            return
         self.find_estimated_change_percent()
         self.find_recommended_action()
         self.zacks_rank = self.find_zacks_rank()
@@ -94,7 +113,7 @@ class StockData:
         print()
 
     def make_one_line_report(self):
-        return str(self.zacks_rank) + self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action
+        return str(self.zacks_rank) + " " + self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action
 
     def print_one_line_report(self):
         print(self.make_one_line_report())
@@ -103,6 +122,7 @@ class StockData:
         return self.recommended_action == "Buy"
 
 # TODO: add analyst count report and estimate spread report
+
 
 class StockSearcher:
     def __init__(self, file_name):
@@ -118,7 +138,7 @@ class StockSearcher:
                 file_rows.append(row)
 
         for stock_info in file_rows:
-            ticker, name, industry = stock_info
+            ticker, name, industry = stock_info[:3]
             stock_data = StockData(ticker, name, industry)
 
             self.stock_list.append(stock_data)
@@ -167,6 +187,5 @@ class StockSearcher:
         self.write_results_to_file(highest_projected)
 
 if __name__ == "__main__":
-    searcher = StockSearcher(file_name = 'constituents.csv')
+    searcher = StockSearcher(file_name = 'combined.csv')
     searcher.run()
-
