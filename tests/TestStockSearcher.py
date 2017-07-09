@@ -60,6 +60,6 @@ class TestStockSearcher(TestCase):
 
     def test_run_limited(self):
         searcher = StockSearcher(file_name="nyse-cap.csv")
-        searcher.get_stocks_from_file(limited=True,limit=5)
+        searcher.get_stocks_from_file(limit=5)
         self.assertEqual(len(searcher.stock_list), 5)
 

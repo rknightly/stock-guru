@@ -8,7 +8,7 @@ class StockSearcher:
 
         self.stock_list = []
 
-    def get_stocks_from_file(self, limited=False, limit=0):
+    def get_stocks_from_file(self, limit=0):
         file_rows = []
         with open(self.file_name) as f:
             reader = csv.reader(f)
@@ -24,7 +24,7 @@ class StockSearcher:
                 self.stock_list.append(stock_data)
 
             # Handle limiting
-            if limited:
+            if limit > 0:
                 if len(self.stock_list) >= limit:
                     break
 
@@ -64,8 +64,8 @@ class StockSearcher:
             for stock in stocks_to_write:
                 results_file.write(stock.make_one_line_report() + "\n")
 
-    def run(self, limited=False, limit=0):
-        self.get_stocks_from_file(limited=limited, limit=limit)
+    def run(self, limit=0):
+        self.get_stocks_from_file(limit=limit)
         self.get_data_of_stocks()
         self.filter_for_buy()
         highest_projected = self.find_highest_projected_stocks()
