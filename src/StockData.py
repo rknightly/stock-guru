@@ -18,13 +18,7 @@ class StockData:
         self.cnn_soup = BeautifulSoup()
         self.zack_soup = BeautifulSoup()
 
-    def get_soups(self):
-        """
-        Get the data from both cnn and zacks and store the beautiful soup from
-        each site
-        """
-
-        # CNN
+    def get_cnn_soup(self):
         try:
             url_address = "http://money.cnn.com/quote/forecast/forecast.html" \
                           "?symb=%s" % self.ticker
@@ -35,7 +29,7 @@ class StockData:
             print("connection reset")
             return
 
-        # Zacks
+    def get_zacks_soup(self):
         try:
             url_address = "http://www.zacks.com/stock/quote/%s" % self.ticker
             r = urllib.request.urlopen(url_address).read()
@@ -43,7 +37,15 @@ class StockData:
             self.connection_succeeded = True
         except ConnectionResetError:
             print("connection reset")
-            self.is_valid
+            return
+
+    def get_soups(self):
+        """
+        Get the data from both cnn and zacks and store the beautiful soup from
+        each site
+        """
+        self.get_cnn_soup()
+        self.get_zacks_soup()
 
     def find_estimated_change_percent(self):
         # search the soup for the forecast
