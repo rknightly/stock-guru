@@ -1,6 +1,6 @@
 import unittest.main
 from unittest import TestCase
-from src.StockData import StockData
+from StockGuru.StockData import StockData
 
 
 class TestStockData(TestCase):

@@ -1,5 +1,5 @@
 import csv
-from src.StockData import StockData
+from StockGuru.StockData import StockData
 
 
 class StockSearcher:

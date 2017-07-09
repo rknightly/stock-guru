@@ -1,6 +1,6 @@
 import unittest.main
 from unittest import TestCase
-from src.StockSearcher import StockSearcher
+from StockGuru.StockSearcher import StockSearcher
 
 
 class TestStockSearcher(TestCase):
