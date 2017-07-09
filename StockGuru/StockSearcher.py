@@ -8,7 +8,7 @@ class StockSearcher:
 
         self.stock_list = []
 
-    def get_stocks_from_file(self):
+    def get_stocks_from_file(self, limited=False, limit=0):
         file_rows = []
         with open(self.file_name) as f:
             reader = csv.reader(f)
@@ -17,10 +17,16 @@ class StockSearcher:
 
         for stock_info in file_rows:
             ticker, name, industry, cap = stock_info[:4]
+            # TODO: make billions check a separate sort
             # Only count if value in billions
             if cap[-1] == "B":
                 stock_data = StockData(ticker, name, industry)
                 self.stock_list.append(stock_data)
+
+            # Handle limiting
+            if limited:
+                if len(self.stock_list) >= limit:
+                    break
 
     def get_data_of_stocks(self):
         indeces_to_remove = []
@@ -58,8 +64,8 @@ class StockSearcher:
             for stock in stocks_to_write:
                 results_file.write(stock.make_one_line_report() + "\n")
 
-    def run(self):
-        self.get_stocks_from_file()
+    def run(self, limited=False, limit=0):
+        self.get_stocks_from_file(limited=limited, limit=limit)
         self.get_data_of_stocks()
         self.filter_for_buy()
         highest_projected = self.find_highest_projected_stocks()
