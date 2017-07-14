@@ -1,0 +1,2213 @@
+100.0 Z: 1 S:0 IRCP IRSA Propiedades Comerciales S.A.: 216.07% Buy
+93.80 Z: 1 S:3 CENTA Central Garden & Pet Company: 45.22% Buy
+91.94 Z: 1 S:0 CVGW Calavo Growers, Inc.: 17.78% Buy
+91.47 Z: 1 S:2 TGS Transportadora De Gas Sa Ord B: 29.23% Buy
+91.37 Z: 1 S:0 THO Thor Industries, Inc.: 15.48% Buy
+91.19 Z: 1 S:0 AMAT Applied Materials, Inc.: 14.79% Buy
+90.95 Z: 1 S:2 PLCE Children&#39;s Place, Inc. (The): 27.15% Buy
+90.33 Z: 1 S:0 LRCX Lam Research Corporation: 11.33% Buy
+89.83 Z: 1 S:5 QUAD Quad Graphics, Inc: 42.67% Buy
+89.65 Z: 1 S:0 ESE ESCO Technologies Inc.: 8.62% Buy
+89.61 Z: 1 S:0 TLK PT Telekomunikasi Indonesia, Tbk: 8.44% Buy
+89.37 Z: 1 S:3 FDP Fresh Del Monte Produce, Inc.: 27.5% Buy
+89.31 Z: 1 S:0 OC Owens Corning Inc: 7.25% Buy
+89.00 Z: 1 S:4 GFF Griffon Corporation: 32.7% Buy
+88.38 Z: 1 S:1 CVCO Cavco Industries, Inc.: 10.22% Buy
+88.34 Z: 1 S:1 SYKE Sykes Enterprises, Incorporated: 10.05% Buy
+88.33 Z: 1 S:7 EBR Centrais Electricas Brasileiras S.A.- Eletrobras: 127.18% Buy
+87.95 Z: 1 S:4 MU Micron Technology, Inc.: 28.49% Buy
+87.94 Z: 1 S:3 APOG Apogee Enterprises, Inc.: 21.76% Buy
+87.61 Z: 1 S:2 DLX Deluxe Corporation: 13.8% Buy
+87.39 Z: 1 S:4 SXI Standex International Corporation: 26.23% Buy
+87.38 Z: 1 S:1 EW Edwards Lifesciences Corporation: 6.22% Buy
+87.35 Z: 1 S:5 SWM Schweitzer-Mauduit International, Inc.: 32.74% Buy
+87.07 Z: 1 S:1 NOVT Novanta Inc.: 4.98% Buy
+86.98 Z: 1 S:2 AGO Assured Guaranty Ltd.: 11.29% Buy
+86.93 Z: 1 S:2 GGAL Grupo Financiero Galicia S.A.: 11.08% Buy
+86.89 Z: 1 S:2 GOOG Alphabet Inc.: 10.91% Buy
+86.84 Z: 1 S:4 CIEN Ciena Corporation: 24.03% Buy
+86.78 Z: 1 S:3 PLAY Dave & Buster&#39;s Entertainment, Inc.: 17.12% Buy
+86.66 Z: 1 S:8 KW Kennedy-Wilson Holdings Inc.: 54.26% Buy
+86.66 Z: 1 S:8 TRQ Turquoise Hill Resources Ltd.: 59.95% Buy
+86.45 Z: 1 S:4 MXL MaxLinear, Inc: 22.47% Buy
+86.17 Z: 1 S:1 SHW Sherwin-Williams Company (The): 1.37% Buy
+86.10 Z: 1 S:2 EWBC East West Bancorp, Inc.: 7.77% Buy
+86.08 Z: 1 S:2 PH Parker-Hannifin Corporation: 7.68% Buy
+85.95 Z: 1 S:4 USNA USANA Health Sciences, Inc.: 20.5% Buy
+85.82 Z: 1 S:1 EXLS ExlService Holdings, Inc.: -0.02% Buy
+85.63 Z: 1 S:2 TEL TE Connectivity Ltd.: 5.89% Buy
+85.45 Z: 1 S:1 LOGI Logitech International S.A.: -1.53% Buy
+85.34 Z: 1 S:6 FOX Twenty-First Century Fox, Inc.: 31.39% Buy
+85.31 Z: 1 S:2 A Agilent Technologies, Inc.: 4.59% Buy
+85.30 Z: 1 S:3 SNX Synnex Corporation: 11.22% Buy
+84.96 Z: 2 S:2 ULTA Ulta Beauty, Inc.: 28.21% Buy
+84.79 Z: 1 S:4 ALSN Allison Transmission Holdings, Inc.: 15.83% Buy
+84.72 Z: 1 S:4 PKX POSCO: 15.56% Buy
+84.69 Z: 1 S:4 MRVL Marvell Technology Group Ltd.: 15.43% Buy
+84.64 Z: 1 S:4 KRNY Kearny Financial: 15.25% Buy
+84.60 Z: 1 S:3 RHT Red Hat, Inc.: 8.42% Buy
+84.40 Z: 1 S:5 TSEM Tower Semiconductor Ltd.: 20.95% Buy
+84.29 Z: 1 S:4 CW Curtiss-Wright Corporation: 13.83% Buy
+84.20 Z: 1 S:4 LBRDA Liberty Broadband Corporation: 13.5% Buy
+84.13 Z: 1 S:4 AVGO Broadcom Limited: 13.22% Buy
+84.09 Z: 1 S:5 SKYW SkyWest, Inc.: 19.73% Buy
+83.95 Z: 2 S:4 ACCO Acco Brands Corporation: 37.5% Buy
+83.89 Z: 1 S:3 EL Estee Lauder Companies, Inc. (The): 5.56% Buy
+83.78 Z: 1 S:9 MBI MBIA, Inc.: 45.15% Buy
+83.77 Z: 1 S:4 BDC Belden Inc: 11.75% Buy
+83.61 Z: 1 S:5 MLCO Melco Resorts & Entertainment Limited: 17.78% Buy
+83.33 Z: 1 S:4 WY Weyerhaeuser Company: 10.02% Buy
+83.33 Z: 1 S:10 CPG Crescent Point Energy Corporation: 87.27% Buy
+83.23 Z: 1 S:5 WB Weibo Corporation: 16.26% Buy
+83.23 Z: 1 S:4 PBA Pembina Pipeline Corp.: 9.59% Buy
+83.12 Z: 2 S:1 HD Home Depot, Inc. (The): 14.16% Buy
+83.06 Z: 1 S:5 DAL Delta Air Lines, Inc.: 15.6% Buy
+83.02 Z: 2 S:0 EFX Equifax, Inc.: 7.09% Buy
+82.93 Z: 3 S:2 EBIX Ebix, Inc.: 45.07% Buy
+82.82 Z: 1 S:5 KB KB Financial Group Inc: 14.65% Buy
+82.80 Z: 1 S:4 UAL United Continental Holdings, Inc.: 7.9% Buy
+82.70 Z: 1 S:6 MOMO Momo Inc.: 20.83% Buy
+82.69 Z: 2 S:0 CCL Carnival Corporation: 5.79% Buy
+82.68 Z: 2 S:0 ATO Atmos Energy Corporation: 5.73% Buy
+82.65 Z: 2 S:4 ROST Ross Stores, Inc.: 32.3% Buy
+82.65 Z: 1 S:4 AAN Aaron&#39;s,  Inc.: 7.3% Buy
+82.65 Z: 1 S:4 LNC Lincoln National Corporation: 7.27% Buy
+82.64 Z: 2 S:1 NWL Newell Brands Inc.: 12.25% Buy
+82.61 Z: 1 S:4 BAM Brookfield Asset Management Inc: 7.12% Buy
+82.53 Z: 2 S:1 IBKC IBERIABANK Corporation: 11.79% Buy
+82.50 Z: 1 S:4 CCI Crown Castle International Corporation: 6.67% Buy
+82.49 Z: 1 S:4 ABMD ABIOMED, Inc.: 6.65% Buy
+82.49 Z: 2 S:0 TMO Thermo Fisher Scientific Inc: 4.98% Buy
+82.46 Z: 1 S:3 BCO Brink&#39;s Company (The): -0.14% Buy
+82.44 Z: 1 S:7 HRG HRG Group, Inc.: 26.44% Buy
+82.39 Z: 2 S:0 UNH UnitedHealth Group Incorporated: 4.59% Buy
+82.39 Z: 2 S:0 NEE NextEra Energy, Inc.: 4.57% Buy
+82.35 Z: 2 S:0 MA Mastercard Incorporated: 4.41% Buy
+82.30 Z: 1 S:5 FSS Federal Signal Corporation: 12.55% Buy
+82.20 Z: 2 S:1 COL Rockwell Collins, Inc.: 10.48% Buy
+82.12 Z: 2 S:1 BANR Banner Corporation: 10.16% Buy
+82.10 Z: 1 S:5 NCS NCI Building Systems, Inc.: 11.75% Buy
+82.03 Z: 3 S:2 SIMO Silicon Motion Technology Corporation: 41.48% Buy
+82.03 Z: 2 S:1 STZ Constellation Brands Inc: 9.81% Buy
+81.97 Z: 1 S:4 TX Ternium S.A.: 4.56% Buy
+81.91 Z: 1 S:7 DM Dominion Energy Midstream Partners, LP: 24.33% Buy
+81.91 Z: 1 S:6 ELY Callaway Golf Company: 17.65% Buy
+81.87 Z: 2 S:4 EXP Eagle Materials Inc: 29.16% Buy
+81.82 Z: 2 S:0 HUM Humana Inc.: 2.29% Buy
+81.75 Z: 1 S:5 BABA Alibaba Group Holding Limited: 10.35% Buy
+81.74 Z: 2 S:1 MHK Mohawk Industries, Inc.: 8.66% Buy
+81.58 Z: 3 S:2 UFPI Universal Forest Products, Inc.: 39.66% Buy
+81.45 Z: 1 S:1 NVDA NVIDIA Corporation: -17.51% Buy
+81.41 Z: 2 S:3 BIG Big Lots, Inc.: 20.66% Buy
+81.40 Z: 2 S:1 MSFT Microsoft Corporation: 7.29% Buy
+81.37 Z: 1 S:4 IBA Industrias Bachoco, S.A. de C.V.: 2.18% Buy
+81.21 Z: 2 S:4 FIVE Five Below, Inc.: 26.53% Buy
+81.19 Z: 1 S:5 OLED Universal Display Corporation: 8.13% Buy
+81.12 Z: 2 S:1 EGBN Eagle Bancorp, Inc.: 6.15% Buy
+81.03 Z: 1 S:5 FUN Cedar Fair, L.P.: 7.47% Buy
+81.01 Z: 1 S:3 RMD ResMed Inc.: -5.94% Buy
+81.01 Z: 2 S:1 INN Summit Hotel Properties, Inc.: 5.71% Buy
+80.99 Z: 1 S:7 POST Post Holdings, Inc.: 20.66% Buy
+80.99 Z: 1 S:7 LBTYK Liberty Global plc: 20.63% Buy
+80.98 Z: 1 S:6 CTRP Ctrip.com International, Ltd.: 13.94% Buy
+80.96 Z: 1 S:11 VDTH Videocon d2h Limited: 47.21% Buy
+80.93 Z: 1 S:8 CNQ Canadian Natural Resources Limited: 27.06% Buy
+80.92 Z: 2 S:0 ICE Intercontinental Exchange Inc.: -1.32% Buy
+80.90 Z: 1 S:4 TAL TAL Education Group: 0.3% Buy
+80.87 Z: 2 S:1 CI Cigna Corporation: 5.17% Buy
+80.84 Z: 1 S:4 RYAAY Ryanair Holdings plc: 0.05% Buy
+80.81 Z: 2 S:1 AMWD American Woodmark Corporation: 4.94% Buy
+80.78 Z: 2 S:1 LUV Southwest Airlines Company: 4.8% Buy
+80.70 Z: 2 S:1 COHR Coherent, Inc.: 4.47% Buy
+80.64 Z: 2 S:1 IPGP IPG Photonics Corporation: 4.26% Buy
+80.59 Z: 2 S:1 ETFC E*TRADE Financial Corporation: 4.03% Buy
+80.49 Z: 2 S:2 ADBE Adobe Systems Incorporated: 10.31% Buy
+80.4 Z: 2 S:3 TSN Tyson Foods, Inc.: 16.6% Buy
+80.39 Z: 2 S:4 SABR Sabre Corporation: 23.23% Buy
+80.22 Z: 2 S:2 ORCL Oracle Corporation: 9.24% Buy
+80.19 Z: 2 S:0 COO Cooper Companies, Inc. (The): -4.24% Buy
+80.10 Z: 1 S:5 KLXI KLX Inc.: 3.75% Buy
+80.03 Z: 1 S:7 NWS News Corporation: 16.79% Buy
+80.02 Z: 2 S:3 MCHP Microchip Technology Incorporated: 15.11% Buy
+80.01 Z: 1 S:7 VRNT Verint Systems Inc.: 16.71% Buy
+80.00 Z: 1 S:7 BAK Braskem S.A.: 16.68% Buy
+79.96 Z: 3 S:4 SBGI Sinclair Broadcast Group, Inc.: 46.53% Buy
+79.94 Z: 2 S:1 FMS Fresenius Medical Care Corporation: 1.43% Buy
+79.89 Z: 1 S:6 RLGY Realogy Holdings Corp.: 9.58% Buy
+79.79 Z: 1 S:7 LVNTB Liberty Interactive Corporation: 15.83% Buy
+79.75 Z: 2 S:2 NTES NetEase, Inc.: 7.37% Buy
+79.75 Z: 2 S:0 AVY Avery Dennison Corporation: -5.99% Buy
+79.68 Z: 2 S:2 TFX Teleflex Incorporated: 7.06% Buy
+79.65 Z: 1 S:7 CY Cypress Semiconductor Corporation: 15.3% Buy
+79.64 Z: 2 S:1 ROP Roper Technologies, Inc.: 0.25% Buy
+79.47 Z: 2 S:5 BWP Boardwalk Pipeline Partners L.P.: 26.22% Buy
+79.34 Z: 2 S:4 TLLP Tesoro Logistics LP: 19.05% Buy
+79.30 Z: 2 S:7 MBT Mobile TeleSystems OJSC: 38.89% Buy
+79.28 Z: 1 S:6 RGLD Royal Gold, Inc.: 7.16% Buy
+79.27 Z: 1 S:7 YRD Yirendai Ltd.: 13.76% Buy
+79.21 Z: 1 S:6 Z Zillow Group, Inc.: 6.86% Buy
+79.19 Z: 2 S:3 PATK Patrick Industries, Inc.: 11.79% Buy
+79.12 Z: 2 S:2 SRE Sempra Energy: 4.83% Buy
+79.07 Z: 2 S:3 MRK Merck & Company, Inc.: 11.31% Buy
+79.05 Z: 3 S:3 CBPO China Biologic Products, Inc.: 36.23% Buy
+78.99 Z: 1 S:5 VRTX Vertex Pharmaceuticals Incorporated: -0.7% Buy
+78.99 Z: 2 S:4 GOLD Randgold Resources Limited: 17.63% Buy
+78.97 Z: 3 S:1 HI Hillenbrand Inc: 22.56% Buy
+78.88 Z: 2 S:1 B Barnes Group, Inc.: -2.8% Buy
+78.87 Z: 2 S:2 HON Honeywell International Inc.: 3.82% Buy
+78.80 Z: 2 S:4 VMC Vulcan Materials Company: 16.89% Buy
+78.62 Z: 2 S:2 ALGN Align Technology, Inc.: 2.83% Buy
+78.60 Z: 2 S:5 MT ArcelorMittal: 22.77% Buy
+78.54 Z: 2 S:2 PLD Prologis, Inc.: 2.52% Buy
+78.37 Z: 3 S:4 BOFI BofI Holding, Inc.: 40.17% Buy
+78.33 Z: 2 S:4 MLM Martin Marietta Materials, Inc.: 15.0% Buy
+78.28 Z: 2 S:3 CDW CDW Corporation: 8.13% Buy
+78.28 Z: 2 S:5 FNGN Financial Engines, Inc.: 21.46% Buy
+78.21 Z: 2 S:4 MMSI Merit Medical Systems, Inc.: 14.52% Buy
+78.15 Z: 3 S:0 MTN Vail Resorts, Inc.: 12.62% Buy
+78.10 Z: 2 S:4 DST DST Systems, Inc.: 14.08% Buy
+78.04 Z: 2 S:6 SIR Select Income REIT: 27.17% Buy
+78.03 Z: 2 S:7 GLPG Galapagos NV: 33.82% Buy
+77.94 Z: 2 S:3 ASH Ashland Global Holdings Inc.: 6.79% Buy
+77.93 Z: 2 S:3 ATSG Air Transport Services Group, Inc: 6.75% Buy
+77.92 Z: 2 S:1 ICLR ICON plc: -6.65% Buy
+77.89 Z: 3 S:1 ENTG Entegris, Inc.: 18.26% Buy
+77.85 Z: 2 S:4 ALK Alaska Air Group, Inc.: 13.08% Buy
+77.82 Z: 2 S:7 AYA Amaya Inc.: 32.95% Buy
+77.81 Z: 1 S:9 TI Telecom Italia S.P.A.: 21.24% Buy
+77.77 Z: 3 S:4 CENT Central Garden & Pet Company: 37.78% Buy
+77.77 Z: 2 S:4 SBCF Seacoast Banking Corporation of Florida: 12.78% Buy
+77.74 Z: 3 S:1 IPAR Inter Parfums, Inc.: 17.65% Buy
+77.71 Z: 2 S:5 PBH Prestige Brand Holdings, Inc.: 19.19% Buy
+77.67 Z: 2 S:3 EMN Eastman Chemical Company: 5.7% Buy
+77.66 Z: 3 S:1 WAL Western Alliance Bancorporation: 17.31% Buy
+77.64 Z: 2 S:5 VLP Valero Energy Partners LP: 18.92% Buy
+77.63 Z: 2 S:2 CRL Charles River Laboratories International, Inc.: -1.14% Buy
+77.61 Z: 2 S:2 HEI Heico Corporation: -1.22% Buy
+77.57 Z: 2 S:2 DHI D.R. Horton, Inc.: -1.37% Buy
+77.55 Z: 2 S:3 STE STERIS plc: 5.21% Buy
+77.55 Z: 2 S:2 BLK BlackRock, Inc.: -1.46% Buy
+77.54 Z: 2 S:2 XYL Xylem Inc.: -1.5% Buy
+77.50 Z: 1 S:7 SBAC SBA Communications Corporation: 6.69% Buy
+77.37 Z: 2 S:5 LDOS Leidos Holdings, Inc.: 17.85% Buy
+77.37 Z: 3 S:2 SPB            Spectrum Brands Holdings, Inc.: 22.85% Buy
+77.37 Z: 1 S:7 BID Sotheby&#39;s: 6.17% Buy
+77.37 Z: 2 S:4 UNP Union Pacific Corporation: 11.16% Buy
+77.34 Z: 3 S:2 OCLR Oclaro, Inc.: 22.7% Buy
+77.32 Z: 1 S:5 KOF Coca Cola Femsa S.A.B. de C.V.: -7.38% Buy
+77.30 Z: 2 S:6 CAL Caleres, Inc.: 24.22% Buy
+77.25 Z: 3 S:1 CSFL CenterState Banks, Inc.: 15.68% Buy
+77.14 Z: 1 S:7 BBU Brookfield Business Partners L.P.: 5.24% Buy
+77.12 Z: 2 S:6 BURL Burlington Stores, Inc.: 23.49% Buy
+77.12 Z: 2 S:2 ASML ASML Holding N.V.: -3.18% Buy
+77.10 Z: 2 S:4 AMED Amedisys Inc: 10.08% Buy
+77.08 Z: 2 S:10 ACAD ACADIA Pharmaceuticals Inc.: 70.39% Buy
+77.08 Z: 2 S:10 GPOR Gulfport Energy Corporation: 58.05% Buy
+77.02 Z: 2 S:4 LAZ Lazard Ltd.: 9.78% Buy
+77.01 Z: 3 S:3 AMN AMN Healthcare Services Inc: 28.07% Buy
+76.95 Z: 3 S:0 FDX FedEx Corporation: 7.81% Buy
+76.95 Z: 3 S:1 CMCSA Comcast Corporation: 14.47% Buy
+76.95 Z: 2 S:4 JBLU JetBlue Airways Corporation: 9.47% Buy
+76.94 Z: 2 S:4 CSX CSX Corporation: 9.43% Buy
+76.84 Z: 2 S:5 TEDU Tarena International, Inc.: 15.73% Buy
+76.84 Z: 1 S:7 EOCC Enel Generacion Chile S.A.: 4.03% Buy
+76.81 Z: 2 S:4 AAOI Applied Optoelectronics, Inc.: 8.92% Buy
+76.78 Z: 2 S:7 CUDA Barracuda Networks, Inc.: 28.82% Buy
+76.77 Z: 2 S:4 NCLH Norwegian Cruise Line Holdings Ltd.: 8.78% Buy
+76.74 Z: 2 S:5 GRA W.R. Grace & Co.: 15.31% Buy
+76.72 Z: 2 S:3 SEIC SEI Investments Company: 1.89% Buy
+76.70 Z: 1 S:7 ENIA Enel Americas S.A.: 3.48% Buy
+76.67 Z: 2 S:4 AZN Astrazeneca PLC: 8.35% Buy
+76.65 Z: 2 S:4 MAA Mid-America Apartment Communities, Inc.: 8.28% Buy
+76.63 Z: 3 S:1 CRUS Cirrus Logic, Inc.: 13.22% Buy
+76.62 Z: 3 S:0 MDT Medtronic plc: 6.48% Buy
+76.50 Z: 2 S:4 EPAM EPAM Systems, Inc.: 7.68% Buy
+76.43 Z: 1 S:8 BPY Brookfield Property Partners L.P.: 9.09% Buy
+76.40 Z: 2 S:4 GRFS Grifols, S.A.: 7.28% Buy
+76.38 Z: 3 S:1 WSFS WSFS Financial Corporation: 12.19% Buy
+76.37 Z: 3 S:0 TSS Total System Services, Inc.: 5.51% Buy
+76.32 Z: 2 S:2 HCSG Healthcare Services Group, Inc.: -6.36% Buy
+76.32 Z: 3 S:3 CAG ConAgra Brands, Inc.: 25.3% Buy
+76.31 Z: 2 S:4 VEEV Veeva Systems Inc.: 6.92% Buy
+76.30 Z: 2 S:4 KMX CarMax Inc: 6.87% Buy
+76.28 Z: 3 S:6 PE Parsley Energy, Inc.: 45.13% Buy
+76.26 Z: 2 S:7 CHA China Telecom Corp Ltd: 26.72% Buy
+76.19 Z: 1 S:9 LILAK Liberty Global plc: 14.79% Buy
+76.14 Z: 2 S:3 MRCY Mercury Systems Inc: -0.41% Buy
+76.14 Z: 3 S:4 DLTR Dollar Tree, Inc.: 31.25% Buy
+76.13 Z: 1 S:8 TROX Tronox Limited: 7.87% Buy
+76.11 Z: 2 S:8 AR Antero Resources Corporation: 32.78% Buy
+76.1 Z: 3 S:3 MSCC Microsemi Corporation: 24.4% Buy
+76.09 Z: 3 S:5 TGP Teekay LNG Partners L.P.: 37.72% Buy
+76.07 Z: 2 S:4 INXN InterXion Holding N.V.: 5.96% Buy
+76.06 Z: 3 S:0 CB D/B/A Chubb Limited New: 4.25% Buy
+76.04 Z: 3 S:3 HA Hawaiian Holdings, Inc.: 24.19% Buy
+76.04 Z: 2 S:4 ADS Alliance Data Systems Corporation: 5.83% Buy
+76.01 Z: 3 S:1 BHLB Berkshire Hills Bancorp, Inc.: 10.72% Buy
+76.01 Z: 2 S:9 PBR Petroleo Brasileiro S.A.- Petrobras: 39.05% Buy
+76.00 Z: 2 S:4 SHOO Steven Madden, Ltd.: 5.67% Buy
+75.95 Z: 2 S:4 TECH Bio-Techne Corp: 5.48% Buy
+75.94 Z: 3 S:1 JBT John Bean Technologies Corporation: 10.44% Buy
+75.92 Z: 2 S:5 SBS Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp: 12.04% Buy
+75.91 Z: 1 S:10 NOMD Nomad Foods Limited: 20.31% Buy
+75.88 Z: 2 S:4 ALLE Allegion plc: 5.21% Buy
+75.88 Z: 2 S:4 MSA MSA Safety Incorporporated: 5.21% Buy
+75.88 Z: 1 S:1 STBZ State Bank Financial Corporation.: 10.21% Hold
+75.86 Z: 2 S:4 MFC Manulife Financial Corp: 5.13% Buy
+75.84 Z: 2 S:7 SU Suncor Energy  Inc.: 25.04% Buy
+75.83 Z: 1 S:3 MATW Matthews International Corporation: 23.34% Hold
+75.83 Z: 3 S:7 TIVO TiVo Corporation: 60.86% Buy
+75.83 Z: 3 S:7 XPER Xperi Corporation: 60.0% Buy
+75.83 Z: 3 S:7 AGRO Adecoagro S.A.: 60.32% Buy
+75.83 Z: 3 S:7 CPE Callon Petroleum Company: 58.88% Buy
+75.83 Z: 3 S:7 XEC Cimarex Energy Co: 51.65% Buy
+75.83 Z: 3 S:7 RSPP RSP Permian, Inc.: 56.35% Buy
+75.83 Z: 3 S:7 SLCA U.S. Silica Holdings, Inc.: 73.77% Buy
+75.83 Z: 3 S:7 VIPS Vipshop Holdings Limited: 50.04% Buy
+75.75 Z: 1 S:7 EXEL Exelixis, Inc.: -0.3% Buy
+75.75 Z: 3 S:5 NTGR NETGEAR, Inc.: 36.36% Buy
+75.74 Z: 3 S:2 LOW Lowe&#39;s Companies, Inc.: 16.31% Buy
+75.70 Z: 3 S:3 FN Fabrinet: 22.82% Buy
+75.69 Z: 3 S:1 WST West Pharmaceutical Services, Inc.: 9.45% Buy
+75.63 Z: 2 S:5 HCA HCA Healthcare, Inc.: 10.89% Buy
+75.63 Z: 3 S:1 PEP Pepsico, Inc.: 9.19% Buy
+75.62 Z: 3 S:0 SWK Stanley Black & Decker, Inc.: 2.48% Buy
+75.58 Z: 3 S:1 FRME First Merchants Corporation: 8.99% Buy
+75.56 Z: 3 S:1 LOPE Grand Canyon Education, Inc.: 8.92% Buy
+75.53 Z: 3 S:6 TECK Teck Resources Ltd: 42.15% Buy
+75.52 Z: 3 S:0 FNF Fidelity National Financial, Inc.: 2.11% Buy
+75.52 Z: 3 S:3 HOMB Home BancShares, Inc.: 22.1% Buy
+75.51 Z: 2 S:4 STAY Extended Stay America, Inc.: 3.73% Buy
+75.50 Z: 2 S:5 PVH PVH Corp.: 10.34% Buy
+75.41 Z: 2 S:11 AMRN Amarin Corporation plc: 75.0% Buy
+75.41 Z: 2 S:11 SRPT Sarepta Therapeutics, Inc.: 73.05% Buy
+75.41 Z: 1 S:7 ELP Companhia Paranaense de Energia (COPEL): 48.33% Hold
+75.37 Z: 3 S:2 STMP Stamps.com Inc.: 14.83% Buy
+75.30 Z: 2 S:4 CBG CBRE Group, Inc.: 2.87% Buy
+75.28 Z: 2 S:4 ALB Albemarle Corporation: 2.82% Buy
+75.27 Z: 3 S:2 LKQ LKQ Corporation: 14.44% Buy
+75.21 Z: 2 S:4 CCK Crown Holdings, Inc.: 2.52% Buy
+75.19 Z: 2 S:4 SNY Sanofi: 2.44% Buy
+75.18 Z: 2 S:7 SRCL Stericycle, Inc.: 22.42% Buy
+75.17 Z: 2 S:9 GKOS Glaukos Corporation: 35.71% Buy
+75.17 Z: 3 S:6 MATX Matson, Inc.: 40.7% Buy
+75.13 Z: 3 S:1 ALL Allstate Corporation (The): 7.22% Buy
+75.13 Z: 3 S:3 BGG Briggs & Stratton Corporation: 20.53% Buy
+75.11 Z: 2 S:4 CP Canadian Pacific Railway Limited: 2.12% Buy
+75.10 Z: 3 S:3 IOSP Innospec Inc.: 20.42% Buy
+75.09 Z: 2 S:5 TPRE Third Point Reinsurance Ltd.: 8.7% Buy
+75.08 Z: 3 S:4 DFS Discover Financial Services: 26.99% Buy
+75.05 Z: 1 S:0 ANTM Anthem, Inc.: 0.23% Hold
+75.01 Z: 3 S:1 FB Facebook, Inc.: 6.74% Buy
+75.00 Z: 2 S:4 IVZ Invesco Plc: 1.67% Buy
+75.0 Z: 1 S:16 GSH Guangshen Railway Company Limited: 53.75% Buy
+74.94 Z: 2 S:4 IP International Paper Company: 1.46% Buy
+74.94 Z: 3 S:1 EA Electronic Arts Inc.: 6.44% Buy
+74.93 Z: 1 S:7 WF Woori Bank: -3.58% Buy
+74.93 Z: 2 S:3 CNS Cohen & Steers Inc: -5.28% Buy
+74.91 Z: 2 S:5 GWRE Guidewire Software, Inc.: 8.01% Buy
+74.9 Z: 3 S:3 ADI Analog Devices, Inc.: 19.6% Buy
+74.89 Z: 1 S:0 PGR Progressive Corporation (The): -0.44% Hold
+74.88 Z: 3 S:1 SSNC SS&C Technologies Holdings, Inc.: 6.22% Buy
+74.83 Z: 2 S:5 TRP TransCanada Corporation: 7.68% Buy
+74.82 Z: 3 S:4 MEOH Methanex Corporation: 25.98% Buy
+74.80 Z: 3 S:4 SAVE Spirit Airlines, Inc.: 25.89% Buy
+74.80 Z: 2 S:7 ARES Ares Management L.P.: 20.88% Buy
+74.79 Z: 3 S:4 AEM Agnico Eagle Mines Limited: 25.86% Buy
+74.78 Z: 3 S:1 ATVI Activision Blizzard, Inc: 5.79% Buy
+74.76 Z: 3 S:4 GVA Granite Construction Incorporated: 25.74% Buy
+74.76 Z: 3 S:1 PCG Pacific Gas & Electric Co.: 5.74% Buy
+74.75 Z: 2 S:5 V Visa Inc.: 7.36% Buy
+74.74 Z: 3 S:2 ORBK Orbotech Ltd.: 12.3% Buy
+74.73 Z: 2 S:4 AET Aetna Inc.: 0.62% Buy
+74.72 Z: 3 S:4 AM Antero Midstream Partners LP: 25.57% Buy
+74.71 Z: 2 S:4 LVS Las Vegas Sands Corp.: 0.53% Buy
+74.71 Z: 3 S:2 TTEK Tetra Tech, Inc.: 12.19% Buy
+74.70 Z: 2 S:5 TDG Transdigm Group Incorporated: 7.16% Buy
+74.69 Z: 3 S:2 CHFC Chemical Financial Corporation: 12.11% Buy
+74.69 Z: 2 S:7 SHG Shinhan Financial Group Co Ltd: 20.43% Buy
+74.68 Z: 2 S:7 AAV Advantage Oil & Gas Ltd: 20.41% Buy
+74.67 Z: 3 S:1 ACN Accenture plc: 5.38% Buy
+74.66 Z: 3 S:4 SLM SLM Corporation: 25.32% Buy
+74.65 Z: 3 S:4 AER Aercap Holdings N.V.: 25.29% Buy
+74.61 Z: 3 S:4 CRI Carter&#39;s, Inc.: 25.13% Buy
+74.59 Z: 2 S:5 FMC FMC Corporation: 6.73% Buy
+74.57 Z: 3 S:4 BKU BankUnited, Inc.: 24.96% Buy
+74.54 Z: 2 S:4 ABT Abbott Laboratories: -0.17% Buy
+74.50 Z: 2 S:5 BGCP BGC Partners, Inc.: 6.34% Buy
+74.44 Z: 3 S:3 JRVR James River Group Holdings, Ltd.: 17.78% Buy
+74.44 Z: 2 S:6 HLT Hilton Worldwide Holdings Inc.: 12.76% Buy
+74.43 Z: 3 S:2 DLB Dolby Laboratories: 11.09% Buy
+74.41 Z: 3 S:3 NTRI NutriSystem Inc: 17.65% Buy
+74.40 Z: 3 S:1 PEGA Pegasystems Inc.: 4.3% Buy
+74.40 Z: 2 S:4 VIAV Viavi Solutions Inc.: -0.72% Buy
+74.39 Z: 3 S:7 CYBR CyberArk Software Ltd.: 44.23% Buy
+74.39 Z: 2 S:4 FCFS First Cash, Inc.: -0.77% Buy
+74.39 Z: 2 S:4 FCFS First Cash, Inc.: -0.77% Buy
+74.36 Z: 3 S:1 RTN Raytheon Company: 4.14% Buy
+74.35 Z: 3 S:1 WM Waste Management, Inc.: 4.07% Buy
+74.32 Z: 1 S:2 MLHR Herman Miller, Inc.: 10.63% Hold
+74.30 Z: 2 S:5 MAS Masco Corporation: 5.56% Buy
+74.3 Z: 3 S:3 JCOM j2 Global, Inc.: 17.2% Buy
+74.25 Z: 3 S:5 WAGE WageWorks, Inc.: 30.37% Buy
+74.22 Z: 3 S:4 MIC Macquarie Infrastructure Company: 23.55% Buy
+74.20 Z: 3 S:3 MKSI MKS Instruments, Inc.: 16.83% Buy
+74.18 Z: 3 S:5 KEP Korea Electric Power Corporation: 30.09% Buy
+74.18 Z: 3 S:2 CELG Celgene Corporation: 10.06% Buy
+74.17 Z: 3 S:1 GIB CGI Group, Inc.: 3.37% Buy
+74.17 Z: 3 S:2 CACI CACI International, Inc.: 10.02% Buy
+74.17 Z: 3 S:1 SYK Stryker Corporation: 3.35% Buy
+74.16 Z: 3 S:8 DVN Devon Energy Corporation: 53.85% Buy
+74.14 Z: 2 S:4 ELS Equity Lifestyle Properties, Inc.: -1.75% Buy
+74.13 Z: 3 S:2 EXC Exelon Corporation: 9.88% Buy
+74.11 Z: 2 S:11 EDN Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor): 44.78% Buy
+74.10 Z: 3 S:6 HHC Howard Hughes Corporation (The): 36.42% Buy
+74.09 Z: 3 S:4 SINA Sina Corporation: 23.03% Buy
+74.08 Z: 3 S:3 IBP Installed Building Products, Inc.: 16.35% Buy
+74.08 Z: 1 S:1 RJF Raymond James Financial, Inc.: 2.99% Hold
+74.07 Z: 3 S:3 FCB FCB Financial Holdings, Inc.: 16.28% Buy
+74.01 Z: 3 S:3 FIBK First Interstate BancSystem, Inc.: 16.06% Buy
+74.00 Z: 2 S:7 GEL Genesis Energy, L.P.: 17.7% Buy
+73.99 Z: 3 S:5 VGR Vector Group Ltd.: 29.31% Buy
+73.92 Z: 3 S:3 NUE Nucor Corporation: 15.7% Buy
+73.91 Z: 3 S:2 EIG Employers Holdings Inc: 9.0% Buy
+73.91 Z: 3 S:3 SAIC SCIENCE APPLICATIONS INTERNATIONAL CORPORATION: 15.65% Buy
+73.90 Z: 2 S:11 ICPT Intercept Pharmaceuticals, Inc.: 43.97% Buy
+73.88 Z: 3 S:1 ASGN On Assignment, Inc.: 2.19% Buy
+73.87 Z: 3 S:3 MDLZ Mondelez International, Inc.: 15.5% Buy
+73.86 Z: 2 S:7 TKC Turkcell Iletisim Hizmetleri AS: 17.14% Buy
+73.84 Z: 2 S:3 OSUR OraSure Technologies, Inc.: -9.62% Buy
+73.84 Z: 3 S:8 MDCO The Medicines Company: 48.71% Buy
+73.82 Z: 3 S:4 PAG Penske Automotive Group, Inc.: 21.95% Buy
+73.80 Z: 3 S:2 ALE Allete, Inc.: 8.54% Buy
+73.78 Z: 3 S:2 GOOGL Alphabet Inc.: 8.48% Buy
+73.75 Z: 3 S:3 BRKS Brooks Automation, Inc.: 15.01% Buy
+73.74 Z: 3 S:2 BC Brunswick Corporation: 8.31% Buy
+73.73 Z: 3 S:2 EEFT Euronet Worldwide, Inc.: 8.28% Buy
+73.73 Z: 2 S:7 MTU Mitsubishi UFJ Financial Group Inc: 16.6% Buy
+73.70 Z: 2 S:5 WLK Westlake Chemical Corporation: 3.17% Buy
+73.69 Z: 3 S:3 UBSH Union Bankshares Corporation: 14.77% Buy
+73.68 Z: 2 S:5 MUSA Murphy USA Inc.: 3.09% Buy
+73.68 Z: 3 S:3 FIX Comfort Systems USA, Inc.: 14.75% Buy
+73.68 Z: 3 S:3 FLEX Flex Ltd.: 14.73% Buy
+73.64 Z: 3 S:2 ROG Rogers Corporation: 7.93% Buy
+73.64 Z: 3 S:4 HELE Helen of Troy Limited: 21.26% Buy
+73.60 Z: 3 S:1 BDX Becton, Dickinson and Company: 1.07% Buy
+73.59 Z: 1 S:2 UFCS United Fire Group, Inc: 7.72% Hold
+73.54 Z: 3 S:4 SPG Simon Property Group, Inc.: 20.85% Buy
+73.53 Z: 3 S:8 CZZ Cosan Limited: 47.48% Buy
+73.53 Z: 3 S:4 ON ON Semiconductor Corporation: 20.81% Buy
+73.52 Z: 3 S:2 GD General Dynamics Corporation: 7.42% Buy
+73.50 Z: 3 S:4 TAP Molson Coors Brewing  Company: 20.7% Buy
+73.50 Z: 2 S:4 SAIA Saia, Inc.: -4.32% Buy
+73.45 Z: 3 S:4 WBA Walgreens Boots Alliance, Inc.: 20.5% Buy
+73.42 Z: 2 S:4 SUPN Supernus Pharmaceuticals, Inc.: -4.65% Buy
+73.40 Z: 2 S:7 REG Regency Centers Corporation: 15.29% Buy
+73.39 Z: 1 S:2 DE Deere & Company: 6.9% Hold
+73.37 Z: 3 S:2 MNR Monmouth Real Estate Investment Corporation: 6.84% Buy
+73.36 Z: 3 S:2 RCL Royal Caribbean Cruises Ltd.: 6.8% Buy
+73.30 Z: 3 S:4 MEI Methode Electronics, Inc.: 19.9% Buy
+73.30 Z: 3 S:3 TEP Tallgrass Energy Partners, LP: 13.21% Buy
+73.29 Z: 3 S:2 SCHW The Charles Schwab Corporation: 6.53% Buy
+73.28 Z: 3 S:4 IRDM Iridium Communications Inc: 19.82% Buy
+73.26 Z: 2 S:8 GGB Gerdau S.A.: 21.41% Buy
+73.25 Z: 3 S:3 CBM Cambrex Corporation: 13.03% Buy
+73.23 Z: 3 S:5 MPLX MPLX LP: 26.29% Buy
+73.22 Z: 3 S:4 AIMC Altra Industrial Motion Corp.: 19.55% Buy
+73.20 Z: 3 S:6 TPC Tutor Perini Corporation: 32.81% Buy
+73.19 Z: 3 S:7 PXD Pioneer Natural Resources Company: 39.43% Buy
+73.18 Z: 3 S:4 SATS EchoStar Corporation: 19.41% Buy
+73.11 Z: 1 S:0 BANF BancFirst Corporation: -7.54% Hold
+73.11 Z: 2 S:6 NFLX Netflix, Inc.: 7.45% Buy
+73.09 Z: 3 S:3 OSK Oshkosh Corporation: 12.36% Buy
+73.08 Z: 3 S:4 PLT Plantronics, Inc.: 19.02% Buy
+73.08 Z: 3 S:2 ESNT Essent Group Ltd.: 5.67% Buy
+73.07 Z: 3 S:5 FBP First BanCorp.: 25.63% Buy
+73.06 Z: 3 S:3 BERY Berry Global Group, Inc.: 12.26% Buy
+73.06 Z: 3 S:4 RS Reliance Steel & Aluminum Co.: 18.92% Buy
+73.04 Z: 3 S:2 LHCG LHC Group: 5.51% Buy
+73.00 Z: 3 S:4 SMTC Semtech Corporation: 18.67% Buy
+72.99 Z: 3 S:3 CSGS CSG Systems International, Inc.: 11.98% Buy
+72.98 Z: 3 S:4 GEO Geo Group Inc (The): 18.61% Buy
+72.97 Z: 3 S:3 SWKS Skyworks Solutions, Inc.: 11.92% Buy
+72.97 Z: 2 S:7 RES RPC, Inc.: 13.58% Buy
+72.94 Z: 3 S:2 BFAM Bright Horizons Family Solutions Inc.: 5.13% Buy
+72.93 Z: 3 S:4 MSTR MicroStrategy Incorporated: 18.41% Buy
+72.91 Z: 3 S:5 SMCI Super Micro Computer, Inc.: 25.0% Buy
+72.90 Z: 3 S:4 CRTO Criteo S.A.: 18.27% Buy
+72.89 Z: 3 S:4 OTEX Open Text Corporation: 18.25% Buy
+72.88 Z: 3 S:4 TTMI TTM Technologies, Inc.: 18.2% Buy
+72.87 Z: 3 S:6 BABY Natus Medical Incorporated: 31.51% Buy
+72.86 Z: 3 S:4 SLAB Silicon Laboratories, Inc.: 18.12% Buy
+72.86 Z: 2 S:7 FBR Fibria Celulose S.A.: 13.11% Buy
+72.83 Z: 3 S:7 CDE Coeur Mining, Inc.: 38.02% Buy
+72.83 Z: 3 S:0 PAC Grupo Aeroportuario Del Pacifico, S.A. de C.V.: -8.67% Buy
+72.81 Z: 3 S:3 GPK Graphic Packaging Holding Company: 11.27% Buy
+72.75 Z: 3 S:8 ETP Energy Transfer Partners, L.P.: 44.35% Buy
+72.72 Z: 3 S:4 MDXG MiMedx Group, Inc: 17.57% Buy
+72.72 Z: 2 S:6 CX Cemex S.A.B. de C.V.: 5.88% Buy
+72.71 Z: 3 S:2 FIS Fidelity National Information Services, Inc.: 4.2% Buy
+72.69 Z: 3 S:7 XNCR Xencor, Inc.: 37.46% Buy
+72.69 Z: 3 S:2 SPR Spirit Aerosystems Holdings, Inc.: 4.11% Buy
+72.67 Z: 2 S:7 HIMX Himax Technologies, Inc.: 12.36% Buy
+72.66 Z: 3 S:5 PSXP Phillips 66 Partners LP: 24.0% Buy
+72.63 Z: 2 S:5 CTLT Catalent, Inc.: -1.13% Buy
+72.62 Z: 3 S:4 TEN Tenneco Inc.: 17.17% Buy
+72.61 Z: 3 S:4 JAZZ Jazz Pharmaceuticals plc: 17.13% Buy
+72.59 Z: 2 S:9 MB MINDBODY, Inc.: 25.37% Buy
+72.55 Z: 2 S:7 HQY HealthEquity, Inc.: 11.89% Buy
+72.53 Z: 3 S:4 INTC Intel Corporation: 16.82% Buy
+72.51 Z: 3 S:5 FLT FleetCor Technologies, Inc.: 23.41% Buy
+72.5 Z: 3 S:9 DERM Dermira, Inc.: 59.37% Buy
+72.5 Z: 3 S:9 OPK Opko Health, Inc.: 92.0% Buy
+72.5 Z: 3 S:9 CVE Cenovus Energy Inc: 54.56% Buy
+72.5 Z: 3 S:9 OAS Oasis Petroleum Inc.: 103.82% Buy
+72.5 Z: 3 S:9 WPX WPX Energy, Inc.: 64.78% Buy
+72.49 Z: 3 S:9 GWPH GW Pharmaceuticals Plc: 49.99% Buy
+72.45 Z: 3 S:2 CNC Centene Corporation: 3.16% Buy
+72.44 Z: 1 S:3 BBY Best Buy Co., Inc.: 9.77% Hold
+72.43 Z: 3 S:2 GMED Globus Medical, Inc.: 3.09% Buy
+72.43 Z: 3 S:7 COP ConocoPhillips: 36.42% Buy
+72.43 Z: 3 S:7 DF Dean Foods Company: 36.39% Buy
+72.42 Z: 1 S:16 NBIX Neurocrine Biosciences, Inc.: 39.68% Buy
+72.40 Z: 3 S:4 AMSF AMERISAFE, Inc.: 16.28% Buy
+72.39 Z: 3 S:4 EBS Emergent Biosolutions, Inc.: 16.25% Buy
+72.38 Z: 3 S:4 CVX Chevron Corporation: 16.2% Buy
+72.38 Z: 1 S:1 NEU NewMarket Corporation: -3.81% Hold
+72.37 Z: 3 S:7 MRC MRC Global Inc.: 36.18% Buy
+72.37 Z: 3 S:4 ACM AECOM: 16.17% Buy
+72.35 Z: 3 S:2 CE Celanese Corporation: 2.76% Buy
+72.29 Z: 1 S:2 KYO Kyocera Corporation: 2.5% Hold
+72.28 Z: 3 S:3 APD Air Products and Chemicals, Inc.: 9.15% Buy
+72.26 Z: 3 S:2 TSLX TPG Specialty Lending, Inc.: 2.39% Buy
+72.26 Z: 3 S:4 MTX Minerals Technologies Inc.: 15.72% Buy
+72.24 Z: 3 S:2 IR Ingersoll-Rand plc (Ireland): 2.32% Buy
+72.24 Z: 3 S:5 STL Sterling Bancorp: 22.32% Buy
+72.23 Z: 1 S:9 NNI Nelnet, Inc.: -1.05% Buy
+72.21 Z: 3 S:5 PWR Quanta Services, Inc.: 22.2% Buy
+72.21 Z: 2 S:6 MCD McDonald&#39;s Corporation: 3.84% Buy
+72.20 Z: 3 S:5 MWA MUELLER WATER PRODUCTS: 22.16% Buy
+72.20 Z: 2 S:6 PM Philip Morris International Inc: 3.82% Buy
+72.20 Z: 3 S:4 MTZ MasTec, Inc.: 15.47% Buy
+72.19 Z: 1 S:3 SBSI Southside Bancshares, Inc.: 8.76% Hold
+72.18 Z: 2 S:7 PENN Penn National Gaming, Inc.: 10.42% Buy
+72.17 Z: 3 S:4 BANC Banc of California, Inc.: 15.38% Buy
+72.17 Z: 3 S:4 UHS Universal Health Services, Inc.: 15.38% Buy
+72.17 Z: 3 S:3 WHR Whirlpool Corporation: 8.71% Buy
+72.16 Z: 3 S:7 FANG Diamondback Energy, Inc.: 35.32% Buy
+72.15 Z: 3 S:4 PPBI Pacific Premier Bancorp Inc: 15.28% Buy
+72.12 Z: 3 S:4 TILE Interface, Inc.: 15.18% Buy
+72.10 Z: 3 S:4 SKM SK Telecom Co., Ltd.: 15.08% Buy
+72.08 Z: 3 S:2 EDU New Oriental Education & Technology Group, Inc.: 1.68% Buy
+72.08 Z: 3 S:4 ORA Ormat Technologies, Inc.: 15.01% Buy
+72.08 Z: 2 S:6 EXPE Expedia, Inc.: 3.34% Buy
+72.08 Z: 3 S:4 AL Air Lease Corporation: 14.99% Buy
+72.05 Z: 3 S:3 PFS Provident Financial Services, Inc: 8.23% Buy
+72.02 Z: 2 S:6 JLL Jones Lang LaSalle Incorporated: 3.08% Buy
+72.00 Z: 1 S:4 WGP Western Gas Equity Partners, LP: 14.7% Hold
+72.00 Z: 2 S:6 BAP Credicorp Ltd.: 3.03% Buy
+72.00 Z: 4 S:2 CNK Cinemark Holdings Inc: 26.35% Buy
+71.98 Z: 3 S:4 TER Teradyne, Inc.: 14.6% Buy
+71.91 Z: 2 S:7 PEGI Pattern Energy Group Inc.: 9.34% Buy
+71.90 Z: 3 S:5 EPD Enterprise Products Partners L.P.: 20.97% Buy
+71.88 Z: 3 S:5 WWE World Wrestling Entertainment, Inc.: 20.89% Buy
+71.88 Z: 3 S:4 CVS CVS Health Corporation: 14.22% Buy
+71.87 Z: 3 S:2 G Genpact Limited: 0.83% Buy
+71.87 Z: 3 S:4 MNST Monster Beverage Corporation: 14.15% Buy
+71.85 Z: 3 S:4 BECN Beacon Roofing Supply, Inc.: 14.08% Buy
+71.83 Z: 3 S:8 ECA Encana Corporation: 40.69% Buy
+71.81 Z: 3 S:4 IDTI Integrated Device Technology, Inc.: 13.94% Buy
+71.79 Z: 2 S:7 CONE CyrusOne Inc: 8.83% Buy
+71.78 Z: 3 S:3 HLS HealthSouth Corporation: 7.13% Buy
+71.77 Z: 3 S:4 TOT Total S.A.: 13.75% Buy
+71.76 Z: 1 S:7 ENR Energizer Holdings, Inc.: 33.74% Hold
+71.75 Z: 3 S:5 AAT American Assets Trust, Inc.: 20.36% Buy
+71.65 Z: 2 S:9 GZT Gazit-Globe Ltd.: 21.6% Buy
+71.57 Z: 3 S:5 ITT ITT Inc.: 19.65% Buy
+71.56 Z: 3 S:3 IIVI II-VI Incorporated: 6.24% Buy
+71.48 Z: 3 S:6 ROCK Gibraltar Industries, Inc.: 25.94% Buy
+71.47 Z: 3 S:4 MGA Magna International, Inc.: 12.57% Buy
+71.47 Z: 3 S:3 TYL Tyler Technologies, Inc.: 5.9% Buy
+71.45 Z: 4 S:4 VNOM Viper Energy Partners LP: 37.5% Buy
+71.42 Z: 3 S:6 NUAN Nuance Communications, Inc.: 25.71% Buy
+71.42 Z: 3 S:3 DLPH Delphi Automotive plc: 5.69% Buy
+71.39 Z: 3 S:4 DSGX The Descartes Systems Group Inc.: 12.24% Buy
+71.38 Z: 3 S:4 KKR KKR & Co. L.P.: 12.21% Buy
+71.37 Z: 3 S:4 APO Apollo Global Management, LLC: 12.17% Buy
+71.37 Z: 3 S:4 SNPS Synopsys, Inc.: 12.16% Buy
+71.36 Z: 3 S:3 ZBH Zimmer Biomet Holdings, Inc.: 5.44% Buy
+71.35 Z: 3 S:4 MTG MGIC Investment Corporation: 12.07% Buy
+71.34 Z: 3 S:9 NBL Noble Energy Inc.: 45.39% Buy
+71.32 Z: 3 S:4 SIVB SVB Financial Group: 11.98% Buy
+71.31 Z: 3 S:3 AME AMTEK, Inc.: 5.25% Buy
+71.29 Z: 4 S:4 NXST Nexstar Media Group, Inc.: 36.84% Buy
+71.28 Z: 3 S:4 LBRDK Liberty Broadband Corporation: 11.81% Buy
+71.28 Z: 3 S:8 NGL NGL ENERGY PARTNERS LP: 38.46% Buy
+71.24 Z: 3 S:4 AAPL Apple Inc.: 11.66% Buy
+71.24 Z: 3 S:8 SHPG Shire plc: 38.3% Buy
+71.23 Z: 1 S:3 ALX Alexander&#39;s, Inc.: 4.94% Hold
+71.15 Z: 3 S:4 FNV Franco-Nevada Corporation: 11.27% Buy
+71.09 Z: 3 S:5 LOGM LogMein, Inc.: 17.7% Buy
+71.08 Z: 2 S:7 ACHC Acadia Healthcare Company, Inc.: 5.99% Buy
+71.08 Z: 3 S:4 UCBI United Community Banks, Inc.: 10.99% Buy
+71.07 Z: 3 S:4 TREE LendingTree, Inc.: 10.95% Buy
+71.07 Z: 3 S:6 UNVR Univar Inc.: 24.28% Buy
+71.06 Z: 2 S:7 WMB Williams Companies, Inc. (The): 5.91% Buy
+71.02 Z: 3 S:4 AMG Affiliated Managers Group, Inc.: 10.76% Buy
+71.02 Z: 1 S:2 SAFM Sanderson Farms, Inc.: -2.58% Hold
+70.99 Z: 3 S:4 LAD Lithia Motors, Inc.: 10.63% Buy
+70.97 Z: 3 S:6 ATNI ATN International, Inc.: 23.9% Buy
+70.95 Z: 3 S:2 OMAB Grupo Aeroportuario del Centro Norte S.A.B. de C.V.: -2.83% Buy
+70.91 Z: 3 S:5 MPC Marathon Petroleum Corporation: 17.01% Buy
+70.89 Z: 3 S:6 EQM EQT Midstream Partners, LP: 23.59% Buy
+70.86 Z: 3 S:3 VAC Marriot Vacations Worldwide Corporation: 3.45% Buy
+70.86 Z: 2 S:0 TWX Time Warner Inc.: 8.44% Hold
+70.85 Z: 3 S:4 BIO Bio-Rad Laboratories, Inc.: 10.08% Buy
+70.85 Z: 3 S:4 KRC Kilroy Realty Corporation: 10.07% Buy
+70.83 Z: 3 S:10 CRZO Carrizo Oil & Gas, Inc.: 131.43% Buy
+70.83 Z: 3 S:10 DYN Dynegy Inc.: 55.24% Buy
+70.83 Z: 3 S:10 EGO Eldorado Gold Corporation: 74.71% Buy
+70.83 Z: 3 S:10 NFX Newfield Exploration Company: 66.85% Buy
+70.83 Z: 3 S:10 QEP QEP Resources, Inc.: 74.29% Buy
+70.83 Z: 3 S:10 RRC Range Resources Corporation: 70.94% Buy
+70.81 Z: 1 S:0 TSM Taiwan Semiconductor Manufacturing Company Ltd.: -16.74% Hold
+70.81 Z: 1 S:2 CHT Chunghwa Telecom Co., Ltd.: -3.42% Hold
+70.80 Z: 3 S:4 IPG Interpublic Group of Companies, Inc. (The): 9.89% Buy
+70.79 Z: 4 S:1 ADC Agree Realty Corporation: 14.84% Buy
+70.77 Z: 3 S:3 ZTS Zoetis Inc.: 3.09% Buy
+70.74 Z: 2 S:7 OLLI Ollie&#39;s Bargain Outlet Holdings, Inc.: 4.65% Buy
+70.73 Z: 1 S:4 BRKL Brookline Bancorp, Inc.: 9.59% Hold
+70.72 Z: 3 S:3 SPGI S&P Global Inc.: 2.91% Buy
+70.72 Z: 3 S:4 BWXT BWX Technologies, Inc.: 9.56% Buy
+70.71 Z: 3 S:4 OXM Oxford Industries, Inc.: 9.54% Buy
+70.70 Z: 3 S:4 KFY Korn/Ferry International: 9.49% Buy
+70.70 Z: 3 S:6 HMSY HMS Holdings Corp: 22.82% Buy
+70.67 Z: 3 S:4 GSK GlaxoSmithKline PLC: 9.38% Buy
+70.66 Z: 1 S:0 ASR Grupo Aeroportuario del Sureste, S.A. de C.V.: -17.34% Hold
+70.64 Z: 3 S:6 HPP Hudson Pacific Properties, Inc.: 22.56% Buy
+70.59 Z: 3 S:3 GRUB GrubHub Inc.: 2.37% Buy
+70.55 Z: 3 S:3 PAYC Paycom Software, Inc.: 2.22% Buy
+70.54 Z: 2 S:6 NUS Nu Skin Enterprises, Inc.: -2.82% Buy
+70.50 Z: 3 S:3 JPM J P Morgan Chase & Co: 2.04% Buy
+70.49 Z: 3 S:4 GEF Greif Bros. Corporation: 8.64% Buy
+70.45 Z: 3 S:6 MINI Mobile Mini, Inc.: 21.83% Buy
+70.43 Z: 3 S:4 KEY KeyCorp: 8.42% Buy
+70.43 Z: 3 S:4 WCN Waste Connections, Inc.: 8.41% Buy
+70.43 Z: 3 S:4 CHTR Charter Communications, Inc.: 8.39% Buy
+70.43 Z: 1 S:16 CHL China Mobile (Hong Kong) Ltd.: 31.72% Buy
+70.39 Z: 2 S:1 AEIS Advanced Energy Industries, Inc.: 13.25% Hold
+70.36 Z: 4 S:3 OZRK Bank of the Ozarks: 26.47% Buy
+70.36 Z: 3 S:5 SEP Spectra Energy Partners, LP: 14.79% Buy
+70.34 Z: 3 S:7 MYL Mylan N.V.: 28.04% Buy
+70.33 Z: 3 S:4 LPL LG Display Co., Ltd.: 8.0% Buy
+70.33 Z: 1 S:10 EXAS Exact Sciences Corporation: -2.01% Buy
+70.32 Z: 3 S:4 NUVA NuVasive, Inc.: 7.97% Buy
+70.32 Z: 1 S:4 PRGS Progress Software Corporation: 7.97% Hold
+70.31 Z: 3 S:5 VIV Telefonica Brasil S.A.: 14.59% Buy
+70.3 Z: 1 S:3 NSR Neustar, Inc.: 1.2% Hold
+70.28 Z: 3 S:4 LM Legg Mason, Inc.: 7.8% Buy
+70.27 Z: 3 S:4 TXT Textron Inc.: 7.75% Buy
+70.25 Z: 3 S:5 ENBL Enable Midstream Partners, LP: 14.36% Buy
+70.22 Z: 3 S:5 BIIB Biogen Inc.: 14.24% Buy
+70.20 Z: 3 S:4 COH Coach, Inc.: 7.5% Buy
+70.15 Z: 2 S:8 ENV Envestnet, Inc: 8.95% Buy
+70.13 Z: 3 S:8 ERF Enerplus Corporation: 33.86% Buy
+70.07 Z: 3 S:7 CXO Concho Resources Inc.: 26.96% Buy
+70.06 Z: 3 S:4 ARMK Aramark: 6.91% Buy
+70.04 Z: 3 S:5 RP RealPage, Inc.: 13.51% Buy
+70.00 Z: 1 S:4 BNCL Beneficial Bancorp, Inc.: 6.67% Hold
+69.99 Z: 3 S:8 EGN Energen Corporation: 33.33% Buy
+69.96 Z: 4 S:2 TMUS T-Mobile US, Inc.: 18.21% Buy
+69.93 Z: 3 S:4 USCR U S Concrete, Inc.: 6.42% Buy
+69.91 Z: 3 S:7 EGHT 8x8 Inc: 26.32% Buy
+69.90 Z: 3 S:4 BX The Blackstone Group L.P.: 6.29% Buy
+69.89 Z: 3 S:3 ECL Ecolab Inc.: -0.42% Buy
+69.88 Z: 3 S:6 RMBS Rambus, Inc.: 19.53% Buy
+69.88 Z: 3 S:3 VRSK Verisk Analytics, Inc.: -0.47% Buy
+69.85 Z: 2 S:8 PLNT Planet Fitness, Inc.: 7.76% Buy
+69.85 Z: 3 S:4 BMY Bristol-Myers Squibb Company: 6.09% Buy
+69.85 Z: 1 S:2 KBH KB Home: -7.25% Hold
+69.84 Z: 3 S:2 ISRG Intuitive Surgical, Inc.: -7.3% Buy
+69.81 Z: 1 S:2 AIN Albany International Corporation: -7.41% Hold
+69.79 Z: 3 S:7 MDR McDermott International, Inc.: 25.83% Buy
+69.78 Z: 4 S:0 CME CME Group Inc.: 4.14% Buy
+69.77 Z: 3 S:8 KRG Kite Realty Group Trust: 32.42% Buy
+69.74 Z: 3 S:5 FTNT Fortinet, Inc.: 12.3% Buy
+69.73 Z: 3 S:5 BP BP p.l.c.: 12.29% Buy
+69.73 Z: 3 S:4 SAP SAP SE: 5.62% Buy
+69.73 Z: 3 S:4 BAC Bank of America Corporation: 5.61% Buy
+69.68 Z: 3 S:7 IPHI Inphi Corporation: 25.39% Buy
+69.66 Z: 3 S:7 KN Knowles Corporation: 25.31% Buy
+69.64 Z: 4 S:5 ARLP Alliance Resource Partners, L.P.: 36.92% Buy
+69.61 Z: 3 S:4 PRAH PRA Health Sciences, Inc.: 5.12% Buy
+69.61 Z: 3 S:5 BLD TopBuild Corp.: 11.78% Buy
+69.61 Z: 3 S:10 XON Intrexon Corporation: 45.11% Buy
+69.59 Z: 3 S:4 FBC Flagstar Bancorp, Inc.: 5.06% Buy
+69.59 Z: 2 S:0 LFUS Littelfuse, Inc.: 3.39% Hold
+69.59 Z: 2 S:7 HLI Houlihan Lokey, Inc.: 0.03% Buy
+69.58 Z: 4 S:7 AMC AMC Entertainment Holdings, Inc.: 62.53% Buy
+69.58 Z: 4 S:7 DBD Diebold Nixdorf Incorporated: 69.81% Buy
+69.58 Z: 4 S:7 IMAX Imax Corporation: 51.72% Buy
+69.58 Z: 2 S:0 LABL Multi-Color Corporation: 3.32% Hold
+69.56 Z: 1 S:16 BEDU Bright Scholar Education Holdings Limited: 28.24% Buy
+69.54 Z: 3 S:10 SPN Superior Energy Services, Inc.: 44.86% Buy
+69.48 Z: 3 S:5 TPH TRI Pointe Group, Inc.: 11.28% Buy
+69.48 Z: 3 S:9 QUOT Quotient Technology Inc.: 37.93% Buy
+69.48 Z: 3 S:7 VECO Veeco Instruments Inc.: 24.59% Buy
+69.45 Z: 3 S:6 COMM CommScope Holding Company, Inc.: 17.81% Buy
+69.44 Z: 3 S:5 THRM Gentherm Inc: 11.11% Buy
+69.44 Z: 3 S:4 VC Visteon Corporation: 4.43% Buy
+69.41 Z: 3 S:4 AMP AMERIPRISE FINANCIAL SERVICES, INC.: 4.33% Buy
+69.40 Z: 3 S:7 MTDR Matador Resources Company: 24.28% Buy
+69.39 Z: 2 S:10 SPLK Splunk Inc.: 19.24% Buy
+69.36 Z: 3 S:4 ELLI Ellie Mae, Inc.: 4.12% Buy
+69.35 Z: 3 S:7 ALXN Alexion Pharmaceuticals, Inc.: 24.1% Buy
+69.35 Z: 2 S:0 CTAS Cintas Corporation: 2.4% Hold
+69.35 Z: 3 S:6 WES Western Gas Partners, LP: 17.4% Buy
+69.32 Z: 2 S:9 MCRN Milacron Holdings Corp.: 12.3% Buy
+69.30 Z: 3 S:4 WRK Westrock Company: 3.87% Buy
+69.26 Z: 1 S:4 GATX GATX Corporation: 3.73% Hold
+69.24 Z: 1 S:4 KWR Quaker Chemical Corporation: 3.66% Hold
+69.24 Z: 3 S:4 SCHL Scholastic Corporation: 3.63% Buy
+69.23 Z: 3 S:4 WAB Westinghouse Air Brake Technologies Corporation: 3.61% Buy
+69.21 Z: 2 S:0 LKFN Lakeland Financial Corporation: 1.86% Hold
+69.21 Z: 3 S:5 WNS WNS (Holdings) Limited: 10.18% Buy
+69.19 Z: 4 S:2 CSCO Cisco Systems, Inc.: 15.13% Buy
+69.19 Z: 1 S:16 ATUS Altice USA, Inc.: 26.78% Buy
+69.17 Z: 3 S:6 OLN Olin Corporation: 16.69% Buy
+69.15 Z: 4 S:0 MMC Marsh & McLennan Companies, Inc.: 1.6% Buy
+69.14 Z: 3 S:5 ULTI The Ultimate Software Group, Inc.: 9.91% Buy
+69.13 Z: 3 S:3 JJSF J & J Snack Foods Corp.: -3.45% Buy
+69.13 Z: 3 S:8 SEAS SeaWorld Entertainment, Inc.: 29.87% Buy
+69.11 Z: 3 S:4 OSB Norbord Inc.: 3.11% Buy
+69.10 Z: 3 S:4 CTSH Cognizant Technology Solutions Corporation: 3.09% Buy
+69.07 Z: 3 S:4 TRNO Terreno Realty Corporation: 2.97% Buy
+69.07 Z: 3 S:5 WPZ Williams Partners LP: 9.63% Buy
+69.06 Z: 1 S:6 TFSL TFS Financial Corporation: 16.24% Hold
+69.03 Z: 2 S:0 GBCI Glacier Bancorp, Inc.: 1.16% Hold
+69.02 Z: 3 S:7 EGRX Eagle Pharmaceuticals, Inc.: 22.78% Buy
+69.01 Z: 3 S:4 POWI Power Integrations, Inc.: 2.71% Buy
+68.99 Z: 1 S:4 JBL Jabil Inc.: 2.65% Hold
+68.97 Z: 2 S:0 AOS Smith (A.O.) Corporation: 0.9% Hold
+68.96 Z: 4 S:5 PAAS Pan American Silver Corp.: 34.19% Buy
+68.96 Z: 1 S:4 LPX Louisiana-Pacific Corporation: 2.52% Hold
+68.95 Z: 3 S:4 XRAY DENTSPLY SIRONA Inc.: 2.48% Buy
+68.94 Z: 3 S:7 VOYA Voya Financial, Inc.: 22.44% Buy
+68.93 Z: 3 S:6 NPO EnPro Industries: 15.74% Buy
+68.93 Z: 3 S:7 ERI Eldorado Resorts, Inc.: 22.4% Buy
+68.89 Z: 4 S:2 SBUX Starbucks Corporation: 13.91% Buy
+68.87 Z: 2 S:10 AAAP Advanced Accelerator Applications S.A.: 17.15% Buy
+68.83 Z: 3 S:4 TRMB Trimble Inc.: 1.99% Buy
+68.79 Z: 1 S:4 SODA SodaStream International Ltd.: 1.85% Hold
+68.79 Z: 2 S:1 WSBC WesBanco, Inc.: 6.83% Hold
+68.76 Z: 3 S:7 CAVM Cavium, Inc.: 21.73% Buy
+68.76 Z: 3 S:10 TSRO TESARO, Inc.: 41.72% Buy
+68.75 Z: 3 S:7 ARCO Arcos Dorados Holdings Inc.: 21.69% Buy
+68.74 Z: 3 S:6 CRM Salesforce.com Inc: 14.99% Buy
+68.73 Z: 3 S:3 ERIE Erie Indemnity Company: -5.05% Buy
+68.73 Z: 3 S:8 PNK Pinnacle Entertainment, Inc.: 28.27% Buy
+68.69 Z: 3 S:4 IT Gartner, Inc.: 1.46% Buy
+68.68 Z: 2 S:0 OGS ONE Gas, Inc.: -0.25% Hold
+68.68 Z: 1 S:11 ENIC Enel Chile S.A.: -1.93% Buy
+68.67 Z: 1 S:9 SQ Square, Inc.: -15.32% Buy
+68.66 Z: 1 S:3 WABC Westamerica Bancorporation: -5.33% Hold
+68.65 Z: 3 S:4 CLGX CoreLogic, Inc.: 1.3% Buy
+68.63 Z: 1 S:7 TDS Telephone and Data Systems, Inc.: 21.19% Hold
+68.59 Z: 4 S:3 DIS Walt Disney Company (The): 19.38% Buy
+68.58 Z: 4 S:1 LEA Lear Corporation: 6.01% Buy
+68.57 Z: 4 S:1 HRS Harris Corporation: 5.96% Buy
+68.56 Z: 2 S:0 TTC Toro Company (The): -0.75% Hold
+68.53 Z: 3 S:5 SKX Skechers U.S.A., Inc.: 7.47% Buy
+68.52 Z: 3 S:4 QSR Restaurant Brands International Inc.: 0.78% Buy
+68.52 Z: 3 S:5 EFII Electronics for Imaging, Inc.: 7.44% Buy
+68.52 Z: 2 S:2 LLL L3 Technologies, Inc.: 12.43% Hold
+68.51 Z: 3 S:4 CSGP CoStar Group, Inc.: 0.73% Buy
+68.50 Z: 3 S:4 HTHT China Lodging Group, Limited: 0.7% Buy
+68.49 Z: 3 S:4 CHDN Churchill Downs, Incorporated: 0.66% Buy
+68.48 Z: 3 S:5 ASX Advanced Semiconductor Engineering, Inc.: 7.27% Buy
+68.47 Z: 3 S:7 COST Costco Wholesale Corporation: 20.56% Buy
+68.43 Z: 3 S:6 KS KapStone Paper and Packaging Corporation: 13.74% Buy
+68.36 Z: 3 S:7 ARRS ARRIS International plc: 20.14% Buy
+68.34 Z: 3 S:4 ARW Arrow Electronics, Inc.: 0.05% Buy
+68.33 Z: 3 S:4 MPWR Monolithic Power Systems, Inc.: -0.01% Buy
+68.32 Z: 3 S:4 C Citigroup Inc.: -0.03% Buy
+68.32 Z: 3 S:4 WYN Wyndham Worldwide Corp: -0.03% Buy
+68.32 Z: 2 S:10 XLRN Acceleron Pharma Inc.: 14.96% Buy
+68.32 Z: 4 S:3 KLIC Kulicke and Soffa Industries, Inc.: 18.29% Buy
+68.30 Z: 3 S:5 KT KT Corporation: 6.54% Buy
+68.29 Z: 4 S:4 KAR KAR Auction Services, Inc: 24.85% Buy
+68.26 Z: 2 S:8 BEP Brookfield Renewable Partners L.P.: 1.38% Buy
+68.25 Z: 1 S:4 BCPC Balchem Corporation: -0.32% Hold
+68.23 Z: 1 S:4 SPIL Siliconware Precision Industries Company, Ltd.: -0.38% Hold
+68.21 Z: 3 S:6 ESRT Empire State Realty Trust, Inc.: 12.86% Buy
+68.19 Z: 4 S:2 AFG American Financial Group, Inc.: 11.12% Buy
+68.19 Z: 3 S:5 ARE Alexandria Real Estate Equities, Inc.: 6.12% Buy
+68.18 Z: 1 S:3 VSH Vishay Intertechnology, Inc.: -7.25% Hold
+68.18 Z: 3 S:6 ARCC Ares Capital Corporation: 12.74% Buy
+68.17 Z: 3 S:10 ACIA Acacia Communications, Inc.: 39.36% Buy
+68.17 Z: 1 S:16 ALEX Alexander & Baldwin Holdings, Inc.: 22.68% Buy
+68.16 Z: 4 S:6 DKS Dick&#39;s Sporting Goods Inc: 37.64% Buy
+68.15 Z: 4 S:2 GT The Goodyear Tire & Rubber Company: 10.96% Buy
+68.15 Z: 4 S:4 RDN Radian Group Inc.: 24.28% Buy
+68.13 Z: 3 S:7 SYF Synchrony Financial: 19.21% Buy
+68.12 Z: 2 S:10 GSM Ferroglobe PLC: 14.18% Buy
+68.10 Z: 1 S:4 BHE Benchmark Electronics, Inc.: -0.9% Hold
+68.10 Z: 3 S:5 IDXX IDEXX Laboratories, Inc.: 5.75% Buy
+68.09 Z: 3 S:5 AYI Acuity Brands Inc: 5.71% Buy
+68.08 Z: 1 S:16 DVMT Dell Technologies Inc.: 22.35% Buy
+68.07 Z: 3 S:7 LADR Ladder Capital Corp: 18.96% Buy
+68.05 Z: 4 S:6 SSRI Silver Standard Resources Inc.: 37.21% Buy
+68.04 Z: 3 S:5 BKFS Black Knight Financial Services, Inc.: 5.52% Buy
+68.00 Z: 3 S:5 YY YY Inc.: 5.35% Buy
+67.99 Z: 2 S:16 INSM Insmed, Inc.: 46.97% Buy
+67.95 Z: 4 S:4 FNB F.N.B. Corporation: 23.5% Buy
+67.94 Z: 2 S:2 DPS Dr Pepper Snapple Group, Inc: 10.12% Hold
+67.91 Z: 2 S:1 VVC Vectren Corporation: 3.34% Hold
+67.91 Z: 4 S:8 GLNG Golar LNG Limited: 54.21% Buy
+67.91 Z: 4 S:8 AGI Alamos Gold Inc.: 51.36% Buy
+67.91 Z: 4 S:8 MNK Mallinckrodt plc: 56.99% Buy
+67.90 Z: 4 S:3 DCM NTT DOCOMO, Inc: 16.63% Buy
+67.89 Z: 2 S:2 BMA Macro Bank Inc.: 9.92% Hold
+67.88 Z: 3 S:7 OUT OUTFRONT Media Inc.: 18.21% Buy
+67.87 Z: 4 S:4 SNA Snap-On Incorporated: 23.15% Buy
+67.86 Z: 2 S:2 DD E.I. du Pont de Nemours and Company: 9.79% Hold
+67.85 Z: 1 S:1 NVR NVR, Inc.: -21.92% Hold
+67.85 Z: 4 S:2 DOW Dow Chemical Company (The): 9.74% Buy
+67.83 Z: 4 S:1 LH Laboratory Corporation of America Holdings: 3.0% Buy
+67.82 Z: 3 S:7 MSG MSG Networks Inc.: 17.97% Buy
+67.82 Z: 3 S:7 MSG MSG Networks Inc.: 17.97% Buy
+67.81 Z: 3 S:6 CCOI Cogent Communications Holdings, Inc.: 11.25% Buy
+67.77 Z: 1 S:3 ESGR Enstar Group Limited: -8.89% Hold
+67.77 Z: 1 S:5 RUSHB Rush Enterprises, Inc.: 4.42% Hold
+67.74 Z: 3 S:7 ETE Energy Transfer Equity, L.P.: 17.65% Buy
+67.74 Z: 3 S:7 MANU Manchester United Ltd.: 17.65% Buy
+67.74 Z: 3 S:7 EOG EOG Resources, Inc.: 17.63% Buy
+67.74 Z: 2 S:1 CBRL Cracker Barrel Old Country Store, Inc.: 2.63% Hold
+67.70 Z: 2 S:10 BLUE bluebird bio, Inc.: 12.5% Buy
+67.65 Z: 4 S:2 BKH Black Hills Corporation: 8.94% Buy
+67.64 Z: 3 S:4 CBOE CBOE Holdings, Inc.: -2.74% Buy
+67.63 Z: 2 S:1 ZION Zions Bancorporation: 2.22% Hold
+67.62 Z: 4 S:4 TJX TJX Companies, Inc. (The): 22.18% Buy
+67.62 Z: 3 S:9 BKD Brookdale Senior Living Inc.: 30.49% Buy
+67.61 Z: 1 S:7 TEGP Tallgrass Energy GP, LP: 17.14% Hold
+67.61 Z: 2 S:7 LITE Lumentum Holdings Inc.: -7.88% Buy
+67.59 Z: 3 S:6 CORE Core-Mark Holding Company, Inc.: 10.38% Buy
+67.58 Z: 3 S:6 RGEN Repligen Corporation: 10.33% Buy
+67.58 Z: 3 S:8 NXTM NxStage Medical, Inc.: 23.66% Buy
+67.57 Z: 3 S:6 OSIS OSI Systems, Inc.: 10.3% Buy
+67.56 Z: 2 S:1 LNT Alliant Energy Corporation: 1.94% Hold
+67.55 Z: 3 S:7 LBTYA Liberty Global plc: 16.89% Buy
+67.54 Z: 2 S:8 TEAM Atlassian Corporation Plc: -1.49% Buy
+67.49 Z: 1 S:4 AAL American Airlines Group, Inc.: -3.36% Hold
+67.49 Z: 1 S:4 STC Stewart Information Services Corporation: -3.37% Hold
+67.47 Z: 1 S:16 QVCB Liberty Interactive Corporation: 19.88% Buy
+67.42 Z: 2 S:2 AWK American Water Works: 8.02% Hold
+67.41 Z: 3 S:8 EGL Engility Holdings, Inc.: 22.98% Buy
+67.39 Z: 2 S:1 CFR Cullen/Frost Bankers, Inc.: 1.23% Hold
+67.35 Z: 4 S:2 WLTW Willis Towers Watson Public Limited Company: 7.75% Buy
+67.33 Z: 4 S:5 WDC Western Digital Corporation: 27.69% Buy
+67.32 Z: 2 S:10 OMAM OM Asset Management plc: 10.97% Buy
+67.29 Z: 2 S:4 GBX Greenbrier Companies, Inc. (The): 20.85% Hold
+67.29 Z: 3 S:7 MTCH Match Group, Inc.: 15.83% Buy
+67.27 Z: 3 S:8 ATKR Atkore International Group Inc.: 22.43% Buy
+67.26 Z: 3 S:6 CC Chemours Company (The): 9.07% Buy
+67.25 Z: 3 S:5 TRU TransUnion: 2.37% Buy
+67.24 Z: 3 S:7 ENB Enbridge Inc: 15.65% Buy
+67.21 Z: 2 S:1 CMA Comerica Incorporated: 0.53% Hold
+67.19 Z: 3 S:6 STWD STARWOOD PROPERTY TRUST, INC.: 8.79% Buy
+67.18 Z: 4 S:4 BCC Boise Cascade, L.L.C.: 20.42% Buy
+67.17 Z: 4 S:2 HOLX Hologic, Inc.: 7.05% Buy
+67.17 Z: 3 S:6 GWR Genesee & Wyoming, Inc.: 8.7% Buy
+67.16 Z: 2 S:4 VMW Vmware, Inc.: 20.34% Hold
+67.16 Z: 4 S:6 VG Vonage Holdings Corp.: 33.65% Buy
+67.15 Z: 4 S:5 FOXA Twenty-First Century Fox, Inc.: 26.95% Buy
+67.14 Z: 3 S:6 SPSC SPS Commerce, Inc.: 8.57% Buy
+67.10 Z: 3 S:6 IAC IAC/InterActiveCorp: 8.42% Buy
+67.09 Z: 3 S:7 SMLP Summit Midstream Partners, LP: 15.06% Buy
+67.08 Z: 3 S:6 PCTY Paylocity Holding Corporation: 8.32% Buy
+67.07 Z: 4 S:4 SBNY Signature Bank: 19.97% Buy
+67.00 Z: 1 S:4 RAVN Raven Industries, Inc.: -5.31% Hold
+66.94 Z: 3 S:6 DGI DigitalGlobe, Inc: 7.78% Buy
+66.94 Z: 1 S:5 BBRY BlackBerry Limited: 1.11% Hold
+66.94 Z: 4 S:4 IBTX Independent Bank Group, Inc: 19.43% Buy
+66.93 Z: 3 S:6 OMCL Omnicell, Inc.: 7.73% Buy
+66.93 Z: 3 S:6 ENSG The Ensign Group, Inc.: 7.73% Buy
+66.92 Z: 1 S:7 VIA Viacom Inc.: 14.36% Hold
+66.91 Z: 4 S:2 AJG Arthur J. Gallagher & Co.: 5.98% Buy
+66.91 Z: 2 S:10 SFUN Fang Holdings Limited: 9.31% Buy
+66.89 Z: 3 S:7 HASI Hannon Armstrong Sustainable Infrastructure Capital, Inc.: 14.24% Buy
+66.88 Z: 3 S:6 MSI Motorola Solutions, Inc.: 7.55% Buy
+66.88 Z: 3 S:4 MDSO Medidata Solutions, Inc.: -5.79% Buy
+66.85 Z: 3 S:7 COG Cabot Oil & Gas Corporation: 14.08% Buy
+66.85 Z: 2 S:2 INTU Intuit Inc.: 5.74% Hold
+66.84 Z: 4 S:3 BSX Boston Scientific Corporation: 12.36% Buy
+66.84 Z: 4 S:3 DOOR Masonite International Corporation: 12.36% Buy
+66.82 Z: 3 S:6 SUI Sun Communities, Inc.: 7.31% Buy
+66.81 Z: 3 S:9 PTEN Patterson-UTI Energy, Inc.: 27.26% Buy
+66.80 Z: 1 S:4 TMHC Taylor Morrison Home Corporation: -6.11% Hold
+66.80 Z: 3 S:6 BXMT Capital Trust, Inc.: 7.21% Buy
+66.80 Z: 3 S:7 CLNS Colony NorthStar, Inc.: 13.87% Buy
+66.78 Z: 3 S:6 LLY Eli Lilly and Company: 7.12% Buy
+66.77 Z: 2 S:8 BATRK Liberty Media Corporation: -4.58% Buy
+66.77 Z: 3 S:7 KEYS Keysight Technologies Inc.: 13.75% Buy
+66.76 Z: 2 S:2 SFBS ServisFirst Bancshares, Inc.: 5.38% Hold
+66.75 Z: 2 S:10 JUNO Juno Therapeutics, Inc.: 8.7% Buy
+66.74 Z: 1 S:3 SAFT Safety Insurance Group, Inc.: -13.04% Hold
+66.71 Z: 2 S:1 NOC Northrop Grumman Corporation: -1.46% Hold
+66.66 Z: 5 S:5 ORLY O&#39;Reilly Automotive, Inc.: 62.49% Buy
+66.66 Z: 3 S:8 SHLX Shell Midstream Partners, L.P.: 20.0% Buy
+66.65 Z: 3 S:7 PTC PTC Inc.: 13.3% Buy
+66.64 Z: 2 S:2 TOWN Towne Bank: 4.92% Hold
+66.63 Z: 4 S:4 PACW PacWest Bancorp: 18.2% Buy
+66.62 Z: 3 S:7 BMCH BMC Stock Holdings, Inc.: 13.16% Buy
+66.60 Z: 2 S:1 WCG WellCare Health Plans, Inc.: -1.9% Hold
+66.59 Z: 4 S:4 COF Capital One Financial Corporation: 18.05% Buy
+66.59 Z: 4 S:3 TTWO Take-Two Interactive Software, Inc.: 11.36% Buy
+66.58 Z: 4 S:2 ITRI Itron, Inc.: 4.67% Buy
+66.58 Z: 2 S:10 HUBS HubSpot, Inc.: 7.99% Buy
+66.57 Z: 2 S:3 HOPE Hope Bancorp, Inc.: 11.29% Hold
+66.56 Z: 2 S:2 HBHC Hancock Holding Company: 4.58% Hold
+66.51 Z: 2 S:4 HTH Hilltop Holdings Inc.: 17.74% Hold
+66.51 Z: 3 S:7 CPN Calpine Corporation: 12.73% Buy
+66.51 Z: 4 S:3 LTXB LegacyTexas Financial Group, Inc.: 11.05% Buy
+66.50 Z: 1 S:16 ORAN Orange: 16.02% Buy
+66.50 Z: 3 S:7 HAWK Blackhawk Network Holdings, Inc.: 12.68% Buy
+66.49 Z: 4 S:4 GWB Great Western Bancorp, Inc.: 17.63% Buy
+66.48 Z: 2 S:2 NWE NorthWestern Corporation: 4.29% Hold
+66.48 Z: 1 S:5 WYNN Wynn Resorts, Limited: -0.73% Hold
+66.48 Z: 2 S:4 DG Dollar General Corporation: 17.6% Hold
+66.39 Z: 4 S:5 JACK Jack In The Box Inc.: 23.91% Buy
+66.38 Z: 2 S:3 FMBI First Midwest Bancorp, Inc.: 10.54% Hold
+66.37 Z: 2 S:2 BOH Bank of Hawaii Corporation: 3.82% Hold
+66.36 Z: 2 S:1 WBS Webster Financial Corporation: -2.86% Hold
+66.34 Z: 4 S:3 DHR Danaher Corporation: 10.37% Buy
+66.32 Z: 2 S:1 CNI Canadian National Railway Company: -3.03% Hold
+66.30 Z: 1 S:4 BRKR Bruker Corporation: -8.11% Hold
+66.29 Z: 2 S:1 WAT Waters Corporation: -3.14% Hold
+66.29 Z: 4 S:4 STLD Steel Dynamics, Inc.: 16.85% Buy
+66.28 Z: 2 S:3 KLAC KLA-Tencor Corporation: 10.14% Hold
+66.28 Z: 3 S:0 EME EMCOR Group, Inc.: 15.14% Hold
+66.27 Z: 3 S:8 NGVT Ingevity Corporation: 18.43% Buy
+66.25 Z: 4 S:9 APC Anadarko Petroleum Corporation: 73.23% Buy
+66.25 Z: 4 S:9 CLR Continental Resources, Inc.: 64.24% Buy
+66.24 Z: 2 S:2 HXL Hexcel Corporation: 3.32% Hold
+66.23 Z: 2 S:3 MANT ManTech International Corporation: 9.95% Hold
+66.22 Z: 3 S:7 ALLY Ally Financial Inc.: 11.58% Buy
+66.2 Z: 2 S:3 PNFP Pinnacle Financial Partners, Inc.: 9.8% Hold
+66.2 Z: 3 S:9 EQT EQT Corporation: 24.8% Buy
+66.19 Z: 1 S:16 ITCB Ita? CorpBanca: 14.78% Buy
+66.16 Z: 3 S:7 THS Treehouse Foods, Inc.: 11.34% Buy
+66.14 Z: 3 S:7 BT BT Group plc: 11.25% Buy
+66.12 Z: 2 S:10 CG The Carlyle Group L.P.: 6.17% Buy
+66.06 Z: 1 S:7 VCO Vina Concha Y Toro: 10.91% Hold
+66.03 Z: 3 S:6 ACIW ACI Worldwide, Inc.: 4.12% Buy
+66.01 Z: 3 S:5 REXR Rexford Industrial Realty, Inc.: -2.59% Buy
+66.01 Z: 4 S:6 RGC Regal Entertainment Group: 29.07% Buy
+66.01 Z: 2 S:1 NTRS Northern Trust Corporation: -4.27% Hold
+66.01 Z: 3 S:9 HBM Hudbay Minerals Inc.: 24.06% Buy
+66.00 Z: 3 S:7 LYG Lloyds Banking Group Plc: 10.68% Buy
+65.99 Z: 3 S:7 COT Cott Corporation: 10.65% Buy
+65.99 Z: 1 S:16 TYG Tortoise Energy Infrastructure Corporation: 13.98% Buy
+65.99 Z: 3 S:7 CUB Cubic Corporation: 10.64% Buy
+65.98 Z: 2 S:4 ACC American Campus Communities Inc: 15.61% Hold
+65.98 Z: 3 S:2 NSP Insperity, Inc.: 27.27% Hold
+65.94 Z: 1 S:6 BIDU Baidu, Inc.: 3.79% Hold
+65.94 Z: 3 S:7 VER VEREIT Inc.: 10.43% Buy
+65.93 Z: 4 S:2 MO Altria Group: 2.07% Buy
+65.93 Z: 3 S:9 CCJ Cameco Corporation: 23.73% Buy
+65.93 Z: 4 S:3 NKE Nike, Inc.: 8.73% Buy
+65.92 Z: 2 S:10 FIVN Five9, Inc.: 5.36% Buy
+65.91 Z: 2 S:0 PSB PS Business Parks, Inc.: -11.36% Hold
+65.90 Z: 2 S:2 DUK Duke Energy Corporation: 1.96% Hold
+65.90 Z: 4 S:4 SERV ServiceMaster Global Holdings, Inc.: 15.28% Buy
+65.90 Z: 3 S:7 FTAI Fortress Transportation and Infrastructure Investors LLC: 10.27% Buy
+65.89 Z: 3 S:7 SPXC SPX Corporation: 10.25% Buy
+65.88 Z: 3 S:2 ASTE Astec Industries, Inc.: 26.89% Hold
+65.88 Z: 3 S:4 INGN Inogen, Inc: -9.79% Buy
+65.87 Z: 2 S:2 ES Eversource Energy: 1.84% Hold
+65.81 Z: 3 S:6 XPO XPO Logistics, Inc.: 3.24% Buy
+65.80 Z: 3 S:7 MON Monsanto Company: 9.89% Buy
+65.77 Z: 3 S:7 AGN Allergan plc.: 9.78% Buy
+65.77 Z: 4 S:3 AMT American Tower Corporation (REIT): 8.1% Buy
+65.75 Z: 3 S:7 CALD Callidus Software, Inc.: 9.7% Buy
+65.74 Z: 2 S:4 FAST Fastenal Company: 14.66% Hold
+65.73 Z: 4 S:7 MIK The Michaels Companies, Inc.: 34.62% Buy
+65.73 Z: 2 S:2 BCE BCE, Inc.: 1.27% Hold
+65.73 Z: 3 S:0 MBFI MB Financial Inc.: 12.93% Hold
+65.73 Z: 2 S:3 WMT Wal-Mart Stores, Inc.: 7.93% Hold
+65.72 Z: 3 S:0 BUSE First Busey Corporation: 12.91% Hold
+65.70 Z: 3 S:7 DXC DXC Technology Company: 9.47% Buy
+65.69 Z: 2 S:2 HSIC Henry Schein, Inc.: 1.13% Hold
+65.69 Z: 4 S:3 WTR Aqua America, Inc.: 7.79% Buy
+65.67 Z: 2 S:4 K Kellogg Company: 14.36% Hold
+65.63 Z: 3 S:4 HDB HDFC Bank Limited: -10.79% Buy
+65.56 Z: 3 S:7 STOR STORE Capital Corporation: 8.93% Buy
+65.56 Z: 2 S:2 GDOT Green Dot Corporation: 0.58% Hold
+65.55 Z: 2 S:10 BNFT Benefitfocus, Inc.: 3.9% Buy
+65.54 Z: 4 S:7 SLB Schlumberger N.V.: 33.85% Buy
+65.54 Z: 2 S:2 VWR VWR Corporation: 0.51% Hold
+65.54 Z: 1 S:7 GIII G-III Apparel Group, LTD.: 8.84% Hold
+65.48 Z: 3 S:7 CVLT Commvault Systems, Inc.: 8.62% Buy
+65.48 Z: 3 S:7 JD JD.com, Inc.: 8.62% Buy
+65.47 Z: 3 S:9 BMRN BioMarin Pharmaceutical Inc.: 21.9% Buy
+65.43 Z: 2 S:8 NRG NRG Energy, Inc.: -9.91% Buy
+65.43 Z: 3 S:7 RRR Red Rock Resorts, Inc.: 8.42% Buy
+65.42 Z: 4 S:4 ISBC Investors Bancorp, Inc.: 13.38% Buy
+65.37 Z: 3 S:10 FGEN FibroGen, Inc: 28.17% Buy
+65.37 Z: 2 S:1 FOXF Fox Factory Holding Corp.: -6.85% Hold
+65.36 Z: 2 S:2 AB AllianceBernstein Holding L.P.: -0.2% Hold
+65.31 Z: 1 S:5 BSBR Banco Santander Brasil SA: -5.39% Hold
+65.31 Z: 1 S:7 CALM Cal-Maine Foods, Inc.: 7.92% Hold
+65.30 Z: 3 S:7 ALRM Alarm.com Holdings, Inc.: 7.9% Buy
+65.29 Z: 2 S:2 ITW Illinois Tool Works Inc.: -0.48% Hold
+65.29 Z: 2 S:2 BCR C.R. Bard, Inc.: -0.49% Hold
+65.28 Z: 2 S:3 WDFC WD-40 Company: 6.13% Hold
+65.27 Z: 1 S:16 VEDL Vedanta  Limited: 11.11% Buy
+65.27 Z: 3 S:7 AGR Avangrid, Inc.: 7.75% Buy
+65.26 Z: 2 S:4 TCF TCF Financial Corporation: 12.71% Hold
+65.23 Z: 3 S:7 EQIX Equinix, Inc.: 7.62% Buy
+65.23 Z: 4 S:4 POL PolyOne Corporation: 12.59% Buy
+65.21 Z: 1 S:4 WOR Worthington Industries, Inc.: -12.46% Hold
+65.19 Z: 3 S:5 PYPL PayPal Holdings, Inc.: -5.87% Buy
+65.19 Z: 3 S:7 ZNGA Zynga Inc.: 7.44% Buy
+65.17 Z: 4 S:7 ERJ Embraer-Empresa Brasileira de Aeronautica: 32.38% Buy
+65.17 Z: 2 S:4 BPOP Popular, Inc.: 12.37% Hold
+65.16 Z: 4 S:4 LUK Leucadia National Corporation: 12.32% Buy
+65.14 Z: 4 S:6 AMBA Ambarella, Inc.: 25.58% Buy
+65.13 Z: 1 S:8 ABY Atlantica Yield plc: 13.86% Hold
+65.13 Z: 3 S:6 CIGI Colliers International Group Inc. : 0.52% Buy
+65.12 Z: 3 S:8 EVH Evolent Health, Inc: 13.85% Buy
+65.11 Z: 4 S:4 FOE Ferro Corporation: 12.12% Buy
+65.10 Z: 2 S:4 CBT Cabot Corporation: 12.09% Hold
+65.10 Z: 4 S:3 SNE Sony Corp Ord: 5.42% Buy
+65.09 Z: 3 S:7 LYV Live Nation Entertainment, Inc.: 7.04% Buy
+65.07 Z: 3 S:7 LVNTA Liberty Interactive Corporation: 6.98% Buy
+65.07 Z: 3 S:8 DDC Dominion Diamond Corporation: 13.64% Buy
+65.07 Z: 1 S:16 JHX James Hardie Industries plc.: 10.28% Buy
+65.06 Z: 2 S:2 DCI Donaldson Company, Inc.: -1.41% Hold
+64.99 Z: 1 S:3 JOBS 51job, Inc.: -20.02% Hold
+64.96 Z: 3 S:7 IMPV Imperva, Inc.: 6.51% Buy
+64.94 Z: 1 S:16 ARD Ardagh Group S.A.: 9.79% Buy
+64.94 Z: 2 S:3 SQM Sociedad Quimica y Minera S.A.: 4.77% Hold
+64.92 Z: 2 S:2 AMTD TD Ameritrade Holding Corporation: -1.95% Hold
+64.92 Z: 3 S:7 ZG Zillow Group, Inc.: 6.38% Buy
+64.91 Z: 3 S:7 TWOU 2U, Inc.: 6.34% Buy
+64.89 Z: 3 S:7 GIL Gildan Activewear, Inc.: 6.26% Buy
+64.89 Z: 2 S:10 UBS UBS AG: 1.24% Buy
+64.88 Z: 2 S:2 ANET Arista Networks, Inc.: -2.11% Hold
+64.87 Z: 2 S:4 VMI Valmont Industries, Inc.: 11.18% Hold
+64.86 Z: 4 S:5 HTA Healthcare Trust of America, Inc.: 17.81% Buy
+64.85 Z: 4 S:4 PF Pinnacle Foods, Inc.: 11.09% Buy
+64.82 Z: 3 S:2 MIDD The Middleby Corporation: 22.65% Hold
+64.79 Z: 3 S:8 CAR Avis Budget Group, Inc.: 12.52% Buy
+64.78 Z: 3 S:7 NWSA News Corporation: 5.82% Buy
+64.77 Z: 2 S:4 BPFH Boston Private Financial Holdings, Inc.: 10.75% Hold
+64.77 Z: 3 S:4 MSM MSC Industrial Direct Company, Inc.: 35.75% Hold
+64.70 Z: 4 S:5 HBI Hanesbrands Inc.: 17.14% Buy
+64.69 Z: 5 S:4 FNSR Finisar Corporation: 35.43% Buy
+64.69 Z: 2 S:7 VIAB Viacom Inc.: 30.43% Hold
+64.67 Z: 4 S:6 NCR NCR Corporation: 23.7% Buy
+64.66 Z: 2 S:4 TUP Tupperware Brands Corporation: 10.34% Hold
+64.66 Z: 2 S:2 RGA Reinsurance Group of America, Incorporated: -3.0% Hold
+64.63 Z: 2 S:2 AVX AVX Corporation: -3.11% Hold
+64.62 Z: 2 S:3 PPL PPL Corporation: 3.5% Hold
+64.61 Z: 3 S:8 HSC Harsco Corporation: 11.78% Buy
+64.61 Z: 2 S:1 IEX IDEX Corporation: -9.89% Hold
+64.60 Z: 4 S:4 RXN Rexnord Corporation: 10.08% Buy
+64.60 Z: 2 S:2 ODFL Old Dominion Freight Line, Inc.: -3.26% Hold
+64.58 Z: 3 S:4 CORT Corcept Therapeutics Incorporated: -14.98% Buy
+64.58 Z: 3 S:7 MET MetLife, Inc.: 5.01% Buy
+64.58 Z: 4 S:10 ARRY Array BioPharma Inc.: 54.76% Buy
+64.58 Z: 4 S:10 LXRX Lexicon Pharmaceuticals, Inc.: 67.6% Buy
+64.58 Z: 4 S:10 NBR Nabors Industries Ltd.: 95.51% Buy
+64.58 Z: 4 S:10 WFT Weatherford International plc: 69.49% Buy
+64.57 Z: 1 S:16 CRH CRH PLC: 8.31% Buy
+64.54 Z: 3 S:7 HSNI HSN, Inc.: 4.85% Buy
+64.54 Z: 3 S:7 LGND Ligand Pharmaceuticals Incorporated: 4.83% Buy
+64.50 Z: 1 S:6 CPL CPFL Energia S.A.: -1.99% Hold
+64.48 Z: 5 S:3 DY Dycom Industries, Inc.: 27.95% Buy
+64.46 Z: 4 S:4 TSO Tesoro Corporation: 9.52% Buy
+64.45 Z: 2 S:2 CHD Church & Dwight Company, Inc.: -3.85% Hold
+64.41 Z: 2 S:10 AGIO Agios Pharmaceuticals, Inc.: -0.66% Buy
+64.41 Z: 4 S:7 KMI Kinder Morgan, Inc.: 29.33% Buy
+64.41 Z: 3 S:7 PFGC Performance Food Group Company: 4.32% Buy
+64.40 Z: 3 S:7 BSFT BroadSoft, Inc.: 4.27% Buy
+64.37 Z: 4 S:8 SEMG Semgroup Corporation: 35.85% Buy
+64.36 Z: 2 S:3 ESS Essex Property Trust, Inc.: 2.47% Hold
+64.36 Z: 2 S:4 ISCA International Speedway Corporation: 9.12% Hold
+64.33 Z: 3 S:3 BFR BBVA Banco Frances S.A.: 27.35% Hold
+64.32 Z: 4 S:3 PPG PPG Industries, Inc.: 2.31% Buy
+64.29 Z: 1 S:9 THC Tenet Healthcare Corporation: 17.17% Hold
+64.24 Z: 3 S:6 BA Boeing Company (The): -3.02% Buy
+64.24 Z: 2 S:3 NSC Norfolk Souther Corporation: 1.97% Hold
+64.24 Z: 2 S:7 SSP E.W. Scripps Company (The): 28.63% Hold
+64.23 Z: 1 S:16 CUK Carnival Corporation: 6.93% Buy
+64.22 Z: 3 S:1 LZB La-Z-Boy Incorporated: 13.56% Hold
+64.21 Z: 4 S:4 GS Goldman Sachs Group, Inc. (The): 8.51% Buy
+64.19 Z: 3 S:7 VLRS Controladora Vuela Compania de Aviacion, S.A.B. de C.V.: 3.44% Buy
+64.14 Z: 4 S:7 BUFF Blue Buffalo Pet Products, Inc.: 28.26% Buy
+64.14 Z: 4 S:1 PKG Packaging Corporation of America: -11.75% Buy
+64.11 Z: 4 S:4 SMG Scotts Miracle-Gro Company (The): 8.13% Buy
+64.10 Z: 3 S:11 NKTR Nektar Therapeutics: 29.75% Buy
+64.07 Z: 5 S:4 NGHC National General Holdings Corp: 32.98% Buy
+64.04 Z: 5 S:6 FL Foot Locker, Inc.: 46.18% Buy
+64.03 Z: 2 S:4 LEN Lennar Corporation: 7.81% Hold
+64.03 Z: 3 S:0 DRI Darden Restaurants, Inc.: 6.13% Hold
+64.00 Z: 3 S:0 FAF First American Corporation (The): 6.03% Hold
+64.00 Z: 2 S:3 WSO Watsco, Inc.: 1.03% Hold
+64.00 Z: 1 S:4 COKE Coca-Cola Bottling Co. Consolidated: -17.33% Hold
+63.97 Z: 3 S:7 TWO Two Harbors Investments Corp: 2.56% Buy
+63.92 Z: 4 S:5 AAWW Atlas Air Worldwide Holdings: 14.04% Buy
+63.91 Z: 4 S:4 VNTV Vantiv, Inc.: 7.34% Buy
+63.90 Z: 2 S:3 LPT Liberty Property Trust: 0.61% Hold
+63.87 Z: 1 S:5 ATHM Autohome Inc.: -11.17% Hold
+63.85 Z: 3 S:6 WEB Web.com Group, Inc.: -4.57% Buy
+63.83 Z: 3 S:8 INCY Incyte Corporation: 8.68% Buy
+63.81 Z: 4 S:4 HUN Huntsman Corporation: 6.94% Buy
+63.81 Z: 3 S:9 CHU China Unicom (Hong Kong) Ltd: 15.25% Buy
+63.80 Z: 2 S:3 ETN Eaton Corporation, PLC: 0.22% Hold
+63.78 Z: 2 S:3 LECO Lincoln Electric Holdings, Inc.: 0.13% Hold
+63.76 Z: 2 S:3 PNRA Panera Bread Company: 0.06% Hold
+63.75 Z: 2 S:4 PHM PulteGroup, Inc.: 6.69% Hold
+63.74 Z: 3 S:7 TRUE TrueCar, Inc.: 1.64% Buy
+63.71 Z: 4 S:6 BLDR Builders FirstSource, Inc.: 19.87% Buy
+63.70 Z: 4 S:4 UGP Ultrapar Participacoes S.A.: 6.48% Buy
+63.68 Z: 3 S:10 HZNP Horizon Pharma plc: 21.4% Buy
+63.68 Z: 3 S:1 NDSN Nordson Corporation: 11.39% Hold
+63.68 Z: 1 S:6 AGCO AGCO Corporation: -5.28% Hold
+63.66 Z: 3 S:9 EURN Euronav NV: 14.65% Buy
+63.66 Z: 1 S:16 IBN ICICI Bank Limited: 4.64% Buy
+63.64 Z: 3 S:0 TXRH Texas Roadhouse, Inc.: 4.58% Hold
+63.6 Z: 3 S:9 WBT Welbilt, Inc.: 14.4% Buy
+63.59 Z: 4 S:9 HAL Halliburton Company: 39.36% Buy
+63.58 Z: 3 S:1 CCMP Cabot Microelectronics Corporation: 11.0% Hold
+63.57 Z: 3 S:8 CSII Cardiovascular Systems, Inc.: 7.63% Buy
+63.56 Z: 4 S:7 ACXM Acxiom Corporation: 25.91% Buy
+63.54 Z: 4 S:4 INFY Infosys Limited: 5.83% Buy
+63.49 Z: 3 S:4 BGS B&G Foods, Inc.: 30.63% Hold
+63.44 Z: 4 S:4 MS Morgan Stanley: 5.45% Buy
+63.42 Z: 4 S:4 PCLN The Priceline Group Inc. : 5.37% Buy
+63.42 Z: 4 S:7 GMS GMS Inc.: 25.35% Buy
+63.40 Z: 5 S:4 IX Orix Corp Ads: 30.28% Buy
+63.37 Z: 2 S:4 BOKF BOK Financial Corporation: 5.15% Hold
+63.35 Z: 2 S:6 ROIC Retail Opportunity Investments Corp.: 18.43% Hold
+63.33 Z: 5 S:7 PDCE PDC Energy, Inc.: 65.25% Buy
+63.33 Z: 5 S:7 AAP Advance Auto Parts Inc: 50.16% Buy
+63.32 Z: 3 S:0 RNST Renasant Corporation: 3.29% Hold
+63.31 Z: 2 S:4 HST Host Hotels & Resorts, Inc.: 4.91% Hold
+63.31 Z: 2 S:4 RGR Sturm, Ruger & Company, Inc.: 4.91% Hold
+63.29 Z: 4 S:5 QTS QTS Realty Trust, Inc.: 11.52% Buy
+63.28 Z: 3 S:8 FDC First Data Corporation: 6.47% Buy
+63.27 Z: 2 S:2 MMM 3M Company: -8.57% Hold
+63.27 Z: 2 S:4 PCAR PACCAR Inc.: 4.75% Hold
+63.26 Z: 3 S:8 PANW Palo Alto Networks, Inc.: 6.38% Buy
+63.25 Z: 4 S:7 BSM Black Stone Minerals, L.P.: 24.69% Buy
+63.23 Z: 3 S:8 VIRT Virtu Financial, Inc.: 6.29% Buy
+63.23 Z: 3 S:10 BOX Box, Inc.: 19.62% Buy
+63.22 Z: 3 S:1 OTTR Otter Tail Corporation: 9.55% Hold
+63.21 Z: 2 S:4 NMFC New Mountain Finance Corporation: 4.53% Hold
+63.2 Z: 1 S:6 HRB H&R Block, Inc.: -7.2% Hold
+63.17 Z: 2 S:4 ONB Old National Bancorp: 4.35% Hold
+63.17 Z: 3 S:9 ATI Allegheny Technologies Incorporated: 12.68% Buy
+63.13 Z: 2 S:16 AZUL Azul S.A.: 27.55% Buy
+63.11 Z: 2 S:2 NJR NewJersey Resources Corporation: -9.21% Hold
+63.11 Z: 3 S:9 LILA Liberty Global plc: 12.45% Buy
+63.10 Z: 2 S:4 KNX Knight Transportation, Inc.: 4.08% Hold
+63.09 Z: 2 S:4 CGNX Cognex Corporation: 4.05% Hold
+63.09 Z: 4 S:5 AIG American International Group, Inc.: 10.71% Buy
+63.09 Z: 3 S:7 MTSI MACOM Technology Solutions Holdings, Inc.: -0.97% Buy
+63.09 Z: 4 S:7 PAH Platform Specialty Products Corporation: 24.03% Buy
+63.07 Z: 2 S:4 CLX Clorox Company (The): 3.96% Hold
+63.06 Z: 2 S:3 CA CA Inc.: -2.73% Hold
+63.02 Z: 3 S:10 ZEN Zendesk, Inc.: 18.75% Buy
+62.98 Z: 2 S:2 TROW T. Rowe Price Group, Inc.: -9.71% Hold
+62.98 Z: 4 S:4 AIR AAR Corp.: 3.61% Buy
+62.98 Z: 2 S:3 RBC Regal Beloit Corporation: -3.07% Hold
+62.96 Z: 2 S:4 KO Coca-Cola Company (The): 3.53% Hold
+62.94 Z: 3 S:9 NYRT New York REIT, Inc.: 11.79% Buy
+62.93 Z: 4 S:7 BRFS BRF S.A.: 23.41% Buy
+62.93 Z: 2 S:4 MCK McKesson Corporation: 3.41% Hold
+62.93 Z: 3 S:8 LTM LATAM Airlines Group S.A.: 5.07% Buy
+62.92 Z: 2 S:3 WTFC Wintrust Financial Corporation: -3.29% Hold
+62.87 Z: 2 S:4 UDR United Dominion Realty Trust, Inc.: 3.17% Hold
+62.85 Z: 4 S:5 DAR Darling Ingredients Inc.: 9.76% Buy
+62.84 Z: 2 S:2 ATR AptarGroup, Inc.: -10.3% Hold
+62.81 Z: 2 S:4 LPNT LifePoint Health, Inc.: 2.92% Hold
+62.78 Z: 1 S:5 WD Walker & Dunlop, Inc.: -15.51% Hold
+62.73 Z: 3 S:2 SFNC Simmons First National Corporation: 14.26% Hold
+62.70 Z: 2 S:4 SLF Sun Life Financial Inc.: 2.47% Hold
+62.68 Z: 4 S:6 SIX Six Flags Entertainment Corporation New: 15.75% Buy
+62.66 Z: 2 S:4 CNP CenterPoint Energy, Inc.: 2.34% Hold
+62.66 Z: 2 S:3 MSCI MSCI Inc: -4.34% Hold
+62.66 Z: 3 S:0 FRC FIRST REPUBLIC BANK: 0.64% Hold
+62.65 Z: 3 S:4 CMD Cantel Medical Corp.: 27.3% Hold
+62.65 Z: 1 S:6 APAM Artisan Partners Asset Management Inc.: -9.37% Hold
+62.64 Z: 3 S:8 PHI PLDT Inc.: 3.93% Buy
+62.63 Z: 3 S:1 LEG Leggett & Platt, Incorporated: 7.22% Hold
+62.63 Z: 3 S:10 PRTA Prothena Corporation plc: 17.19% Buy
+62.62 Z: 2 S:16 WPPGY WPP plc: 25.52% Buy
+62.60 Z: 4 S:7 SYNA Synaptics Incorporated: 22.09% Buy
+62.60 Z: 4 S:4 BG Bunge Limited: 2.08% Buy
+62.59 Z: 3 S:0 FFBC First Financial Bancorp.: 0.36% Hold
+62.56 Z: 3 S:0 BR Broadridge Financial Solutions, Inc.: 0.24% Hold
+62.55 Z: 3 S:8 NEP NextEra Energy Partners, LP: 3.56% Buy
+62.50 Z: 3 S:9 MIME Mimecast Limited: 10.01% Buy
+62.5 Z: 3 S:16 AIMT Aimmune Therapeutics, Inc.: 78.91% Buy
+62.5 Z: 3 S:16 XOG Extraction Oil & Gas, Inc.: 86.45% Buy
+62.5 Z: 3 S:16 GBT Global Blood Therapeutics, Inc.: 90.23% Buy
+62.5 Z: 3 S:16 SGYP Synergy Pharmaceuticals, Inc.: 142.83% Buy
+62.5 Z: 3 S:16 HESM Hess Midstream Partners LP: 50.08% Buy
+62.5 Z: 1 S:16 KYN Kayne Anderson MLP Investment Company: 78.96% Hold
+62.5 Z: 3 S:16 WRD WildHorse Resource Development Corporation: 54.72% Buy
+62.49 Z: 3 S:5 SEM Select Medical Holdings Corporation: -16.67% Buy
+62.47 Z: 2 S:4 DCT DCT Industrial Trust Inc: 1.56% Hold
+62.44 Z: 2 S:3 FWRD Forward Air Corporation: -5.22% Hold
+62.44 Z: 3 S:1 CHCO City Holding Company: 6.43% Hold
+62.42 Z: 4 S:6 SUM Summit Materials, Inc.: 14.7% Buy
+62.40 Z: 3 S:1 CATY Cathay General Bancorp: 6.27% Hold
+62.39 Z: 3 S:1 NP Neenah Paper, Inc.: 6.26% Hold
+62.39 Z: 2 S:4 AXTA Axalta Coating Systems Ltd.: 1.24% Hold
+62.37 Z: 1 S:16 ING ING Group, N.V.: -0.49% Buy
+62.29 Z: 1 S:7 LIVN LivaNova PLC: -4.16% Hold
+62.28 Z: 3 S:6 BNS Bank of Nova Scotia (The): -10.86% Buy
+62.27 Z: 3 S:7 RACE Ferrari N.V.: -4.23% Buy
+62.27 Z: 4 S:3 KALU Kaiser Aluminum Corporation: -5.9% Buy
+62.25 Z: 2 S:5 ABEV Ambev S.A.: 7.37% Hold
+62.21 Z: 3 S:10 TBPH Theravance Biopharma, Inc.: 15.53% Buy
+62.21 Z: 1 S:7 GES Guess?, Inc.: -4.49% Hold
+62.19 Z: 3 S:9 PEN Penumbra, Inc.: 8.77% Buy
+62.16 Z: 3 S:3 IDCC InterDigital, Inc.: 18.66% Hold
+62.16 Z: 2 S:4 PNR Pentair plc.: 0.31% Hold
+62.10 Z: 2 S:4 IBKR Interactive Brokers Group, Inc.: 0.08% Hold
+62.06 Z: 3 S:0 CBU Community Bank System, Inc.: -1.76% Hold
+62.05 Z: 3 S:2 UBSI United Bankshares, Inc.: 11.55% Hold
+62.04 Z: 3 S:1 HII Huntington Ingalls Industries, Inc.: 4.84% Hold
+62.03 Z: 4 S:5 BYD Boyd Gaming Corporation: 6.47% Buy
+61.96 Z: 2 S:4 CPA Copa Holdings, S.A.: -0.47% Hold
+61.96 Z: 1 S:16 LEXEA Liberty Expedia Holdings, Inc.: -2.16% Buy
+61.95 Z: 3 S:7 WUBA 58.com Inc.: -5.53% Buy
+61.94 Z: 4 S:7 GE General Electric Company: 19.45% Buy
+61.94 Z: 2 S:5 LPLA LPL Financial Holdings Inc.: 6.11% Hold
+61.92 Z: 2 S:4 NHI National Health Investors, Inc.: -0.64% Hold
+61.91 Z: 2 S:4 SHO Sunstone Hotel Investors, Inc.: -0.68% Hold
+61.89 Z: 2 S:4 HYH Halyard Health, Inc.: -0.75% Hold
+61.88 Z: 3 S:1 CPRT Copart, Inc.: 4.2% Hold
+61.87 Z: 1 S:7 CVI CVR Energy Inc.: -5.83% Hold
+61.83 Z: 3 S:1 FBHS Fortune Brands Home & Security, Inc.: 4.01% Hold
+61.78 Z: 2 S:4 NVO Novo Nordisk A/S: -1.18% Hold
+61.73 Z: 4 S:4 WBC Wabco Holdings Inc.: -1.41% Buy
+61.72 Z: 3 S:10 HALO Halozyme Therapeutics, Inc.: 13.55% Buy
+61.71 Z: 3 S:7 RATE Bankrate, Inc.: -6.47% Buy
+61.69 Z: 3 S:11 SGRY Surgery Partners, Inc.: 20.1% Buy
+61.68 Z: 3 S:5 CTB Cooper Tire & Rubber Company: 30.08% Hold
+61.66 Z: 5 S:8 RAD Rite Aid Corporation: 110.76% Buy
+61.64 Z: 1 S:7 ABCO The Advisory Board Company: -6.77% Hold
+61.63 Z: 4 S:4 IART Integra LifeSciences Holdings Corporation: -1.78% Buy
+61.61 Z: 1 S:2 FIZZ National Beverage Corp.: -40.2% Hold
+61.61 Z: 3 S:1 AMGN Amgen Inc.: 3.12% Hold
+61.60 Z: 3 S:2 INGR Ingredion Incorporated: 9.76% Hold
+61.57 Z: 3 S:10 QTWO Q2 Holdings, Inc.: 12.97% Buy
+61.57 Z: 2 S:7 AES The AES Corporation: 17.97% Hold
+61.55 Z: 2 S:4 BAX Baxter International Inc.: -2.12% Hold
+61.54 Z: 4 S:7 AKR Acadia Realty Trust: 17.86% Buy
+61.53 Z: 3 S:2 VR Validus Holdings, Ltd.: 9.47% Hold
+61.48 Z: 2 S:3 MAN ManpowerGroup: -9.08% Hold
+61.42 Z: 3 S:2 WGO Winnebago Industries, Inc.: 9.04% Hold
+61.41 Z: 3 S:1 SRCE 1st Source Corporation: 2.33% Hold
+61.41 Z: 5 S:4 PSMT PriceSmart, Inc.: 22.32% Buy
+61.41 Z: 2 S:4 DRH Diamondrock Hospitality Company: -2.68% Hold
+61.40 Z: 3 S:9 HNP Huaneng Power International, Inc.: 5.63% Buy
+61.35 Z: 5 S:7 AZO AutoZone, Inc.: 42.07% Buy
+61.34 Z: 1 S:16 PI Impinj, Inc.: -4.62% Buy
+61.33 Z: 3 S:10 CZR Caesars Entertainment Corporation: 12.0% Buy
+61.32 Z: 2 S:5 R Ryder System, Inc.: 3.64% Hold
+61.32 Z: 2 S:6 EPC Energizer Holdings, Inc.: 10.3% Hold
+61.31 Z: 3 S:10 FLOW SPX FLOW, Inc.: 11.91% Buy
+61.28 Z: 3 S:1 PRA ProAssurance Corporation: 1.81% Hold
+61.28 Z: 2 S:8 WMS Advanced Drainage Systems, Inc.: 23.46% Hold
+61.28 Z: 3 S:1 SCL Stepan Company: 1.79% Hold
+61.25 Z: 3 S:2 EIX Edison International: 8.35% Hold
+61.24 Z: 4 S:8 ZAYO Zayo Group Holdings, Inc.: 23.33% Buy
+61.21 Z: 3 S:2 WWD Woodward, Inc.: 8.18% Hold
+61.12 Z: 3 S:8 YNDX Yandex N.V.: -2.15% Buy
+61.12 Z: 2 S:7 HPQ HP Inc.: 16.15% Hold
+61.10 Z: 4 S:7 KHC The Kraft Heinz Company: 16.09% Buy
+61.10 Z: 3 S:1 MAIN Main Street Capital Corporation: 1.09% Hold
+61.10 Z: 3 S:2 KMB Kimberly-Clark Corporation: 7.75% Hold
+61.09 Z: 2 S:16 TTM Tata Motors Ltd: 19.38% Buy
+61.09 Z: 2 S:5 CCE Coca-Cola European Partners plc: 2.7% Hold
+61.08 Z: 3 S:2 BXS BancorpSouth, Inc.: 7.67% Hold
+61.08 Z: 3 S:4 AGII Argo Group International Holdings, Ltd.: 20.99% Hold
+61.05 Z: 4 S:8 WMGI Wright Medical Group N.V.: 22.54% Buy
+61.04 Z: 2 S:10 NVCR NovoCure Limited: -14.14% Buy
+61.04 Z: 3 S:10 PTLA Portola Pharmaceuticals, Inc.: 10.85% Buy
+61.01 Z: 3 S:1 CHE Chemed Corp.: 0.74% Hold
+61.01 Z: 3 S:1 SNV Synovus Financial Corp.: 0.74% Hold
+61.01 Z: 3 S:1 NAVG The Navigators Group, Inc.: 0.73% Hold
+61.00 Z: 3 S:9 VRNS Varonis Systems, Inc.: 4.03% Buy
+61.0 Z: 2 S:16 ATH Athene Holding Ltd.: 19.0% Buy
+60.99 Z: 3 S:0 INDB Independent Bank Corp.: -6.04% Hold
+60.98 Z: 5 S:4 SNP China Petroleum & Chemical Corporation: 20.6% Buy
+60.97 Z: 3 S:1 WOOF VCA Inc. : 0.57% Hold
+60.94 Z: 3 S:8 KTOS Kratos Defense & Security Solutions, Inc.: -2.87% Buy
+60.92 Z: 3 S:10 PSTG Pure Storage, Inc. : 10.38% Buy
+60.92 Z: 2 S:6 TGT Target Corporation: 8.69% Hold
+60.91 Z: 2 S:4 STT State Street Corporation: -4.67% Hold
+60.90 Z: 3 S:1 WEC WEC Energy Group, Inc.: 0.28% Hold
+60.89 Z: 3 S:3 HTLF Heartland Financial USA, Inc.: 13.59% Hold
+60.87 Z: 3 S:10 EIGI Endurance International Group Holdings, Inc.: 10.17% Buy
+60.86 Z: 3 S:1 JNJ Johnson & Johnson: 0.11% Hold
+60.78 Z: 4 S:7 JCI Johnson Controls International plc: 14.81% Buy
+60.78 Z: 1 S:8 FNFV Fidelity National Financial, Inc.: -3.54% Hold
+60.77 Z: 3 S:10 AXDX Accelerate Diagnostics, Inc.: 9.76% Buy
+60.77 Z: 3 S:4 CUBE CubeSmart: 19.76% Hold
+60.75 Z: 2 S:4 MTH Meritage Corporation: -5.33% Hold
+60.69 Z: 3 S:4 LANC Lancaster Colony Corporation: 19.43% Hold
+60.65 Z: 3 S:7 CHGG Chegg, Inc.: -10.71% Buy
+60.64 Z: 3 S:4 NNN National Retail Properties: 19.23% Hold
+60.63 Z: 3 S:1 ASB Associated Banc-Corp: -0.79% Hold
+60.63 Z: 2 S:4 KSU Kansas City Southern: -5.79% Hold
+60.62 Z: 4 S:7 USFD US Foods Holding Corp.: 14.17% Buy
+60.56 Z: 4 S:7 NRZ New Residential Investment Corp.: 13.93% Buy
+60.56 Z: 3 S:10 PFPT Proofpoint, Inc.: 8.92% Buy
+60.53 Z: 3 S:9 SHOP Shopify Inc.: 2.13% Buy
+60.52 Z: 3 S:1 POR Portland General Electric Company: -1.23% Hold
+60.51 Z: 3 S:2 AEE Ameren Corporation: 5.38% Hold
+60.47 Z: 3 S:3 SSB South State Corporation: 11.9% Hold
+60.45 Z: 3 S:2 DORM Dorman Products, Inc.: 5.14% Hold
+60.44 Z: 3 S:2 OMC Omnicom Group Inc.: 5.11% Hold
+60.44 Z: 3 S:1 ABBV AbbVie Inc.: -1.56% Hold
+60.43 Z: 1 S:6 UMC United Microelectronics Corporation: -18.26% Hold
+60.39 Z: 3 S:3 THG The Hanover Insurance Group, Inc.: 11.56% Hold
+60.37 Z: 3 S:2 UMPQ Umpqua Holdings Corporation: 4.84% Hold
+60.37 Z: 3 S:2 AVB AvalonBay Communities, Inc.: 4.84% Hold
+60.37 Z: 4 S:8 TRGP Targa Resources, Inc.: 19.84% Buy
+60.37 Z: 3 S:4 BAH Booz Allen Hamilton Holding Corporation: 18.17% Hold
+60.35 Z: 3 S:2 IDA IDACORP, Inc.: 4.76% Hold
+60.35 Z: 3 S:8 PODD Insulet Corporation: -5.26% Buy
+60.29 Z: 2 S:4 BEN Franklin Resources, Inc.: -7.17% Hold
+60.28 Z: 3 S:3 SYY Sysco Corporation: 11.13% Hold
+60.27 Z: 2 S:5 LULU lululemon athletica inc.: -0.56% Hold
+60.21 Z: 3 S:1 DGX Quest Diagnostics Incorporated: -2.46% Hold
+60.20 Z: 3 S:7 CATM Cardtronics plc: 37.49% Hold
+60.20 Z: 3 S:7 RDC Rowan Companies plc: 37.49% Hold
+60.18 Z: 3 S:10 ADSK Autodesk, Inc.: 7.41% Buy
+60.17 Z: 1 S:10 UA Under Armour, Inc.: 7.35% Hold
+60.15 Z: 1 S:7 TARO Taro Pharmaceutical Industries Ltd.: -12.72% Hold
+60.13 Z: 2 S:2 MDC M.D.C. Holdings, Inc.: -21.14% Hold
+60.12 Z: 3 S:3 AWH Allied World Assurance Company Holdings, AG: 10.5% Hold
+60.11 Z: 3 S:2 D Dominion Energy, Inc.: 3.8% Hold
+60.08 Z: 3 S:4 EGOV NIC Inc.: 17.02% Hold
+60.07 Z: 4 S:10 MMYT MakeMyTrip Limited: 31.96% Buy
+60.05 Z: 5 S:6 HNI HNI Corporation: 30.23% Buy
+60.0 Z: 5 S:9 KOS Kosmos Energy Ltd.: 50.08% Buy
+59.97 Z: 4 S:6 SFM Sprouts Farmers Market, Inc.: 4.91% Buy
+59.95 Z: 3 S:2 MKC McCormick & Company, Incorporated: 3.16% Hold
+59.93 Z: 3 S:2 EXPO Exponent, Inc.: 3.09% Hold
+59.93 Z: 3 S:1 ROLL RBC Bearings Incorporated: -3.59% Hold
+59.91 Z: 4 S:9 KBR KBR, Inc.: 24.67% Buy
+59.91 Z: 2 S:5 EVTC Evertec, Inc.: -2.02% Hold
+59.90 Z: 3 S:4 AF Astoria Financial Corporation: 16.28% Hold
+59.89 Z: 2 S:4 FFG FBL Financial Group, Inc.: -8.75% Hold
+59.87 Z: 3 S:2 MXIM Maxim Integrated Products, Inc.: 2.85% Hold
+59.87 Z: 3 S:2 CMS CMS Energy Corporation: 2.84% Hold
+59.87 Z: 3 S:4 ALGT Allegiant Travel Company: 16.16% Hold
+59.87 Z: 2 S:7 AMCX AMC Networks Inc.: 11.15% Hold
+59.86 Z: 3 S:4 SNI Scripps Networks Interactive, Inc: 16.11% Hold
+59.86 Z: 4 S:7 ITGR Integer Holdings Corporation: 11.11% Buy
+59.85 Z: 3 S:1 MTB M&T Bank Corporation: -3.93% Hold
+59.84 Z: 2 S:8 EEP Enbridge Energy, L.P.: 17.72% Hold
+59.83 Z: 3 S:3 MMS Maximus, Inc.: 9.33% Hold
+59.82 Z: 3 S:3 BRC Brady Corporation: 9.28% Hold
+59.81 Z: 4 S:8 AJRD Aerojet Rocketdyne Holdings, Inc. : 17.59% Buy
+59.77 Z: 3 S:4 QRVO Qorvo, Inc.: 15.78% Hold
+59.77 Z: 4 S:7 GLOG GasLog LP.: 10.78% Buy
+59.73 Z: 5 S:4 TEF Telefonica SA: 15.59% Buy
+59.72 Z: 3 S:7 CM Canadian Imperial Bank of Commerce: 35.55% Hold
+59.67 Z: 3 S:2 SON Sonoco Products Company: 2.03% Hold
+59.67 Z: 3 S:2 SR Spire Inc.: 2.03% Hold
+59.66 Z: 3 S:2 DTE DTE Energy Company: 2.01% Hold
+59.66 Z: 3 S:4 AYR Aircastle Limited: 15.31% Hold
+59.62 Z: 2 S:4 OI Owens-Illinois, Inc.: -9.84% Hold
+59.61 Z: 3 S:1 RE Everest Re Group, Ltd.: -4.86% Hold
+59.61 Z: 4 S:7 OA Orbital ATK, Inc.: 10.12% Buy
+59.61 Z: 3 S:3 TECD Tech Data Corporation: 8.45% Hold
+59.61 Z: 4 S:7 CDK CDK Global, Inc.: 10.11% Buy
+59.59 Z: 3 S:2 WGL WGL Holdings Inc: 1.72% Hold
+59.59 Z: 3 S:10 TDOC Teladoc, Inc.: 5.04% Buy
+59.57 Z: 2 S:6 CHH Choice Hotels International, Inc.: 3.29% Hold
+59.56 Z: 3 S:3 CTXS Citrix Systems, Inc.: 8.25% Hold
+59.54 Z: 3 S:3 SANM Sanmina Corporation: 8.18% Hold
+59.53 Z: 3 S:4 AIT Applied Industrial Technologies, Inc.: 14.82% Hold
+59.53 Z: 3 S:5 DIOD Diodes Incorporated: 21.47% Hold
+59.52 Z: 4 S:7 CSRA CSRA Inc.: 9.76% Buy
+59.49 Z: 3 S:4 INCR INC Research Holdings, Inc.: 14.64% Hold
+59.48 Z: 3 S:3 ABCB Ameris Bancorp: 7.94% Hold
+59.45 Z: 3 S:8 SPNC The Spectranetics Corporation: -8.85% Buy
+59.41 Z: 3 S:1 XLNX Xilinx, Inc.: -5.67% Hold
+59.39 Z: 2 S:7 OEC Orion Engineered Carbons S.A: 9.26% Hold
+59.38 Z: 3 S:2 CHKP Check Point Software Technologies Ltd.: 0.87% Hold
+59.36 Z: 2 S:8 MDRX Allscripts Healthcare Solutions, Inc.: 15.8% Hold
+59.34 Z: 3 S:2 XEL Xcel Energy Inc.: 0.72% Hold
+59.33 Z: 3 S:10 NEWR New Relic, Inc.: 4.01% Buy
+59.32 Z: 3 S:16 PUMP ProPetro Holding Corp.: 37.28% Buy
+59.31 Z: 3 S:5 HMC Honda Motor Company, Ltd.: 20.6% Hold
+59.31 Z: 3 S:4 CPB Campbell Soup Company: 13.92% Hold
+59.31 Z: 3 S:3 POOL Pool Corporation: 7.25% Hold
+59.30 Z: 4 S:8 BITA Bitauto Holdings Limited: 15.54% Buy
+59.29 Z: 4 S:10 YPF YPF Sociedad Anonima: 28.85% Buy
+59.29 Z: 3 S:3 UNF Unifirst Corporation: 7.17% Hold
+59.28 Z: 4 S:7 PINC Premier, Inc.: 8.79% Buy
+59.27 Z: 2 S:5 EGP EastGroup Properties, Inc.: -4.55% Hold
+59.27 Z: 3 S:8 AG First Majestic Silver Corp.: 40.45% Hold
+59.26 Z: 3 S:6 AHGP Alliance Holdings GP, L.P.: 27.07% Hold
+59.26 Z: 3 S:2 CVBF CVB Financial Corporation: 0.4% Hold
+59.26 Z: 3 S:6 EAT Brinker International, Inc.: 27.05% Hold
+59.25 Z: 2 S:7 SYMC Symantec Corporation: 8.7% Hold
+59.22 Z: 3 S:3 CBF Capital Bank Financial Corp.: 6.91% Hold
+59.20 Z: 4 S:10 DXCM DexCom, Inc.: 28.5% Buy
+59.19 Z: 3 S:4 SJM J.M. Smucker Company (The): 13.46% Hold
+59.18 Z: 5 S:4 DOC Physicians Realty Trust: 13.39% Buy
+59.17 Z: 2 S:16 INVH Invitation Homes Inc.: 11.68% Buy
+59.13 Z: 3 S:2 BK Bank Of New York Mellon Corporation (The): -0.12% Hold
+59.11 Z: 3 S:4 HRL Hormel Foods Corporation: 13.12% Hold
+59.06 Z: 3 S:2 ROK Rockwell Automation, Inc.: -0.41% Hold
+59.03 Z: 3 S:3 FLIR FLIR Systems, Inc.: 6.13% Hold
+59.02 Z: 3 S:3 STI SunTrust Banks, Inc.: 6.11% Hold
+59.02 Z: 5 S:4 MGM MGM Resorts International: 12.75% Buy
+59.01 Z: 3 S:4 CLS Celestica, Inc.: 12.73% Hold
+58.99 Z: 3 S:2 PFG Principal Financial Group Inc: -0.68% Hold
+58.98 Z: 3 S:2 BMI Badger Meter, Inc.: -0.74% Hold
+58.97 Z: 3 S:1 AVA Avista Corporation: -7.45% Hold
+58.96 Z: 3 S:3 EXR Extra Space Storage Inc: 5.86% Hold
+58.95 Z: 3 S:2 ABB ABB Ltd: -0.83% Hold
+58.95 Z: 3 S:4 FCF First Commonwealth Financial Corporation: 12.49% Hold
+58.95 Z: 3 S:3 SSD Simpson Manufacturing Company, Inc.: 5.82% Hold
+58.95 Z: 3 S:3 PRI Primerica, Inc.: 5.81% Hold
+58.95 Z: 1 S:7 QIWI QIWI plc: -17.53% Hold
+58.94 Z: 3 S:3 PLXS Plexus Corp.: 5.77% Hold
+58.91 Z: 3 S:16 NTNX Nutanix, Inc.: 35.67% Buy
+58.85 Z: 3 S:8 IRS IRSA Inversiones Y Representaciones S.A.: -11.23% Buy
+58.82 Z: 4 S:0 COLB Columbia Banking System, Inc.: 10.3% Hold
+58.81 Z: 3 S:2 WPC W.P. Carey Inc.: -1.39% Hold
+58.80 Z: 1 S:8 CMPR Cimpress N.V: -11.43% Hold
+58.77 Z: 3 S:2 SCCO Southern Copper Corporation: -1.56% Hold
+58.72 Z: 3 S:2 SIGI Selective Insurance Group, Inc.: -1.75% Hold
+58.71 Z: 3 S:4 JEC Jacobs Engineering Group Inc.: 11.54% Hold
+58.71 Z: 3 S:3 TRMK Trustmark Corporation: 4.87% Hold
+58.69 Z: 3 S:4 EPR EPR Properties: 11.45% Hold
+58.68 Z: 4 S:7 PRAA PRA Group, Inc.: 6.41% Buy
+58.68 Z: 3 S:3 TDY Teledyne Technologies Incorporated: 4.73% Hold
+58.67 Z: 3 S:2 L Loews Corporation: -1.98% Hold
+58.66 Z: 3 S:1 FFIN First Financial Bankshares, Inc.: -8.67% Hold
+58.65 Z: 3 S:4 PEG Public Service Enterprise Group Incorporated: 11.3% Hold
+58.64 Z: 3 S:2 FDS FactSet Research Systems Inc.: -2.08% Hold
+58.63 Z: 3 S:4 MDP Meredith Corporation: 11.21% Hold
+58.63 Z: 3 S:3 UMBF UMB Financial Corporation: 4.54% Hold
+58.58 Z: 2 S:7 STN Stantec Inc: 6.01% Hold
+58.55 Z: 3 S:2 AFL Aflac Incorporated: -2.44% Hold
+58.54 Z: 3 S:2 IPCC Infinity Property and Casualty Corporation: -2.5% Hold
+58.54 Z: 2 S:7 CFG Citizens Financial Group, Inc.: 5.83% Hold
+58.53 Z: 2 S:7 ZBRA Zebra Technologies Corporation: 5.81% Hold
+58.52 Z: 3 S:10 CS Credit Suisse Group: 0.75% Buy
+58.47 Z: 3 S:3 APH Amphenol Corporation: 3.9% Hold
+58.46 Z: 3 S:2 RSG Republic Services, Inc.: -2.81% Hold
+58.39 Z: 3 S:3 LAMR Lamar Advertising Company: 3.58% Hold
+58.38 Z: 2 S:16 VOD Vodafone Group Plc: 8.54% Buy
+58.36 Z: 3 S:5 HL Hecla Mining Company: 16.8% Hold
+58.36 Z: 3 S:3 WAFD Washington Federal, Inc.: 3.45% Hold
+58.33 Z: 3 S:10 FTR Frontier Communications Corporation: 89.5% Hold
+58.33 Z: 5 S:10 CBI Chicago Bridge & Iron Company N.V.: 50.75% Buy
+58.33 Z: 3 S:10 ESV ENSCO plc: 73.75% Hold
+58.33 Z: 3 S:10 MRO Marathon Oil Corporation: 57.21% Hold
+58.33 Z: 3 S:10 SM SM Energy Company: 74.42% Hold
+58.33 Z: 3 S:10 SWN Southwestern Energy Company: 69.49% Hold
+58.30 Z: 3 S:3 SJI South Jersey Industries, Inc.: 3.22% Hold
+58.26 Z: 3 S:4 GM General Motors Company: 9.73% Hold
+58.23 Z: 3 S:3 TSE Trinseo S.A.: 2.93% Hold
+58.21 Z: 2 S:7 CL Colgate-Palmolive Company: 4.53% Hold
+58.19 Z: 3 S:3 NBTB NBT Bancorp Inc.: 2.79% Hold
+58.18 Z: 2 S:5 LII Lennox International, Inc.: -8.92% Hold
+58.16 Z: 3 S:9 MORE           Monogram Residential Trust, Inc.: -7.33% Buy
+58.16 Z: 4 S:8 GDDY GoDaddy Inc.: 10.98% Buy
+58.15 Z: 3 S:10 SHAK Shake Shack, Inc.: -0.71% Buy
+58.13 Z: 3 S:1 TEO Telecom Argentina Stet - France Telecom S.A.: -10.79% Hold
+58.13 Z: 4 S:8 SFR Colony Starwood Homes: 10.87% Buy
+58.11 Z: 3 S:2 CDNS Cadence Design Systems, Inc.: -4.21% Hold
+58.09 Z: 3 S:2 GLW Corning Incorporated: -4.28% Hold
+58.08 Z: 3 S:2 TRV The Travelers Companies, Inc.: -4.33% Hold
+58.07 Z: 2 S:6 VFC V.F. Corporation: -2.71% Hold
+58.07 Z: 3 S:8 LPI Laredo Petroleum, Inc.: 35.62% Hold
+58.05 Z: 3 S:10 NOW ServiceNow, Inc.: -1.11% Buy
+58.04 Z: 3 S:3 RHP Ryman Hospitality Properties, Inc.: 2.19% Hold
+58.03 Z: 4 S:10 ONCE Spark Therapeutics, Inc.: 23.82% Buy
+58.03 Z: 3 S:4 KAMN Kaman Corporation: 8.82% Hold
+58.03 Z: 3 S:4 WBMD WebMD Health Corp: 8.81% Hold
+58.00 Z: 3 S:4 NSIT Insight Enterprises, Inc.: 8.67% Hold
+57.99 Z: 3 S:3 UTX United Technologies Corporation: 1.97% Hold
+57.98 Z: 3 S:1 ALG Alamo Group, Inc.: -11.38% Hold
+57.97 Z: 3 S:3 PNC PNC Financial Services Group, Inc. (The): 1.91% Hold
+57.96 Z: 3 S:7 RPAI Retail Properties of America, Inc.: 28.51% Hold
+57.94 Z: 2 S:6 RCI Rogers Communication, Inc.: -3.24% Hold
+57.93 Z: 2 S:7 NOK Nokia Corporation: 3.42% Hold
+57.93 Z: 3 S:1 JKHY Jack Henry & Associates, Inc.: -11.58% Hold
+57.93 Z: 3 S:3 NATI National Instruments Corporation: 1.72% Hold
+57.90 Z: 3 S:5 MLNX Mellanox Technologies, Ltd.: 14.96% Hold
+57.90 Z: 3 S:4 DISH DISH Network Corporation: 8.28% Hold
+57.89 Z: 3 S:6 PAA Plains All American Pipeline, L.P.: 21.58% Hold
+57.86 Z: 3 S:2 VTR Ventas, Inc.: -5.21% Hold
+57.85 Z: 3 S:6 NEM Newmont Mining Corporation: 21.43% Hold
+57.84 Z: 3 S:5 GPC Genuine Parts Company: 14.7% Hold
+57.80 Z: 3 S:2 EXPD Expeditors International of Washington, Inc.: -5.45% Hold
+57.78 Z: 3 S:2 CBSH Commerce Bancshares, Inc.: -5.53% Hold
+57.78 Z: 3 S:16 LFC China Life Insurance Company Limited: 31.12% Buy
+57.76 Z: 3 S:3 PBCT People&#39;s United Financial, Inc.: 1.07% Hold
+57.75 Z: 3 S:7 CNNX Cone Midstream Partners LP: 27.68% Hold
+57.75 Z: 2 S:16 CBD Companhia Brasileira de Distribuicao: 6.0% Buy
+57.71 Z: 2 S:16 GPN Global Payments Inc.: 5.87% Buy
+57.71 Z: 2 S:7 EC Ecopetrol S.A.: 2.52% Hold
+57.69 Z: 4 S:3 ENS Enersys: 25.78% Hold
+57.69 Z: 3 S:16 FTI TechnipFMC plc: 30.77% Buy
+57.69 Z: 3 S:4 OGE OGE Energy Corporation: 7.43% Hold
+57.62 Z: 3 S:4 FFIV F5 Networks, Inc.: 7.18% Hold
+57.62 Z: 3 S:8 GG Goldcorp Inc.: 33.82% Hold
+57.60 Z: 3 S:4 H Hyatt Hotels Corporation: 7.1% Hold
+57.59 Z: 3 S:3 CR Crane Company: 0.37% Hold
+57.57 Z: 2 S:16 YUMC Yum China Holdings, Inc.: 5.29% Buy
+57.56 Z: 3 S:2 FICO Fair Isaac Corporation: -6.39% Hold
+57.55 Z: 3 S:3 CAJ Canon, Inc.: 0.23% Hold
+57.55 Z: 3 S:4 AOBC American Outdoor Brands Corporation: 6.89% Hold
+57.54 Z: 5 S:7 AFSI AmTrust Financial Services, Inc.: 26.84% Buy
+57.54 Z: 3 S:4 CFFN Capitol Federal Financial, Inc.: 6.84% Hold
+57.52 Z: 3 S:10 RNG Ringcentral, Inc.: -3.23% Buy
+57.52 Z: 2 S:16 LW Lamb Weston Holdings, Inc.: 5.09% Buy
+57.50 Z: 3 S:7 PAGP Plains Group Holdings, L.P.: 26.7% Hold
+57.49 Z: 3 S:5 ATGE Adtalem Global Education Inc.: 13.31% Hold
+57.46 Z: 3 S:4 HIW Highwoods Properties, Inc.: 6.53% Hold
+57.44 Z: 3 S:3 GGG Graco Inc.: -0.22% Hold
+57.41 Z: 3 S:5 PGEM Ply Gem Holdings, Inc.: 12.99% Hold
+57.41 Z: 5 S:4 CODI Compass Diversified Holdings: 6.32% Buy
+57.4 Z: 3 S:16 AXON           Axovant Sciences Ltd.: 29.6% Buy
+57.38 Z: 3 S:4 ST Sensata Technologies Holding N.V.: 6.22% Hold
+57.38 Z: 3 S:4 AHL Aspen Insurance Holdings Limited: 6.19% Hold
+57.36 Z: 3 S:4 WFC Wells Fargo & Company: 6.12% Hold
+57.36 Z: 3 S:4 PG Procter & Gamble Company (The): 6.11% Hold
+57.34 Z: 3 S:5 AXE Anixter International Inc.: 12.72% Hold
+57.33 Z: 1 S:5 UHAL Amerco: 12.66% Outperform
+57.26 Z: 3 S:3 NICE NICE Ltd: -0.95% Hold
+57.25 Z: 3 S:4 MELI MercadoLibre, Inc.: 5.69% Hold
+57.23 Z: 5 S:10 PAM Pampa Energia S.A.: 45.59% Buy
+57.22 Z: 3 S:7 WCC WESCO International, Inc.: 25.55% Hold
+57.21 Z: 3 S:5 PDM Piedmont Office Realty Trust, Inc.: 12.2% Hold
+57.2 Z: 3 S:3 AON Aon plc: -1.2% Hold
+57.19 Z: 3 S:16 AMFW Amec Plc Ord: 28.77% Buy
+57.18 Z: 2 S:7 BRCD Brocade Communications Systems, Inc.: 0.39% Hold
+57.17 Z: 3 S:3 CMI Cummins Inc.: -1.31% Hold
+57.16 Z: 3 S:4 EMR Emerson Electric Company: 5.33% Hold
+57.15 Z: 3 S:4 LYB LyondellBasell Industries NV: 5.29% Hold
+57.14 Z: 3 S:4 TTS Tile Shop Hldgs, Inc.: 5.26% Hold
+57.11 Z: 2 S:8 CMCM Cheetah Mobile Inc.: 6.81% Hold
+57.06 Z: 3 S:4 OAK Oaktree Capital Group, LLC: 4.93% Hold
+57.05 Z: 3 S:4 DLR Digital Realty Trust, Inc.: 4.89% Hold
+57.05 Z: 3 S:4 TM Toyota Motor Corp Ltd Ord: 4.87% Hold
+57.04 Z: 3 S:7 CNSL Consolidated Communications Holdings, Inc.: 24.86% Hold
+57.04 Z: 3 S:5 MDU MDU Resources Group, Inc.: 11.5% Hold
+57.03 Z: 3 S:5 MPW Medical Properties Trust, Inc.: 11.46% Hold
+57.00 Z: 3 S:7 KGC Kinross Gold Corporation: 24.67% Hold
+56.99 Z: 2 S:7 LQ La Quinta Holdings Inc.: -0.34% Hold
+56.98 Z: 3 S:2 HAS Hasbro, Inc.: -8.72% Hold
+56.98 Z: 3 S:5 HTGC Hercules Capital, Inc.: 11.28% Hold
+56.98 Z: 3 S:4 FITB Fifth Third Bancorp: 4.6% Hold
+56.96 Z: 3 S:4 CPT Camden Property Trust: 4.52% Hold
+56.93 Z: 3 S:4 SXT Sensient Technologies Corporation: 4.41% Hold
+56.92 Z: 2 S:6 CHSP Chesapeake Lodging Trust: -7.3% Hold
+56.90 Z: 3 S:4 BLL Ball Corporation: 4.27% Hold
+56.89 Z: 3 S:4 BBT BB&T Corporation: 4.26% Hold
+56.87 Z: 3 S:4 FCAU Fiat Chrysler Automobiles N.V.: 4.17% Hold
+56.86 Z: 3 S:6 KMT Kennametal Inc.: 17.46% Hold
+56.85 Z: 3 S:4 MASI Masimo Corporation: 4.07% Hold
+56.83 Z: 3 S:3 FISV Fiserv, Inc.: -2.65% Hold
+56.81 Z: 3 S:4 NTAP NetApp, Inc.: 3.91% Hold
+56.81 Z: 3 S:4 CVG Convergys Corporation: 3.91% Hold
+56.79 Z: 3 S:5 FRT Federal Realty Investment Trust: 10.52% Hold
+56.77 Z: 3 S:4 ECOL US Ecology, Inc.: 3.75% Hold
+56.72 Z: 3 S:7 BRX Brixmor Property Group Inc.: 23.56% Hold
+56.70 Z: 3 S:4 CERN Cerner Corporation: 3.5% Hold
+56.68 Z: 3 S:3 PKI PerkinElmer, Inc.: -3.25% Hold
+56.68 Z: 3 S:4 USB U.S. Bancorp: 3.41% Hold
+56.63 Z: 3 S:4 ICUI ICU Medical, Inc.: 3.2% Hold
+56.63 Z: 3 S:4 QLYS Qualys, Inc.: 3.2% Hold
+56.62 Z: 3 S:5 SFL Ship Finance International Limited: 9.85% Hold
+56.61 Z: 3 S:5 NFG National Fuel Gas Company: 9.81% Hold
+56.61 Z: 3 S:4 STBA S&T Bancorp, Inc.: 3.14% Hold
+56.61 Z: 3 S:5 AIV Apartment Investment and Management Company: 9.79% Hold
+56.60 Z: 3 S:16 NCSM NCS Multistage Holdings, Inc.: 26.42% Buy
+56.59 Z: 3 S:4 AVT Avnet, Inc.: 3.04% Hold
+56.53 Z: 3 S:4 GXP Great Plains Energy Inc: 2.82% Hold
+56.49 Z: 3 S:4 HMN Horace Mann Educators Corporation: 2.64% Hold
+56.49 Z: 3 S:16 JAG Jagged Peak Energy Inc.: 25.96% Buy
+56.47 Z: 3 S:4 NI NiSource, Inc: 2.56% Hold
+56.44 Z: 3 S:4 EE El Paso Electric Company: 2.46% Hold
+56.40 Z: 3 S:4 WEN Wendy&#39;s Company (The): 2.3% Hold
+56.39 Z: 3 S:4 WWW Wolverine World Wide, Inc.: 2.26% Hold
+56.37 Z: 3 S:4 RHI Robert Half International Inc.: 2.15% Hold
+56.37 Z: 3 S:4 XL XL Group Ltd.: 2.15% Hold
+56.36 Z: 3 S:4 DOV Dover Corporation: 2.11% Hold
+56.33 Z: 4 S:5 ABX Barrick Gold Corporation: 33.67% Hold
+56.32 Z: 3 S:4 DFT Dupont Fabros Technology, Inc.: 1.97% Hold
+56.27 Z: 3 S:7 RPT Ramco-Gershenson Properties Trust: 21.77% Hold
+56.25 Z: 3 S:7 RMR The RMR Group Inc.: 21.7% Hold
+56.25 Z: 4 S:8 NSM Nationstar Mortgage Holdings Inc.: 3.35% Buy
+56.25 Z: 4 S:16 UPL Ultra Petroleum Corp.: 51.52% Buy
+56.25 Z: 3 S:16 UNIT Uniti Group Inc.: 25.0% Buy
+56.23 Z: 3 S:4 AXS Axis Capital Holdings Limited: 1.61% Hold
+56.20 Z: 3 S:5 TKR Timken Company (The): 8.16% Hold
+56.19 Z: 2 S:7 FCPT Four Corners Property Trust, Inc.: -3.54% Hold
+56.16 Z: 3 S:5 TCBI Texas Capital Bancshares, Inc.: 8.01% Hold
+56.13 Z: 3 S:4 RF Regions Financial Corporation: 1.21% Hold
+56.13 Z: 3 S:7 LB L Brands, Inc.: 21.2% Hold
+56.12 Z: 3 S:4 ILMN Illumina, Inc.: 1.16% Hold
+56.12 Z: 2 S:7 TEX Terex Corporation: -3.85% Hold
+56.10 Z: 3 S:16 AMGP Antero Midstream GP LP: 24.42% Buy
+56.08 Z: 3 S:5 HEP Holly Energy Partners, L.P.: 7.66% Hold
+56.07 Z: 3 S:2 NWN Northwest Natural Gas Company: -12.35% Hold
+56.07 Z: 1 S:8 TWTR Twitter, Inc.: -22.36% Hold
+56.07 Z: 3 S:4 TOL Toll Brothers Inc.: 0.97% Hold
+56.07 Z: 3 S:4 PRU Prudential Financial, Inc.: 0.96% Hold
+56.06 Z: 3 S:4 HBAN Huntington Bancshares Incorporated: 0.94% Hold
+56.06 Z: 3 S:4 NVS Novartis AG: 0.92% Hold
+56.05 Z: 3 S:4 Q Quintiles IMS Holdings, Inc.: 0.87% Hold
+56.04 Z: 3 S:4 PRXL PAREXEL International Corporation: 0.86% Hold
+56.03 Z: 3 S:6 WSM Williams-Sonoma, Inc.: 14.15% Hold
+56.01 Z: 3 S:2 MTD Mettler-Toledo International, Inc.: -12.61% Hold
+56.00 Z: 3 S:5 UFS Domtar Corporation: 7.37% Hold
+56.00 Z: 3 S:4 SLGN Silgan Holdings Inc.: 0.7% Hold
+56.00 Z: 4 S:6 TSCO Tractor Supply Company: 39.03% Hold
+55.98 Z: 3 S:4 HR Healthcare Realty Trust Incorporated: 0.61% Hold
+55.96 Z: 4 S:1 TXN Texas Instruments Incorporated: 5.54% Hold
+55.95 Z: 4 S:1 IFF Internationa Flavors & Fragrances, Inc.: 5.48% Hold
+55.94 Z: 3 S:6 DISCK Discovery Communications, Inc.: 13.77% Hold
+55.93 Z: 3 S:7 CLB Core Laboratories N.V.: 20.41% Hold
+55.93 Z: 3 S:4 MKL Markel Corporation: 0.39% Hold
+55.92 Z: 3 S:5 CAA CalAtlantic Group, Inc.: 7.05% Hold
+55.91 Z: 2 S:7 WETF WisdomTree Investments, Inc.: -4.67% Hold
+55.90 Z: 3 S:16 NBLX Noble Midstream Partners LP: 23.61% Buy
+55.87 Z: 3 S:4 GBDC Golub Capital BDC, Inc.: 0.15% Hold
+55.87 Z: 3 S:4 AXP American Express Company: 0.15% Hold
+55.86 Z: 3 S:4 NWBI Northwest Bancshares, Inc.: 0.13% Hold
+55.85 Z: 3 S:4 WFM Whole Foods Market, Inc.: 0.1% Hold
+55.85 Z: 3 S:4 KCG KCG Holdings, Inc.: 0.1% Hold
+55.85 Z: 3 S:9 CNX CONSOL Energy Inc.: 33.42% Hold
+55.80 Z: 4 S:6 MNRO Monro Muffler Brake, Inc.: 38.22% Hold
+55.80 Z: 3 S:4 AAON AAON, Inc.: -0.13% Hold
+55.78 Z: 3 S:5 PSX Phillips 66: 6.46% Hold
+55.75 Z: 3 S:16 COUP Coupa Software Incorporated: 23.02% Buy
+55.75 Z: 3 S:4 GLPI Gaming and Leisure Properties, Inc.: -0.32% Hold
+55.71 Z: 3 S:6 FCN FTI Consulting, Inc.: 12.86% Hold
+55.71 Z: 3 S:4 GRMN Garmin Ltd.: -0.48% Hold
+55.69 Z: 3 S:16 PSDO Presidio, Inc.: 22.78% Buy
+55.67 Z: 5 S:4 NOAH Noah Holdings Ltd.: -0.63% Buy
+55.65 Z: 3 S:4 CTRE CareTrust REIT, Inc.: -0.72% Hold
+55.65 Z: 2 S:7 CENX Century Aluminum Company: -5.72% Hold
+55.63 Z: 3 S:4 LTC LTC Properties, Inc.: -0.81% Hold
+55.62 Z: 3 S:6 CSTE Caesarstone Ltd.: 12.5% Hold
+55.62 Z: 2 S:10 SSYS Stratasys, Ltd.: 14.16% Hold
+55.59 Z: 3 S:16 GDI Gardner Denver Holdings, Inc.: 22.39% Buy
+55.59 Z: 3 S:4 MANH Manhattan Associates, Inc.: -0.96% Hold
+55.55 Z: 3 S:16 ESPR Esperion Therapeutics, Inc.: 22.23% Buy
+55.53 Z: 3 S:5 VLO Valero Energy Corporation: 5.49% Hold
+55.52 Z: 3 S:6 CFX Colfax Corporation: 12.11% Hold
+55.52 Z: 3 S:5 HY Hyster-Yale Materials Handling, Inc.: 5.43% Hold
+55.51 Z: 3 S:4 CMC Commercial Metals Company: -1.28% Hold
+55.50 Z: 2 S:8 UAA Under Armour, Inc.: 0.35% Hold
+55.48 Z: 3 S:6 AUO AU Optronics Corp: 11.94% Hold
+55.48 Z: 3 S:6 GILD Gilead Sciences, Inc.: 11.93% Hold
+55.48 Z: 3 S:5 HLF Herbalife LTD.: 5.26% Hold
+55.48 Z: 3 S:5 TD Toronto Dominion Bank (The): 5.26% Hold
+55.45 Z: 3 S:4 COR CoreSite Realty Corporation: -1.5% Hold
+55.41 Z: 3 S:9 DNOW NOW Inc.: 31.66% Hold
+55.40 Z: 3 S:16 QVCA Liberty Interactive Corporation: 21.63% Buy
+55.39 Z: 3 S:9 FET Forum Energy Technologies, Inc.: 31.58% Hold
+55.39 Z: 3 S:16 ARCH Arch Coal, Inc.: 21.56% Buy
+55.37 Z: 3 S:6 LSI Life Storage, Inc.: 11.51% Hold
+55.37 Z: 4 S:1 PAYX Paychex, Inc.: 3.15% Hold
+55.36 Z: 3 S:6 PRIM Primoris Services Corporation: 11.46% Hold
+55.35 Z: 4 S:0 CPK Chesapeake Utilities Corporation: -3.57% Hold
+55.31 Z: 3 S:6 CRS Carpenter Technology Corporation: 11.26% Hold
+55.29 Z: 3 S:4 ROL Rollins, Inc.: -2.15% Hold
+55.28 Z: 4 S:1 ACGL Arch Capital Group Ltd.: 2.8% Hold
+55.25 Z: 3 S:3 CCU Compania Cervecerias Unidas, S.A.: -9.0% Hold
+55.23 Z: 3 S:7 NLSN Nielsen N.V.: 17.59% Hold
+55.21 Z: 3 S:6 DISCA Discovery Communications, Inc.: 10.86% Hold
+55.2 Z: 3 S:16 AA Alcoa Corporation: 20.8% Buy
+55.18 Z: 3 S:5 WEX WEX Inc.: 4.08% Hold
+55.18 Z: 1 S:10 OZM Och-Ziff Capital Management Group LLC: -12.59% Hold
+55.18 Z: 3 S:3 ALV Autoliv, Inc.: -9.27% Hold
+55.15 Z: 3 S:5 BMS Bemis Company, Inc.: 3.96% Hold
+55.14 Z: 3 S:5 ETR Entergy Corporation: 3.92% Hold
+55.13 Z: 3 S:16 REVG REV Group, Inc.: 20.55% Buy
+55.1 Z: 3 S:3 IRBT iRobot Corporation: -9.6% Hold
+55.09 Z: 3 S:7 PBI Pitney Bowes Inc.: 17.04% Hold
+55.09 Z: 3 S:3 NRCIB National Research Corporation: -9.63% Hold
+55.09 Z: 3 S:7 HPE Hewlett Packard Enterprise Company: 17.03% Hold
+55.08 Z: 3 S:16 GCP GCP Applied Technologies Inc.: 20.33% Buy
+55.02 Z: 3 S:16 FRAC Keane Group, Inc.: 20.1% Buy
+54.98 Z: 5 S:6 AMZN Amazon.com, Inc.: 9.93% Buy
+54.97 Z: 3 S:4 TTEC TeleTech Holdings, Inc.: -3.42% Hold
+54.97 Z: 4 S:2 SO Southern Company (The): 8.23% Hold
+54.95 Z: 3 S:16 SUPV Grupo Supervielle S.A.: 19.83% Buy
+54.95 Z: 4 S:4 GNTX Gentex Corporation: 21.48% Hold
+54.93 Z: 3 S:6 CTL CenturyLink, Inc.: 9.75% Hold
+54.93 Z: 3 S:4 PNM PNM Resources, Inc. (Holding Co.): -3.61% Hold
+54.90 Z: 3 S:4 LHO LaSalle Hotel Properties: -3.72% Hold
+54.89 Z: 3 S:4 CAE CAE Inc: -3.74% Hold
+54.84 Z: 3 S:16 ELF e.l.f. Beauty, Inc.: 19.38% Buy
+54.82 Z: 4 S:7 ECPG Encore Capital Group Inc: -9.04% Buy
+54.77 Z: 3 S:5 RUSHA Rush Enterprises, Inc.: 2.42% Hold
+54.76 Z: 4 S:3 COLM Columbia Sportswear Company: 14.08% Hold
+54.74 Z: 3 S:7 USM United States Cellular Corporation: 15.65% Hold
+54.72 Z: 3 S:16 CBS CBS Corporation: 18.88% Buy
+54.72 Z: 3 S:16 E ENI S.p.A.: 18.88% Buy
+54.70 Z: 3 S:10 DO Diamond Offshore Drilling, Inc.: 35.5% Hold
+54.63 Z: 3 S:6 ESRX Express Scripts Holding Company: 8.55% Hold
+54.62 Z: 3 S:6 CMP Compass Minerals International, Inc.: 8.52% Hold
+54.61 Z: 3 S:10 KITE Kite Pharma, Inc.: -14.86% Buy
+54.61 Z: 3 S:16 VREX Varex Imaging Corporation: 18.46% Buy
+54.59 Z: 3 S:4 REGN Regeneron Pharmaceuticals, Inc.: -4.96% Hold
+54.58 Z: 4 S:4 PZZA Papa John&#39;s International, Inc.: 20.02% Hold
+54.58 Z: 3 S:7 COTY Coty Inc.: 15.01% Hold
+54.50 Z: 3 S:7 USAC USA Compression Partners, LP: 14.68% Hold
+54.49 Z: 3 S:5 DNKN Dunkin&#39; Brands Group, Inc.: 1.33% Hold
+54.47 Z: 3 S:6 LNCE Snyder&#39;s-Lance, Inc.: 7.91% Hold
+54.44 Z: 3 S:7 DRQ Dril-Quip, Inc.: 14.46% Hold
+54.44 Z: 3 S:5 AKRX Akorn, Inc.: 1.1% Hold
+54.43 Z: 3 S:16 HCM Hutchison China MediTech Limited: 17.74% Buy
+54.41 Z: 3 S:16 WOW WideOpenWest, Inc.: 17.65% Buy
+54.38 Z: 3 S:7 CLI Mack-Cali Realty Corporation: 14.19% Hold
+54.36 Z: 3 S:16 GTT GTT Communications, Inc.: 17.46% Buy
+54.34 Z: 3 S:5 WNC Wabash National Corporation: 0.72% Hold
+54.34 Z: 3 S:3 VAR Varian Medical Systems, Inc.: -12.64% Hold
+54.33 Z: 3 S:4 MGLN Magellan Health, Inc.: -5.99% Hold
+54.27 Z: 4 S:2 AEP American Electric Power Company, Inc.: 5.45% Hold
+54.25 Z: 3 S:4 QGEN Qiagen N.V.: -6.31% Hold
+54.25 Z: 4 S:5 CSL Carlisle Companies Incorporated: 25.35% Hold
+54.20 Z: 3 S:7 SLG SL Green Realty Corporation: 13.5% Hold
+54.19 Z: 3 S:7 SFLY Shutterfly, Inc.: 13.44% Hold
+54.18 Z: 3 S:7 GME Gamestop Corporation: 13.42% Hold
+54.17 Z: 3 S:7 SPH Suburban Propane Partners, L.P.: 13.35% Hold
+54.14 Z: 3 S:8 PRTY Party City Holdco Inc.: 19.93% Hold
+54.14 Z: 3 S:6 JNPR Juniper Networks, Inc.: 6.57% Hold
+54.12 Z: 3 S:6 DEI Douglas Emmett, Inc.: 6.52% Hold
+54.12 Z: 3 S:6 SNH Senior Housing Properties Trust: 6.49% Hold
+54.11 Z: 3 S:7 M Macy&#39;s Inc: 13.12% Hold
+54.04 Z: 3 S:16 HGV Hilton Grand Vacations Inc.: 16.18% Buy
+54.04 Z: 4 S:3 PFE Pfizer, Inc.: 11.18% Hold
+54.04 Z: 3 S:9 OIS Oil States International, Inc.: 26.16% Hold
+54.01 Z: 3 S:16 AERI Aerie Pharmaceuticals, Inc.: 16.07% Buy
+53.98 Z: 3 S:5 CNO CNO Financial Group, Inc.: -0.71% Hold
+53.98 Z: 3 S:5 CAH Cardinal Health, Inc.: -0.72% Hold
+53.98 Z: 3 S:7 SBH Sally Beauty Holdings, Inc.: 12.59% Hold
+53.97 Z: 4 S:2 DOX Amdocs Limited: 4.23% Hold
+53.96 Z: 4 S:7 BZUN Baozun Inc.: -12.47% Buy
+53.93 Z: 3 S:16 CPS Cooper-Standard Holdings Inc.: 15.74% Buy
+53.91 Z: 3 S:5 SIRI Sirius XM Holdings Inc.: -1.01% Hold
+53.90 Z: 3 S:7 GIMO Gigamon Inc.: 12.27% Hold
+53.88 Z: 3 S:16 SMFG Sumitomo Mitsui Financial Group Inc: 15.54% Buy
+53.88 Z: 3 S:7 CLH Clean Harbors, Inc.: 12.19% Hold
+53.87 Z: 4 S:2 UNM Unum Group: 3.84% Hold
+53.87 Z: 3 S:7 BXP Boston Properties, Inc.: 12.15% Hold
+53.85 Z: 4 S:1 ED Consolidated Edison Inc: -2.9% Hold
+53.84 Z: 3 S:16 AVXS AveXis, Inc.: 15.39% Buy
+53.83 Z: 3 S:6 KSS Kohl&#39;s Corporation: 5.32% Hold
+53.82 Z: 3 S:5 EBAY eBay Inc.: -1.37% Hold
+53.81 Z: 3 S:7 GPS Gap, Inc. (The): 11.94% Hold
+53.81 Z: 3 S:16 TVPT Travelport Worldwide Limited: 15.27% Buy
+53.80 Z: 3 S:7 PGRE Paramount Group, Inc.: 11.89% Hold
+53.79 Z: 3 S:5 RLI RLI Corp.: -1.47% Hold
+53.79 Z: 3 S:4 WERN Werner Enterprises, Inc.: -8.16% Hold
+53.78 Z: 4 S:4 FHN First Horizon National Corporation: 16.81% Hold
+53.74 Z: 3 S:5 AMKR Amkor Technology, Inc.: -1.67% Hold
+53.73 Z: 4 S:2 MAR Marriott International: 3.28% Hold
+53.70 Z: 3 S:6 OMI Owens & Minor, Inc.: 4.83% Hold
+53.69 Z: 4 S:1 ADP Automatic Data Processing, Inc.: -3.57% Hold
+53.62 Z: 3 S:6 DISCB Discovery Communications, Inc.: 4.52% Hold
+53.61 Z: 4 S:2 SWX Southwest Gas Holdings, Inc.: 2.81% Hold
+53.61 Z: 3 S:7 INT World Fuel Services Corporation: 11.14% Hold
+53.61 Z: 3 S:4 ABAX ABAXIS, Inc.: -8.86% Hold
+53.61 Z: 3 S:7 MAC Macerich Company (The): 11.13% Hold
+53.60 Z: 3 S:7 SMI Semiconductor  Manufacturing International Corporation: 11.08% Hold
+53.59 Z: 3 S:16 SAGE Sage Therapeutics, Inc.: 14.38% Buy
+53.58 Z: 3 S:5 WU Western Union Company (The): -2.32% Hold
+53.58 Z: 3 S:5 DAN Dana Incorporated: -2.34% Hold
+53.58 Z: 4 S:4 T AT&T Inc.: 15.99% Hold
+53.56 Z: 4 S:2 UGI UGI Corporation: 2.59% Hold
+53.54 Z: 3 S:10 P Pandora Media, Inc.: 30.86% Hold
+53.49 Z: 2 S:7 ETSY Etsy, Inc.: -14.36% Hold
+53.46 Z: 4 S:3 HUBB Hubbell Inc: 8.84% Hold
+53.45 Z: 3 S:7 CIG Comp En De Mn Cemig ADS: 10.48% Hold
+53.45 Z: 4 S:2 BRO Brown & Brown, Inc.: 2.14% Hold
+53.44 Z: 3 S:7 BVN Buenaventura Mining Company Inc.: 10.45% Hold
+53.42 Z: 4 S:2 NDAQ Nasdaq, Inc.: 2.04% Hold
+53.42 Z: 4 S:4 CAKE The Cheesecake Factory Incorporated: 15.37% Hold
+53.41 Z: 3 S:4 NLY Annaly Capital Management Inc: -9.69% Hold
+53.38 Z: 3 S:16 CLVS Clovis Oncology, Inc.: 13.53% Buy
+53.37 Z: 4 S:3 FUL H. B. Fuller Company: 8.5% Hold
+53.37 Z: 4 S:3 JBHT J.B. Hunt Transport Services, Inc.: 8.48% Hold
+53.34 Z: 3 S:4 CWT California Water  Service Group Holding: -9.95% Hold
+53.33 Z: 4 S:7 BWLD Buffalo Wild Wings, Inc.: 35.02% Hold
+53.31 Z: 4 S:4 IRM Iron Mountain Incorporated: 14.91% Hold
+53.29 Z: 5 S:5 GLOB Globant S.A.: -3.5% Buy
+53.28 Z: 3 S:6 EQC Equity Commonwealth: 3.14% Hold
+53.28 Z: 4 S:9 BPMC Blueprint Medicines Corporation: -1.87% Buy
+53.28 Z: 3 S:8 OMF OneMain Holdings, Inc.: 16.46% Hold
+53.26 Z: 3 S:7 UNFI United Natural Foods, Inc.: 9.74% Hold
+53.25 Z: 4 S:2 HIG Hartford Financial Services Group, Inc. (The): 1.35% Hold
+53.25 Z: 3 S:16 GOLF Acushnet Holdings Corp.: 13.0% Buy
+53.23 Z: 3 S:7 SJR Shaw Communications Inc.: 9.6% Hold
+53.23 Z: 4 S:3 SCG Scana Corporation: 7.93% Hold
+53.22 Z: 3 S:7 FE FirstEnergy Corporation: 9.58% Hold
+53.22 Z: 4 S:4 HPT Hospitality Properties Trust: 14.57% Hold
+53.22 Z: 1 S:3 ESLT Elbit Systems Ltd.: -17.11% Sell
+53.20 Z: 2 S:9 WDAY Workday, Inc.: -2.17% Hold
+53.17 Z: 3 S:4 FII Federated Investors, Inc.: -10.65% Hold
+53.16 Z: 3 S:4 TNET TriNet Group, Inc.: -10.69% Hold
+53.15 Z: 3 S:6 CNMD CONMED Corporation: 2.62% Hold
+53.14 Z: 3 S:5 XHR Xenia Hotels & Resorts, Inc.: -4.09% Hold
+53.13 Z: 3 S:5 PEB Pebblebrook Hotel Trust: -4.14% Hold
+53.12 Z: 3 S:16 ADSW Advanced Disposal Services, Inc.: 12.51% Buy
+53.12 Z: 3 S:6 CAB Cabela&#39;s Inc: 2.5% Hold
+53.12 Z: 3 S:6 SEE Sealed Air Corporation: 2.49% Hold
+53.11 Z: 3 S:6 STAG Stag Industrial, Inc.: 2.44% Hold
+53.10 Z: 4 S:10 AVAL Grupo Aval Acciones y Valores S.A.: 4.1% Buy
+53.09 Z: 3 S:5 VRSN VeriSign, Inc.: -4.3% Hold
+53.08 Z: 4 S:9 INFN Infinera Corporation: -2.65% Buy
+53.08 Z: 3 S:7 MOS Mosaic Company (The): 9.01% Hold
+53.07 Z: 3 S:6 EQR Equity Residential: 2.29% Hold
+53.07 Z: 4 S:16 RARE Ultragenyx Pharmaceutical Inc.: 37.28% Buy
+53.06 Z: 3 S:7 POT Potash Corporation of Saskatchewan Inc.: 8.94% Hold
+53.02 Z: 2 S:9 CNHI CNH Industrial N.V.: -2.89% Hold
+52.99 Z: 4 S:2 RAI Reynolds American Inc: 0.32% Hold
+52.99 Z: 3 S:6 WTS Watts Water Technologies, Inc.: 1.98% Hold
+52.99 Z: 4 S:5 ABG Asbury Automotive Group Inc: 20.31% Hold
+52.96 Z: 3 S:6 CAT Caterpillar, Inc.: 1.87% Hold
+52.96 Z: 4 S:4 EDR Education Realty Trust Inc.: 13.52% Hold
+52.92 Z: 3 S:5 DPZ Domino&#39;s Pizza Inc: -4.97% Hold
+52.90 Z: 3 S:6 CIM Chimera Investment Corporation: 1.63% Hold
+52.88 Z: 3 S:8 IAG Iamgold Corporation: 14.87% Hold
+52.87 Z: 3 S:4 NEOG Neogen Corporation: -11.83% Hold
+52.82 Z: 3 S:7 NMR Nomura Holdings Inc ADR: 7.98% Hold
+52.80 Z: 3 S:5 CABO Cable One, Inc.: -5.44% Hold
+52.80 Z: 3 S:4 PAHC Phibro Animal Health Corporation: -12.12% Hold
+52.79 Z: 3 S:4 MOH Molina Healthcare Inc: -12.16% Hold
+52.76 Z: 4 S:2 WR Westar Energy, Inc.: -0.62% Hold
+52.72 Z: 3 S:7 HUBG Hub Group, Inc.: 7.55% Hold
+52.69 Z: 3 S:6 YUM Yum! Brands, Inc.: 0.79% Hold
+52.69 Z: 3 S:6 WSTC West Corporation: 0.77% Hold
+52.69 Z: 4 S:4 URI United Rentals, Inc.: 12.43% Hold
+52.66 Z: 5 S:7 AXL American Axle & Manufacturing Holdings, Inc.: 7.33% Buy
+52.64 Z: 4 S:3 MKTX MarketAxess Holdings, Inc.: 5.58% Hold
+52.64 Z: 3 S:6 MTOR Meritor, Inc.: 0.56% Hold
+52.61 Z: 3 S:7 TSU TIM Participacoes S.A.: 7.11% Hold
+52.60 Z: 3 S:7 SAM Boston Beer Company, Inc. (The): 7.07% Hold
+52.59 Z: 3 S:16 BUD Anheuser-Busch Inbev SA: 10.38% Buy
+52.59 Z: 3 S:6 TU TELUS Corporation: 0.37% Hold
+52.56 Z: 3 S:16 TTD The Trade Desk, Inc.: 10.24% Buy
+52.55 Z: 4 S:4 EVR Evercore Partners Inc: 11.88% Hold
+52.55 Z: 3 S:16 EEX Emerald Expositions Events, Inc.: 10.21% Buy
+52.54 Z: 4 S:2 RMAX RE/MAX Holdings, Inc.: -1.5% Hold
+52.52 Z: 4 S:5 RLJ RLJ Lodging Trust: 18.43% Hold
+52.47 Z: 4 S:2 HCN Welltower Inc.: -1.77% Hold
+52.45 Z: 4 S:4 PB Prosperity Bancshares, Inc.: 11.47% Hold
+52.43 Z: 3 S:7 SONC Sonic Corp.: 6.42% Hold
+52.42 Z: 5 S:7 LSXMK Liberty Media Corporation: 6.38% Buy
+52.38 Z: 3 S:7 XOM Exxon Mobil Corporation: 6.21% Hold
+52.37 Z: 3 S:7 CMO Capstead Mortgage Corporation: 6.18% Hold
+52.37 Z: 3 S:6 LXP Lexington Realty Trust: -0.5% Hold
+52.36 Z: 4 S:16 RDUS Radius Health, Inc.: 34.44% Buy
+52.29 Z: 4 S:5 MMP Magellan Midstream Partners L.P.: 17.51% Hold
+52.27 Z: 3 S:7 BDN Brandywine Realty Trust: 5.76% Hold
+52.26 Z: 3 S:4 UBNT Ubiquiti Networks, Inc.: -14.26% Hold
+52.20 Z: 4 S:4 FSIC FS Investment Corporation: 10.5% Hold
+52.19 Z: 3 S:7 TBI TrueBlue, Inc.: 5.46% Hold
+52.16 Z: 2 S:8 IONS Ionis Pharmaceuticals, Inc.: -12.99% Hold
+52.16 Z: 3 S:10 CSOD Cornerstone OnDemand, Inc.: 25.31% Hold
+52.13 Z: 3 S:8 SC Santander Consumer USA Holdings Inc.: 11.86% Hold
+52.10 Z: 5 S:9 NVRO Nevro Corp.: 18.41% Buy
+52.08 Z: 4 S:10 WLL Whiting Petroleum Corporation: 111.13% Hold
+52.03 Z: 4 S:2 WRB W.R. Berkley Corporation: -3.54% Hold
+52.01 Z: 3 S:7 RWT Redwood Trust, Inc.: 4.72% Hold
+52.00 Z: 3 S:10 ENDP Endo International plc: 24.69% Hold
+52.0 Z: 3 S:16 SCI Service Corporation International: 8.0% Buy
+51.98 Z: 4 S:3 PHG Koninklijke Philips N.V.: 2.94% Hold
+51.90 Z: 3 S:6 RY Royal Bank Of Canada: -2.37% Hold
+51.86 Z: 3 S:6 AEG Aegon NV: -2.53% Hold
+51.85 Z: 4 S:5 BPL Buckeye Partners L.P.: 15.75% Hold
+51.81 Z: 3 S:7 TS Tenaris S.A.: 3.91% Hold
+51.79 Z: 4 S:3 PX Praxair, Inc.: 2.19% Hold
+51.76 Z: 4 S:5 FLO Flowers Foods, Inc.: 15.41% Hold
+51.76 Z: 4 S:4 STM STMicroelectronics N.V.: 8.73% Hold
+51.75 Z: 5 S:9 PCRX Pacira Pharmaceuticals, Inc.: 17.0% Buy
+51.72 Z: 4 S:2 TMK Torchmark Corporation: -4.77% Hold
+51.71 Z: 3 S:16 TWLO Twilio Inc.: 6.85% Buy
+51.69 Z: 3 S:7 UPS United Parcel Service, Inc.: 3.45% Hold
+51.67 Z: 3 S:6 AEL American Equity Investment Life Holding Company: -3.32% Hold
+51.65 Z: 3 S:3 OB OneBeacon Insurance Group, Ltd.: -23.37% Hold
+51.62 Z: 4 S:5 SBRA Sabra Healthcare REIT, Inc.: 14.82% Hold
+51.58 Z: 3 S:7 MSGN MSG Networks Inc.: 3.0% Hold
+51.57 Z: 3 S:7 EPAY Bottomline Technologies, Inc.: 2.98% Hold
+51.55 Z: 3 S:7 RICE Rice Energy Inc.: 2.9% Hold
+51.53 Z: 4 S:2 CNA CNA Financial Corporation: -5.51% Hold
+51.53 Z: 4 S:4 TCP TC PipeLines, LP: 7.81% Hold
+51.52 Z: 5 S:8 STO Statoil ASA: 9.45% Buy
+51.48 Z: 4 S:4 CHRW C.H. Robinson Worldwide, Inc.: 7.62% Hold
+51.43 Z: 4 S:4 DVA DaVita Inc.: 7.41% Hold
+51.43 Z: 4 S:4 PSA Public Storage: 7.41% Hold
+51.43 Z: 3 S:16 BIP Brookfield Infrastructure Partners LP: 5.72% Buy
+51.42 Z: 4 S:4 HSY Hershey Company (The): 7.35% Hold
+51.41 Z: 4 S:4 LVLT Level 3 Communications, Inc.: 7.32% Hold
+51.41 Z: 3 S:16 TIG TiGenix: 5.64% Buy
+51.40 Z: 3 S:9 CEQP Crestwood Equity Partners LP: 15.63% Hold
+51.38 Z: 3 S:7 NAVI Navient Corporation: 2.22% Hold
+51.37 Z: 3 S:16 PUK Prudential Public Limited Company: 5.52% Buy
+51.33 Z: 4 S:4 O Realty Income Corporation: 7.02% Hold
+51.32 Z: 4 S:3 PDCO Patterson Companies, Inc.: 0.28% Hold
+51.31 Z: 3 S:16 VSM Versum Materials, Inc.: 5.26% Buy
+51.29 Z: 3 S:16 EQGP EQT GP Holdings, LP: 5.16% Buy
+51.26 Z: 3 S:16 TRTN Triton International Limited: 5.07% Buy
+51.26 Z: 3 S:16 MGP MGM Growth Properties LLC: 5.04% Buy
+51.22 Z: 3 S:7 TV Grupo Televisa S.A.: 1.56% Hold
+51.14 Z: 3 S:7 ALR Alere Inc.: 1.23% Hold
+51.09 Z: 3 S:16 BL BlackLine, Inc.: 4.36% Buy
+51.08 Z: 3 S:7 HAE Haemonetics Corporation: 1.02% Hold
+51.08 Z: 3 S:16 HRC Hill-Rom Holdings Inc: 4.32% Buy
+51.07 Z: 4 S:3 CINF Cincinnati Financial Corporation: -0.69% Hold
+51.06 Z: 3 S:7 SSTK Shutterstock, Inc.: 0.92% Hold
+51.05 Z: 3 S:16 DEO Diageo plc: 4.23% Buy
+51.04 Z: 3 S:8 TIME Time Inc.: 7.53% Hold
+51.04 Z: 3 S:6 CIB BanColombia S.A.: -5.83% Hold
+50.94 Z: 3 S:16 LAUR Laureate Education, Inc.: 3.76% Buy
+50.91 Z: 3 S:5 KRA Kraton Corporation: -12.99% Hold
+50.90 Z: 3 S:7 ATHN athenahealth, Inc.: 0.27% Hold
+50.87 Z: 4 S:4 FR First Industrial Realty Trust, Inc.: 5.15% Hold
+50.86 Z: 4 S:4 GIS General Mills, Inc.: 5.11% Hold
+50.83 Z: 3 S:7 SHEN Shenandoah Telecommunications Co: 50.44% Outperform
+50.83 Z: 4 S:6 BFS Saul Centers, Inc.: 18.32% Hold
+50.80 Z: 4 S:4 DRE Duke Realty Corporation: 4.88% Hold
+50.79 Z: 3 S:4 PRLB Proto Labs, Inc.: -20.17% Hold
+50.75 Z: 4 S:4 VLY Valley National Bancorp: 4.69% Hold
+50.75 Z: 2 S:10 IPXL Impax Laboratories, Inc.: -5.33% Hold
+50.72 Z: 3 S:7 FSV FirstService Corporation: -0.43% Hold
+50.71 Z: 3 S:7 MFA MFA Financial, Inc.: -0.47% Hold
+50.70 Z: 4 S:4 INFO IHS Markit Ltd.: 4.49% Hold
+50.67 Z: 3 S:16 RENX RELX N.V.: 2.69% Buy
+50.67 Z: 4 S:4 STRA Strayer Education, Inc.: 4.35% Hold
+50.65 Z: 3 S:7 JWN Nordstrom, Inc.: -0.7% Hold
+50.62 Z: 4 S:5 HOG Harley-Davidson, Inc.: 10.85% Hold
+50.62 Z: 3 S:7 NORD Nord Anglia Education, Inc.: -0.82% Hold
+50.60 Z: 4 S:6 STX Seagate Technology PLC: 17.43% Hold
+50.60 Z: 3 S:6 BMO Bank Of Montreal: -7.58% Hold
+50.59 Z: 3 S:8 CCP Care Capital Properties, Inc.: 5.72% Hold
+50.55 Z: 2 S:16 OKTA Okta, Inc.: 27.21% Hold
+50.53 Z: 3 S:5 NYT New York Times Company (The): -14.53% Hold
+50.53 Z: 2 S:10 ALNY Alnylam Pharmaceuticals, Inc.: -6.21% Hold
+50.36 Z: 5 S:7 PTR PetroChina Company Limited: 48.14% Hold
+50.35 Z: 3 S:11 LC LendingClub Corporation: 24.77% Hold
+50.33 Z: 3 S:2 ABM ABM Industries Incorporated: 14.67% Outperform
+50.32 Z: 3 S:8 HP Helmerich & Payne, Inc.: 4.63% Hold
+50.28 Z: 3 S:7 BSAC Banco Santander Chile: -2.18% Hold
+50.28 Z: 4 S:7 KIM Kimco Realty Corporation: 22.8% Hold
+50.28 Z: 4 S:2 AWR American States Water Company: -10.54% Hold
+50.22 Z: 3 S:7 S Sprint Corporation: -2.44% Hold
+50.21 Z: 3 S:5 TNC Tennant Company: -15.79% Hold
+50.19 Z: 3 S:8 PRGO Perrigo Company: 4.12% Hold
+50.17 Z: 3 S:8 SITE SiteOne Landscape Supply, Inc.: 4.05% Hold
+50.11 Z: 4 S:4 FELE Franklin Electric Co., Inc.: 2.14% Hold
+50.10 Z: 4 S:4 TIF Tiffany & Co.: 2.08% Hold
+50.09 Z: 4 S:6 AZZ AZZ Inc.: 15.38% Hold
+50.04 Z: 4 S:3 HE Hawaiian Electric Industries, Inc.: -4.81% Hold
+50.02 Z: 4 S:4 ABC AmerisourceBergen Corporation (Holding Co): 1.77% Hold
+50.0 Z: 1 S:16 ACH Aluminum Corporation of China Limited: -77.99% Buy
+49.97 Z: 3 S:8 IVR INVESCO MORTGAGE CAPITAL INC: 3.22% Hold
+49.96 Z: 3 S:16 FMX Fomento Economico Mexicano S.A.B. de C.V.: -0.14% Buy
+49.95 Z: 3 S:16 AYX Alteryx, Inc.: -0.19% Buy
+49.93 Z: 4 S:5 RMP Rice Midstream Partners LP: 8.06% Hold
+49.92 Z: 1 S:16 UN Unilever NV: -0.3% Hold
+49.87 Z: 4 S:11 FOLD Amicus Therapeutics, Inc.: -2.16% Buy
+49.79 Z: 4 S:5 VALE VALE S.A.: 7.5% Hold
+49.70 Z: 4 S:7 AKS AK Steel Holding Corporation: 20.48% Hold
+49.67 Z: 4 S:4 BLMN Bloomin&#39; Brands, Inc.: 0.37% Hold
+49.66 Z: 4 S:4 PNW Pinnacle West Capital Corporation: 0.33% Hold
+49.64 Z: 5 S:7 PMT PennyMac Mortgage Investment Trust: -4.77% Buy
+49.63 Z: 3 S:7 AMX America Movil, S.A.B. de C.V.: -4.78% Hold
+49.63 Z: 4 S:4 ARI Apollo Commercial Real Estate Finance: 0.22% Hold
+49.58 Z: 4 S:6 AGU Agrium Inc.: 13.32% Hold
+49.53 Z: 1 S:7 ARR ARMOUR Residential REIT, Inc.: -5.18% Sell
+49.53 Z: 4 S:7 AKAM Akamai Technologies, Inc.: 19.81% Hold
+49.51 Z: 4 S:1 MGEE MGE Energy Inc.: -20.26% Hold
+49.51 Z: 4 S:4 LMT Lockheed Martin Corporation: -0.27% Hold
+49.49 Z: 3 S:16 HOME At Home Group Inc.: -2.04% Buy
+49.43 Z: 4 S:6 GNRC Generac Holdlings Inc.: 12.75% Hold
+49.43 Z: 3 S:8 SUN Sunoco LP: 1.08% Hold
+49.42 Z: 4 S:3 AIZ Assurant, Inc.: -7.31% Hold
+49.41 Z: 3 S:7 TSLA Tesla, Inc. : -5.69% Hold
+49.40 Z: 3 S:7 NTCT NetScout Systems, Inc.: -5.71% Hold
+49.38 Z: 3 S:16 LOXO Loxo Oncology, Inc.: -2.46% Buy
+49.36 Z: 3 S:8 MBLY Mobileye N.V.: 0.78% Hold
+49.35 Z: 3 S:2 Y Alleghany Corporation: -39.23% Hold
+49.35 Z: 4 S:6 WRI Weingarten Realty Investors: 12.4% Hold
+49.33 Z: 4 S:6 AWI Armstrong World Industries Inc: 12.33% Hold
+49.32 Z: 4 S:5 RPM RPM International Inc.: 5.65% Hold
+49.32 Z: 3 S:7 TDC Teradata Corporation: -6.05% Hold
+49.32 Z: 4 S:16 CJ C: 22.28% Buy
+49.26 Z: 4 S:7 GMLP Golar LNG Partners LP: 18.71% Hold
+49.25 Z: 4 S:5 RYN Rayonier Inc.: 5.37% Hold
+49.25 Z: 3 S:16 RELX RELX PLC: -2.97% Buy
+49.20 Z: 4 S:4 BWA BorgWarner Inc.: -1.52% Hold
+49.20 Z: 3 S:7 GHDX Genomic Health, Inc.: -6.53% Hold
+49.16 Z: 3 S:7 HF HFF, Inc.: -6.69% Hold
+49.12 Z: 1 S:7 VHI Valhi, Inc.: -6.83% Sell
+49.12 Z: 3 S:7 BSMX Grupo Financiero Santander Mexico S.A. B. de C.V.: -6.85% Hold
+49.09 Z: 4 S:4 PCH Potlatch Corporation: -1.96% Hold
+49.05 Z: 3 S:7 BCH Banco De Chile: -7.12% Hold
+48.99 Z: 3 S:3 SMP Standard Motor Products, Inc.: 15.96% Outperform
+48.98 Z: 4 S:6 VNO Vornado Realty Trust: 10.94% Hold
+48.92 Z: 3 S:7 AGNC AGNC Investment Corp.: -7.62% Hold
+48.92 Z: 4 S:6 QCOM QUALCOMM Incorporated: 10.71% Hold
+48.90 Z: 3 S:6 CYOU Changyou.com Limited: -14.37% Hold
+48.89 Z: 3 S:8 SPLS Staples, Inc.: -1.09% Hold
+48.87 Z: 3 S:12 CHK Chesapeake Energy Corporation: 25.52% Hold
+48.85 Z: 3 S:7 PII Polaris Industries Inc.: -7.93% Hold
+48.78 Z: 3 S:7 FGL Fidelity and Guaranty Life: -8.2% Hold
+48.77 Z: 5 S:10 NYLD NRG Yield, Inc.: 11.75% Buy
+48.73 Z: 3 S:7 ODP Office Depot, Inc.: -8.39% Hold
+48.73 Z: 1 S:16 CEA China Eastern Airlines Corporation Ltd.: -5.08% Hold
+48.71 Z: 4 S:5 TRI Thomson Reuters Corp: 3.19% Hold
+48.61 Z: 3 S:10 UE Urban Edge Properties: 11.11% Hold
+48.50 Z: 4 S:7 TRIP TripAdvisor, Inc.: 15.7% Hold
+48.50 Z: 4 S:16 DBVT DBV Technologies S.A.: 19.02% Buy
+48.47 Z: 3 S:16 TLND Talend S.A.: -6.1% Buy
+48.33 Z: 2 S:10 AMD Advanced Micro Devices, Inc.: -15.0% Hold
+48.26 Z: 4 S:4 BLKB Blackbaud, Inc.: -5.26% Hold
+48.26 Z: 4 S:6 STFC State Auto Financial Corporation: 8.04% Hold
+48.20 Z: 4 S:7 TEVA Teva Pharmaceutical Industries Limited: 14.49% Hold
+48.11 Z: 5 S:5 HDS HD Supply Holdings, Inc.: 25.79% Hold
+48.06 Z: 4 S:10 HES Hess Corporation: 33.92% Hold
+48.03 Z: 4 S:7 VZ Verizon Communications Inc.: 13.82% Hold
+48.03 Z: 4 S:6 NYCB New York Community Bancorp, Inc.: 7.12% Hold
+48.02 Z: 4 S:5 OHI Omega Healthcare Investors, Inc.: 0.43% Hold
+47.93 Z: 4 S:6 SF Stifel Financial Corporation: 6.72% Hold
+47.91 Z: 3 S:10 HMHC Houghton Mifflin Harcourt Company: 8.33% Hold
+47.88 Z: 3 S:6 FIG Fortress Investment Group LLC: -18.45% Hold
+47.85 Z: 3 S:5 KRO Kronos Worldwide Inc: -25.26% Hold
+47.85 Z: 3 S:16 RIG Transocean Ltd.: 41.4% Hold
+47.83 Z: 3 S:4 ORI Old Republic International Corporation: 18.01% Outperform
+47.83 Z: 3 S:7 TPX Tempur Sealy International, Inc.: -12.0% Hold
+47.72 Z: 3 S:11 FIT Fitbit, Inc.: 14.24% Hold
+47.72 Z: 5 S:5 NSH Nustar GP Holdings, LLC: 24.22% Hold
+47.72 Z: 4 S:6 GWW W.W. Grainger, Inc.: 5.88% Hold
+47.69 Z: 3 S:8 SGMS Scientific Games Corp: -5.88% Hold
+47.65 Z: 4 S:7 ENLK EnLink Midstream Partners, LP: 12.29% Hold
+47.63 Z: 3 S:9 SRG Seritage Growth Properties: 0.54% Hold
+47.52 Z: 4 S:16 WIX Wix.com Ltd.: 15.1% Buy
+47.47 Z: 4 S:4 ANSS ANSYS, Inc.: -8.44% Hold
+47.39 Z: 4 S:7 CMG Chipotle Mexican Grill, Inc.: 11.24% Hold
+47.30 Z: 5 S:5 PPC Pilgrim&#39;s Pride Corporation: 22.55% Hold
+47.28 Z: 3 S:16 CLDR Cloudera, Inc.: 39.14% Hold
+47.25 Z: 4 S:7 SRC Spirit Realty Capital, Inc.: 10.67% Hold
+47.23 Z: 4 S:7 PBF PBF Energy Inc.: 10.6% Hold
+47.20 Z: 4 S:7 CVRR CVR Refining, LP: 10.5% Hold
+47.19 Z: 4 S:7 TCO Taubman Centers, Inc.: 10.46% Hold
+47.19 Z: 4 S:9 DDR DDR Corp.: 23.79% Hold
+47.16 Z: 4 S:7 FLS Flowserve Corporation: 10.31% Hold
+47.11 Z: 4 S:7 AN AutoNation, Inc.: 10.14% Hold
+47.05 Z: 4 S:16 ZTO ZTO Express (Cayman) Inc.: 13.2% Buy
+47.01 Z: 5 S:4 USG USG Corporation: 14.74% Hold
+46.98 Z: 4 S:4 UTHR United Therapeutics Corporation: -10.4% Hold
+46.97 Z: 4 S:16 SSL Sasol Ltd.: 12.89% Buy
+46.96 Z: 5 S:9 AUY Yamana Gold Inc.: 47.86% Hold
+46.91 Z: 5 S:1 PLUS ePlus inc.: -5.66% Hold
+46.90 Z: 4 S:8 OXY Occidental Petroleum Corporation: 15.97% Hold
+46.88 Z: 3 S:9 CREE Cree, Inc.: -2.45% Hold
+46.88 Z: 4 S:9 OII Oceaneering International, Inc.: 22.54% Hold
+46.82 Z: 3 S:9 WPG Washington Prime Group Inc.: -2.7% Hold
+46.80 Z: 2 S:16 CADE Cadence Bancorporation: 12.21% Hold
+46.70 Z: 5 S:10 IRWD Ironwood Pharmaceuticals, Inc.: 3.47% Buy
+46.58 Z: 3 S:9 FSLR First Solar, Inc.: -3.68% Hold
+46.56 Z: 4 S:7 APLE Apple Hospitality REIT, Inc.: 7.93% Hold
+46.56 Z: 5 S:4 CASY Caseys General Stores, Inc.: 12.92% Hold
+46.56 Z: 3 S:9 TAC TransAlta Corporation: -3.75% Hold
+46.47 Z: 4 S:16 SNDR Schneider National, Inc.: 10.9% Buy
+46.45 Z: 2 S:16 BGNE BeiGene, Ltd.: -39.19% Buy
+46.44 Z: 4 S:7 AMH American Homes 4 Rent: 7.46% Hold
+46.44 Z: 4 S:7 KEX Kirby Corporation: 7.44% Hold
+46.43 Z: 4 S:6 NXPI NXP Semiconductors N.V.: 0.72% Hold
+46.34 Z: 3 S:10 CAFD 8point3 Energy Partners LP: 2.04% Hold
+46.33 Z: 3 S:9 CYS CYS Investments, Inc.: -4.65% Hold
+46.30 Z: 4 S:9 APA Apache Corporation: 20.23% Hold
+46.29 Z: 4 S:16 CWH Camping World Holdings, Inc.: 10.18% Buy
+46.25 Z: 3 S:10 SGEN Seattle Genetics, Inc.: 1.68% Hold
+46.21 Z: 3 S:10 GRPN Groupon, Inc.: 1.52% Hold
+46.14 Z: 4 S:6 CIT CIT Group Inc (DEL): -0.41% Hold
+46.10 Z: 3 S:7 WAIR Wesco Aircraft Holdings, Inc.: -18.92% Hold
+46.09 Z: 2 S:16 FHB First Hawaiian, Inc.: 9.38% Hold
+46.08 Z: 3 S:9 SOHU Sohu.com Inc.: -5.68% Hold
+46.07 Z: 4 S:6 MD Mednax, Inc: -0.69% Hold
+46.07 Z: 4 S:7 SWFT Swift Transportation Company: 5.97% Hold
+46.02 Z: 4 S:7 SKT Tanger Factory Outlet Centers, Inc.: 5.78% Hold
+46.01 Z: 4 S:16 MEDP Medpace Holdings, Inc.: 9.05% Buy
+45.99 Z: 4 S:7 DNB Dun & Bradstreet Corporation (The): 5.63% Hold
+45.91 Z: 3 S:10 TERP TerraForm Power, Inc.: 0.33% Hold
+45.78 Z: 4 S:7 GTLS Chart Industries, Inc.: 4.82% Hold
+45.76 Z: 4 S:16 NGG National Grid Transco, PLC: 8.04% Buy
+45.72 Z: 3 S:4 SNHY Sun Hydraulics Corporation: 9.55% Outperform
+45.70 Z: 5 S:7 CHS Chico&#39;s FAS, Inc.: 29.5% Hold
+45.69 Z: 1 S:7 GNCMA General Communication, Inc.: -20.55% Sell
+45.64 Z: 3 S:7 WTW Weight Watchers International Inc: -20.75% Hold
+45.62 Z: 5 S:6 RBA Ritchie Bros. Auctioneers Incorporated: 22.49% Hold
+45.56 Z: 3 S:7 MYGN Myriad Genetics, Inc.: -21.07% Hold
+45.54 Z: 5 S:5 SCS Steelcase Inc.: 15.52% Hold
+45.53 Z: 4 S:16 BYSI BeyondSpring, Inc.: 7.15% Buy
+45.48 Z: 5 S:5 GPI Group 1 Automotive, Inc.: 15.28% Hold
+45.40 Z: 5 S:5 VSAT ViaSat, Inc.: 14.96% Hold
+45.32 Z: 4 S:7 CXP Columbia Property Trust, Inc.: 2.95% Hold
+45.32 Z: 4 S:9 GNW Genworth Financial Inc: 16.28% Hold
+45.25 Z: 4 S:4 SCSS Select Comfort Corporation: -17.33% Hold
+45.23 Z: 4 S:16 NTB Bank of N.T. Butterfield & Son Limited (The): 5.93% Buy
+45.19 Z: 3 S:4 WRE Washington Real Estate Investment Trust: 7.46% Outperform
+45.15 Z: 4 S:7 ESL Esterline Technologies Corporation: 2.3% Hold
+45.03 Z: 3 S:16 AU AngloGold Ashanti Limited: 30.15% Hold
+45.02 Z: 3 S:10 FEYE FireEye, Inc.: -3.23% Hold
+45.01 Z: 4 S:5 QSII Quality Systems, Inc.: -11.61% Hold
+44.95 Z: 4 S:8 FCX Freeport-McMoran, Inc.: 8.17% Hold
+44.93 Z: 2 S:16 PK Park Hotels & Resorts Inc.: 4.75% Hold
+44.88 Z: 3 S:9 W Wayfair Inc.: -10.45% Hold
+44.87 Z: 4 S:8 HFC HollyFrontier Corporation: 7.85% Hold
+44.79 Z: 5 S:4 TGNA TEGNA Inc.: 5.83% Hold
+44.77 Z: 2 S:16 DECK Deckers Outdoor Corporation: 4.1% Hold
+44.76 Z: 3 S:9 INOV Inovalon Holdings, Inc.: -10.93% Hold
+44.71 Z: 3 S:9 DDD 3D Systems Corporation: -11.16% Hold
+44.55 Z: 2 S:16 CUZ Cousins Properties Incorporated: 3.22% Hold
+44.53 Z: 3 S:10 GPRO GoPro, Inc.: -5.21% Hold
+44.49 Z: 4 S:8 ALKS Alkermes plc: 6.31% Hold
+44.37 Z: 2 S:16 SAN Banco Santander, S.A.: 2.5% Hold
+44.36 Z: 4 S:9 JCP J.C. Penney Company, Inc. Holding Company: 12.45% Hold
+44.26 Z: 2 S:16 TREX Trex Company, Inc.: 2.07% Hold
+44.17 Z: 5 S:7 IGT International Game Technology: 23.38% Hold
+44.16 Z: 5 S:4 WNRL Western Refining Logistics, LP: 3.31% Hold
+44.10 Z: 4 S:7 OFC Corporate Office Properties Trust: -1.93% Hold
+44.07 Z: 4 S:7 AINV Apollo Investment Corporation: -2.04% Hold
+44.05 Z: 2 S:16 UL Unilever PLC: 1.22% Hold
+44.01 Z: 3 S:16 EEQ Enbridge Energy Management LLC: 26.05% Hold
+44.01 Z: 4 S:9 SYNT Syntel, Inc.: 11.04% Hold
+43.92 Z: 4 S:9 NOV National Oilwell Varco, Inc.: 10.71% Hold
+43.88 Z: 5 S:16 CEO CNOOC Limited: 25.53% Buy
+43.82 Z: 5 S:5 OKE ONEOK, Inc.: 8.65% Hold
+43.80 Z: 5 S:4 APU AmeriGas Partners, L.P.: 1.9% Hold
+43.76 Z: 4 S:16 PBYI Puma Biotechnology Inc: 0.05% Buy
+43.74 Z: 4 S:7 MCO Moody&#39;s Corporation: -3.35% Hold
+43.73 Z: 3 S:11 NAV Navistar International Corporation: -1.72% Hold
+43.71 Z: 3 S:16 SHI SINOPEC Shangai Petrochemical Company, Ltd.: 24.87% Hold
+43.68 Z: 3 S:9 APPF AppFolio, Inc.: -15.28% Hold
+43.65 Z: 2 S:16 RBS Royal Bank Scotland plc (The): -0.38% Hold
+43.63 Z: 1 S:16 ZNH China Southern Airlines Company Limited: -25.47% Hold
+43.54 Z: 5 S:10 AVP Avon Products, Inc.: 40.85% Hold
+43.46 Z: 2 S:16 RNR RenaissanceRe Holdings Ltd.: -1.16% Hold
+43.36 Z: 5 S:6 KR Kroger Company (The): 13.44% Hold
+43.11 Z: 2 S:16 SNN Smith & Nephew SNATS, Inc.: -2.53% Hold
+43.06 Z: 3 S:16 GOL Gol Linhas Aereas Inteligentes S.A.: 22.25% Hold
+42.94 Z: 3 S:7 DDS Dillard&#39;s, Inc.: -31.54% Hold
+42.91 Z: 5 S:7 FLR Fluor Corporation: 18.31% Hold
+42.87 Z: 5 S:6 NS Nustar Energy L.P.: 11.52% Hold
+42.71 Z: 4 S:7 INVA Innoviva, Inc.: -7.48% Hold
+42.68 Z: 4 S:4 WIT Wipro Limited: -27.61% Hold
+42.63 Z: 5 S:6 AEO American Eagle Outfitters, Inc.: 10.54% Hold
+42.47 Z: 3 S:16 DCP DCP Midstream LP: 19.88% Hold
+42.27 Z: 5 S:7 MAT Mattel, Inc.: 15.77% Hold
+42.01 Z: 5 S:6 IBM International Business Machines Corporation: 8.05% Hold
+41.78 Z: 3 S:16 JELD JELD-WEN Holding, Inc.: 17.15% Hold
+41.78 Z: 4 S:9 DATA Tableau Software, Inc.: 2.15% Hold
+41.76 Z: 5 S:16 BTU Peabody Energy Corporation: 17.04% Buy
+41.74 Z: 5 S:16 BOBE Bob Evans Farms, Inc.: 16.99% Buy
+41.73 Z: 4 S:8 YELP Yelp Inc.: -4.73% Hold
+41.46 Z: 4 S:10 CYH Community Health Systems, Inc.: 7.53% Hold
+41.46 Z: 4 S:10 FI Frank&#39;s International N.V.: 7.53% Hold
+41.33 Z: 5 S:4 MCY Mercury General Corporation: -8.0% Hold
+41.32 Z: 3 S:2 CACC Credit Acceptance Corporation: -21.35% Sell
+41.28 Z: 1 S:9 IEP Icahn Enterprises L.P.: -24.86% Sell
+41.12 Z: 3 S:16 ARNC Arconic Inc.: 14.52% Hold
+41.09 Z: 3 S:10 SPWR SunPower Corporation: -18.95% Hold
+40.97 Z: 5 S:8 CVA Covanta Holding Corporation: 17.22% Hold
+40.95 Z: 5 S:6 DSW DSW Inc.: 3.81% Hold
+40.80 Z: 5 S:7 SIG Signet Jewelers Limited: 9.88% Hold
+40.72 Z: 5 S:7 BBBY Bed Bath & Beyond Inc.: 9.55% Hold
+40.68 Z: 5 S:7 TRN Trinity Industries, Inc.: 9.41% Hold
+40.67 Z: 3 S:16 SBGL Sibanye Gold Limited: 12.71% Hold
+40.64 Z: 3 S:16 ITUB Itau Unibanco Banco Holding SA: 12.58% Hold
+40.62 Z: 3 S:16 PSO Pearson, Plc: 12.52% Hold
+40.53 Z: 3 S:16 CNDT Conduent Incorporated: 12.15% Hold
+40.50 Z: 5 S:16 LXFT Luxoft Holding, Inc.: 12.03% Buy
+40.28 Z: 3 S:10 FMI Foundation Medicine, Inc.: -22.21% Hold
+40.27 Z: 5 S:7 F Ford Motor Company: 7.76% Hold
+40.19 Z: 3 S:16 VVV Valvoline Inc.: 10.77% Hold
+40.05 Z: 5 S:8 URBN Urban Outfitters, Inc.: 13.57% Hold
+40.05 Z: 3 S:16 FND Floor & Decor Holdings, Inc.: 10.21% Hold
+40.01 Z: 5 S:9 MUR Murphy Oil Corporation: 20.05% Hold
+39.90 Z: 5 S:16 BCS Barclays PLC: 9.61% Buy
+39.87 Z: 4 S:9 ICL Israel Chemicals Shs: -5.48% Hold
+39.85 Z: 5 S:7 KORS Michael Kors Holdings Limited: 6.1% Hold
+39.78 Z: 5 S:7 KMPR Kemper Corporation: 5.82% Hold
+39.69 Z: 4 S:11 AZPN Aspen Technology, Inc.: 7.12% Hold
+39.63 Z: 3 S:16 KREF KKR Real Estate Finance Trust Inc.: 8.54% Hold
+39.59 Z: 5 S:7 CF CF Industries Holdings, Inc.: 5.05% Hold
+39.54 Z: 5 S:7 BLX Banco Latinoamericano de Comercio Exterior, S.A.: 4.84% Hold
+39.53 Z: 5 S:7 TRCO Tribune Media Company: 4.8% Hold
+38.97 Z: 3 S:16 HRI Herc Holdings Inc.: 5.9% Hold
+38.91 Z: 4 S:16 SNAP Snap Inc.: 30.66% Hold
+38.85 Z: 3 S:16 BBD Banco Bradesco Sa: 5.42% Hold
+38.65 Z: 5 S:8 ENLC EnLink Midstream, LLC: 7.95% Hold
+38.48 Z: 3 S:7 GOV Government Properties Income Trust: 0.61% Sell
+38.44 Z: 3 S:16 WBK Westpac Banking Corporation: 3.78% Hold
+38.42 Z: 5 S:7 CBL CBL & Associates Properties, Inc.: 0.35% Hold
+38.39 Z: 4 S:10 CCO Clear Channel Outdoor Holdings, Inc.: -4.76% Hold
+38.35 Z: 5 S:16 COTV Cotiviti Holdings, Inc.: 3.42% Buy
+38.34 Z: 5 S:16 BHP BHP Billiton Limited: 3.39% Buy
+38.33 Z: 3 S:7 WTM White Mountains Insurance Group, Ltd.: -57.99% Hold
+38.09 Z: 5 S:8 RL Ralph Lauren Corporation: 5.73% Hold
+38.03 Z: 3 S:16 HCP HCP, Inc.: 2.14% Hold
+38.02 Z: 5 S:8 X United States Steel Corporation: 5.44% Hold
+38.01 Z: 5 S:7 RDY Dr. Reddy&#39;s Laboratories Ltd: -1.27% Hold
+37.93 Z: 3 S:16 FTV Fortive Corporation: 1.72% Hold
+37.90 Z: 3 S:16 MULE MuleSoft, Inc.: 1.63% Hold
+37.74 Z: 5 S:16 RIO Rio Tinto Plc: 0.99% Buy
+37.64 Z: 3 S:16 PTHN Patheon N.V.: 0.57% Hold
+37.60 Z: 6 S:7 AMOV America Movil, S.A.B. de C.V.: -2.91% Hold
+37.60 Z: 6 S:7 AMOV America Movil, S.A.B. de C.V.: -2.91% Hold
+37.38 Z: 3 S:16 PKY Parkway, Inc.: -0.48% Hold
+37.06 Z: 3 S:6 HTLD Heartland Express, Inc.: -11.74% Sell
+36.89 Z: 5 S:7 ATU Actuant Corporation: -5.74% Hold
+36.73 Z: 5 S:7 HAIN The Hain Celestial Group, Inc.: -6.4% Hold
+36.52 Z: 5 S:7 MNTA Momenta Pharmaceuticals, Inc.: -7.25% Hold
+36.44 Z: 3 S:16 LN LINE Corporation: -4.24% Hold
+36.18 Z: 3 S:16 GFI Gold Fields Limited: -5.25% Hold
+35.81 Z: 4 S:16 YEXT Yext, Inc.: 18.26% Hold
+35.77 Z: 5 S:10 VSTO Vista Outdoor Inc.: 9.75% Hold
+35.62 Z: 3 S:16 BBVA Banco Bilbao Viscaya Argentaria S.A.: -7.51% Hold
+35.57 Z: 5 S:9 PAY Verifone Systems, Inc.: 2.3% Hold
+35.54 Z: 3 S:16 SYT Syngenta AG: -7.81% Hold
+35.24 Z: 3 S:16 APPN Appian Corporation: -9.04% Hold
+35.23 Z: 5 S:9 CLF Cliffs Natural Resources Inc.: 0.94% Hold
+34.92 Z: 5 S:7 ERIC Ericsson: -13.64% Hold
+34.88 Z: 3 S:16 IHG Intercontinental Hotels Group: -10.47% Hold
+34.73 Z: 5 S:9 TGI Triumph Group, Inc.: -1.05% Hold
+34.41 Z: 3 S:7 WDR Waddell & Reed Financial, Inc.: -15.67% Sell
+33.96 Z: 4 S:16 ADNT Adient plc: 10.87% Hold
+33.71 Z: 4 S:16 MFG Mizuho Financial Group, Inc.: 9.85% Hold
+33.69 Z: 3 S:16 HSBC HSBC Holdings plc: -15.22% Hold
+33.04 Z: 5 S:10 DB Deutsche Bank AG: -1.14% Hold
+33.0 Z: 3 S:9 SID National Steel Company: -8.0% Sell
+31.91 Z: 4 S:5 PSEC Prospect Capital Corporation: -14.0% Sell
+31.89 Z: 4 S:16 FWONK Liberty Media Corporation: 2.56% Hold
+31.31 Z: 4 S:16 HLNE Hamilton Lane Incorporated: 0.27% Hold
+30.93 Z: 4 S:16 BIVV Bioverativ Inc.: -1.28% Hold
+30.02 Z: 5 S:10 VRX Valeant Pharmaceuticals International, Inc.: -13.24% Hold
+23.83 Z: 5 S:16 BBL BHP Billiton plc: -4.65% Hold

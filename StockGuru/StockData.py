@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import urllib.request
-
+import urllib.error
 
 class StockData:
     def __init__(self, ticker, name, industry):
@@ -11,12 +11,15 @@ class StockData:
         self.estimated_change_percent = 0
         self.recommended_action = ""
         self.zacks_rank = 6
+        self.street_rating = 16
+        self.ryan_rank = 0  # 0-100
 
-        self.connection_succeeded = False
+        self.connection_succeeded = True
         self.data_found = False
 
         self.cnn_soup = BeautifulSoup()
         self.zack_soup = BeautifulSoup()
+        self.street_soup = BeautifulSoup()
 
     def get_cnn_soup(self):
         try:
@@ -24,8 +27,8 @@ class StockData:
                           "?symb=%s" % self.ticker
             r = urllib.request.urlopen(url_address).read()
             self.cnn_soup = BeautifulSoup(r, "html.parser")
-            self.connection_succeeded = True
         except ConnectionResetError:
+            self.connection_succeeded = False
             print("connection reset")
             return
 
@@ -34,9 +37,28 @@ class StockData:
             url_address = "http://www.zacks.com/stock/quote/%s" % self.ticker
             r = urllib.request.urlopen(url_address).read()
             self.zack_soup = BeautifulSoup(r, "html.parser")
-            self.connection_succeeded = True
         except ConnectionResetError:
+            self.connection_succeeded = False
             print("connection reset")
+            return
+
+    def get_street_soup(self):
+        try:
+            url_address = "http://www.thestreet.com/quote/%s" % self.ticker
+            h = {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+            request = urllib.request.Request(url_address, data=None, headers=h)
+
+            r = urllib.request.urlopen(request)
+
+            self.street_soup = BeautifulSoup(r, "html.parser")
+        except ConnectionResetError:
+            self.connection_succeeded = False
+            print("connection reset")
+            return
+        except urllib.error.HTTPError:
+            self.connection_succeeded = False
+            print("Street page doesn't exist")
             return
 
     def get_soups(self):
@@ -46,6 +68,7 @@ class StockData:
         """
         self.get_cnn_soup()
         self.get_zacks_soup()
+        self.get_street_soup()
 
     def find_estimated_change_percent(self):
         # search the soup for the forecast
@@ -106,25 +129,79 @@ class StockData:
 
         return rank
 
+    def find_street_rank(self):
+        """Return rating 0-15 from thestreet"""
+        rating = 16
+        rating_section = self.street_soup.find_all("span", class_="quote-nav-rating-qr-rating")
+        if len(rating_section) == 0:
+            return rating
+
+        possible_ratings = ["A+", "A ", "A-",
+                            "B+", "B ", "B-",
+                            "C+", "C ", "C-",
+                            "D+", "D ", "D-",
+                            "E+", "E ", "E-",
+                            "F "]
+        rating_letter = rating_section[0].text[:2]
+        if rating_letter in possible_ratings:
+            rating = possible_ratings.index(rating_letter)
+
+        return rating
+
     def find_data(self):
         if not self.connection_succeeded:
             return
         self.estimated_change_percent = self.find_estimated_change_percent()
         self.recommended_action = self.find_recommended_action()
         self.zacks_rank = self.find_zacks_rank()
+        self.street_rating = self.find_street_rank()
+
+        self.ryan_rank = self.get_ryan_rank()
+
+    def get_ryan_rank(self):
+        scaled_change_percent = translate(self.estimated_change_percent, -50, 50, 0, 100)
+        scaled_zack_rank = translate(self.zacks_rank, 1, 5, 100, 0)
+        scaled_street_rating = translate(self.street_rating, 0, 15, 100, 0)
+
+        if self.recommended_action == "Buy":
+            scaled_recommendation = 100
+        elif self.recommended_action == "Hold":
+            scaled_recommendation = 50
+        else:
+            scaled_recommendation = 0
+
+        return (scaled_change_percent + scaled_zack_rank + scaled_street_rating + scaled_recommendation) / 4
+
 
     def print_report(self):
         print(self.ticker, self.name)
-        print("Estimated Change: %.1f%%" % self.estimated_change_percent)
-        print(self.recommended_action)
-        print("Zacks:", self.zacks_rank)
-        print()
+        print("Ryan Rank:", str(self.ryan_rank)[:5])
+        print("Estimated Change: %.1f%%" % self.estimated_change_percent, self.recommended_action)
+        print("Zacks:", self.zacks_rank, "Street:", self.street_rating)
 
     def make_one_line_report(self):
-        return str(self.zacks_rank) + " " + self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action
+        return str(self.ryan_rank)[:5] + " Z: " + str(self.zacks_rank) + " S:" + str(self.street_rating) + " " + self.ticker + " " + self.name + ": " + str(self.estimated_change_percent) + "% " + self.recommended_action
 
     def print_one_line_report(self):
         print(self.make_one_line_report())
 
     def should_buy(self):
         return self.recommended_action == "Buy"
+
+
+def translate(value, current_min, current_max, new_min, new_max):
+    if value < current_min:
+        return new_min
+    if value > current_max:
+        return new_max
+
+
+    # Figure out how 'wide' each range is
+    left_span = current_max - current_min
+    right_span = new_max - new_min
+
+    # Convert the left range into a 0-1 range (float)
+    value_scaled = float(value - current_min) / float(left_span)
+
+    # Convert the 0-1 range into a value in the right range.
+    return new_min + (value_scaled * right_span)
