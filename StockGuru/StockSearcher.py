@@ -54,7 +54,7 @@ class StockSearcher:
         elapsed_seconds = time.time() - self.start_time
         elapsed_minutes = float(elapsed_seconds) / 60.0
 
-        remaining_minutes = elapsed_minutes / progress
+        remaining_minutes = (elapsed_minutes / progress) - elapsed_minutes
         print(str(remaining_minutes).split('.')[0], "Minutes remaining, ",
               str(elapsed_minutes).split('.')[0], "minutes elapsed.")
         print()
