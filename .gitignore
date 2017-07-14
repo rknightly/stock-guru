@@ -1,5 +1,7 @@
 .idea/
-
+StockGuru/__pycache__/
+tests/__pycache__/
+*.pyc
 led / optimized / DLL files
 __pycache__/
 *.py[cod]
