@@ -10,8 +10,8 @@ class StockData:
     responsible for searching to find those signals and reporting about them
     """
 
-    def __init__(self, ticker, name, industry):
-        self.ticker = ticker
+    def __init__(self, ticker, name="", industry=""):
+        self.ticker = ticker.upper()
         self.name = name
         self.industry = industry
 
@@ -24,9 +24,9 @@ class StockData:
         self.connection_succeeded = True
         self.data_found = False
 
-        self.cnn_soup = BeautifulSoup()
-        self.zack_soup = BeautifulSoup()
-        self.street_soup = BeautifulSoup()
+        self.cnn_soup = BeautifulSoup("", "lxml")
+        self.zack_soup = BeautifulSoup("", "lxml")
+        self.street_soup = BeautifulSoup("", "lxml")
 
     def get_soup_from_url(self, url, as_desktop=False):
         """
@@ -38,7 +38,7 @@ class StockData:
         :return: the BeautifulSoup of the specified page
         """
 
-        soup = BeautifulSoup()
+        soup = BeautifulSoup("", "lxml")
         if not self.connection_succeeded:
             return soup
 
@@ -56,7 +56,7 @@ class StockData:
             request = urllib.request.Request(url, data=None, headers=headers)
 
             data = urllib.request.urlopen(request)
-            self.zack_soup = BeautifulSoup(data, "html.parser")
+            soup = BeautifulSoup(data, "html.parser")
 
         except ConnectionResetError:
             self.connection_succeeded = False
@@ -220,9 +220,10 @@ class StockData:
         """
         total_points = 0
 
-        total_points += (self.estimated_change_percent, -50, 50, 0, 100)
-        total_points += (self.zacks_rank, 1, 5, 100, 0)
-        total_points += (self.street_rating, 0, 15, 100, 0)
+        total_points += translate(self.estimated_change_percent, -50, 50, 0,
+                                  100)
+        total_points += translate(self.zacks_rank, 1, 5, 100, 0)
+        total_points += translate(self.street_rating, 0, 15, 100, 0)
 
         if self.recommended_action == "Buy":
             total_points += 100
