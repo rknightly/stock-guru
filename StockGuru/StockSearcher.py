@@ -4,13 +4,29 @@ from StockGuru.StockData import StockData
 
 
 class StockSearcher:
+    """
+    A class that reads the stocks from a given file and retrieves the data of
+    each. It then sorts the stocks and writes the resulting list to a file
+    """
+
     def __init__(self, file_name):
+        """
+        :param file_name: the name of the csv file that contains the stock data
+        """
+
         self.file_name = "resources/" + file_name
 
         self.stock_list = []
         self.start_time = time.time()
 
     def get_stocks_from_file(self, limit=0):
+        """
+        Read the data of the stocks contained in the given file
+        :param limit: an optional argument of the max number of stocks to
+         search. leaving the limit as 0 results in a search of every stock in
+         the file
+        """
+
         file_rows = []
         with open(self.file_name) as f:
             reader = csv.reader(f)
@@ -19,10 +35,6 @@ class StockSearcher:
         print("TOTAL SIZE:", len(file_rows))
         for stock_info in file_rows:
             ticker, name, industry, cap = stock_info[:4]
-            # TODO: make billions check a separate sort
-            # Only count if value in billions
-
-            # if cap[-1] == "B":
             stock_data = StockData(ticker, name, industry)
             self.stock_list.append(stock_data)
 
@@ -32,21 +44,35 @@ class StockSearcher:
                     break
 
     def get_data_of_stocks(self):
-        indeces_to_remove = []
+        """
+        Get the data of each of the stocks in the list and print the stock
+        data and current progress as each stock is searched
+        """
+
+        indexes_to_remove = []
         # Request data for each stock
         for index, stock in enumerate(self.stock_list):
             stock.get_soups()
             stock.find_data()
             if not stock.data_found:
-                indeces_to_remove.append(index)
+                indexes_to_remove.append(index)
             stock.print_report()
             self.print_progress(index)
 
         # remove stocks with no results
-        for index in indeces_to_remove[::-1]:
+        for index in indexes_to_remove[::-1]:
             self.stock_list.pop(index)
 
     def print_progress(self, current_stock_index):
+        """
+        Print the progress of the stock search session.
+        This contains both the percent of stocks searched so far, the current
+        time elapsed since the start of the search, and as well as an
+        estimation of the time remaining.
+        :param current_stock_index: The index of the stock most recently
+         searched
+        """
+
         progress = float(current_stock_index + 1) / float(len(self.stock_list))
         progress_str = str(progress * 100)
         print("Progress:", progress_str[:4], "%")
@@ -60,25 +86,52 @@ class StockSearcher:
         print()
 
     def find_highest_projected_stocks(self):
-        print("=========== REPORT ============")
+        """
+        Sort the stocks by their Ryan Rank, from highest to lowest
+        :return: a list containing the stocks in a sorted order
+        """
 
-        # Sort the stocks by their estimated change percent, highest to lowest
         sorted_stocks = sorted(self.stock_list,
-                               key=lambda s: s.ryan_rank,
+                               key=lambda stock: stock.ryan_rank,
                                reverse=True)
-
-        for stock in sorted_stocks:
-            stock.print_one_line_report()
 
         return sorted_stocks
 
-    def write_results_to_file(self, stocks_to_write):
+    @staticmethod
+    def print_report(stocks_to_print):
+        """
+        Print a report of the given stocks as a series of one line summary
+        reports
+        :param stocks_to_print: a list of the stocks to print as StockData
+         objects
+        """
+
+        print("=========== REPORT ============")
+        for stock in stocks_to_print:
+            stock.print_one_line_report()
+
+    @staticmethod
+    def write_results_to_file(stocks_to_write):
+        """
+        Write the data of the given stocks to a results file
+        :param stocks_to_write: a list of the stocks to write to the file as a
+         list of StockData objects
+        """
         with open('results.txt', 'w') as results_file:
             for stock in stocks_to_write:
                 results_file.write(stock.make_one_line_report() + "\n")
 
     def run(self, limit=0):
+        """
+        Run the searcher completely: read the stocks from file, retrieve data
+        on each of them, sort them, report the results
+        :param limit: an optional argument of the max number of stocks to
+         search. Leaving the limit as 0 results in a search of every stock in
+         the given file
+        """
+
         self.get_stocks_from_file(limit=limit)
         self.get_data_of_stocks()
         highest_projected = self.find_highest_projected_stocks()
+        self.print_report(highest_projected)
         self.write_results_to_file(highest_projected)

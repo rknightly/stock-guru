@@ -5,6 +5,11 @@ import http.client
 
 
 class StockData:
+    """
+    A class representing one stock and the corresponding signals, which is
+    responsible for searching to find those signals and reporting about them
+    """
+
     def __init__(self, ticker, name, industry):
         self.ticker = ticker
         self.name = name
@@ -29,7 +34,7 @@ class StockData:
 
         :param url: the url of the page to get data from
         :param as_desktop: whether the client should pretend to be a desktop
-        browser
+         browser
         :return: the BeautifulSoup of the specified page
         """
 
@@ -87,7 +92,7 @@ class StockData:
         Get the projected price change of the stock as estimated by the CNN
         Money analysts
         :return: A float representing the projected price change percent, or 0
-        if it is not found
+         if it is not found
         """
 
         # search the soup for the forecast
@@ -126,8 +131,8 @@ class StockData:
         """
         Find the buy/sell/hold recommendation from the stock's CNN Money page
         :return: CNN's buy/sell/hold recommendation for the stock as a string
-        of either 'Buy', 'Sell', or 'Hold' if the recommendation is found.
-        Otherwise an empty string
+         of either 'Buy', 'Sell', or 'Hold' if the recommendation is found.
+         Otherwise an empty string
         """
 
         # find section of page that states buy/sell/hold recommendation
@@ -143,7 +148,7 @@ class StockData:
         """
         Find the Zack's rank of a given stock
         :return: an int 1-5 denoting the Zack's rank if it is found.
-        Otherwise the returned rank is 6
+         Otherwise the returned rank is 6
         """
 
         # find 1-5 Zack's rank and return as int
@@ -167,8 +172,8 @@ class StockData:
         """
         Find the stock's rating from TheStreet.com
         :return: An int in the range 0-15 representing the stock rating from
-        TheStreet.com, found on the page as a letter grade rating ranging from
-        'F' to 'A+'
+         TheStreet.com, found on the page as a letter grade rating ranging from
+         'F' to 'A+'
         """
 
         rating = 16
