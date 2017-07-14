@@ -22,6 +22,9 @@ class StockData:
         self.street_soup = BeautifulSoup()
 
     def get_cnn_soup(self):
+        if not self.connection_succeeded:
+            return
+
         try:
             url_address = "http://money.cnn.com/quote/forecast/forecast.html" \
                           "?symb=%s" % self.ticker
@@ -33,6 +36,9 @@ class StockData:
             return
 
     def get_zacks_soup(self):
+        if not self.connection_succeeded:
+            return
+
         try:
             url_address = "http://www.zacks.com/stock/quote/%s" % self.ticker
             r = urllib.request.urlopen(url_address).read()
@@ -43,6 +49,9 @@ class StockData:
             return
 
     def get_street_soup(self):
+        if not self.connection_succeeded:
+            return
+        
         try:
             url_address = "http://www.thestreet.com/quote/%s" % self.ticker
             h = {
