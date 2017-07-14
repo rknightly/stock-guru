@@ -19,12 +19,18 @@ def main():
 
 
 def total_search():
+    """
+    Search through a list of stocks and report the ranked list
+    """
     searcher = StockSearcher(file_name='combined-cap.csv')
     searcher.run()
     quit()
 
 
 def individual_test():
+    """
+    Ask for individual stock tickers and print a report on each specified stock
+    """
     ticker = input("\nTicker: ")
     while ticker is not "":
         report_one_stock(ticker)

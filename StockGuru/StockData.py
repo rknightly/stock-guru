@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from StockGuru.translate import translate
 import urllib.request
 import urllib.error
 import http.client
@@ -19,6 +20,7 @@ class StockData:
         self.recommended_action = ""
         self.zacks_rank = 6
         self.street_rating = 16
+        self.wsj_rating = 6
         self.ryan_rank = 0  # 0-100
 
         self.connection_succeeded = True
@@ -26,7 +28,8 @@ class StockData:
 
         self.cnn_soup = BeautifulSoup("", "lxml")
         self.zack_soup = BeautifulSoup("", "lxml")
-        self.street_soup = BeautifulSoup("", "lxml")
+        self.the_street_soup = BeautifulSoup("", "lxml")
+        self.wsj_soup = BeautifulSoup("", "lxml")
 
     def get_soup_from_url(self, url, as_desktop=False):
         """
@@ -83,9 +86,12 @@ class StockData:
 
         self.zack_soup = self.get_soup_from_url("http://www.zacks.com/stock/"
                                                 "quote/%s" % self.ticker)
-        self.street_soup = self.get_soup_from_url("http://www.thestreet.com/"
+        self.the_street_soup = self.get_soup_from_url("http://www.thestreet.com/"
                                                   "quote/%s" % self.ticker,
                                                   as_desktop=True)
+        self.wsj_soup = self.get_soup_from_url("http://quotes.wsj.com/%s/"
+                                               "research-ratings"
+                                               % self.ticker)
 
     def find_estimated_change_percent(self):
         """
@@ -177,7 +183,7 @@ class StockData:
         """
 
         rating = 16
-        rating_section = self.street_soup.find_all("span",
+        rating_section = self.the_street_soup.find_all("span",
                                                    class_="quote-nav-rating"
                                                           "-qr-rating")
         if len(rating_section) == 0:
@@ -195,6 +201,32 @@ class StockData:
 
         return rating
 
+    def find_wsj_rating(self):
+        """
+        Find the stock rating given by the Wall Street Journal on the website
+        as a ranking of BUY/OVERWEIGHT/HOLD/UNDERWEIGHT/SELL
+        :return: an int in the range 1 to 5 representing the WSJ analyst
+         consensus, with 1 being the best and 5 the worst
+        """
+        rating = 6
+
+        rating_section = self.wsj_soup.find_all("div",
+                                                class_="cr_analystRatings")
+        if len(rating_section) == 0:
+            return rating
+
+        ratings = rating_section[0].find_all("div",
+                                             class_="numValue-content")
+        if len(ratings) < 3:
+            return rating
+
+        # remove leading and trailing spaces with strip
+        consensus = ratings[2].text.upper().strip()
+        ratings = {"BUY": 1, "OVERWEIGHT": 2, "HOLD": 3, "UNDERWEIGHT": 4,
+                   "SELL": 5}
+
+        return ratings[consensus]
+
     def find_data(self):
         """
         Find all of the stock values of interest from the Soups and fill the
@@ -209,6 +241,7 @@ class StockData:
         self.recommended_action = self.find_recommended_action()
         self.zacks_rank = self.find_zacks_rank()
         self.street_rating = self.find_street_rank()
+        self.wsj_rating = self.find_wsj_rating()
 
         self.ryan_rank = self.get_ryan_rank()
 
@@ -219,11 +252,12 @@ class StockData:
         :return: the Ryan Rank as an int in the range 0-100
         """
         total_points = 0
-
-        total_points += translate(self.estimated_change_percent, -50, 50, 0,
+        # TODO: maybe change to signals[] containing ints that can be averaged
+        translate(self.estimated_change_percent, -50, 50, 0,
                                   100)
         total_points += translate(self.zacks_rank, 1, 5, 100, 0)
         total_points += translate(self.street_rating, 0, 15, 100, 0)
+        total_points += translate(self.wsj_rating, 1, 5, 100, 0)
 
         if self.recommended_action == "Buy":
             total_points += 100
@@ -232,7 +266,7 @@ class StockData:
         elif self.recommended_action == "Sell":
             total_points += 0
 
-        return total_points / 4
+        return total_points / 5
 
     def print_report(self):
         """
@@ -269,32 +303,3 @@ class StockData:
         Print a one line summary report describing the stock and its found data
         """
         print(self.make_one_line_report())
-
-
-def translate(value, current_min, current_max, new_min, new_max):
-    """
-    Translate a value from one range to another
-    :param value: the value to translate
-    :param current_min: the minimum of the current range
-    :param current_max: the maximum of the current range
-    :param new_min: the minimum of the new range
-    :param new_max: the maximum of the new range
-    :return: the given value translated to the new range
-    """
-
-    # Return the new min or max if the value falls beyond the current range
-    # specified
-    if value < current_min:
-        return new_min
-    if value > current_max:
-        return new_max
-
-    # Figure out how 'wide' each range is
-    left_span = current_max - current_min
-    right_span = new_max - new_min
-
-    # Convert the left range into a 0-1 range (float)
-    value_scaled = (value - current_min) / left_span
-
-    # Convert the 0-1 range into a value in the right range.
-    return new_min + (value_scaled * right_span)

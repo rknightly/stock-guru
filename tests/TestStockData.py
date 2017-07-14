@@ -4,11 +4,10 @@ from StockGuru.StockData import *
 
 
 class TestStockData(TestCase):
-
-    def __init__(self):
-        super().__init__()
-        self.test_stock = StockData("AAPL", "Apple", "Tech")
-        self.test_stock.get_soups()
+    @classmethod
+    def setUpClass(cls):
+        cls.test_stock = StockData("AAPL", "Apple", "Tech")
+        cls.test_stock.get_soups()
 
     # Soup analysis
     def test_finds_change_percent(self):
@@ -23,6 +22,9 @@ class TestStockData(TestCase):
 
     def test_gets_street_rank(self):
         self.assertNotEquals(self.test_stock.find_street_rank(), 16)
+
+    def test_gets_wsj_rating(self):
+        self.assertNotEquals(self.test_stock.find_wsj_rating(), 6)
 
     def test_gets_ryan_rank(self):
         test_stock = StockData("AAPL", "Apple", "Tech")
