@@ -10,19 +10,23 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--test", action='store_true',
                         help='Test stocks individually')
+    parser.add_argument("-s", "--short", action='store_true',
+                        help='Run a short search of a few stocks')
     args, leftovers = parser.parse_known_args()
 
     if args.test:
         individual_test()
+    elif args.short:
+        search_file("shortened-cap.csv")
     else:
-        total_search()
+        search_file("combined-cap.csv")
 
 
-def total_search():
+def search_file(file_name):
     """
     Search through a list of stocks and report the ranked list
     """
-    searcher = StockSearcher(file_name='combined-cap.csv')
+    searcher = StockSearcher(file_name=file_name)
     searcher.run()
     quit()
 

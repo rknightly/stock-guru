@@ -32,7 +32,6 @@ class TestStockData(TestCase):
         test_stock.find_data()
         ryan_rank = test_stock.ryan_rank
 
-        print("AAPL Ryan Rank:", ryan_rank)
         self.assertGreater(ryan_rank, 0)
         self.assertLessEqual(ryan_rank, 100)
 

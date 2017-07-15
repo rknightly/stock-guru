@@ -19,7 +19,7 @@ class StockData:
         self.estimated_change_percent = 0
         self.recommended_action = ""
         self.zacks_rank = 6
-        self.street_rating = 16
+        self.street_rating = 17
         self.wsj_rating = 6
         self.ryan_rank = 0  # 0-100
 
@@ -64,6 +64,10 @@ class StockData:
         except ConnectionResetError:
             self.connection_succeeded = False
             print("connection reset")
+
+        except TimeoutError:
+            self.connection_succeeded = False
+            print("Connection timed out")
 
         except urllib.error.HTTPError:
             self.connection_succeeded = False
@@ -177,12 +181,12 @@ class StockData:
     def find_street_rank(self):
         """
         Find the stock's rating from TheStreet.com
-        :return: An int in the range 0-15 representing the stock rating from
+        :return: An int in the range 1-16 representing the stock rating from
          TheStreet.com, found on the page as a letter grade rating ranging from
          'F' to 'A+'
         """
 
-        rating = 16
+        rating = 17
         rating_section = self.the_street_soup.find_all("span",
                                                    class_="quote-nav-rating"
                                                           "-qr-rating")
@@ -197,7 +201,7 @@ class StockData:
                             "F "]
         rating_letter = rating_section[0].text[:2]
         if rating_letter in possible_ratings:
-            rating = possible_ratings.index(rating_letter)
+            rating = possible_ratings.index(rating_letter) + 1
 
         return rating
 
@@ -256,7 +260,7 @@ class StockData:
         translate(self.estimated_change_percent, -50, 50, 0,
                                   100)
         total_points += translate(self.zacks_rank, 1, 5, 100, 0)
-        total_points += translate(self.street_rating, 0, 15, 100, 0)
+        total_points += translate(self.street_rating, 1, 16, 100, 0)
         total_points += translate(self.wsj_rating, 1, 5, 100, 0)
 
         if self.recommended_action == "Buy":
@@ -278,7 +282,8 @@ class StockData:
         print("Ryan Rank:", str(self.ryan_rank)[:5])
         print("Estimated Change: %.1f%%" % self.estimated_change_percent,
               self.recommended_action)
-        print("Zacks:", self.zacks_rank, "Street:", self.street_rating)
+        print("Zacks:", self.zacks_rank, "Street:", self.street_rating, "WSJ:",
+              self.wsj_rating)
 
     def make_one_line_report(self):
         """
@@ -292,6 +297,7 @@ class StockData:
         report += str(self.ryan_rank)[:5] + " "     # Ryan Rank
         report += "Z:" + str(self.zacks_rank) + " "     # Zack's Rank
         report += "S:" + str(self.street_rating) + " "  # Street Rank
+        report += "WSJ:" + str(self.wsj_rating) + " "   # WSJ Rating
         report += self.ticker + " " + self.name + ": "  # Name
         report += str(self.estimated_change_percent) + "% "     # Est. change %
         report += self.recommended_action   # CNN recommended action

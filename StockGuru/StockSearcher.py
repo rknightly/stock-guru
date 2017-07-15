@@ -1,5 +1,6 @@
 import csv
 import time
+import datetime
 from StockGuru.StockData import StockData
 
 
@@ -32,16 +33,20 @@ class StockSearcher:
             reader = csv.reader(f)
             for row in reader:
                 file_rows.append(row)
-        print("TOTAL SIZE:", len(file_rows))
+
         for stock_info in file_rows:
             ticker, name, industry, cap = stock_info[:4]
-            stock_data = StockData(ticker, name, industry)
-            self.stock_list.append(stock_data)
+
+            if cap[-1] == 'B':
+                stock_data = StockData(ticker, name, industry)
+                self.stock_list.append(stock_data)
 
             # Handle limiting
             if limit > 0:
                 if len(self.stock_list) >= limit:
                     break
+
+        print("TOTAL SIZE:", len(self.stock_list))
 
     def get_data_of_stocks(self):
         """
@@ -117,7 +122,11 @@ class StockSearcher:
         :param stocks_to_write: a list of the stocks to write to the file as a
          list of StockData objects
         """
-        with open('results.txt', 'w') as results_file:
+        date = datetime.date.today()
+        date_str = str(date.year) + '-' + str(date.month) + '-' + str(date.day)
+        file_name = 'results-' + date_str + ".txt"
+
+        with open(file_name, 'w') as results_file:
             for stock in stocks_to_write:
                 results_file.write(stock.make_one_line_report() + "\n")
 
