@@ -257,7 +257,7 @@ class StockData:
         """
         total_points = 0
         # TODO: maybe change to signals[] containing ints that can be averaged
-        translate(self.estimated_change_percent, -50, 50, 0,
+        total_points += translate(self.estimated_change_percent, -50, 50, 0,
                                   100)
         total_points += translate(self.zacks_rank, 1, 5, 100, 0)
         total_points += translate(self.street_rating, 1, 16, 100, 0)
