@@ -18,25 +18,9 @@ class TestStockSearcher(TestCase):
         searcher.get_stocks_from_file()
         searcher.get_data_of_stocks()
 
-        # Make sure that all remaining stocks have data
-        all_data_found = True
-        for stock in searcher.stock_list:
-            if not stock.data_found:
-                all_data_found = False
-
-        self.assertTrue(all_data_found)
-
     def test_run(self):
         searcher = StockSearcher(file_name="shortened-cap.csv")
         searcher.run()
-
-        # Make sure that all remaining stocks have data
-        all_data_found = True
-        for stock in searcher.stock_list:
-            if not stock.data_found:
-                all_data_found = False
-
-        self.assertTrue(all_data_found)
 
     def test_run_limited(self):
         searcher = StockSearcher(file_name="nyse-cap.csv")
