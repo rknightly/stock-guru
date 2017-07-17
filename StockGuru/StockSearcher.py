@@ -59,8 +59,6 @@ class StockSearcher:
         for index, stock in enumerate(self.stock_list):
             stock.get_soups()
             stock.find_data()
-            if not stock.data_found:
-                indexes_to_remove.append(index)
             stock.print_report()
             self.print_progress(index)
 

@@ -23,8 +23,7 @@ class StockData:
         self.wsj_rating = 6
         self.ryan_rank = 0  # 0-100
 
-        self.connection_succeeded = True
-        self.data_found = False
+        self.failed_connections = 0
 
         self.cnn_soup = BeautifulSoup("", "lxml")
         self.zack_soup = BeautifulSoup("", "lxml")
@@ -42,7 +41,7 @@ class StockData:
         """
 
         soup = BeautifulSoup("", "lxml")
-        if not self.connection_succeeded:
+        if self.failed_connections > 1:
             return soup
 
         try:
@@ -62,19 +61,19 @@ class StockData:
             soup = BeautifulSoup(data, "html.parser")
 
         except ConnectionResetError:
-            self.connection_succeeded = False
+            self.failed_connections += 1
             print("connection reset")
 
         except TimeoutError:
-            self.connection_succeeded = False
+            self.failed_connections += 1
             print("Connection timed out")
 
         except urllib.error.HTTPError:
-            self.connection_succeeded = False
+            self.failed_connections += 1
             print("Page doesn't exist")
 
         except http.client.IncompleteRead:
-            self.connection_succeeded = False
+            self.failed_connections += 1
             print("Read incomplete")
 
         return soup
@@ -111,10 +110,7 @@ class StockData:
         # If bad ticker given, print error and skip rest
         if len(analysis) == 0:
             print("No data found for:", self.ticker, self.name)
-            self.data_found = False
             return 0
-        else:
-            self.data_found = True
 
         analysis = analysis[0]
 
@@ -130,7 +126,6 @@ class StockData:
         # If can't find projected change, forget it
         if len(projected_change) == 0:
             print("No data found for:", self.ticker, self.name)
-            self.data_found = False
             return 0
 
         just_nums = projected_change[0].text[:-1]
@@ -149,7 +144,6 @@ class StockData:
         recommendation_section = self.cnn_soup.find_all("strong",
                                                         class_="wsod_rating")
         if len(recommendation_section) == 0:
-            self.data_found = False
             return ""
 
         return recommendation_section[0].text
@@ -238,9 +232,6 @@ class StockData:
         Soups must already be retrieved
         """
 
-        if not self.connection_succeeded:
-            return
-
         self.estimated_change_percent = self.find_estimated_change_percent()
         self.recommended_action = self.find_recommended_action()
         self.zacks_rank = self.find_zacks_rank()
@@ -255,22 +246,29 @@ class StockData:
         the signals
         :return: the Ryan Rank as an int in the range 0-100
         """
-        total_points = 0
+        signals = []
         # TODO: maybe change to signals[] containing ints that can be averaged
-        total_points += translate(self.estimated_change_percent, -50, 50, 0,
-                                  100)
-        total_points += translate(self.zacks_rank, 1, 5, 100, 0)
-        total_points += translate(self.street_rating, 1, 16, 100, 0)
-        total_points += translate(self.wsj_rating, 1, 5, 100, 0)
+        if self.estimated_change_percent != 0:
+            signals.append(translate(self.estimated_change_percent, 0, 50, 0,
+                                  100))
+        if self.zacks_rank != 6 or self.failed_connections > 1:
+            signals.append(translate(self.zacks_rank, 1, 5, 100, 0))
+        if self.street_rating != 17 or self.failed_connections > 1:
+            signals.append(translate(self.street_rating, 1, 16, 100, 0))
+        if self.wsj_rating != 5 or self.failed_connections > 1:
+            signals.append(translate(self.wsj_rating, 1, 5, 100, 0))
 
-        if self.recommended_action == "Buy":
-            total_points += 100
-        elif self.recommended_action == "Hold":
-            total_points += 50
-        elif self.recommended_action == "Sell":
-            total_points += 0
+        if self.recommended_action != "" or self.failed_connections > 1:
+            if self.recommended_action == "Buy":
+                signals.append(100)
+            elif self.recommended_action == "Hold":
+                signals.append(50)
+            elif self.recommended_action == "Sell":
+                signals.append(0)
+            elif self.recommended_action == "":
+                signals.append(0)
 
-        return total_points / 5
+        return sum(signals) / len(signals)
 
     def print_report(self):
         """
