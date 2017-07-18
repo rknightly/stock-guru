@@ -16,8 +16,7 @@ class StockData:
         self.name = name
         self.industry = industry
 
-        self.cnn_change_percent = 0
-        self.yahoo_change_percent = 0
+        self.change_percent = 0
         self.recommended_action = ""
         self.zacks_rank = 6
         self.street_rating = 17
@@ -30,7 +29,6 @@ class StockData:
         self.zack_soup = BeautifulSoup("", "lxml")
         self.the_street_soup = BeautifulSoup("", "lxml")
         self.wsj_soup = BeautifulSoup("", "lxml")
-        self.yahoo_soup = BeautifulSoup("", "lxml")
 
     def get_soup_from_url(self, url, as_desktop=False):
         """
@@ -97,8 +95,35 @@ class StockData:
         self.wsj_soup = self.get_soup_from_url("http://quotes.wsj.com/%s/"
                                                "research-ratings"
                                                % self.ticker)
-        self.yahoo_soup = self.get_soup_from_url("https://finance.yahoo.com/"
-                                                 "quote/%s" % self.ticker)
+
+    def find_change_percent(self):
+        # search the soup for the forecast
+        analysis = self.cnn_soup.find_all("div", id="wsod_forecasts")
+
+        # If bad ticker given, print error and skip rest
+        if len(analysis) == 0:
+            print("No data found for:", self.ticker, self.name)
+            return self.find_yahoo_change_percent()     # fallback to yahoo
+
+        analysis = analysis[0]
+
+        # search the forecast for the paragraph
+        analysis_text = analysis.find_all("p")[0]
+
+        # find the projected growth in the paragraph
+        # check both negData and posData for the percent change
+        projected_change = analysis_text.find_all("span", class_="negData")
+        if len(projected_change) == 0:
+            projected_change = analysis_text.find_all("span", class_="posData")
+
+        # If can't find projected change, forget it
+        if len(projected_change) == 0:
+            print("No data found for:", self.ticker, self.name)
+            return self.find_yahoo_change_percent()  # fallback to yahoo
+
+        just_nums = projected_change[0].text[:-1]
+        no_commas = just_nums.replace(',', '')
+        return float(no_commas)
 
     def find_yahoo_change_percent(self):
         """
@@ -106,21 +131,26 @@ class StockData:
         :return: A float representing the projected price change percent, or 0
          if it is not found
         """
+        print("falling back to yahoo for change %")
+
+        yahoo_soup = self.get_soup_from_url("https://finance.yahoo.com/"
+                                                 "quote/%s" % self.ticker)
         change_percent = 0
 
         quote_list = self.wsj_soup.find_all("span", id="quote_val")
         try:
             current_price = float(quote_list[0].text)
+        except IndexError:
+            print("No current Value")
+            return change_percent
         except ValueError:
             print("value error")
             return change_percent
 
-        target_cell_list = self.yahoo_soup.find_all(
+        target_cell_list = yahoo_soup.find_all(
             "td", attrs={"data-test": "ONE_YEAR_TARGET_PRICE-value"})
         if len(target_cell_list) == 0:
             return change_percent
-
-        target_cell = target_cell_list[0]
 
         try:
             projected_price = float(target_cell_list[0].text)
@@ -240,7 +270,7 @@ class StockData:
         self.zacks_rank = self.find_zacks_rank()
         self.street_rating = self.find_street_rank()
         self.wsj_rating = self.find_wsj_rating()
-        self.yahoo_change_percent = self.find_yahoo_change_percent()
+        self.change_percent = self.find_change_percent()
 
         self.ryan_rank = self.get_ryan_rank()
 
@@ -251,8 +281,8 @@ class StockData:
         :return: the Ryan Rank as an int in the range 0-100
         """
         signals = []
-        if self.yahoo_change_percent != 0 or self.failed_connections > 1:
-            signals.append(translate(self.yahoo_change_percent, 0, 50, 0,
+        if self.change_percent != 0 or self.failed_connections > 1:
+            signals.append(translate(self.change_percent, 0, 50, 0,
                                      100))
         if self.zacks_rank != 6 or self.failed_connections > 1:
             signals.append(translate(self.zacks_rank, 1, 5, 100, 0))
@@ -282,7 +312,7 @@ class StockData:
         print(self.ticker, self.name)
         print("Ryan Rank:", str(self.ryan_rank)[:5])
         print("Estimated Change: %.1f%%" %
-              self.yahoo_change_percent,
+              self.change_percent,
               self.recommended_action)
         print("Zacks:", self.zacks_rank, "Street:", self.street_rating, "WSJ:",
               self.wsj_rating)
@@ -301,7 +331,7 @@ class StockData:
         report += "S:" + str(self.street_rating) + " "  # Street Rank
         report += "WSJ:" + str(self.wsj_rating) + " "   # WSJ Rating
         report += self.ticker + " " + self.name[:20] + ": "  # Name
-        report += str(self.yahoo_change_percent) + "%, "
+        report += str(self.change_percent) + "%, "
         report += self.recommended_action   # CNN recommended action
 
         return report
