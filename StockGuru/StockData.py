@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 from StockGuru.translate import translate
-import urllib.request
-import urllib.error
+import requests
 import http.client
 
 
@@ -55,10 +54,8 @@ class StockData:
             else:
                 headers = {}
 
-            request = urllib.request.Request(url, data=None, headers=headers)
-
-            data = urllib.request.urlopen(request)
-            soup = BeautifulSoup(data, "html.parser")
+            request = requests.get(url, headers=headers)
+            soup = BeautifulSoup(request.text, "html.parser")
 
         except ConnectionResetError:
             self.failed_connections += 1
