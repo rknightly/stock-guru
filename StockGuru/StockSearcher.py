@@ -122,11 +122,21 @@ class StockSearcher:
         """
         date = datetime.date.today()
         date_str = str(date.year) + '-' + str(date.month) + '-' + str(date.day)
-        file_name = 'results-' + date_str + ".txt"
+        file_name_core = 'results-' + date_str
 
-        with open(file_name, 'w') as results_file:
+        with open("results/txt/" + file_name_core + ".txt",
+                  'w') as txt_results_file:
+
             for stock in stocks_to_write:
-                results_file.write(stock.make_one_line_report() + "\n")
+                txt_results_file.write(stock.make_one_line_report() + "\n")
+
+        with open("results/csv/" + file_name_core + ".csv",
+                  'w') as csv_results_file:
+
+            writer = csv.writer(csv_results_file)
+            writer.writerow(StockData.get_csv_data_headings())
+            for stock in stocks_to_write:
+                writer.writerow(stock.get_csv_data_list())
 
     def run(self, limit=0):
         """

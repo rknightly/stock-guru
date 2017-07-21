@@ -65,7 +65,7 @@ class StockData:
             self.failed_connections += 1
             print("Connection timed out")
 
-        except urllib.error.HTTPError:
+        except requests.exceptions.ConnectionError:
             self.failed_connections += 1
             print("Page doesn't exist")
 
@@ -279,7 +279,7 @@ class StockData:
         """
         signals = []
         if self.change_percent != 0 or self.failed_connections > 1:
-            signals.append(translate(self.change_percent, 0, 50, 0,
+            signals.append(translate(self.change_percent, -50, 50, 0,
                                      100))
         if self.zacks_rank != 6 or self.failed_connections > 1:
             signals.append(translate(self.zacks_rank, 1, 5, 100, 0))
@@ -298,7 +298,8 @@ class StockData:
             elif self.recommended_action == "":
                 signals.append(0)
 
-        return sum(signals) / len(signals)
+        rank = sum(signals) / len(signals)
+        return round(rank, 2)
 
     def print_report(self):
         """
@@ -323,10 +324,10 @@ class StockData:
 
         report = ""
 
-        report += str(self.ryan_rank)[:5] + " "     # Ryan Rank
+        report += str(self.ryan_rank) + " "     # Ryan Rank
         report += "Z:" + str(self.zacks_rank) + " "     # Zack's Rank
-        report += "S:" + str(self.street_rating) + " "  # Street Rank
         report += "WSJ:" + str(self.wsj_rating) + " "   # WSJ Rating
+        report += "S:" + str(self.street_rating) + " "  # Street Rank
         report += self.ticker + " " + self.name[:20] + ": "  # Name
         report += str(self.change_percent) + "%, "
         report += self.recommended_action   # CNN recommended action
@@ -338,3 +339,24 @@ class StockData:
         Print a one line summary report describing the stock and its found data
         """
         print(self.make_one_line_report())
+
+    @staticmethod
+    def get_csv_data_headings():
+        return ["Top of The Market Rating",
+                "Zacks (1-5)",
+                "Wall Street Journal Rating (1-5)",
+                "Street Rank (1-16)",
+                "Ticker",
+                "Company Name",
+                "Projected Change % in 12 Months",
+                "CNN Recommendation"]
+
+    def get_csv_data_list(self):
+        return [self.ryan_rank,
+                self.zacks_rank,
+                self.wsj_rating,
+                self.street_rating,
+                self.ticker,
+                self.name,
+                self.change_percent,
+                self.recommended_action]
