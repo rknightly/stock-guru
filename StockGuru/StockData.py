@@ -254,6 +254,9 @@ class StockData:
         ratings = {"BUY": 1, "OVERWEIGHT": 2, "HOLD": 3, "UNDERWEIGHT": 4,
                    "SELL": 5}
 
+        if consensus not in ratings:
+            return rating
+
         return ratings[consensus]
 
     def find_data(self):

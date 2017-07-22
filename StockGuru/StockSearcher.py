@@ -10,12 +10,13 @@ class StockSearcher:
     each. It then sorts the stocks and writes the resulting list to a file
     """
 
-    def __init__(self, file_name):
+    def __init__(self, file_name, only_billions=True):
         """
         :param file_name: the name of the csv file that contains the stock data
         """
 
         self.file_name = "resources/" + file_name
+        self.only_billions = only_billions
 
         self.stock_list = []
         self.start_time = time.time()
@@ -37,7 +38,7 @@ class StockSearcher:
         for stock_info in file_rows:
             ticker, name, industry, cap = stock_info[:4]
 
-            if cap[-1] == 'B':
+            if cap[-1] == 'B' or not self.only_billions:
                 stock_data = StockData(ticker, name, industry)
                 self.stock_list.append(stock_data)
 

@@ -12,21 +12,25 @@ def main():
                         help='Test stocks individually')
     parser.add_argument("-s", "--short", action='store_true',
                         help='Run a short search of a few stocks')
+    parser.add_argument("-a", "--all", action="store_true",
+                        help="Search all stocks rather than only billion dollar caps")
     args, leftovers = parser.parse_known_args()
 
     if args.test:
         individual_test()
     elif args.short:
         search_file("shortened-cap.csv")
+    elif args.all:
+        search_file("combined-cap.csv", only_billions=False)
     else:
         search_file("combined-cap.csv")
 
 
-def search_file(file_name):
+def search_file(file_name, only_billions=True):
     """
     Search through a list of stocks and report the ranked list
     """
-    searcher = StockSearcher(file_name=file_name)
+    searcher = StockSearcher(file_name=file_name, only_billions=only_billions)
     searcher.run()
     quit()
 
