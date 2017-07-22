@@ -73,6 +73,10 @@ class StockData:
             self.failed_connections += 1
             print("Read incomplete")
 
+        except requests.exceptions.ContentDecodingError:
+            self.failed_connections += 1
+            print("Decoding incomplete")
+
         return soup
 
     def get_soups(self):
