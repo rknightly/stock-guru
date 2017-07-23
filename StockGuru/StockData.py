@@ -278,6 +278,8 @@ class StockData:
 
         self.ryan_rank = self.get_ryan_rank()
 
+        self.delete_soups()     # done with soups, free up space
+
     def get_ryan_rank(self):
         """
         Create a 'Ryan Rank' between 0 to 100 that takes into account each of
@@ -307,6 +309,12 @@ class StockData:
 
         rank = sum(signals) / len(signals)
         return round(rank, 2)
+
+    def delete_soups(self):
+        self.cnn_soup = None
+        self.zack_soup = None
+        self.the_street_soup = None
+        self.wsj_soup = None
 
     def print_report(self):
         """
