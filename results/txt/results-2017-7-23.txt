@@ -1,0 +1,5 @@
+71.75 Z:3 WSJ:2 S:8 EGHT 8x8 Inc: 30.43%, Buy
+70.65 Z:3 WSJ:1 S:8 TWOU 2U, Inc.: -0.1%, Buy
+65.48 Z:2 WSJ:3 S:1 SRCE 1st Source Corporati: 2.4%, Hold
+63.26 Z:1 WSJ:3 S:3 JOBS 51job, Inc.: -20.39%, Hold
+47.47 Z:3 WSJ:3 S:11 CAFD 8point3 Energy Partn: 4.02%, Hold

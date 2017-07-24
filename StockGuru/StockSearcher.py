@@ -63,10 +63,6 @@ class StockSearcher:
             stock.print_report()
             self.print_progress(index)
 
-        # remove stocks with no results
-        for index in indexes_to_remove[::-1]:
-            self.stock_list.pop(index)
-
     def print_progress(self, current_stock_index):
         """
         Print the progress of the stock search session.

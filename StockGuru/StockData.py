@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 from StockGuru.translate import translate
+from threading import Thread
 import requests
 import http.client
 
@@ -54,7 +55,7 @@ class StockData:
             else:
                 headers = {}
 
-            request = requests.get(url, headers=headers)
+            request = requests.get(url, headers=headers, timeout=10)
             soup = BeautifulSoup(request.text, "html.parser")
 
         except ConnectionResetError:
@@ -79,23 +80,41 @@ class StockData:
 
         return soup
 
+    def get_cnn_soup(self):
+        self.cnn_soup = self.get_soup_from_url(
+            "http://money.cnn.com/quote/forecast/forecast.html?symb=%s" %
+            self.ticker)
+
+    def get_zack_soup(self):
+        self.zack_soup = self.get_soup_from_url("http://www.zacks.com/stock/"
+                                                "quote/%s" % self.ticker)
+    def get_street_soup(self):
+        self.the_street_soup = self.get_soup_from_url(
+            "http://www.thestreet.com/"
+            "quote/%s" % self.ticker,
+            as_desktop=True)
+
+    def get_wsj_soup(self):
+        self.wsj_soup = self.get_soup_from_url("http://quotes.wsj.com/%s/"
+                                               "research-ratings"
+                                               % self.ticker)
+
     def get_soups(self):
         """
         Get the data from each site and save them in the appropriate
         BeautifulSoup fields
         """
-        self.cnn_soup = self.get_soup_from_url(
-            "http://money.cnn.com/quote/forecast/forecast.html?symb=%s" %
-            self.ticker)
+        threads = list()
+        threads.append(Thread(target=self.get_cnn_soup))
+        threads.append(Thread(target=self.get_zack_soup))
+        threads.append(Thread(target=self.get_street_soup))
+        threads.append(Thread(target=self.get_wsj_soup))
 
-        self.zack_soup = self.get_soup_from_url("http://www.zacks.com/stock/"
-                                                "quote/%s" % self.ticker)
-        self.the_street_soup = self.get_soup_from_url("http://www.thestreet.com/"
-                                                  "quote/%s" % self.ticker,
-                                                  as_desktop=True)
-        self.wsj_soup = self.get_soup_from_url("http://quotes.wsj.com/%s/"
-                                               "research-ratings"
-                                               % self.ticker)
+        for thread in threads:
+            thread.start()
+
+        for thread in threads:
+            thread.join()
 
     def find_change_percent(self):
         # search the soup for the forecast
