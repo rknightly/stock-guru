@@ -21,6 +21,7 @@ class StockData:
         self.zacks_rank = 6
         self.street_rating = 17
         self.wsj_rating = 6
+        self.yahoo_rating = 6
         self.ryan_rank = 0  # 0-100
 
         self.failed_connections = 0
@@ -99,6 +100,23 @@ class StockData:
                                                "research-ratings"
                                                % self.ticker)
 
+    def get_yahoo_rating(self):
+        lhs_url = 'https://query2.finance.yahoo.com/v10/finance/quoteSummary/'
+        rhs_url = '?formatted=true&crumb=swg7qs5y9UP&lang=en-US&region=US&' \
+                  'modules=upgradeDowngradeHistory,recommendationTrend,' \
+                  'financialData,earningsHistory,earningsTrend,industryTrend&' \
+                  'corsDomain=finance.yahoo.com'
+
+        url = lhs_url + self.ticker + rhs_url
+        r = requests.get(url)
+        if not r.ok:
+            return
+        try:
+            result = r.json()['quoteSummary']['result'][0]
+            self.yahoo_rating = float(result['financialData']['recommendationMean']['fmt'])
+        except (ValueError, KeyError):
+            return
+
     def get_soups(self):
         """
         Get the data from each site and save them in the appropriate
@@ -109,6 +127,7 @@ class StockData:
         threads.append(Thread(target=self.get_zack_soup))
         threads.append(Thread(target=self.get_street_soup))
         threads.append(Thread(target=self.get_wsj_soup))
+        threads.append(Thread(target=self.get_yahoo_rating)) # doesn't require soup
 
         for thread in threads:
             thread.start()
@@ -299,6 +318,23 @@ class StockData:
 
         self.delete_soups()     # done with soups, free up space
 
+    def count_missing_values(self):
+        missing_values = 0
+        if self.change_percent == 0:
+            missing_values += 1
+        if self.zacks_rank == 6:
+            missing_values += 1
+        if self.street_rating == 17:
+            missing_values += 1
+        if self.wsj_rating == 6:
+            missing_values += 1
+        if self.yahoo_rating == 6:
+            missing_values += 1
+        if self.recommended_action == "":
+            missing_values += 1
+
+        return missing_values
+
     def get_ryan_rank(self):
         """
         Create a 'Ryan Rank' between 0 to 100 that takes into account each of
@@ -306,17 +342,20 @@ class StockData:
         :return: the Ryan Rank as an int in the range 0-100
         """
         signals = []
-        if self.change_percent != 0 or self.failed_connections > 1:
+        missing_values = self.count_missing_values()
+        if self.change_percent != 0 or missing_values > 1:
             signals.append(translate(self.change_percent, -50, 50, 0,
                                      100))
-        if self.zacks_rank != 6 or self.failed_connections > 1:
+        if self.zacks_rank != 6 or missing_values > 1:
             signals.append(translate(self.zacks_rank, 1, 5, 100, 0))
-        if self.street_rating != 17 or self.failed_connections > 1:
+        if self.street_rating != 17 or missing_values > 1:
             signals.append(translate(self.street_rating, 1, 16, 100, 0))
-        if self.wsj_rating != 5 or self.failed_connections > 1:
+        if self.wsj_rating != 6 or missing_values > 1:
             signals.append(translate(self.wsj_rating, 1, 5, 100, 0))
+        if self.yahoo_rating != 6 or missing_values > 1:
+            signals.append(translate(self.yahoo_rating, 1, 5, 100, 0))
 
-        if self.recommended_action != "" or self.failed_connections > 1:
+        if self.recommended_action != "" or missing_values > 1:
             if self.recommended_action == "Buy":
                 signals.append(100)
             elif self.recommended_action == "Hold":
@@ -346,7 +385,7 @@ class StockData:
         print("Estimated Change: %.1f%%" %
               self.change_percent,
               self.recommended_action)
-        print("Zacks:", self.zacks_rank, "Street:", self.street_rating, "WSJ:",
+        print("Yahoo:", self.yahoo_rating, "Zacks:", self.zacks_rank, "Street:", self.street_rating, "WSJ:",
               self.wsj_rating)
 
     def make_one_line_report(self):
@@ -359,6 +398,7 @@ class StockData:
         report = ""
 
         report += str(self.ryan_rank) + " "     # Ryan Rank
+        report += "Y:" + str(self.yahoo_rating) + " "
         report += "Z:" + str(self.zacks_rank) + " "     # Zack's Rank
         report += "WSJ:" + str(self.wsj_rating) + " "   # WSJ Rating
         report += "S:" + str(self.street_rating) + " "  # Street Rank
@@ -377,6 +417,7 @@ class StockData:
     @staticmethod
     def get_csv_data_headings():
         return ["Top of The Market Rating",
+                "Yahoo (1-5)"
                 "Zacks (1-5)",
                 "Wall Street Journal Rating (1-5)",
                 "Street Rank (1-16)",
@@ -387,6 +428,7 @@ class StockData:
 
     def get_csv_data_list(self):
         return [self.ryan_rank,
+                self.yahoo_rating,
                 self.zacks_rank,
                 self.wsj_rating,
                 self.street_rating,
