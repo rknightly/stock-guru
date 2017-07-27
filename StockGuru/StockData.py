@@ -334,7 +334,7 @@ class StockData:
                 "td")[1].text.strip()
             return translate(float(recommendation_text), 1, 5, 5, 1)
         except (IndexError, ValueError, AttributeError):
-            return 0
+            return 6
 
     def find_data(self):
         """
