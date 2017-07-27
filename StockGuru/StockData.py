@@ -139,7 +139,7 @@ class StockData:
             result = r.json()['quoteSummary']['result'][0]
             self.yahoo_rating = float(result['financialData']['recommendationMean']['fmt'])
         except (ValueError, KeyError):
-            return
+            return 6
 
     def get_soups(self):
         """
@@ -332,9 +332,9 @@ class StockData:
                 "tr", class_="gr_table_row7")
             recommendation_text = recommendation_section.find_all(
                 "td")[1].text.strip()
-            return float(recommendation_text)
+            return translate(float(recommendation_text), 1, 5, 5, 1)
         except (IndexError, ValueError, AttributeError):
-            return 6
+            return 0
 
     def find_data(self):
         """
@@ -393,7 +393,7 @@ class StockData:
         if self.yahoo_rating != 6 or missing_values > 1:
             signals.append(translate(self.yahoo_rating, 1, 5, 100, 0))
         if self.morning_rating != 6 or missing_values > 1:
-            signals.append(translate(self.morning_rating, 5, 1, 100, 0))
+            signals.append(translate(self.morning_rating, 1, 5, 100, 0))
 
         if self.recommended_action != "" or missing_values > 1:
             if self.recommended_action == "Buy":
@@ -469,7 +469,7 @@ class StockData:
                 "Yahoo (1-5)",
                 "Zacks (1-5)",
                 "Wall Street Journal Rating (1-5)",
-                "MorningStar (5-1)",
+                "MorningStar (1-5)",
                 "Street Rank (1-16)",
                 "Ticker",
                 "Company Name",
