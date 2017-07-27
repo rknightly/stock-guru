@@ -3,6 +3,7 @@ from StockGuru.translate import translate
 from threading import Thread
 import requests
 import http.client
+import csv
 
 
 class StockData:
@@ -11,10 +12,11 @@ class StockData:
     responsible for searching to find those signals and reporting about them
     """
 
-    def __init__(self, ticker, name="", industry=""):
+    def __init__(self, ticker, name="", industry="", exchange = ""):
         self.ticker = ticker.upper()
         self.name = name
         self.industry = industry
+        self.exchange = exchange
 
         self.change_percent = 0
         self.recommended_action = ""
@@ -22,6 +24,7 @@ class StockData:
         self.street_rating = 17
         self.wsj_rating = 6
         self.yahoo_rating = 6
+        self.morning_rating = 6
         self.ryan_rank = 0  # 0-100
 
         self.failed_connections = 0
@@ -30,6 +33,7 @@ class StockData:
         self.zack_soup = BeautifulSoup("", "lxml")
         self.the_street_soup = BeautifulSoup("", "lxml")
         self.wsj_soup = BeautifulSoup("", "lxml")
+        self.morning_soup = BeautifulSoup("", "lxml")
 
     def get_soup_from_url(self, url, as_desktop=False):
         """
@@ -89,6 +93,7 @@ class StockData:
     def get_zack_soup(self):
         self.zack_soup = self.get_soup_from_url("http://www.zacks.com/stock/"
                                                 "quote/%s" % self.ticker)
+
     def get_street_soup(self):
         self.the_street_soup = self.get_soup_from_url(
             "http://www.thestreet.com/"
@@ -99,6 +104,25 @@ class StockData:
         self.wsj_soup = self.get_soup_from_url("http://quotes.wsj.com/%s/"
                                                "research-ratings"
                                                % self.ticker)
+
+    def get_morning_soup(self):
+        if self.exchange == "": # Can be blank during single stock testing
+            self.exchange = self.find_exchange()
+
+        base = "http://quotes.morningstar.com/stockq/c-recommencation?&t="
+        stock_id = "X" + self.exchange + ":" + self.ticker
+        suffix = "&region=usa&culture=en-US&version=RET&cur=&test=" \
+                 "QuoteiFrame&e=eyJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiUlNBL" \
+                 "U9BRVAifQ.HpJeYT9FRT6AkSbtdAwVjvYfPRwOZx7eHZmrPiGZM6SB" \
+                 "J8J5Mc_-x1CA5kRBLEg1hzEQDRwbcEL6SDgEHU7fxJZs-b9abVPJp1E" \
+                 "Zq6PhZrxjn4HylT_UaPET1DWxD5wfPd87i-wos4iyaevVEQwaMpSqFXZ" \
+                 "Z-29mL7Io3zTXn5Q.60gJvlGHAJOIt1pK.2DO0KmXNlEkqTjJnazA0cf" \
+                 "NNNbRaHX7oonvuEp0K_uasWfcDcVGm0tD4a_WtTE-UHjeWL7N9-ZgW_M" \
+                 "fc-UZ4yDx8yV24BZPFGIM36hKd3IWst3wcJ33u9RyCdMiHlDSVKoZRIq" \
+                 "6QLg7BFbyUbGxH6MFAczMHutwOASixrZqJ7isMbF1RcT4wqQjxehW7LI" \
+                 "gfDb9vHdy6r3EPKvj3jrZFsJbAP5-EaSH3c06_WGk.uGxBBDu8WOmE92" \
+                 "fw5WNZnQ"
+        self.morning_soup = self.get_soup_from_url(base + stock_id + suffix)
 
     def get_yahoo_rating(self):
         lhs_url = 'https://query2.finance.yahoo.com/v10/finance/quoteSummary/'
@@ -127,6 +151,7 @@ class StockData:
         threads.append(Thread(target=self.get_zack_soup))
         threads.append(Thread(target=self.get_street_soup))
         threads.append(Thread(target=self.get_wsj_soup))
+        threads.append(Thread(target=self.get_morning_soup))
         threads.append(Thread(target=self.get_yahoo_rating)) # doesn't require soup
 
         for thread in threads:
@@ -301,6 +326,16 @@ class StockData:
 
         return ratings[consensus]
 
+    def find_morning_rating(self):
+        try:
+            recommendation_section = self.morning_soup.find(
+                "tr", class_="gr_table_row7")
+            recommendation_text = recommendation_section.find_all(
+                "td")[1].text.strip()
+            return float(recommendation_text)
+        except (IndexError, ValueError, AttributeError):
+            return 6
+
     def find_data(self):
         """
         Find all of the stock values of interest from the Soups and fill the
@@ -313,6 +348,7 @@ class StockData:
         self.street_rating = self.find_street_rank()
         self.wsj_rating = self.find_wsj_rating()
         self.change_percent = self.find_change_percent()
+        self.morning_rating = self.find_morning_rating()
 
         self.ryan_rank = self.get_ryan_rank()
 
@@ -331,6 +367,8 @@ class StockData:
         if self.yahoo_rating == 6:
             missing_values += 1
         if self.recommended_action == "":
+            missing_values += 1
+        if self.morning_rating == 6:
             missing_values += 1
 
         return missing_values
@@ -354,6 +392,8 @@ class StockData:
             signals.append(translate(self.wsj_rating, 1, 5, 100, 0))
         if self.yahoo_rating != 6 or missing_values > 1:
             signals.append(translate(self.yahoo_rating, 1, 5, 100, 0))
+        if self.morning_rating != 6 or missing_values > 1:
+            signals.append(translate(self.morning_rating, 5, 1, 100, 0))
 
         if self.recommended_action != "" or missing_values > 1:
             if self.recommended_action == "Buy":
@@ -367,6 +407,14 @@ class StockData:
 
         rank = sum(signals) / len(signals)
         return round(rank, 2)
+
+    def find_exchange(self):
+        with open("resources/combined-cap.csv") as f:
+            reader = csv.reader(f)
+            for row in reader:
+                ticker, name, industry, cap, exchange = row[:5]
+                if ticker.lower() == self.ticker.lower():
+                    return exchange
 
     def delete_soups(self):
         self.cnn_soup = None
@@ -386,7 +434,7 @@ class StockData:
               self.change_percent,
               self.recommended_action)
         print("Yahoo:", self.yahoo_rating, "Zacks:", self.zacks_rank, "Street:", self.street_rating, "WSJ:",
-              self.wsj_rating)
+              self.wsj_rating, "M:", self.morning_rating)
 
     def make_one_line_report(self):
         """
@@ -402,6 +450,7 @@ class StockData:
         report += "Z:" + str(self.zacks_rank) + " "     # Zack's Rank
         report += "WSJ:" + str(self.wsj_rating) + " "   # WSJ Rating
         report += "S:" + str(self.street_rating) + " "  # Street Rank
+        report += "M:" + str(self.morning_rating) + " "     # Morning rating
         report += self.ticker + " " + self.name[:20] + ": "  # Name
         report += str(self.change_percent) + "%, "
         report += self.recommended_action   # CNN recommended action
@@ -420,6 +469,7 @@ class StockData:
                 "Yahoo (1-5)",
                 "Zacks (1-5)",
                 "Wall Street Journal Rating (1-5)",
+                "MorningStar (5-1)",
                 "Street Rank (1-16)",
                 "Ticker",
                 "Company Name",
@@ -431,6 +481,7 @@ class StockData:
                 self.yahoo_rating,
                 self.zacks_rank,
                 self.wsj_rating,
+                self.morning_rating,
                 self.street_rating,
                 self.ticker,
                 self.name,

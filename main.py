@@ -19,19 +19,19 @@ def main():
     if args.test:
         individual_test()
     elif args.short:
-        search_file("shortened-cap.csv")
+        search_file("combined-cap.csv", limit=5)
     elif args.all:
         search_file("combined-cap.csv", only_billions=False)
     else:
         search_file("combined-cap.csv")
 
 
-def search_file(file_name, only_billions=True):
+def search_file(file_name, only_billions=True, limit=0):
     """
     Search through a list of stocks and report the ranked list
     """
     searcher = StockSearcher(file_name=file_name, only_billions=only_billions)
-    searcher.run()
+    searcher.run(limit=limit)
     quit()
 
 

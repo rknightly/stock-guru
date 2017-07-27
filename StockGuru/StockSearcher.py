@@ -36,10 +36,10 @@ class StockSearcher:
                 file_rows.append(row)
 
         for stock_info in file_rows:
-            ticker, name, industry, cap = stock_info[:4]
+            ticker, name, industry, cap, exchange = stock_info[:5]
 
             if cap[-1] == 'B' or not self.only_billions:
-                stock_data = StockData(ticker, name, industry)
+                stock_data = StockData(ticker, name, industry, exchange)
                 self.stock_list.append(stock_data)
 
             # Handle limiting
