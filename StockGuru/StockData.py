@@ -417,7 +417,7 @@ class StockData:
     @staticmethod
     def get_csv_data_headings():
         return ["Top of The Market Rating",
-                "Yahoo (1-5)"
+                "Yahoo (1-5)",
                 "Zacks (1-5)",
                 "Wall Street Journal Rating (1-5)",
                 "Street Rank (1-16)",
