@@ -9,6 +9,16 @@ def translate(value, current_min, current_max, new_min, new_max):
     :return: the given value translated to the new range
     """
 
+    # Swap them if the max and min are reversed
+    if current_min > current_max:
+        tmp = current_max
+        current_max = current_min
+        current_min = tmp
+
+        tmp = new_max
+        new_max = new_min
+        new_min = tmp
+
     # Return the new min or max if the value falls beyond the current range
     # specified
     if value < current_min:
