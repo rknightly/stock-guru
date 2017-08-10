@@ -1,0 +1,2352 @@
+97.33 Y:2.00 Z:1 WSJ:1 S:3 M:6 TGS Transportadora De Ga: 51.6%, 1
+97.02 Y:1.40 Z:1 WSJ:1 S:1 M:1.0 NTRI NutriSystem Inc: 32.13%, 1
+94.18 Y:1.60 Z:1 WSJ:1 S:17 M:1.0 NBIX Neurocrine Bioscienc: 20.88%, 1
+93.5 Y:2.00 Z:1 WSJ:1 S:1 M:1.5 LRCX Lam Research Corpora: 23.5%, 1
+93.13 Y:2.00 Z:1 WSJ:1 S:4 M:6 FDP Fresh Del Monte Prod: 35.67%, 1
+92.24 Y: Z:1 WSJ:1 S:17 M:1.7000000000000002 QVCB Liberty Interactive : 28.68%, 1
+92.0 Y:1.50 Z:1 WSJ:1 S:7 M:6 QUAD Quad Graphics, Inc: 68.51%, 1
+91.73 Y:1.80 Z:1 WSJ:1 S:5 M:1.5 MU Micron Technology, I: 39.52%, 1
+91.55 Y:2.00 Z:1 WSJ:1 S:6 M:6 GFF Griffon Corporation: 41.06%, 1
+91.49 Y:2.00 Z:1 WSJ:1 S:4 M:1.0 TSEM Tower Semiconductor : 18.96%, 1
+91.36 Y:3.00 Z:1 WSJ:1 S:1 M:6 TLK PT Telekomunikasi In: 6.79%, 1
+90.74 Y:1.90 Z:2 WSJ:1 S:17 M:1.0 AERI Aerie Pharmaceutical: 28.72%, 1
+90.61 Y:1.40 Z:1 WSJ:1 S:3 M:1.0 ALGN Align Technology, In: 7.0%, 1
+90.0 Y:1.80 Z:3 WSJ:1 S:17 M:1.0 XOG Extraction Oil & Gas: 53.19%, 1
+90.0 Y:1.70 Z:3 WSJ:1 S:17 M:1.0 GBT Global Blood Therape: 94.55%, 1
+90.0 Y:1.70 Z:3 WSJ:1 S:17 M:1.0 INSM Insmed, Inc.: 84.74%, 1
+89.67 Y:2.00 Z:1 WSJ:1 S:2 M:6 CVCO Cavco Industries, In: 5.0%, 1
+89.6 Y:1.50 Z:1 WSJ:1 S:3 M:6 AGO Assured Guaranty Ltd: 11.34%, 1
+89.53 Y:1.50 Z:2 WSJ:1 S:1 M:1.0 CVGW Calavo Growers, Inc.: 12.2%, 1
+89.48 Y:1.70 Z:1 WSJ:2 S:3 M:1.0 MKSI MKS Instruments, Inc: 25.23%, 1
+89.33 Y:1.70 Z:3 WSJ:1 S:17 M:1.0 UNIT Uniti Group Inc.: 46.65%, 1
+89.15 Y:1.00 Z:1 WSJ:1 S:5 M:6 USNA USANA Health Science: 22.4%, 1
+88.97 Y:1.70 Z:1 WSJ:1 S:4 M:6 BRKS Brooks Automation, I: 14.83%, 1
+88.78 Y:1.80 Z:1 WSJ:1 S:6 M:1.2000000000000002 ALXN Alexion Pharmaceutic: 21.03%, 1
+88.52 Y:1.70 Z:2 WSJ:1 S:4 M:1.0 APOG Apogee Enterprises, : 26.14%, 1
+88.31 Y:1.00 Z:1 WSJ:1 S:6 M:6 SWM Schweitzer-Mauduit I: 24.9%, 1
+87.86 Y:1.80 Z:2 WSJ:1 S:6 M:6 NGHC National General Hol: 47.61%, 1
+87.84 Y:2.30 Z:1 WSJ:2 S:2 M:1.0 ETFC E*TRADE Financial Co: 8.7%, 1
+87.77 Y:1.80 Z:1 WSJ:1 S:4 M:1.7999999999999998 GOOG Alphabet Inc.: 16.61%, 1
+87.71 Y:1.70 Z:2 WSJ:1 S:2 M:1.0 ORBK Orbotech Ltd.: 7.9%, 1
+87.71 Y:1.00 Z:1 WSJ:1 S:6 M:6 KB KB Financial Group I: 21.9%, 1
+87.64 Y:1.00 Z:1 WSJ:1 S:4 M:6 SNE Sony Corp Ord: 8.21%, 1
+87.28 Y:1.50 Z:2 WSJ:1 S:2 M:1.0 LOPE Grand Canyon Educati: 5.32%, 1
+87.22 Y:1.60 Z:3 WSJ:1 S:5 M:1.0 SBGI Sinclair Broadcast G: 55.7%, 1
+87.19 Y:1.90 Z:2 WSJ:1 S:2 M:1.5 SSNC SS&C Technologies Ho: 17.33%, 1
+87.09 Y:1.50 Z:2 WSJ:1 S:6 M:1.0 FNGN Financial Engines, I: 30.87%, 1
+86.9 Y:1.80 Z:2 WSJ:1 S:2 M:6 WAL Western Alliance Ban: 16.16%, 1
+86.89 Y:2.20 Z:1 WSJ:2 S:1 M:6 OC Owens Corning Inc: 9.46%, 1
+86.84 Y:1.80 Z:1 WSJ:1 S:5 M:6 TRP TransCanada Corporat: 10.87%, 1
+86.79 Y:1.80 Z:2 WSJ:1 S:3 M:1.0 LHCG LHC Group: 9.05%, 1
+86.77 Y:1.90 Z:3 WSJ:1 S:17 M:1.0 PSDO Presidio, Inc.: 33.83%, 1
+86.63 Y:2.20 Z:1 WSJ:1 S:5 M:1.0 LBRDA Liberty Broadband Co: -3.57%, 1
+86.31 Y:1.90 Z:1 WSJ:1 S:5 M:6 BAM Brookfield Asset Man: 8.24%, 1
+86.17 Y:2.30 Z:3 WSJ:1 S:3 M:1.0 SIMO Silicon Motion Techn: 30.35%, 1
+86.14 Y:2.00 Z:1 WSJ:2 S:2 M:6 FMS Fresenius Medical Ca: 12.35%, 1
+85.94 Y:2.50 Z:2 WSJ:1 S:4 M:6 STL Sterling Bancorp: 24.72%, 1
+85.93 Y:2.30 Z:1 WSJ:2 S:5 M:1.0 KRNY Kearny Financial: 17.24%, 1
+85.83 Y:1.80 Z:2 WSJ:1 S:10 M:1.0 OPK Opko Health, Inc.: 88.09%, 1
+85.49 Y:1.70 Z:3 WSJ:1 S:17 M:1.7000000000000002 TWNK Hostess Brands, Inc.: 44.93%, 1
+85.39 Y:2.00 Z:1 WSJ:2 S:3 M:6 DLX Deluxe Corporation: 15.26%, 1
+85.33 Y:2.00 Z:1 WSJ:1 S:12 M:6 VDTH Videocon d2h Limited: 65.34%, 1
+85.14 Y:2.00 Z:1 WSJ:1 S:5 M:6 NOVT Novanta Inc.: 2.36%, 1
+85.05 Y:1.70 Z:3 WSJ:1 S:2 M:6 COHR Coherent, Inc.: 31.93%, 1
+85.05 Y:2.10 Z:1 WSJ:2 S:2 M:2.0 ENTG Entegris, Inc.: 16.94%, 1
+85.0 Y:1.60 Z:4 WSJ:1 S:17 M:1.0 AIMT Aimmune Therapeutics: 95.57%, 1
+84.99 Y:2.00 Z:1 WSJ:2 S:6 M:6 DAL Delta Air Lines, Inc: 33.28%, 1
+84.98 Y:1.90 Z:1 WSJ:2 S:1 M:2.0 MCHP Microchip Technology: 9.89%, 1
+84.96 Y:1.80 Z:1 WSJ:2 S:7 M:6 CORE Core-Mark Holding Co: 39.79%, 1
+84.92 Y:1.90 Z:2 WSJ:1 S:5 M:1.5999999999999996 JAZZ Jazz Pharmaceuticals: 26.19%, 1
+84.89 Y:3.10 Z:1 WSJ:2 S:1 M:6 PAC Grupo Aeroportuario : -0.57%, 1
+84.81 Y:2.00 Z:1 WSJ:2 S:6 M:1.5999999999999996 FOX Twenty-First Century: 32.21%, 1
+84.78 Y:1.60 Z:2 WSJ:1 S:17 M:1.0 BGNE BeiGene, Ltd.: -1.09%, 1
+84.78 Y:2.20 Z:3 WSJ:2 S:17 M:1.0 PI Impinj, Inc.: 48.89%, 1
+84.7 Y:2.40 Z:1 WSJ:2 S:2 M:6 ESNT Essent Group Ltd.: 5.18%, 1
+84.67 Y:1.80 Z:1 WSJ:2 S:5 M:6 MTZ MasTec, Inc.: 25.0%, 1
+84.62 Y:2.10 Z:1 WSJ:2 S:4 M:6 ALSN Allison Transmission: 18.11%, 1
+84.52 Y:1.60 Z:3 WSJ:1 S:17 M:1.0 DBVT DBV Technologies S.A: 22.62%, 1
+84.51 Y:2.00 Z:3 WSJ:1 S:17 M:1.0 BYSI BeyondSpring, Inc.: 22.55%, 1
+84.51 Y:1.60 Z:2 WSJ:1 S:17 M:1.0 LOXO Loxo Oncology, Inc.: -2.43%, 1
+84.51 Y:1.60 Z:1 WSJ:1 S:5 M:2.0 MMSI Merit Medical System: 8.7%, 1
+84.48 Y:1.40 Z:2 WSJ:1 S:4 M:6 DOOR Masonite Internation: 17.4%, 1
+84.36 Y:1.80 Z:2 WSJ:1 S:3 M:6 EPAM EPAM Systems, Inc.: 10.13%, 1
+84.29 Y:2.10 Z:1 WSJ:2 S:5 M:2.3 AAOI Applied Optoelectron: 39.89%, 1
+84.19 Y:1.90 Z:2 WSJ:1 S:2 M:6 NEE NextEra Energy, Inc.: 2.64%, 1
+84.17 Y:1.90 Z:1 WSJ:2 S:3 M:1.5 ATVI Activision Blizzard,: 5.86%, 1
+84.17 Y:3.00 Z:1 WSJ:2 S:9 M:6 TRQ Turquoise Hill Resou: 49.16%, 1
+84.08 Y:2.00 Z:1 WSJ:2 S:9 M:6 KW Kennedy-Wilson Holdi: 48.72%, 1
+84.06 Y:1.90 Z:1 WSJ:2 S:2 M:1.4000000000000004 IPGP IPG Photonics Corpor: -3.99%, 1
+84.06 Y:1.40 Z:3 WSJ:1 S:5 M:1.0 NXST Nexstar Media Group,: 31.01%, 1
+83.94 Y:2.00 Z:1 WSJ:1 S:11 M:1.0 PAM Pampa Energia S.A.: 20.3%, 1
+83.91 Y:1.70 Z:2 WSJ:1 S:5 M:1.2999999999999998 AVGO Broadcom Limited: 12.65%, 1
+83.91 Y:2.00 Z:2 WSJ:1 S:7 M:1.0 RMBS Rambus, Inc.: 18.45%, 1
+83.9 Y:2.00 Z:3 WSJ:1 S:17 M:2.0 CLVS Clovis Oncology, Inc: 44.51%, 1
+83.89 Y:1.60 Z:3 WSJ:1 S:8 M:1.0 XNCR Xencor, Inc.: 56.81%, 1
+83.86 Y:1.90 Z:2 WSJ:1 S:5 M:1.7000000000000002 MSCC Microsemi Corporatio: 22.31%, 1
+83.83 Y:2.00 Z:1 WSJ:2 S:7 M:1.4000000000000004 MLCO Melco Resorts & Ente: 27.96%, 1
+83.81 Y:1.70 Z:3 WSJ:1 S:2 M:1.0 EEFT Euronet Worldwide, I: 9.53%, 1
+83.81 Y:1.80 Z:1 WSJ:1 S:5 M:6 TAL TAL Education Group: -4.26%, 1
+83.74 Y:2.00 Z:1 WSJ:2 S:4 M:6 EW Edwards Lifesciences: 13.7%, 1
+83.73 Y:2.00 Z:2 WSJ:2 S:2 M:1.0 SEIC SEI Investments Comp: 9.06%, 1
+83.72 Y:2.00 Z:3 WSJ:1 S:2 M:1.0 PEGA Pegasystems Inc.: 9.0%, 1
+83.59 Y:2.10 Z:2 WSJ:1 S:5 M:6 TJX TJX Companies, Inc. : 19.6%, 1
+83.55 Y:1.00 Z:1 WSJ:2 S:4 M:2.0 CENTA Central Garden & Pet: 21.27%, 1
+83.43 Y:2.20 Z:3 WSJ:1 S:2 M:1.0 IIVI II-VI Incorporated: 7.24%, 1
+83.41 Y:1.70 Z:3 WSJ:1 S:2 M:1.2000000000000002 CMCSA Comcast Corporation: 12.14%, 1
+83.4 Y:1.50 Z:1 WSJ:2 S:4 M:6 SNX Synnex Corporation: 12.0%, 1
+83.37 Y:2.00 Z:1 WSJ:2 S:5 M:1.0 HCSG Healthcare Services : 1.9%, 1
+83.32 Y:1.80 Z:3 WSJ:1 S:2 M:1.2999999999999998 CELG Celgene Corporation: 14.07%, 1
+83.25 Y:1.70 Z:3 WSJ:1 S:3 M:6 FN Fabrinet: 29.56%, 1
+83.2 Y:2.20 Z:1 WSJ:2 S:5 M:6 AIMC Altra Industrial Mot: 17.65%, 1
+83.19 Y:1.70 Z:2 WSJ:1 S:3 M:6 RCL Royal Caribbean Crui: 4.29%, 1
+83.17 Y:2.00 Z:2 WSJ:2 S:2 M:1.0 EXLS ExlService Holdings,: 5.7%, 1
+83.17 Y:2.00 Z:1 WSJ:2 S:5 M:6 BDC Belden Inc: 17.5%, 1
+83.09 Y:2.00 Z:2 WSJ:2 S:2 M:1.0 EGBN Eagle Bancorp, Inc.: 5.18%, 1
+83.08 Y:1.90 Z:2 WSJ:2 S:1 M:1.9000000000000004 AMAT Applied Materials, I: 20.98%, 1
+83.06 Y:2.20 Z:2 WSJ:2 S:3 M:1.0 SLAB Silicon Laboratories: 11.7%, 1
+83.04 Y:1.00 Z:4 WSJ:1 S:17 M:1.0 CDEV Centennial Resource : 40.2%, 1
+83.02 Y:2.10 Z:1 WSJ:2 S:4 M:6 RHT Red Hat, Inc.: 10.09%, 1
+83.0 Y:2.00 Z:2 WSJ:2 S:5 M:1.0 SKYW SkyWest, Inc.: 24.66%, 1
+82.97 Y:2.00 Z:1 WSJ:2 S:5 M:6 CP Canadian Pacific Rai: 16.51%, 1
+82.97 Y:1.60 Z:3 WSJ:1 S:4 M:6 DY Dycom Industries, In: 34.87%, 1
+82.85 Y:2.40 Z:2 WSJ:1 S:5 M:6 FOE Ferro Corporation: 15.91%, 1
+82.82 Y:1.50 Z:3 WSJ:1 S:3 M:6 EBIX Ebix, Inc.: 27.44%, 1
+82.79 Y:1.80 Z:4 WSJ:1 S:3 M:1.0 OCLR Oclaro, Inc.: 35.06%, 1
+82.76 Y:2.00 Z:1 WSJ:2 S:2 M:1.9000000000000004 RYAAY Ryanair Holdings plc: 0.7%, 1
+82.73 Y:1.60 Z:2 WSJ:1 S:5 M:1.0 ILG ILG, Inc: 15.31%, 4
+82.7 Y:1.80 Z:2 WSJ:1 S:5 M:6 EBS Emergent Biosolution: 15.15%, 1
+82.58 Y:1.30 Z:3 WSJ:1 S:5 M:1.0 BOFI BofI Holding, Inc.: 22.17%, 1
+82.57 Y:2.00 Z:1 WSJ:2 S:3 M:6 IBA Industrias Bachoco, : 1.18%, 1
+82.56 Y:2.00 Z:2 WSJ:1 S:4 M:6 SPGI S&P Global Inc.: 7.78%, 1
+82.54 Y:1.60 Z:3 WSJ:1 S:1 M:6 TMO Thermo Fisher Scient: 12.7%, 1
+82.46 Y:1.90 Z:3 WSJ:1 S:2 M:6 NWL Newell Brands Inc.: 18.95%, 1
+82.42 Y:2.00 Z:1 WSJ:2 S:5 M:6 PKX POSCO: 13.77%, 1
+82.39 Y:1.90 Z:2 WSJ:1 S:7 M:6 BURL Burlington Stores, I: 26.93%, 1
+82.37 Y:1.60 Z:2 WSJ:1 S:12 M:1.0 NKTR Nektar Therapeutics: 42.56%, 1
+82.34 Y:2.00 Z:2 WSJ:2 S:1 M:6 EME EMCOR Group, Inc.: 11.71%, 1
+82.31 Y: Z:1 WSJ:2 S:8 M:1.0 LBTYK Liberty Global plc: 15.5%, 1
+82.31 Y:2.20 Z:1 WSJ:2 S:4 M:6 VAC Marriot Vacations Wo: 6.57%, 1
+82.25 Y:2.10 Z:2 WSJ:2 S:2 M:6 TER Teradyne, Inc.: 17.91%, 1
+82.24 Y:1.80 Z:1 WSJ:1 S:8 M:6 BPY Brookfield Property : 7.89%, 1
+82.2 Y:1.80 Z:3 WSJ:1 S:5 M:1.0 HQY HealthEquity, Inc.: 19.87%, 1
+82.17 Y:1.80 Z:4 WSJ:1 S:17 M:1.0 NCSM NCS Multistage Holdi: 35.83%, 1
+82.06 Y:1.90 Z:1 WSJ:2 S:5 M:6 CBG CBRE Group, Inc.: 11.96%, 1
+82.04 Y:2.50 Z:2 WSJ:2 S:1 M:6 PFS Provident Financial : 10.19%, 1
+81.95 Y: Z:1 WSJ:6 S:8 M:1.0 LVNTB Liberty Interactive : 6.42%, 1
+81.88 Y:1.50 Z:1 WSJ:2 S:5 M:6 SKM SK Telecom Co., Ltd.: 11.05%, 1
+81.84 Y:2.10 Z:2 WSJ:2 S:3 M:1.2999999999999998 SWKS Skyworks Solutions, : 11.88%, 1
+81.81 Y:2.00 Z:3 WSJ:1 S:17 M:1.0 TIG TiGenix: 9.05%, 1
+81.78 Y:2.20 Z:2 WSJ:2 S:1 M:6 TEL TE Connectivity Ltd.: 8.88%, 1
+81.71 Y:2.20 Z:1 WSJ:2 S:5 M:2.0 CENT Central Garden & Pet: 16.94%, 1
+81.67 Y:2.00 Z:1 WSJ:2 S:11 M:6 RRC Range Resources Corp: 102.99%, 1
+81.64 Y:2.60 Z:1 WSJ:2 S:6 M:1.0 KALU Kaiser Aluminum Corp: -1.8%, 1
+81.63 Y: Z:1 WSJ:2 S:8 M:1.0 LBTYB Liberty Global plc: 11.44%, 1
+81.61 Y:1.90 Z:2 WSJ:2 S:1 M:6 MA Mastercard Incorpora: 8.07%, 1
+81.6 Y:1.70 Z:3 WSJ:1 S:2 M:1.5999999999999996 FB Facebook, Inc.: 11.26%, 1
+81.59 Y:1.70 Z:3 WSJ:1 S:1 M:6 MTN Vail Resorts, Inc.: 7.94%, 1
+81.57 Y:2.50 Z:1 WSJ:2 S:4 M:6 CNS Cohen & Steers Inc: 2.85%, 1
+81.56 Y:1.70 Z:3 WSJ:1 S:1 M:6 UNH UnitedHealth Group I: 7.79%, 1
+81.55 Y:2.20 Z:2 WSJ:2 S:1 M:6 TSS Total System Service: 7.75%, 1
+81.49 Y:2.10 Z:2 WSJ:1 S:5 M:2.0 LOGM LogMein, Inc.: 15.63%, 1
+81.38 Y:1.80 Z:3 WSJ:1 S:17 M:1.7000000000000002 QVCA Liberty Interactive : 24.39%, 1
+81.37 Y:2.00 Z:1 WSJ:1 S:11 M:6 NOMD Nomad Foods Limited: 23.5%, 1
+81.36 Y:1.90 Z:2 WSJ:2 S:1 M:6 TFX Teleflex Incorporate: 6.8%, 1
+81.33 Y:1.60 Z:3 WSJ:6 S:4 M:1.0 PLAY Dave & Buster&#39;s : 26.65%, 1
+81.27 Y:2.40 Z:2 WSJ:2 S:2 M:6 GIB CGI Group, Inc.: 13.03%, 1
+81.22 Y:1.90 Z:2 WSJ:2 S:2 M:6 HD Home Depot, Inc. (Th: 12.78%, 1
+81.21 Y:1.90 Z:2 WSJ:1 S:8 M:1.4000000000000004 HAWK Blackhawk Network Ho: 18.91%, 1
+81.14 Y:1.60 Z:2 WSJ:1 S:5 M:6 CSGP CoStar Group, Inc.: 7.35%, 1
+81.14 Y:1.70 Z:2 WSJ:2 S:17 M:1.7999999999999998 WPPGY WPP plc: 25.71%, 1
+81.13 Y:1.90 Z:3 WSJ:2 S:2 M:1.0 PPBI Pacific Premier Banc: 18.46%, 1
+81.12 Y:2.00 Z:3 WSJ:2 S:4 M:1.0 KLIC Kulicke and Soffa In: 31.7%, 1
+81.08 Y:1.50 Z:2 WSJ:1 S:11 M:1.0 CZR Caesars Entertainmen: 28.15%, 1
+81.05 Y:2.20 Z:1 WSJ:2 S:5 M:1.0 HTHT China Lodging Group,: -12.03%, 1
+80.97 Y:1.80 Z:1 WSJ:1 S:8 M:6 LYV Live Nation Entertai: 1.5%, 1
+80.94 Y:1.60 Z:3 WSJ:1 S:5 M:6 FLT FleetCor Technologie: 31.38%, 1
+80.93 Y:1.70 Z:3 WSJ:2 S:2 M:1.0 WSFS WSFS Financial Corpo: 17.25%, 1
+80.87 Y:2.10 Z:2 WSJ:2 S:2 M:6 STZ Constellation Brands: 11.04%, 1
+80.76 Y:1.80 Z:4 WSJ:1 S:5 M:1.5 FNSR Finisar Corporation: 48.71%, 1
+80.76 Y:1.90 Z:3 WSJ:1 S:3 M:6 WRK Westrock Company: 17.11%, 1
+80.72 Y:1.70 Z:3 WSJ:1 S:17 M:1.0 TTD The Trade Desk, Inc.: 3.61%, 1
+80.71 Y:1.00 Z:5 WSJ:1 S:3 M:1.0 UFPI Universal Forest Pro: 47.58%, 1
+80.67 Y:2.00 Z:3 WSJ:1 S:8 M:6 AGRO Adecoagro S.A.: 54.85%, 1
+80.67 Y:1.80 Z:3 WSJ:1 S:8 M:6 SLCA U.S. Silica Holdings: 95.92%, 1
+80.65 Y:2.20 Z:1 WSJ:2 S:8 M:1.7999999999999998 IMPV Imperva, Inc.: 25.57%, 1
+80.64 Y:1.90 Z:2 WSJ:2 S:1 M:6 COO Cooper Companies, In: 3.19%, 1
+80.64 Y:2.00 Z:2 WSJ:2 S:1 M:6 FNF Fidelity National Fi: 3.22%, 1
+80.63 Y:1.80 Z:2 WSJ:2 S:1 M:6 HON Honeywell Internatio: 3.13%, 1
+80.61 Y:2.00 Z:2 WSJ:2 S:1 M:6 AVY Avery Dennison Corpo: 3.04%, 1
+80.58 Y:1.60 Z:4 WSJ:1 S:5 M:1.0 SLM SLM Corporation: 35.14%, 1
+80.58 Y:1.50 Z:3 WSJ:1 S:4 M:6 CBM Cambrex Corporation: 22.89%, 1
+80.57 Y:1.80 Z:3 WSJ:1 S:5 M:1.0 MOMO Momo Inc.: 10.11%, 1
+80.56 Y:1.90 Z:3 WSJ:1 S:6 M:1.0 TEDU Tarena International: 16.71%, 1
+80.56 Y:2.00 Z:3 WSJ:1 S:4 M:6 NUE Nucor Corporation: 22.79%, 1
+80.55 Y:2.20 Z:2 WSJ:2 S:4 M:1.0 AAWW Atlas Air Worldwide : 3.3%, 1
+80.54 Y:1.90 Z:2 WSJ:2 S:3 M:1.5 IPAR Inter Parfums, Inc.: 9.09%, 1
+80.54 Y:2.10 Z:3 WSJ:1 S:5 M:1.4000000000000004 OTEX Open Text Corporatio: 19.89%, 1
+80.47 Y:1.30 Z:3 WSJ:1 S:17 M:1.0 HCM Hutchison China Medi: 2.35%, 1
+80.44 Y:1.80 Z:3 WSJ:1 S:7 M:1.0 ARRS ARRIS International : 22.61%, 1
+80.34 Y:2.00 Z:1 WSJ:2 S:10 M:6 MBI MBIA, Inc.: 36.72%, 1
+80.32 Y:2.20 Z:2 WSJ:2 S:5 M:6 UAL United Continental H: 28.26%, 1
+80.29 Y:2.20 Z:2 WSJ:2 S:2 M:2.0 FRME First Merchants Corp: 13.41%, 1
+80.21 Y:1.40 Z:2 WSJ:1 S:6 M:1.0 OSUR OraSure Technologies: -10.38%, 1
+80.16 Y:1.90 Z:3 WSJ:1 S:3 M:6 FDX FedEx Corporation: 14.13%, 1
+80.15 Y:2.10 Z:2 WSJ:2 S:2 M:6 CACI CACI International, : 7.44%, 1
+80.1 Y:1.90 Z:3 WSJ:1 S:2 M:6 MHK Mohawk Industries, I: 7.19%, 1
+80.04 Y:1.90 Z:2 WSJ:2 S:5 M:1.0 TECH Bio-Techne Corp: 6.92%, 1
+80.04 Y:2.10 Z:2 WSJ:2 S:3 M:6 ORCL Oracle Corporation: 13.54%, 1
+80.0 Y:1.90 Z:3 WSJ:1 S:2 M:2.3 CHFC Chemical Financial C: 19.15%, 1
+80.0 Y:2.30 Z:3 WSJ:2 S:17 M:2.0 RDUS Radius Health, Inc.: 75.05%, 1
+80.0 Y:2.00 Z:4 WSJ:2 S:17 M:1.0 SGYP Synergy Pharmaceutic: 211.61%, 1
+79.98 Y:2.30 Z:2 WSJ:2 S:4 M:1.0 SHOO Steven Madden, Ltd.: -0.12%, 1
+79.94 Y:2.00 Z:1 WSJ:1 S:8 M:6 BBU Brookfield Business : -3.65%, 1
+79.93 Y:1.40 Z:3 WSJ:1 S:17 M:1.0 AVXS AveXis, Inc.: -0.35%, 1
+79.93 Y:1.90 Z:3 WSJ:2 S:6 M:1.4000000000000004 WDC Western Digital Corp: 47.89%, 1
+79.9 Y:1.80 Z:3 WSJ:1 S:9 M:1.5 SHPG Shire plc: 45.21%, 1
+79.86 Y:1.90 Z:3 WSJ:1 S:3 M:6 WCN Waste Connections, I: 12.61%, 1
+79.85 Y:2.10 Z:1 WSJ:2 S:4 M:2.5 OLED Universal Display Co: 11.59%, 1
+79.85 Y:1.70 Z:3 WSJ:1 S:4 M:6 GVA Granite Construction: 19.25%, 1
+79.84 Y:1.80 Z:1 WSJ:2 S:5 M:6 PVH PVH Corp.: 0.88%, 1
+79.83 Y:1.80 Z:3 WSJ:1 S:5 M:6 XPO XPO Logistics, Inc.: 25.81%, 1
+79.75 Y:2.00 Z:4 WSJ:1 S:3 M:1.0 IBTX Independent Bank Gro: 16.81%, 1
+79.68 Y:2.20 Z:3 WSJ:2 S:17 M:1.0 NTNX Nutanix, Inc.: 23.4%, 1
+79.67 Y:2.00 Z:3 WSJ:2 S:5 M:6 ACCO Acco Brands Corporat: 50.0%, 1
+79.67 Y:2.50 Z:2 WSJ:2 S:1 M:6 G Genpact Limited: -1.66%, 1
+79.67 Y:1.70 Z:4 WSJ:1 S:5 M:6 MXL MaxLinear, Inc: 57.23%, 1
+79.64 Y:2.20 Z:2 WSJ:2 S:3 M:6 MC Moelis & Company: 11.53%, 1
+79.63 Y:2.00 Z:3 WSJ:2 S:2 M:1.0 ON ON Semiconductor Cor: 9.46%, 1
+79.61 Y:1.50 Z:3 WSJ:1 S:5 M:6 AM Antero Midstream Par: 24.73%, 1
+79.6 Y:2.50 Z:2 WSJ:2 S:6 M:6 FBP First BanCorp.: 31.35%, 1
+79.59 Y:1.90 Z:3 WSJ:2 S:17 M:1.0 LAUR Laureate Education, : 22.95%, 1
+79.59 Y:1.90 Z:3 WSJ:1 S:5 M:6 MIC Macquarie Infrastruc: 24.64%, 1
+79.55 Y:2.20 Z:2 WSJ:2 S:2 M:6 SYK Stryker Corporation: 4.43%, 1
+79.49 Y:2.00 Z:3 WSJ:2 S:5 M:1.0 NUVA NuVasive, Inc.: 28.61%, 1
+79.48 Y:1.90 Z:2 WSJ:1 S:10 M:1.0 VRNS Varonis Systems, Inc: 11.87%, 1
+79.48 Y:1.50 Z:2 WSJ:2 S:3 M:6 MFC Manulife Financial C: 10.71%, 1
+79.46 Y:1.50 Z:3 WSJ:1 S:5 M:6 SATS EchoStar Corporation: 23.96%, 1
+79.44 Y:1.60 Z:3 WSJ:1 S:12 M:1.0 AMRN Amarin Corporation p: 105.28%, 1
+79.44 Y:1.70 Z:3 WSJ:1 S:12 M:1.0 SRPT Sarepta Therapeutics: 67.71%, 1
+79.43 Y:2.30 Z:3 WSJ:2 S:17 M:1.0 PLYA Playa Hotels & Resor: 22.16%, 1
+79.38 Y:3.00 Z:1 WSJ:2 S:8 M:6 EGL Engility Holdings, I: 18.58%, 1
+79.33 Y:1.50 Z:3 WSJ:6 S:9 M:1.0 GLNG Golar LNG Limited: 71.18%, 1
+79.33 Y:1.40 Z:3 WSJ:1 S:9 M:6 EVH Evolent Health, Inc: 61.29%, 1
+79.33 Y:1.70 Z:3 WSJ:1 S:9 M:6 MNK Mallinckrodt plc: 87.62%, 1
+79.32 Y:2.00 Z:2 WSJ:2 S:5 M:1.4000000000000004 MNST Monster Beverage Cor: 12.58%, 1
+79.3 Y:1.90 Z:3 WSJ:1 S:11 M:1.0 ACAD ACADIA Pharmaceutica: 42.48%, 1
+79.27 Y:1.60 Z:3 WSJ:1 S:17 M:3.0 PBYI Puma Biotechnology I: 46.33%, 1
+79.18 Y:2.30 Z:2 WSJ:2 S:1 M:6 B Barnes Group, Inc.: -4.12%, 1
+79.1 Y:1.80 Z:3 WSJ:1 S:6 M:6 EQM EQT Midstream Partne: 28.81%, 1
+79.08 Y:1.80 Z:3 WSJ:1 S:8 M:6 CPE Callon Petroleum Com: 42.05%, 1
+79.07 Y:1.00 Z:3 WSJ:1 S:3 M:6 MNR Monmouth Real Estate: 8.7%, 1
+79.06 Y:1.70 Z:2 WSJ:2 S:4 M:6 PATK Patrick Industries, : 15.28%, 1
+79.05 Y:1.70 Z:3 WSJ:1 S:7 M:1.0 BLDR Builders FirstSource: 14.32%, 1
+79.05 Y:1.60 Z:3 WSJ:1 S:5 M:6 MPC Marathon Petroleum C: 21.91%, 1
+79.03 Y:1.80 Z:2 WSJ:1 S:11 M:1.0 PFPT Proofpoint, Inc.: 15.87%, 1
+79.01 Y:2.30 Z:3 WSJ:2 S:3 M:1.0 LOGI Logitech Internation: 12.38%, 1
+78.99 Y:1.80 Z:3 WSJ:1 S:5 M:6 ALK Alaska Air Group, In: 21.62%, 1
+78.96 Y:2.10 Z:3 WSJ:2 S:2 M:2.0 CRUS Cirrus Logic, Inc.: 30.41%, 1
+78.95 Y:1.80 Z:3 WSJ:1 S:5 M:6 RDN Radian Group Inc.: 21.4%, 1
+78.94 Y:2.00 Z:2 WSJ:2 S:7 M:6 MATX Matson, Inc.: 34.68%, 1
+78.93 Y:2.00 Z:3 WSJ:1 S:5 M:1.5999999999999996 MDLZ Mondelez Internation: 15.26%, 1
+78.9 Y:2.20 Z:3 WSJ:2 S:17 M:1.0 COUP Coupa Software Incor: 19.52%, 1
+78.87 Y:1.90 Z:2 WSJ:2 S:6 M:6 CAL Caleres, Inc.: 27.68%, 1
+78.82 Y:1.80 Z:3 WSJ:1 S:4 M:6 BERY Berry Global Group, : 14.12%, 1
+78.82 Y:1.70 Z:3 WSJ:1 S:6 M:6 MPLX MPLX LP: 27.43%, 1
+78.81 Y:1.80 Z:3 WSJ:1 S:5 M:6 GWB Great Western Bancor: 20.73%, 1
+78.72 Y:1.90 Z:2 WSJ:2 S:3 M:1.9000000000000004 ADBE Adobe Systems Incorp: 8.18%, 1
+78.7 Y:2.20 Z:2 WSJ:2 S:2 M:6 CTSH Cognizant Technology: 0.17%, 1
+78.69 Y:2.10 Z:2 WSJ:2 S:4 M:6 BIG Big Lots, Inc.: 13.46%, 1
+78.57 Y:2.00 Z:3 WSJ:2 S:2 M:1.2999999999999998 MSFT Microsoft Corporatio: 10.6%, 1
+78.5 Y: Z:1 WSJ:2 S:8 M:1.7000000000000002 NWS News Corporation: 10.15%, 1
+78.5 Y:2.20 Z:3 WSJ:1 S:6 M:6 AAV Advantage Oil & Gas : 25.82%, 1
+78.49 Y:2.10 Z:3 WSJ:2 S:3 M:1.2000000000000002 CSCO Cisco Systems, Inc.: 14.25%, 1
+78.46 Y:1.80 Z:2 WSJ:2 S:3 M:6 AFG American Financial G: 5.61%, 1
+78.46 Y:2.00 Z:3 WSJ:2 S:1 M:6 ESE ESCO Technologies In: 17.28%, 1
+78.44 Y:2.20 Z:3 WSJ:1 S:10 M:1.0 MB MINDBODY, Inc.: 30.66%, 1
+78.43 Y:1.80 Z:1 WSJ:2 S:8 M:6 POST Post Holdings, Inc.: 13.81%, 1
+78.4 Y:1.60 Z:3 WSJ:1 S:6 M:6 EPD Enterprise Products : 25.33%, 1
+78.38 Y:2.60 Z:1 WSJ:2 S:3 M:3.0 OMAB Grupo Aeroportuario : 8.6%, 1
+78.33 Y:1.80 Z:1 WSJ:2 S:7 M:6 CC Chemours Company (Th: 6.66%, 1
+78.25 Y:1.60 Z:4 WSJ:6 S:5 M:1.0 CBPO China Biologic Produ: 42.92%, 1
+78.24 Y:3.00 Z:1 WSJ:2 S:8 M:6 SHG Shinhan Financial Gr: 12.85%, 1
+78.21 Y:1.50 Z:3 WSJ:2 S:1 M:6 THO Thor Industries, Inc: 16.04%, 1
+78.17 Y:1.80 Z:3 WSJ:1 S:5 M:6 MGM MGM Resorts Internat: 17.53%, 1
+78.15 Y:1.50 Z:3 WSJ:1 S:4 M:6 WNS WNS (Holdings) Limit: 10.76%, 1
+78.14 Y:2.10 Z:1 WSJ:2 S:5 M:6 AAN Aaron&#39;s,  Inc.: -7.63%, 1
+78.12 Y:1.80 Z:3 WSJ:2 S:3 M:6 INN Summit Hotel Propert: 28.95%, 1
+78.1 Y:2.00 Z:3 WSJ:1 S:5 M:6 PBA Pembina Pipeline Cor: 17.15%, 1
+78.08 Y:1.90 Z:4 WSJ:1 S:4 M:1.0 MPWR Monolithic Power Sys: 13.51%, 1
+78.06 Y:1.90 Z:3 WSJ:1 S:3 M:6 IBP Installed Building P: 3.64%, 1
+78.05 Y:1.80 Z:3 WSJ:1 S:5 M:6 EDU New Oriental Educati: 16.9%, 1
+78.03 Y:2.00 Z:3 WSJ:1 S:8 M:6 GLPG Galapagos NV: 36.84%, 1
+78.01 Y:2.00 Z:1 WSJ:2 S:8 M:6 BAK Braskem S.A.: 11.74%, 1
+78.0 Y:3.00 Z:3 WSJ:1 S:8 M:1.0 RRR Red Rock Resorts, In: 14.69%, 1
+78.0 Y:2.30 Z:3 WSJ:2 S:1 M:6 BHLB Berkshire Hills Banc: 15.0%, 1
+77.99 Y:2.20 Z:2 WSJ:2 S:3 M:6 BFAM Bright Horizons Fami: 3.27%, 1
+77.96 Y:1.90 Z:3 WSJ:1 S:5 M:1.7999999999999998 GOOGL Alphabet Inc.: 14.4%, 1
+77.96 Y:2.00 Z:2 WSJ:2 S:6 M:1.0 OLLI Ollie&#39;s Bargain : 1.12%, 1
+77.95 Y:1.70 Z:3 WSJ:1 S:5 M:2.0 SINA Sina Corporation: 19.38%, 1
+77.95 Y:2.30 Z:2 WSJ:2 S:3 M:6 AET Aetna Inc.: 3.07%, 1
+77.95 Y:1.00 Z:3 WSJ:1 S:7 M:6 VGR Vector Group Ltd.: 29.75%, 1
+77.93 Y:1.70 Z:3 WSJ:1 S:7 M:1.0 OSIS OSI Systems, Inc.: 7.58%, 1
+77.82 Y:2.20 Z:2 WSJ:2 S:6 M:2.0 CY Cypress Semiconducto: 25.27%, 1
+77.74 Y:2.40 Z:2 WSJ:2 S:6 M:6 OEC Orion Engineered Car: 22.04%, 1
+77.71 Y:1.90 Z:2 WSJ:2 S:5 M:1.5 ITRI Itron, Inc.: 5.44%, 1
+77.69 Y:1.80 Z:3 WSJ:1 S:3 M:6 ROG Rogers Corporation: 1.77%, 1
+77.64 Y:2.30 Z:2 WSJ:2 S:1 M:2.5 ASML ASML Holding N.V.: 3.35%, 1
+77.55 Y:2.60 Z:3 WSJ:2 S:7 M:1.0 SIR Select Income REIT: 30.32%, 1
+77.55 Y:1.70 Z:3 WSJ:1 S:3 M:1.0 STMP Stamps.com Inc.: -21.39%, 1
+77.53 Y:1.70 Z:3 WSJ:1 S:4 M:6 AMT American Tower Corpo: 7.63%, 1
+77.5 Y:2.30 Z:3 WSJ:2 S:10 M:1.0 GWPH GW Pharmaceuticals P: 56.65%, 1
+77.5 Y:2.20 Z:2 WSJ:2 S:6 M:6 WWE World Wrestling Ente: 20.83%, 1
+77.49 Y:2.00 Z:3 WSJ:2 S:5 M:1.0 PZZA Papa John&#39;s Inte: 16.58%, 1
+77.49 Y:3.00 Z:1 WSJ:2 S:8 M:6 WF Woori Bank: 9.11%, 1
+77.47 Y:1.90 Z:2 WSJ:2 S:9 M:2.0 MDCO The Medicines Compan: 43.16%, 1
+77.47 Y:1.70 Z:2 WSJ:1 S:8 M:6 HASI Hannon Armstrong Sus: 9.01%, 1
+77.45 Y:2.00 Z:2 WSJ:2 S:5 M:6 AMSF AMERISAFE, Inc.: 13.94%, 1
+77.44 Y:1.90 Z:3 WSJ:2 S:4 M:1.0 CDW CDW Corporation: 9.61%, 1
+77.35 Y:1.40 Z:3 WSJ:2 S:3 M:1.0 ABMD ABIOMED, Inc.: 2.45%, 1
+77.35 Y:1.00 Z:1 WSJ:2 S:9 M:6 TI Telecom Italia S.P.A: 15.07%, 1
+77.32 Y:1.70 Z:3 WSJ:1 S:5 M:2.0 SMTC Semtech Corporation: 15.58%, 1
+77.32 Y:2.10 Z:3 WSJ:2 S:5 M:1.0 ENSG The Ensign Group, In: 15.58%, 1
+77.32 Y:2.00 Z:3 WSJ:2 S:1 M:6 PH Parker-Hannifin Corp: 11.59%, 1
+77.26 Y:2.20 Z:3 WSJ:2 S:5 M:1.0 MINI Mobile Mini, Inc.: 15.2%, 1
+77.2 Y:2.00 Z:3 WSJ:2 S:17 M:1.0 ESPR Esperion Therapeutic: 10.98%, 1
+77.18 Y:2.10 Z:3 WSJ:2 S:5 M:1.0 SBCF Seacoast Banking Cor: 14.75%, 1
+77.17 Y:2.10 Z:3 WSJ:2 S:1 M:6 DHI D.R. Horton, Inc.: 10.83%, 1
+77.17 Y:1.50 Z:3 WSJ:1 S:10 M:6 GKOS Glaukos Corporation: 45.87%, 1
+77.15 Y:2.20 Z:3 WSJ:1 S:8 M:1.0 ERI Eldorado Resorts, In: 9.59%, 1
+77.14 Y:1.70 Z:3 WSJ:1 S:8 M:1.0 CALD Callidus Software, I: 9.53%, 1
+77.11 Y:2.50 Z:3 WSJ:2 S:1 M:6 LEA Lear Corporation: 10.54%, 1
+77.08 Y:2.00 Z:3 WSJ:2 S:5 M:1.0 SUPN Supernus Pharmaceuti: 14.15%, 1
+77.07 Y:1.60 Z:3 WSJ:1 S:7 M:6 VNOM Viper Energy Partner: 25.36%, 1
+77.04 Y:1.50 Z:2 WSJ:1 S:10 M:6 NVRO Nevro Corp.: 20.21%, 1
+77.01 Y:2.30 Z:2 WSJ:2 S:5 M:2.2 DLTR Dollar Tree, Inc.: 18.71%, 1
+77.01 Y:2.10 Z:3 WSJ:2 S:3 M:1.5 TMUS T-Mobile US, Inc.: 12.87%, 1
+77.0 Y:1.90 Z:3 WSJ:2 S:3 M:6 BC Brunswick Corporatio: 23.34%, 1
+76.98 Y:2.20 Z:3 WSJ:2 S:7 M:1.7000000000000002 SAVE Spirit Airlines, Inc: 44.36%, 1
+76.97 Y:1.80 Z:2 WSJ:1 S:8 M:6 CHGG Chegg, Inc.: 6.52%, 1
+76.95 Y:1.90 Z:4 WSJ:1 S:2 M:6 ASGN On Assignment, Inc.: 16.4%, 1
+76.94 Y:2.30 Z:3 WSJ:2 S:4 M:6 IOSP Innospec Inc.: 29.68%, 1
+76.91 Y:2.20 Z:3 WSJ:2 S:4 M:1.0 FLIR FLIR Systems, Inc.: 6.44%, 1
+76.9 Y:2.00 Z:3 WSJ:2 S:5 M:1.0 ARCC Ares Capital Corpora: 13.08%, 1
+76.86 Y:1.60 Z:3 WSJ:1 S:6 M:6 NPO EnPro Industries: 17.63%, 1
+76.83 Y:2.30 Z:1 WSJ:2 S:4 M:1.0 BNCL Beneficial Bancorp, : 5.96%, 2
+76.79 Y:1.70 Z:3 WSJ:1 S:5 M:6 PF Pinnacle Foods, Inc.: 10.64%, 1
+76.78 Y:1.90 Z:3 WSJ:1 S:1 M:3.0 V Visa Inc.: 10.66%, 1
+76.76 Y:2.00 Z:4 WSJ:1 S:5 M:1.0 MDSO Medidata Solutions, : 12.2%, 1
+76.7 Y:2.40 Z:1 WSJ:2 S:5 M:1.0 BRKL Brookline Bancorp, I: 11.89%, 2
+76.7 Y:1.60 Z:3 WSJ:1 S:5 M:6 MTG MGIC Investment Corp: 10.17%, 1
+76.68 Y:1.40 Z:3 WSJ:1 S:8 M:1.0 TWOU 2U, Inc.: 6.75%, 1
+76.67 Y:2.00 Z:2 WSJ:2 S:5 M:6 LDOS Leidos Holdings, Inc: 10.01%, 1
+76.63 Y:2.10 Z:3 WSJ:1 S:11 M:6 YPF YPF Sociedad Anonima: 49.81%, 1
+76.6 Y:1.90 Z:2 WSJ:1 S:7 M:6 BAP Credicorp Ltd.: -2.0%, 1
+76.58 Y:1.70 Z:2 WSJ:2 S:4 M:6 AME AMTEK, Inc.: 2.89%, 1
+76.55 Y:2.20 Z:2 WSJ:2 S:2 M:3.0 CSFL CenterState Banks, I: 15.95%, 1
+76.55 Y:1.90 Z:3 WSJ:2 S:5 M:6 NCR NCR Corporation: 34.41%, 1
+76.55 Y:2.30 Z:3 WSJ:2 S:2 M:6 SWK Stanley Black & Deck: 14.44%, 1
+76.53 Y:2.00 Z:3 WSJ:2 S:5 M:1.2000000000000002 EXPE Expedia, Inc.: 15.84%, 1
+76.48 Y:2.10 Z:2 WSJ:2 S:5 M:2.3 FIVE Five Below, Inc.: 18.04%, 1
+76.47 Y:2.30 Z:2 WSJ:2 S:5 M:6 FBC Flagstar Bancorp, In: 9.03%, 1
+76.45 Y:2.30 Z:3 WSJ:2 S:6 M:6 BWP Boardwalk Pipeline P: 40.58%, 1
+76.42 Y:2.00 Z:1 WSJ:6 S:10 M:1.5999999999999996 LILAK Liberty Global plc: 7.1%, 1
+76.41 Y:2.00 Z:3 WSJ:2 S:1 M:6 ICE Intercontinental Exc: 7.07%, 1
+76.39 Y:1.80 Z:4 WSJ:1 S:11 M:1.0 ARRY Array BioPharma Inc.: 54.58%, 1
+76.39 Y:1.90 Z:3 WSJ:2 S:11 M:1.0 TSRO TESARO, Inc.: 62.78%, 1
+76.39 Y:2.70 Z:3 WSJ:2 S:11 M:1.0 TBPH Theravance Biopharma: 83.3%, 1
+76.38 Y:2.50 Z:3 WSJ:2 S:5 M:1.0 SCHL Scholastic Corporati: 9.95%, 1
+76.38 Y:2.20 Z:2 WSJ:2 S:4 M:6 AMP AMERIPRISE FINANCIAL: 1.88%, 1
+76.37 Y:1.90 Z:3 WSJ:2 S:2 M:1.7999999999999998 EA Electronic Arts Inc.: 9.89%, 1
+76.37 Y:3.00 Z:3 WSJ:2 S:4 M:6 AMN AMN Healthcare Servi: 26.83%, 1
+76.35 Y:2.00 Z:3 WSJ:2 S:5 M:6 PAG Penske Automotive Gr: 33.4%, 1
+76.3 Y:2.00 Z:2 WSJ:2 S:5 M:6 FCFS First Cash, Inc.: 8.18%, 1
+76.3 Y:1.90 Z:2 WSJ:2 S:4 M:6 CTLT Catalent, Inc.: 1.48%, 1
+76.29 Y:1.80 Z:3 WSJ:1 S:6 M:6 PWR Quanta Services, Inc: 14.79%, 1
+76.28 Y:2.30 Z:2 WSJ:2 S:5 M:6 APD Air Products and Che: 8.09%, 1
+76.25 Y:2.00 Z:2 WSJ:2 S:5 M:6 FCFS First Cash, Inc.: 7.9%, 1
+76.25 Y:1.00 Z:3 WSJ:1 S:5 M:2.5 IX Orix Corp Ads: 21.64%, 1
+76.23 Y:2.00 Z:3 WSJ:2 S:3 M:1.5 PCLN The Priceline Group : 8.21%, 1
+76.22 Y:2.30 Z:3 WSJ:2 S:8 M:1.0 TRUE TrueCar, Inc.: 28.96%, 1
+76.22 Y:1.30 Z:3 WSJ:1 S:5 M:2.0 USCR U S Concrete, Inc.: 8.96%, 1
+76.14 Y:2.20 Z:3 WSJ:1 S:5 M:6 ARMK Aramark: 7.39%, 1
+76.13 Y:2.00 Z:2 WSJ:2 S:3 M:3.0 PLCE Children&#39;s Place: 20.12%, 1
+76.1 Y:2.00 Z:3 WSJ:2 S:2 M:6 SCHW The Charles Schwab C: 12.15%, 1
+76.05 Y:1.90 Z:3 WSJ:2 S:1 M:6 EFX Equifax, Inc.: 5.24%, 1
+76.02 Y:2.20 Z:3 WSJ:2 S:2 M:6 SHW Sherwin-Williams Com: 11.75%, 1
+76.01 Y:2.20 Z:3 WSJ:2 S:2 M:6 MDT Medtronic plc: 11.7%, 1
+75.99 Y:1.70 Z:3 WSJ:1 S:5 M:6 CODI Compass Diversified : 6.63%, 1
+75.98 Y:2.10 Z:3 WSJ:2 S:5 M:1.5 CRTO Criteo S.A.: 20.02%, 1
+75.97 Y:2.00 Z:2 WSJ:2 S:4 M:6 EL Estee Lauder Compani: -0.17%, 1
+75.95 Y:1.50 Z:3 WSJ:1 S:11 M:1.0 PRTA Prothena Corporation: 22.37%, 1
+75.95 Y:2.10 Z:2 WSJ:2 S:5 M:6 IT Gartner, Inc.: 6.41%, 1
+75.92 Y:2.20 Z:3 WSJ:2 S:2 M:6 IR Ingersoll-Rand plc (: 11.26%, 1
+75.89 Y:1.90 Z:2 WSJ:2 S:4 M:2.0 STE STERIS plc: 0.36%, 1
+75.85 Y:2.00 Z:3 WSJ:2 S:4 M:6 LUV Southwest Airlines C: 24.27%, 1
+75.79 Y:2.00 Z:3 WSJ:2 S:1 M:6 CCL Carnival Corporation: 3.93%, 1
+75.79 Y:1.00 Z:2 WSJ:2 S:8 M:6 CHA China Telecom Corp L: 25.6%, 1
+75.79 Y:1.80 Z:3 WSJ:2 S:3 M:6 DLB Dolby Laboratories: 17.28%, 1
+75.78 Y:2.60 Z:1 WSJ:2 S:2 M:2.0 CATY Cathay General Banco: 11.35%, 2
+75.78 Y:2.00 Z:3 WSJ:2 S:4 M:6 BGG Briggs & Stratton Co: 23.88%, 1
+75.73 Y:2.20 Z:2 WSJ:2 S:3 M:6 HEI Heico Corporation: -8.0%, 1
+75.72 Y:2.10 Z:3 WSJ:2 S:4 M:1.5999999999999996 BIIB Biogen Inc.: 14.33%, 1
+75.72 Y:2.40 Z:3 WSJ:2 S:1 M:6 AJG Arthur J. Gallagher : 3.62%, 1
+75.71 Y:2.40 Z:2 WSJ:2 S:2 M:1.0 STBZ State Bank Financial: 10.91%, 2
+75.71 Y:2.40 Z:1 WSJ:2 S:2 M:1.9000000000000004 ZION Zions Bancorporation: 8.41%, 2
+75.7 Y:2.00 Z:2 WSJ:2 S:5 M:6 WBC Wabco Holdings Inc.: 5.18%, 1
+75.68 Y:1.90 Z:3 WSJ:1 S:8 M:1.7999999999999998 FANG Diamondback Energy, : 20.76%, 1
+75.67 Y:2.30 Z:2 WSJ:2 S:6 M:2.4 HDS HD Supply Holdings, : 22.38%, 1
+75.67 Y:4.00 Z:1 WSJ:2 S:8 M:6 EBR Centrais Electricas : 124.44%, 2
+75.67 Y:2.80 Z:3 WSJ:2 S:5 M:6 LPL LG Display Co., Ltd.: 30.02%, 1
+75.66 Y:2.20 Z:3 WSJ:2 S:6 M:1.5999999999999996 FOXA Twenty-First Century: 27.32%, 1
+75.63 Y:2.30 Z:3 WSJ:2 S:6 M:1.0 YNDX Yandex N.V.: 12.13%, 1
+75.62 Y:1.70 Z:4 WSJ:1 S:4 M:1.7999999999999998 FLEX Flex Ltd.: 18.71%, 1
+75.62 Y:2.00 Z:3 WSJ:2 S:5 M:1.9000000000000004 HOLX Hologic, Inc.: 27.9%, 1
+75.6 Y:1.80 Z:4 WSJ:1 S:8 M:6 PXD Pioneer Natural Reso: 49.69%, 1
+75.6 Y:1.80 Z:3 WSJ:2 S:2 M:6 WGO Winnebago Industries: 9.67%, 1
+75.59 Y:1.80 Z:3 WSJ:1 S:7 M:6 TECK Teck Resources Ltd: 17.97%, 1
+75.57 Y:1.90 Z:3 WSJ:2 S:3 M:1.7000000000000002 SNPS Synopsys, Inc.: 9.23%, 1
+75.57 Y:2.30 Z:2 WSJ:2 S:5 M:6 LNC Lincoln National Cor: 4.51%, 1
+75.56 Y:2.60 Z:3 WSJ:1 S:8 M:3.0 TIVO TiVo Corporation: 61.29%, 1
+75.56 Y:1.50 Z:5 WSJ:1 S:8 M:1.0 XPER Xperi Corporation: 73.58%, 1
+75.55 Y:2.20 Z:3 WSJ:2 S:4 M:2.0 ADI Analog Devices, Inc.: 23.33%, 1
+75.55 Y:1.70 Z:3 WSJ:2 S:2 M:6 ADC Agree Realty Corpora: 9.43%, 1
+75.54 Y:2.20 Z:3 WSJ:2 S:2 M:2.0 BANR Banner Corporation: 9.91%, 1
+75.54 Y:2.20 Z:3 WSJ:2 S:3 M:6 MO Altria Group: 16.01%, 1
+75.48 Y:1.70 Z:4 WSJ:1 S:5 M:6 JCOM j2 Global, Inc.: 29.06%, 1
+75.47 Y:2.50 Z:3 WSJ:2 S:6 M:6 MDR McDermott Internatio: 35.67%, 1
+75.45 Y:2.30 Z:3 WSJ:2 S:3 M:6 RS Reliance Steel & Alu: 15.6%, 1
+75.41 Y:2.00 Z:4 WSJ:2 S:7 M:1.0 BABY Natus Medical Incorp: 42.43%, 1
+75.41 Y:2.30 Z:3 WSJ:2 S:8 M:6 IMAX Imax Corporation: 48.7%, 1
+75.4 Y:2.90 Z:1 WSJ:3 S:6 M:6 KOF Coca Cola Femsa S.A.: 10.33%, 1
+75.39 Y:2.10 Z:3 WSJ:2 S:5 M:1.5 FAST Fastenal Company: 16.52%, 1
+75.39 Y:1.90 Z:5 WSJ:1 S:8 M:1.0 MTSI MACOM Technology Sol: 49.03%, 1
+75.39 Y:2.40 Z:2 WSJ:2 S:5 M:6 ARW Arrow Electronics, I: 3.61%, 1
+75.36 Y:1.90 Z:4 WSJ:2 S:5 M:1.0 OZRK Bank of the Ozarks: 28.82%, 1
+75.34 Y:1.60 Z:3 WSJ:1 S:6 M:6 DAR Darling Ingredients : 10.02%, 1
+75.32 Y:2.00 Z:1 WSJ:2 S:3 M:2.0 MLHR Herman Miller, Inc.: 15.24%, 2
+75.3 Y:2.20 Z:3 WSJ:2 S:2 M:6 PEP Pepsico, Inc.: 8.15%, 1
+75.28 Y:1.90 Z:3 WSJ:2 S:12 M:1.0 SGRY Surgery Partners, In: 97.58%, 1
+75.26 Y:2.20 Z:3 WSJ:2 S:2 M:6 LH Laboratory Corporati: 7.95%, 1
+75.24 Y:2.00 Z:3 WSJ:1 S:9 M:6 ERF Enerplus Corporation: 29.51%, 1
+75.2 Y:1.80 Z:4 WSJ:1 S:17 M:1.0 TLND Talend S.A.: 1.01%, 1
+75.2 Y:2.00 Z:3 WSJ:2 S:5 M:6 CIEN Ciena Corporation: 27.69%, 1
+75.2 Y:2.20 Z:3 WSJ:2 S:3 M:6 LOW Lowe&#39;s Companies: 14.32%, 1
+75.19 Y:2.20 Z:3 WSJ:2 S:17 M:2.5 RARE Ultragenyx Pharmaceu: 38.45%, 1
+75.17 Y:2.10 Z:3 WSJ:2 S:3 M:6 CNC Centene Corporation: 14.16%, 1
+75.15 Y:2.10 Z:2 WSJ:2 S:2 M:2.7 ICLR ICON plc: 0.08%, 1
+75.14 Y:2.10 Z:3 WSJ:2 S:2 M:6 CB D/B/A Chubb Limited : 7.37%, 1
+75.11 Y:1.50 Z:3 WSJ:1 S:7 M:6 BIO Bio-Rad Laboratories: 15.55%, 1
+75.09 Y:2.00 Z:3 WSJ:2 S:2 M:2.0 AMWD American Woodmark Co: 7.2%, 1
+75.07 Y:2.00 Z:2 WSJ:2 S:17 M:2.2 VOD Vodafone Group Plc: 5.35%, 1
+75.07 Y:1.90 Z:3 WSJ:2 S:3 M:6 DOW Dow Chemical Company: 13.67%, 1
+75.07 Y:2.00 Z:2 WSJ:2 S:6 M:6 TRU TransUnion: 8.67%, 1
+75.06 Y:1.90 Z:3 WSJ:1 S:5 M:6 BWXT BWX Technologies, In: 1.97%, 1
+75.05 Y:1.00 Z:3 WSJ:2 S:5 M:6 SNA Snap-On Incorporated: 26.9%, 1
+75.04 Y:2.40 Z:2 WSJ:2 S:2 M:2.0 NVDA NVIDIA Corporation: -18.1%, 1
+75.04 Y:1.90 Z:3 WSJ:1 S:7 M:6 CRM Salesforce.com Inc: 15.18%, 1
+75.02 Y:2.10 Z:3 WSJ:2 S:4 M:6 TEP Tallgrass Energy Par: 20.11%, 1
+75.01 Y:1.90 Z:3 WSJ:2 S:2 M:6 ROP Roper Technologies, : 6.74%, 1
+75.0 Y:3.00 Z:1 WSJ:3 S:1 M:3.0 BANF BancFirst Corporatio: 94.74%, 2
+75.0 Y:2.30 Z:3 WSJ:1 S:7 M:6 CX Cemex S.A.B. de C.V.: 15.0%, 1
+74.98 Y:2.00 Z:3 WSJ:1 S:6 M:6 FSS Federal Signal Corpo: 8.23%, 1
+74.97 Y:2.00 Z:3 WSJ:1 S:8 M:6 ARES Ares Management L.P.: 21.54%, 1
+74.96 Y:2.20 Z:3 WSJ:2 S:3 M:2.0 LTXB LegacyTexas Financia: 13.1%, 1
+74.93 Y:2.20 Z:3 WSJ:2 S:8 M:1.0 MIK The Michaels Compani: 21.23%, 1
+74.93 Y:2.20 Z:3 WSJ:2 S:2 M:6 WM Waste Management, In: 6.34%, 1
+74.92 Y:1.70 Z:3 WSJ:1 S:11 M:1.0 PTLA Portola Pharmaceutic: 16.18%, 1
+74.9 Y:2.10 Z:3 WSJ:2 S:2 M:6 CME CME Group Inc.: 6.19%, 1
+74.9 Y:2.10 Z:2 WSJ:2 S:7 M:6 ELY Callaway Golf Compan: 14.52%, 1
+74.88 Y:2.10 Z:2 WSJ:2 S:5 M:6 GXP Great Plains Energy : 1.08%, 1
+74.86 Y:2.40 Z:3 WSJ:2 S:2 M:6 TEO Telecom Argentina St: 5.96%, 1
+74.83 Y:2.30 Z:3 WSJ:2 S:4 M:6 FCB FCB Financial Holdin: 19.14%, 1
+74.82 Y:2.40 Z:3 WSJ:2 S:5 M:6 AEM Agnico Eagle Mines L: 25.76%, 1
+74.82 Y:1.80 Z:2 WSJ:2 S:5 M:6 PAYC Paycom Software, Inc: 0.77%, 1
+74.81 Y:1.90 Z:3 WSJ:2 S:8 M:1.0 PTC PTC Inc.: 20.55%, 1
+74.8 Y:2.30 Z:2 WSJ:2 S:3 M:3.0 EWBC East West Bancorp, I: 12.14%, 1
+74.8 Y:2.50 Z:1 WSJ:2 S:9 M:6 IVR INVESCO MORTGAGE CAP: 2.34%, 1
+74.79 Y:2.00 Z:3 WSJ:2 S:3 M:1.7000000000000002 AAPL Apple Inc.: 4.58%, 1
+74.79 Y:2.00 Z:4 WSJ:1 S:4 M:6 GPK Graphic Packaging Ho: 18.94%, 1
+74.74 Y:2.30 Z:2 WSJ:2 S:5 M:1.0 MASI Masimo Corporation: 25.09%, 2
+74.73 Y:1.70 Z:4 WSJ:1 S:9 M:1.0 DXCM DexCom, Inc.: 26.69%, 1
+74.73 Y:2.20 Z:2 WSJ:2 S:6 M:6 TDG Transdigm Group Inco: 6.99%, 1
+74.72 Y:3.00 Z:1 WSJ:2 S:8 M:6 ELP Companhia Paranaense: 45.27%, 2
+74.68 Y:1.60 Z:3 WSJ:1 S:5 M:6 INXN InterXion Holding N.: 0.06%, 1
+74.66 Y:2.10 Z:3 WSJ:2 S:2 M:6 LLL L3 Technologies, Inc: 4.96%, 1
+74.65 Y:2.30 Z:3 WSJ:2 S:4 M:6 WHR Whirlpool Corporatio: 18.24%, 1
+74.63 Y:1.80 Z:3 WSJ:2 S:7 M:1.5 HMSY HMS Holdings Corp: 25.28%, 1
+74.62 Y:1.90 Z:4 WSJ:1 S:8 M:1.2999999999999998 BUFF Blue Buffalo Pet Pro: 26.91%, 1
+74.61 Y:1.80 Z:3 WSJ:1 S:8 M:6 CVLT Commvault Systems, I: 19.71%, 1
+74.61 Y:2.20 Z:3 WSJ:2 S:5 M:6 UHS Universal Health Ser: 24.73%, 1
+74.6 Y:2.10 Z:3 WSJ:2 S:5 M:2.2 ROST Ross Stores, Inc.: 29.24%, 1
+74.6 Y:2.50 Z:2 WSJ:2 S:5 M:2.0 SAIA Saia, Inc.: -0.75%, 1
+74.6 Y:2.30 Z:3 WSJ:2 S:1 M:6 PGR Progressive Corporat: -1.98%, 1
+74.55 Y:2.00 Z:5 WSJ:1 S:7 M:1.0 ROCK Gibraltar Industries: 37.29%, 1
+74.55 Y:3.00 Z:3 WSJ:2 S:4 M:6 DCM NTT DOCOMO, Inc: 17.73%, 1
+74.53 Y:1.80 Z:3 WSJ:1 S:7 M:2.0 CTRP Ctrip.com Internatio: 12.17%, 1
+74.52 Y:2.30 Z:3 WSJ:2 S:4 M:3.0 SYKE Sykes Enterprises, I: 42.14%, 1
+74.49 Y:2.10 Z:2 WSJ:2 S:8 M:1.7000000000000002 LITE Lumentum Holdings In: 11.11%, 1
+74.49 Y:1.80 Z:4 WSJ:1 S:2 M:6 HRS Harris Corporation: 4.13%, 1
+74.49 Y:2.00 Z:3 WSJ:2 S:1 M:6 HUM Humana Inc.: -2.54%, 1
+74.48 Y:1.90 Z:3 WSJ:2 S:2 M:6 CI Cigna Corporation: 4.09%, 1
+74.45 Y:1.80 Z:3 WSJ:1 S:8 M:1.5 ACHC Acadia Healthcare Co: 5.89%, 1
+74.44 Y:2.20 Z:3 WSJ:2 S:9 M:2.0 PDCE PDC Energy, Inc.: 52.48%, 1
+74.42 Y:2.30 Z:3 WSJ:2 S:3 M:6 TXT Textron Inc.: 10.43%, 1
+74.4 Y:2.20 Z:4 WSJ:2 S:5 M:1.0 IDTI Integrated Device Te: 23.05%, 1
+74.4 Y:2.10 Z:3 WSJ:2 S:3 M:6 CLGX CoreLogic, Inc.: 10.33%, 1
+74.4 Y:1.80 Z:3 WSJ:2 S:5 M:6 FNB F.N.B. Corporation: 23.69%, 1
+74.4 Y:1.00 Z:2 WSJ:2 S:8 M:6 MTU Mitsubishi UFJ Finan: 18.66%, 1
+74.37 Y:2.40 Z:3 WSJ:2 S:8 M:6 CDE Coeur Mining, Inc.: 43.51%, 1
+74.37 Y:2.00 Z:1 WSJ:2 S:10 M:6 NNI Nelnet, Inc.: 6.87%, 1
+74.37 Y:1.80 Z:4 WSJ:1 S:7 M:6 TPC Tutor Perini Corpora: 36.85%, 1
+74.35 Y:2.10 Z:3 WSJ:2 S:2 M:6 OSK Oshkosh Corporation: 3.41%, 1
+74.34 Y:2.50 Z:3 WSJ:2 S:5 M:1.7000000000000002 TILE Interface, Inc.: 15.18%, 1
+74.34 Y:1.80 Z:3 WSJ:1 S:10 M:6 HAL Halliburton Company: 31.68%, 1
+74.33 Y:2.30 Z:3 WSJ:2 S:9 M:6 AMC AMC Entertainment Ho: 125.08%, 1
+74.33 Y:2.20 Z:3 WSJ:2 S:9 M:6 AR Antero Resources Cor: 51.8%, 1
+74.33 Y:2.00 Z:3 WSJ:2 S:9 M:6 ATKR Atkore International: 58.55%, 1
+74.3 Y:1.70 Z:3 WSJ:2 S:2 M:6 RTN Raytheon Company: 3.17%, 1
+74.27 Y:1.70 Z:4 WSJ:1 S:8 M:2.0 ACXM Acxiom Corporation: 42.3%, 1
+74.26 Y:1.70 Z:4 WSJ:1 S:8 M:1.0 BMCH BMC Stock Holdings, : 17.22%, 1
+74.25 Y:1.90 Z:3 WSJ:2 S:5 M:1.7000000000000002 IART Integra LifeSciences: 14.64%, 1
+74.23 Y:2.30 Z:3 WSJ:2 S:2 M:6 ACN Accenture plc: 2.84%, 1
+74.21 Y:2.60 Z:2 WSJ:2 S:5 M:2.5 INTC Intel Corporation: 9.41%, 1
+74.21 Y:1.60 Z:3 WSJ:2 S:3 M:2.2 LKQ LKQ Corporation: 13.57%, 1
+74.2 Y:2.30 Z:2 WSJ:2 S:6 M:6 ARE Alexandria Real Esta: 4.35%, 1
+74.17 Y:1.80 Z:3 WSJ:2 S:7 M:6 HHC Howard Hughes Corpor: 35.84%, 1
+74.16 Y:1.70 Z:3 WSJ:2 S:3 M:6 A Agilent Technologies: 9.15%, 1
+74.15 Y:2.00 Z:3 WSJ:2 S:5 M:2.0 HPT Hospitality Properti: 21.55%, 1
+74.15 Y:1.70 Z:3 WSJ:2 S:5 M:6 SXI Standex Internationa: 22.41%, 1
+74.13 Y:1.90 Z:4 WSJ:2 S:3 M:1.5 SBUX Starbucks Corporatio: 20.59%, 1
+74.07 Y:1.50 Z:3 WSJ:1 S:11 M:6 AXDX Accelerate Diagnosti: 37.04%, 1
+74.06 Y:2.20 Z:3 WSJ:2 S:8 M:6 MRC MRC Global Inc.: 41.96%, 1
+74.03 Y:2.60 Z:2 WSJ:2 S:1 M:1.0 CHDN Churchill Downs, Inc: -5.82%, 2
+74.03 Y:2.00 Z:4 WSJ:1 S:5 M:1.0 LBRDK Liberty Broadband Co: -4.13%, 1
+74.03 Y:1.90 Z:5 WSJ:1 S:5 M:6 WAGE WageWorks, Inc.: 46.8%, 1
+74.01 Y:2.50 Z:2 WSJ:2 S:8 M:6 GGB Gerdau S.A.: 16.72%, 1
+73.96 Y:1.90 Z:3 WSJ:2 S:2 M:6 BDX Becton, Dickinson an: 1.49%, 1
+73.93 Y:4.00 Z:2 WSJ:2 S:8 M:6 LYG Lloyds Banking Group: 16.31%, 1
+73.92 Y: Z:3 WSJ:2 S:9 M:1.0 TEAM Atlassian Corporatio: 21.85%, 1
+73.92 Y:2.30 Z:3 WSJ:2 S:7 M:1.9000000000000004 PAAS Pan American Silver : 31.03%, 1
+73.9 Y:1.40 Z:4 WSJ:1 S:5 M:1.2000000000000002 TREE LendingTree, Inc.: 0.09%, 1
+73.89 Y:2.20 Z:2 WSJ:2 S:11 M:1.0 FIVN Five9, Inc.: 10.02%, 1
+73.89 Y:1.90 Z:3 WSJ:2 S:3 M:6 DLPH Delphi Automotive pl: 7.76%, 1
+73.89 Y:1.90 Z:3 WSJ:2 S:4 M:6 JBT John Bean Technologi: 14.46%, 1
+73.89 Y:1.80 Z:3 WSJ:2 S:5 M:6 MEI Methode Electronics,: 21.13%, 1
+73.88 Y:2.00 Z:4 WSJ:2 S:8 M:1.2000000000000002 SABR Sabre Corporation: 44.93%, 1
+73.87 Y:2.40 Z:2 WSJ:2 S:8 M:1.5 ZNGA Zynga Inc.: 2.41%, 1
+73.87 Y:1.80 Z:3 WSJ:2 S:5 M:6 AER Aercap Holdings N.V.: 21.02%, 1
+73.83 Y:2.10 Z:3 WSJ:2 S:4 M:2.0 POOL Pool Corporation: 12.97%, 1
+73.8 Y:2.20 Z:3 WSJ:2 S:2 M:6 ALL Allstate Corporation: 0.67%, 1
+73.79 Y:1.80 Z:3 WSJ:1 S:9 M:6 SUPV Grupo Supervielle S.: 22.27%, 1
+73.78 Y:1.50 Z:3 WSJ:1 S:12 M:1.0 FOLD Amicus Therapeutics,: 16.0%, 1
+73.78 Y:2.20 Z:3 WSJ:2 S:2 M:6 PCG Pacific Gas & Electr: 0.59%, 1
+73.78 Y:2.40 Z:2 WSJ:2 S:8 M:6 AES The AES Corporation: 15.56%, 1
+73.77 Y:2.10 Z:3 WSJ:2 S:4 M:2.2 CSX CSX Corporation: 17.61%, 1
+73.77 Y:2.20 Z:3 WSJ:2 S:3 M:6 MMC Marsh & McLennan Com: 7.17%, 1
+73.76 Y:2.60 Z:3 WSJ:2 S:5 M:1.7999999999999998 JBLU JetBlue Airways Corp: 14.21%, 1
+73.76 Y:2.50 Z:3 WSJ:2 S:5 M:6 SBS Companhia de saneame: 20.46%, 1
+73.75 Y:1.80 Z:3 WSJ:1 S:7 M:3.7 PE Parsley Energy, Inc.: 51.75%, 1
+73.74 Y:2.50 Z:2 WSJ:2 S:8 M:6 SPXC SPX Corporation: 15.38%, 1
+73.73 Y:2.50 Z:3 WSJ:2 S:4 M:6 MUSA Murphy USA Inc.: 13.65%, 1
+73.71 Y:2.00 Z:3 WSJ:2 S:3 M:6 GD General Dynamics Cor: 6.88%, 1
+73.69 Y:2.40 Z:3 WSJ:2 S:6 M:6 WES Western Gas Partners: 26.76%, 1
+73.66 Y:2.40 Z:3 WSJ:2 S:4 M:6 MGA Magna International,: 13.28%, 1
+73.64 Y:2.20 Z:3 WSJ:2 S:10 M:1.7000000000000002 PTEN Patterson-UTI Energy: 44.34%, 1
+73.61 Y:2.20 Z:5 WSJ:2 S:6 M:1.0 ARLP Alliance Resource Pa: 50.54%, 1
+73.61 Y:2.70 Z:1 WSJ:2 S:8 M:1.0 SFLY Shutterfly, Inc.: 13.34%, 2
+73.6 Y:1.80 Z:3 WSJ:1 S:10 M:1.0 MIME Mimecast Limited: 1.59%, 1
+73.59 Y:1.80 Z:4 WSJ:1 S:11 M:1.0 HZNP Horizon Pharma plc: 33.22%, 1
+73.58 Y:3.00 Z:2 WSJ:2 S:6 M:6 KT KT Corporation: 1.24%, 1
+73.58 Y:2.70 Z:1 WSJ:2 S:2 M:6 TDY Teledyne Technologie: -0.41%, 2
+73.57 Y:1.60 Z:3 WSJ:1 S:6 M:6 FTAI Fortress Transportat: 1.16%, 1
+73.56 Y:1.70 Z:3 WSJ:1 S:8 M:6 GLOG GasLog LP.: 14.46%, 1
+73.56 Y:2.30 Z:3 WSJ:2 S:6 M:6 PSXP Phillips 66 Partners: 26.15%, 1
+73.54 Y:2.30 Z:2 WSJ:2 S:7 M:6 MSI Motorola Solutions, : 7.71%, 1
+73.53 Y:2.30 Z:3 WSJ:2 S:3 M:6 CE Celanese Corporation: 5.96%, 1
+73.53 Y:2.20 Z:3 WSJ:2 S:3 M:6 CRL Charles River Labora: 5.96%, 1
+73.51 Y:2.00 Z:3 WSJ:2 S:5 M:6 HI Hillenbrand Inc: 19.24%, 1
+73.49 Y:2.10 Z:3 WSJ:2 S:3 M:6 BLK BlackRock, Inc.: 5.76%, 1
+73.49 Y:2.20 Z:3 WSJ:2 S:6 M:6 VLP Valero Energy Partne: 25.8%, 1
+73.48 Y:1.60 Z:3 WSJ:1 S:11 M:1.0 GSM Ferroglobe PLC: 7.53%, 1
+73.47 Y:2.00 Z:3 WSJ:2 S:11 M:1.7000000000000002 LXRX Lexicon Pharmaceutic: 61.07%, 1
+73.44 Y:2.00 Z:3 WSJ:1 S:6 M:2.0 LGND Ligand Pharmaceutica: -1.01%, 1
+73.43 Y:1.80 Z:3 WSJ:2 S:4 M:6 DHR Danaher Corporation: 12.14%, 1
+73.42 Y:2.70 Z:1 WSJ:2 S:5 M:2.0 BPOP Popular, Inc.: 17.19%, 2
+73.39 Y:2.00 Z:3 WSJ:2 S:3 M:6 EXC Exelon Corporation: 5.27%, 1
+73.38 Y:2.30 Z:2 WSJ:2 S:7 M:2.5 SPSC SPS Commerce, Inc.: 17.75%, 1
+73.37 Y:1.80 Z:3 WSJ:2 S:3 M:6 FIS Fidelity National In: 5.16%, 1
+73.37 Y: Z:3 WSJ:2 S:4 M:6 MRK Merck & Company, Inc: 11.87%, 1
+73.36 Y:1.80 Z:1 WSJ:2 S:9 M:6 AJRD Aerojet Rocketdyne H: -4.87%, 1
+73.33 Y:2.00 Z:4 WSJ:2 S:10 M:1.0 DERM Dermira, Inc.: 102.0%, 1
+73.33 Y:2.10 Z:4 WSJ:2 S:10 M:1.0 PCRX Pacira Pharmaceutica: 59.78%, 1
+73.33 Y:2.00 Z:3 WSJ:2 S:5 M:2.0 PACW PacWest Bancorp: 16.67%, 1
+73.32 Y:2.40 Z:3 WSJ:2 S:8 M:1.0 LBTYA Liberty Global plc: 11.6%, 1
+73.3 Y:2.00 Z:2 WSJ:2 S:5 M:2.4 NCLH Norwegian Cruise Lin: 1.47%, 1
+73.27 Y:2.30 Z:3 WSJ:2 S:8 M:1.0 PENN Penn National Gaming: 11.27%, 1
+73.27 Y:2.30 Z:3 WSJ:2 S:4 M:6 PPG PPG Industries, Inc.: 11.36%, 1
+73.26 Y:2.30 Z:3 WSJ:2 S:5 M:6 ADS Alliance Data System: 17.96%, 1
+73.25 Y:1.30 Z:3 WSJ:1 S:11 M:1.0 FGEN FibroGen, Inc: 6.19%, 1
+73.24 Y:2.00 Z:4 WSJ:1 S:5 M:6 HUN Huntsman Corporation: 17.88%, 1
+73.18 Y:2.40 Z:3 WSJ:2 S:4 M:6 ALB Albemarle Corporatio: 10.92%, 1
+73.17 Y:2.00 Z:1 WSJ:2 S:3 M:6 SLF Sun Life Financial I: 4.2%, 2
+73.16 Y:2.20 Z:3 WSJ:2 S:5 M:6 KFY Korn/Ferry Internati: 17.45%, 1
+73.14 Y:2.10 Z:3 WSJ:2 S:8 M:6 VIPS Vipshop Holdings Lim: 37.37%, 1
+73.12 Y:2.10 Z:3 WSJ:2 S:1 M:1.0 BUSE First Busey Corporat: 13.75%, 2
+73.11 Y:2.20 Z:3 WSJ:2 S:5 M:6 IP International Paper : 17.24%, 1
+73.1 Y: Z:4 WSJ:2 S:2 M:6 MLM Martin Marietta Mate: 22.15%, 1
+73.1 Y: Z:3 WSJ:2 S:6 M:6 TEN Tenneco Inc.: 23.83%, 1
+73.09 Y:1.80 Z:3 WSJ:2 S:5 M:6 CRI Carter&#39;s, Inc.: 17.14%, 1
+73.08 Y:2.00 Z:3 WSJ:2 S:9 M:1.0 CSII Cardiovascular Syste: 16.83%, 1
+73.06 Y:2.00 Z:3 WSJ:2 S:5 M:6 PBH Prestige Brand Holdi: 16.97%, 1
+73.06 Y: Z:3 WSJ:2 S:4 M:6 XL XL Group Ltd.: 10.31%, 1
+73.01 Y:2.00 Z:3 WSJ:2 S:5 M:6 DOC Physicians Realty Tr: 16.73%, 1
+73.01 Y:2.30 Z:3 WSJ:2 S:4 M:6 TSN Tyson Foods, Inc.: 10.06%, 1
+73.0 Y:2.10 Z:3 WSJ:2 S:10 M:6 OAS Oasis Petroleum Inc.: 63.11%, 1
+73.0 Y:2.90 Z:3 WSJ:2 S:3 M:6 PLD Prologis, Inc.: 3.34%, 1
+72.98 Y:2.10 Z:3 WSJ:2 S:5 M:6 LAZ Lazard Ltd.: 16.59%, 1
+72.97 Y:2.20 Z:3 WSJ:2 S:4 M:6 LLY Eli Lilly and Compan: 9.87%, 1
+72.97 Y:1.90 Z:3 WSJ:2 S:5 M:6 SPG Simon Property Group: 16.54%, 1
+72.96 Y:2.00 Z:3 WSJ:2 S:6 M:2.0 ULTI The Ultimate Softwar: 21.08%, 1
+72.96 Y:2.40 Z:3 WSJ:2 S:5 M:6 CAG ConAgra Brands, Inc.: 16.45%, 1
+72.95 Y:1.50 Z:2 WSJ:2 S:5 M:6 HDB HDFC Bank Limited: -8.6%, 1
+72.94 Y:2.00 Z:3 WSJ:2 S:5 M:6 BCC Boise Cascade, L.L.C: 16.36%, 1
+72.91 Y:2.10 Z:3 WSJ:2 S:8 M:2.0 CAVM Cavium, Inc.: 34.14%, 1
+72.91 Y:2.60 Z:3 WSJ:2 S:3 M:3.0 GGAL Grupo Financiero Gal: 25.81%, 1
+72.9 Y:1.70 Z:4 WSJ:1 S:5 M:6 KAR KAR Auction Services: 16.15%, 1
+72.89 Y:2.30 Z:3 WSJ:2 S:8 M:6 ENR Energizer Holdings, : 36.11%, 1
+72.88 Y:2.10 Z:3 WSJ:2 S:6 M:2.1 FTNT Fortinet, Inc.: 23.12%, 1
+72.88 Y:2.00 Z:3 WSJ:1 S:12 M:6 EDN Empresa Distribuidor: 37.72%, 1
+72.87 Y:2.10 Z:3 WSJ:2 S:5 M:6 KEY KeyCorp: 16.02%, 1
+72.87 Y:1.80 Z:3 WSJ:1 S:9 M:6 NOW ServiceNow, Inc.: 17.7%, 1
+72.87 Y:2.20 Z:3 WSJ:2 S:5 M:6 TPH TRI Pointe Group, In: 16.03%, 1
+72.86 Y:1.60 Z:4 WSJ:1 S:8 M:6 EVHC Envision Healthcare : 35.99%, 1
+72.86 Y:2.10 Z:3 WSJ:2 S:10 M:2.0 NBL Noble Energy Inc.: 47.18%, 1
+72.86 Y:1.90 Z:3 WSJ:2 S:5 M:6 SYF Synchrony Financial: 15.98%, 1
+72.86 Y:2.40 Z:3 WSJ:2 S:5 M:6 UNP Union Pacific Corpor: 15.99%, 1
+72.84 Y:2.20 Z:3 WSJ:2 S:8 M:1.0 KTOS Kratos Defense & Sec: 8.7%, 1
+72.83 Y:2.00 Z:3 WSJ:2 S:4 M:6 ZTS Zoetis Inc.: 9.13%, 1
+72.82 Y:2.10 Z:3 WSJ:2 S:6 M:6 GRA W.R. Grace & Co.: 22.43%, 1
+72.79 Y:2.10 Z:3 WSJ:2 S:5 M:6 KRC Kilroy Realty Corpor: 15.64%, 1
+72.79 Y:2.20 Z:3 WSJ:2 S:4 M:6 LVS Las Vegas Sands Corp: 8.95%, 1
+72.78 Y:2.50 Z:3 WSJ:2 S:3 M:6 OSB Norbord Inc.: 2.21%, 1
+72.77 Y:2.40 Z:2 WSJ:2 S:1 M:1.7000000000000002 TXN Texas Instruments In: 4.15%, 2
+72.75 Y:2.10 Z:3 WSJ:2 S:8 M:1.0 ECPG Encore Capital Group: 8.17%, 1
+72.75 Y:1.90 Z:3 WSJ:2 S:5 M:2.3 STLD Steel Dynamics, Inc.: 20.65%, 1
+72.74 Y:1.90 Z:3 WSJ:2 S:8 M:6 CNNX Cone Midstream Partn: 35.36%, 1
+72.74 Y:2.10 Z:3 WSJ:2 S:5 M:6 KKR KKR & Co. L.P.: 15.36%, 1
+72.73 Y:1.90 Z:3 WSJ:2 S:6 M:6 HCA HCA Healthcare, Inc.: 21.98%, 1
+72.73 Y: Z:3 WSJ:2 S:5 M:6 LM Legg Mason, Inc.: 15.3%, 1
+72.72 Y:2.00 Z:2 WSJ:2 S:8 M:6 HSC Harsco Corporation: 10.28%, 1
+72.69 Y:1.90 Z:3 WSJ:2 S:5 M:6 ABT Abbott Laboratories: 15.11%, 1
+72.67 Y:1.80 Z:5 WSJ:1 S:3 M:1.4000000000000004 IAC IAC/InterActiveCorp: 9.36%, 1
+72.67 Y:2.00 Z:3 WSJ:2 S:6 M:1.5999999999999996 PYPL PayPal Holdings, Inc: 9.37%, 1
+72.67 Y:2.20 Z:3 WSJ:2 S:5 M:6 ACM AECOM: 15.01%, 1
+72.65 Y:2.20 Z:3 WSJ:1 S:8 M:6 TKC Turkcell Iletisim Hi: 9.92%, 1
+72.64 Y:2.10 Z:4 WSJ:2 S:8 M:1.7000000000000002 MYL Mylan N.V.: 57.58%, 1
+72.63 Y:2.50 Z:3 WSJ:2 S:5 M:2.4 MRVL Marvell Technology G: 22.46%, 1
+72.62 Y:1.00 Z:3 WSJ:2 S:10 M:6 BKD Brookdale Senior Liv: 48.09%, 1
+72.61 Y:2.40 Z:3 WSJ:2 S:8 M:6 VLRS Controladora Vuela C: 34.73%, 1
+72.59 Y:2.10 Z:3 WSJ:2 S:3 M:6 SRE Sempra Energy: 1.3%, 1
+72.58 Y:1.90 Z:3 WSJ:1 S:9 M:6 NGVT Ingevity Corporation: 16.22%, 1
+72.55 Y: Z:3 WSJ:2 S:5 M:1.2999999999999998 CHTR Charter Communicatio: -5.51%, 1
+72.54 Y:2.20 Z:3 WSJ:2 S:7 M:2.0 AMBA Ambarella, Inc.: 25.24%, 1
+72.53 Y:2.10 Z:3 WSJ:2 S:2 M:6 COL Rockwell Collins, In: -5.7%, 1
+72.51 Y:2.20 Z:4 WSJ:2 S:6 M:1.0 SMCI Super Micro Computer: 18.41%, 1
+72.5 Y:2.50 Z:3 WSJ:2 S:6 M:6 ENBL Enable Midstream Par: 20.81%, 1
+72.48 Y:2.00 Z:2 WSJ:2 S:8 M:6 HPQ HP Inc.: 9.09%, 1
+72.47 Y:2.30 Z:3 WSJ:2 S:5 M:6 BKU BankUnited, Inc.: 14.04%, 1
+72.43 Y:2.30 Z:3 WSJ:2 S:3 M:6 ATO Atmos Energy Corpora: 0.48%, 1
+72.43 Y:1.70 Z:3 WSJ:2 S:5 M:6 BX The Blackstone Group: 13.81%, 1
+72.42 Y:2.40 Z:3 WSJ:2 S:5 M:6 COF Capital One Financia: 13.76%, 1
+72.42 Y:2.20 Z:3 WSJ:2 S:4 M:6 EMN Eastman Chemical Com: 7.1%, 1
+72.41 Y:2.10 Z:3 WSJ:2 S:6 M:6 ITT ITT Inc.: 20.36%, 1
+72.37 Y:1.70 Z:3 WSJ:2 S:5 M:6 AZN Astrazeneca PLC: 13.53%, 1
+72.36 Y:2.00 Z:3 WSJ:2 S:5 M:6 ORA Ormat Technologies, : 13.48%, 1
+72.35 Y:2.20 Z:3 WSJ:2 S:5 M:6 AMH American Homes 4 Ren: 13.4%, 1
+72.32 Y:1.30 Z:3 WSJ:1 S:10 M:6 GZT Gazit-Globe Ltd.: 21.6%, 1
+72.3 Y:1.80 Z:4 WSJ:2 S:3 M:6 FIX Comfort Systems USA,: 24.81%, 1
+72.29 Y:1.50 Z:3 WSJ:1 S:7 M:6 VG Vonage Holdings Corp: 1.43%, 1
+72.28 Y:2.00 Z:3 WSJ:2 S:5 M:6 AYI Acuity Brands Inc: 13.06%, 1
+72.28 Y:1.80 Z:3 WSJ:1 S:11 M:6 ZEN Zendesk, Inc.: 28.06%, 1
+72.27 Y:2.40 Z:3 WSJ:2 S:8 M:6 MBT Mobile TeleSystems O: 33.02%, 1
+72.27 Y:1.20 Z:3 WSJ:1 S:9 M:6 QUOT Quotient Technology : 14.7%, 1
+72.25 Y:2.40 Z:2 WSJ:2 S:8 M:6 TRN Trinity Industries, : 7.94%, 1
+72.22 Y:2.00 Z:3 WSJ:2 S:11 M:2.0 GPOR Gulfport Energy Corp: 82.61%, 1
+72.22 Y:2.30 Z:3 WSJ:2 S:11 M:1.0 HALO Halozyme Therapeutic: 25.0%, 1
+72.21 Y:1.50 Z:3 WSJ:1 S:5 M:3.0 PRAH PRA Health Sciences,: 9.95%, 1
+72.21 Y:1.70 Z:4 WSJ:1 S:5 M:1.0 TVTY Tivity Health, Inc.: 12.7%, 4
+72.19 Y:2.10 Z:3 WSJ:2 S:7 M:1.5 PCTY Paylocity Holding Co: 10.66%, 1
+72.19 Y:1.60 Z:3 WSJ:2 S:5 M:6 SUM Summit Materials, In: 12.63%, 1
+72.18 Y:2.10 Z:4 WSJ:2 S:8 M:1.0 EGHT 8x8 Inc: 29.76%, 1
+72.16 Y:1.50 Z:4 WSJ:1 S:5 M:6 BGCP BGC Partners, Inc.: 12.47%, 1
+72.14 Y:2.00 Z:3 WSJ:2 S:5 M:6 CVS CVS Health Corporati: 12.39%, 1
+72.13 Y:2.20 Z:3 WSJ:2 S:4 M:6 NKE Nike, Inc.: 5.63%, 1
+72.11 Y:2.00 Z:3 WSJ:2 S:8 M:6 CUB Cubic Corporation: 32.24%, 1
+72.11 Y:2.70 Z:1 WSJ:3 S:5 M:6 SEM Select Medical Holdi: -12.79%, 1
+72.1 Y:1.80 Z:3 WSJ:2 S:9 M:6 ETP Energy Transfer Part: 38.82%, 1
+72.1 Y:2.30 Z:3 WSJ:2 S:7 M:6 UNVR Univar Inc.: 25.49%, 1
+72.02 Y:2.00 Z:3 WSJ:2 S:5 M:6 GEF Greif Bros. Corporat: 11.78%, 1
+71.97 Y:1.60 Z:4 WSJ:2 S:5 M:6 DST DST Systems, Inc.: 36.51%, 1
+71.95 Y:2.00 Z:3 WSJ:2 S:5 M:6 HELE Helen of Troy Limite: 11.44%, 1
+71.94 Y:2.00 Z:4 WSJ:1 S:5 M:6 TYL Tyler Technologies, : 11.37%, 1
+71.93 Y:1.80 Z:3 WSJ:2 S:7 M:6 SIX Six Flags Entertainm: 24.66%, 1
+71.91 Y:2.10 Z:3 WSJ:2 S:5 M:6 COH Coach, Inc.: 11.23%, 1
+71.9 Y:1.90 Z:3 WSJ:2 S:5 M:6 HBI Hanesbrands Inc.: 11.16%, 1
+71.88 Y:2.00 Z:2 WSJ:2 S:5 M:3.0 GOLD Randgold Resources L: 7.94%, 1
+71.88 Y:2.50 Z:1 WSJ:2 S:4 M:2.3 WTFC Wintrust Financial C: 8.78%, 2
+71.88 Y:2.10 Z:3 WSJ:2 S:5 M:6 CCK Crown Holdings, Inc.: 11.09%, 1
+71.87 Y:2.20 Z:2 WSJ:2 S:7 M:3.0 ACIW ACI Worldwide, Inc.: 21.21%, 1
+71.86 Y:2.20 Z:3 WSJ:2 S:5 M:6 AIG American Internation: 10.97%, 1
+71.84 Y:2.80 Z:3 WSJ:2 S:5 M:6 TOT Total S.A.: 10.85%, 1
+71.82 Y:2.00 Z:3 WSJ:2 S:6 M:6 SKX Skechers U.S.A., Inc: 17.42%, 1
+71.82 Y:2.10 Z:3 WSJ:2 S:3 M:6 TSLX TPG Specialty Lendin: -2.55%, 1
+71.79 Y:2.10 Z:3 WSJ:2 S:5 M:2.5 XRAY DENTSPLY SIRONA Inc.: 19.9%, 1
+71.79 Y:2.80 Z:1 WSJ:3 S:3 M:1.0 EXPO Exponent, Inc.: -5.92%, 2
+71.79 Y:1.80 Z:4 WSJ:1 S:6 M:1.7000000000000002 RP RealPage, Inc.: 6.6%, 1
+71.78 Y:2.30 Z:2 WSJ:2 S:2 M:1.0 PLUS ePlus inc.: -12.65%, 2
+71.74 Y:2.00 Z:3 WSJ:2 S:3 M:2.5 NTES NetEase, Inc.: 6.28%, 1
+71.74 Y:2.30 Z:3 WSJ:2 S:5 M:6 BG Bunge Limited: 10.35%, 1
+71.74 Y:2.20 Z:3 WSJ:2 S:5 M:6 STAY Extended Stay Americ: 10.35%, 1
+71.73 Y:2.00 Z:3 WSJ:2 S:8 M:6 CUDA Barracuda Networks, : 30.3%, 1
+71.73 Y:1.90 Z:3 WSJ:2 S:6 M:6 BSX Boston Scientific Co: 16.98%, 1
+71.7 Y:1.80 Z:2 WSJ:1 S:8 M:6 BZUN Baozun Inc.: -19.85%, 1
+71.7 Y:2.20 Z:3 WSJ:2 S:6 M:6 MT ArcelorMittal: 16.83%, 1
+71.7 Y:2.60 Z:1 WSJ:2 S:6 M:6 TKR Timken Company (The): 16.85%, 2
+71.67 Y:2.00 Z:3 WSJ:2 S:5 M:2.4 WBA Walgreens Boots Alli: 16.67%, 1
+71.67 Y:2.50 Z:3 WSJ:2 S:11 M:6 EGO Eldorado Gold Corpor: 106.94%, 1
+71.67 Y:2.00 Z:3 WSJ:2 S:11 M:6 XON Intrexon Corporation: 73.41%, 1
+71.67 Y:2.10 Z:3 WSJ:2 S:11 M:6 QEP QEP Resources, Inc.: 69.26%, 1
+71.67 Y:2.20 Z:3 WSJ:2 S:11 M:6 WFT Weatherford Internat: 50.56%, 1
+71.66 Y:2.30 Z:3 WSJ:2 S:5 M:6 GBX Greenbrier Companies: 9.97%, 1
+71.66 Y:1.80 Z:4 WSJ:1 S:8 M:6 IPHI Inphi Corporation: 29.98%, 1
+71.65 Y:3.00 Z:3 WSJ:2 S:9 M:1.0 VIRT Virtu Financial, Inc: 8.23%, 1
+71.64 Y:2.40 Z:2 WSJ:2 S:1 M:6 FAF First American Corpo: 8.22%, 2
+71.63 Y:1.80 Z:3 WSJ:2 S:10 M:1.0 CDK CDK Global, Inc.: 14.76%, 1
+71.6 Y:2.50 Z:1 WSJ:2 S:9 M:1.0 ABY Atlantica Yield plc: 7.93%, 2
+71.59 Y:1.90 Z:3 WSJ:2 S:9 M:1.4000000000000004 WMGI Wright Medical Group: 17.86%, 1
+71.59 Y:2.10 Z:3 WSJ:2 S:6 M:6 MWA MUELLER WATER PRODUC: 16.28%, 1
+71.58 Y:2.10 Z:3 WSJ:2 S:5 M:6 BAC Bank of America Corp: 9.56%, 1
+71.52 Y:1.90 Z:3 WSJ:2 S:4 M:2.6 SIVB SVB Financial Group: 14.1%, 1
+71.48 Y:1.80 Z:3 WSJ:1 S:11 M:1.7000000000000002 NVCR NovoCure Limited: 13.07%, 1
+71.48 Y:2.10 Z:4 WSJ:2 S:7 M:1.0 PRAA PRA Group, Inc.: 18.91%, 1
+71.46 Y:2.20 Z:3 WSJ:2 S:7 M:6 OLN Olin Corporation: 22.28%, 1
+71.4 Y:1.90 Z:3 WSJ:2 S:5 M:6 OXM Oxford Industries, I: 8.66%, 1
+71.39 Y:2.30 Z:5 WSJ:2 S:8 M:1.0 EGRX Eagle Pharmaceutical: 52.7%, 1
+71.39 Y:1.80 Z:3 WSJ:2 S:11 M:1.0 EXAS Exact Sciences Corpo: 20.0%, 1
+71.39 Y:2.10 Z:4 WSJ:2 S:8 M:2.0 VECO Veeco Instruments In: 76.33%, 1
+71.36 Y:1.80 Z:3 WSJ:2 S:5 M:6 AL Air Lease Corporatio: 8.46%, 1
+71.35 Y:3.10 Z:3 WSJ:2 S:5 M:6 INFY Infosys Limited: 8.42%, 1
+71.31 Y:2.00 Z:3 WSJ:2 S:5 M:6 LAD Lithia Motors, Inc.: 8.2%, 1
+71.31 Y:2.10 Z:3 WSJ:2 S:7 M:6 OUT OUTFRONT Media Inc.: 21.57%, 1
+71.3 Y:2.60 Z:1 WSJ:3 S:2 M:6 AEIS Advanced Energy Indu: 13.16%, 2
+71.27 Y:2.20 Z:4 WSJ:2 S:5 M:6 GEO Geo Group Inc (The): 33.03%, 1
+71.26 Y:2.00 Z:3 WSJ:2 S:7 M:1.7000000000000002 PEGI Pattern Energy Group: 10.08%, 1
+71.25 Y:2.20 Z:3 WSJ:2 S:3 M:2.8 ISRG Intuitive Surgical, : 10.81%, 1
+71.25 Y:2.00 Z:1 WSJ:2 S:12 M:6 ENIC Enel Chile S.A.: 4.59%, 1
+71.24 Y:2.30 Z:1 WSJ:2 S:5 M:1.9000000000000004 REGN Regeneron Pharmaceut: 1.63%, 2
+71.22 Y:2.10 Z:3 WSJ:2 S:6 M:6 ALLY Ally Financial Inc.: 14.44%, 1
+71.21 Y:2.00 Z:3 WSJ:2 S:3 M:3.0 IBKC IBERIABANK Corporati: 15.58%, 1
+71.2 Y:2.40 Z:3 WSJ:2 S:10 M:2.0 INFN Infinera Corporation: 37.21%, 1
+71.19 Y:2.30 Z:3 WSJ:2 S:8 M:2.0 VRNT Verint Systems Inc.: 23.78%, 1
+71.18 Y:2.40 Z:3 WSJ:2 S:4 M:6 BMY Bristol-Myers Squibb: 0.92%, 1
+71.17 Y:3.00 Z:2 WSJ:3 S:1 M:1.0 INDB Independent Bank Cor: 2.01%, 2
+71.17 Y:2.10 Z:3 WSJ:2 S:7 M:1.0 OMCL Omnicell, Inc.: -7.97%, 1
+71.17 Y:2.60 Z:3 WSJ:2 S:5 M:6 BWA BorgWarner Inc.: 7.53%, 1
+71.17 Y:2.40 Z:2 WSJ:2 S:8 M:6 GIL Gildan Activewear, I: 2.54%, 1
+71.16 Y:2.10 Z:3 WSJ:2 S:8 M:6 KMI Kinder Morgan, Inc.: 27.49%, 1
+71.15 Y:2.40 Z:3 WSJ:2 S:3 M:3.0 UCBI United Community Ban: 15.24%, 1
+71.15 Y:2.40 Z:3 WSJ:2 S:4 M:6 WTR Aqua America, Inc.: 0.73%, 1
+71.13 Y:1.90 Z:3 WSJ:1 S:11 M:1.0 AGIO Agios Pharmaceutical: -6.53%, 1
+71.12 Y:3.00 Z:3 WSJ:2 S:17 M:2.0 FWONK Liberty Media Corpor: 5.61%, 1
+71.11 Y:2.20 Z:3 WSJ:2 S:12 M:2.0 ICPT Intercept Pharmaceut: 93.79%, 1
+71.1 Y: Z:3 WSJ:1 S:9 M:6 PLNT Planet Fitness, Inc.: 8.84%, 1
+71.09 Y:2.00 Z:3 WSJ:2 S:8 M:1.5 CONE CyrusOne Inc: 10.7%, 1
+71.08 Y:2.10 Z:3 WSJ:2 S:5 M:6 VEEV Veeva Systems Inc.: 7.05%, 1
+71.06 Y:2.20 Z:2 WSJ:2 S:7 M:2.7 VIAV Viavi Solutions Inc.: 8.89%, 1
+71.06 Y:2.00 Z:3 WSJ:2 S:7 M:6 ASH Ashland Global Holdi: 20.31%, 1
+71.04 Y:2.40 Z:3 WSJ:2 S:5 M:6 KMX CarMax Inc: 6.87%, 1
+71.02 Y:2.10 Z:3 WSJ:2 S:8 M:1.7999999999999998 COST Costco Wholesale Cor: 17.78%, 1
+71.02 Y:2.50 Z:1 WSJ:2 S:7 M:1.7999999999999998 Z Zillow Group, Inc.: 11.14%, 2
+71.0 Y:1.80 Z:3 WSJ:6 S:7 M:2.0 VRTX Vertex Pharmaceutica: 20.0%, 1
+70.99 Y:2.00 Z:3 WSJ:2 S:5 M:6 CCI Crown Castle Interna: 6.61%, 1
+70.98 Y:2.30 Z:3 WSJ:2 S:5 M:6 RXN Rexnord Corporation: 6.56%, 1
+70.95 Y:1.90 Z:3 WSJ:1 S:11 M:6 OMAM OM Asset Management : 21.43%, 1
+70.93 Y:2.10 Z:3 WSJ:2 S:5 M:2.0 TRMB Trimble Inc.: 2.26%, 1
+70.91 Y:2.00 Z:3 WSJ:2 S:8 M:1.0 ALRM Alarm.com Holdings, : -2.87%, 1
+70.91 Y:2.20 Z:3 WSJ:2 S:4 M:6 ECL Ecolab Inc.: -0.45%, 1
+70.89 Y:2.00 Z:3 WSJ:2 S:8 M:6 SMI Semiconductor  Manuf: 26.11%, 1
+70.87 Y:1.90 Z:3 WSJ:2 S:6 M:6 MAS Masco Corporation: 12.66%, 1
+70.86 Y:2.70 Z:2 WSJ:2 S:3 M:6 EIG Employers Holdings I: 17.65%, 2
+70.8 Y:2.50 Z:4 WSJ:2 S:3 M:6 GMED Globus Medical, Inc.: 17.35%, 1
+70.75 Y:2.20 Z:3 WSJ:2 S:6 M:6 HTGC Hercules Capital, In: 12.07%, 1
+70.74 Y:2.20 Z:5 WSJ:2 S:3 M:1.4000000000000004 TTEK Tetra Tech, Inc.: 22.79%, 1
+70.74 Y:2.40 Z:3 WSJ:2 S:6 M:6 CAA CalAtlantic Group, I: 12.02%, 1
+70.74 Y:2.00 Z:3 WSJ:2 S:11 M:6 DYN Dynegy Inc.: 45.37%, 1
+70.73 Y:2.20 Z:3 WSJ:2 S:6 M:6 SEP Spectra Energy Partn: 12.0%, 1
+70.72 Y:2.00 Z:2 WSJ:2 S:6 M:3.0 GRFS Grifols, S.A.: 7.64%, 1
+70.7 Y:2.00 Z:3 WSJ:1 S:8 M:6 TWO Two Harbors Investme: 0.15%, 1
+70.69 Y:2.30 Z:3 WSJ:2 S:5 M:6 SMG Scotts Miracle-Gro C: 5.11%, 1
+70.67 Y:3.00 Z:3 WSJ:3 S:8 M:6 DF Dean Foods Company: 73.76%, 1
+70.65 Y:1.80 Z:3 WSJ:2 S:4 M:6 MRCY Mercury Systems Inc: -1.74%, 1
+70.65 Y:1.00 Z:1 WSJ:3 S:5 M:1.0 SPIL Siliconware Precisio: 0.54%, 2
+70.65 Y:2.10 Z:3 WSJ:2 S:6 M:6 WY Weyerhaeuser Company: 11.56%, 1
+70.64 Y:2.40 Z:3 WSJ:2 S:4 M:3.0 FMBI First Midwest Bancor: 18.83%, 1
+70.63 Y:1.30 Z:3 WSJ:2 S:6 M:6 ASX Advanced Semiconduct: 11.46%, 1
+70.63 Y:2.70 Z:3 WSJ:2 S:5 M:6 FNV Franco-Nevada Corpor: 4.8%, 1
+70.62 Y:2.20 Z:1 WSJ:2 S:3 M:6 ANET Arista Networks, Inc: -8.55%, 2
+70.61 Y:2.40 Z:2 WSJ:2 S:3 M:6 SFNC Simmons First Nation: 16.37%, 2
+70.6 Y:1.00 Z:5 WSJ:1 S:5 M:6 SNP China Petroleum & Ch: 29.67%, 1
+70.57 Y:2.10 Z:3 WSJ:2 S:6 M:1.0 YY YY Inc.: -18.24%, 1
+70.57 Y:2.30 Z:3 WSJ:2 S:5 M:6 MS Morgan Stanley: 4.52%, 1
+70.57 Y:2.10 Z:3 WSJ:2 S:5 M:6 NEP NextEra Energy Partn: 4.51%, 1
+70.56 Y:2.50 Z:1 WSJ:2 S:5 M:6 CAT Caterpillar, Inc.: 4.46%, 2
+70.54 Y:1.90 Z:4 WSJ:2 S:7 M:1.7000000000000002 NUAN Nuance Communication: 30.72%, 1
+70.54 Y:2.10 Z:3 WSJ:2 S:12 M:1.7999999999999998 WIX Wix.com Ltd.: 41.56%, 1
+70.51 Y:2.20 Z:3 WSJ:2 S:8 M:6 GEL Genesis Energy, L.P.: 24.2%, 1
+70.5 Y:2.70 Z:1 WSJ:2 S:3 M:6 CGNX Cognex Corporation: -9.15%, 2
+70.5 Y: Z:4 WSJ:2 S:5 M:6 MTX Minerals Technologie: 29.18%, 1
+70.49 Y:2.00 Z:3 WSJ:2 S:10 M:6 WPX WPX Energy, Inc.: 37.46%, 1
+70.47 Y:2.30 Z:3 WSJ:2 S:6 M:6 VIV Telefonica Brasil S.: 10.68%, 1
+70.46 Y:2.00 Z:3 WSJ:2 S:6 M:6 BKFS Black Knight Financi: 10.63%, 1
+70.44 Y:2.10 Z:3 WSJ:2 S:5 M:6 VNTV Vantiv, Inc.: 3.87%, 1
+70.42 Y:1.70 Z:5 WSJ:2 S:3 M:1.7000000000000002 GT The Goodyear Tire & : 28.37%, 1
+70.4 Y:2.40 Z:3 WSJ:2 S:6 M:6 NCS NCI Building Systems: 10.33%, 1
+70.38 Y:2.40 Z:4 WSJ:2 S:4 M:6 DIS Walt Disney Company : 21.9%, 1
+70.35 Y:2.50 Z:3 WSJ:2 S:8 M:2.2 SRCL Stericycle, Inc.: 23.74%, 1
+70.34 Y:1.90 Z:3 WSJ:2 S:5 M:6 APO Apollo Global Manage: 3.37%, 1
+70.32 Y:2.40 Z:3 WSJ:2 S:4 M:3.0 HOMB Home BancShares, Inc: 16.94%, 1
+70.32 Y:2.50 Z:3 WSJ:2 S:5 M:6 QSR Restaurant Brands In: 3.29%, 1
+70.31 Y:2.30 Z:3 WSJ:2 S:4 M:3.0 FIBK First Interstate Ban: 16.86%, 1
+70.29 Y:2.60 Z:2 WSJ:3 S:5 M:6 MGLN Magellan Health, Inc: 3.14%, 1
+70.28 Y:1.60 Z:4 WSJ:1 S:10 M:1.0 BPMC Blueprint Medicines : 6.69%, 1
+70.28 Y:2.40 Z:2 WSJ:2 S:1 M:6 APH Amphenol Corporation: 1.42%, 2
+70.27 Y:2.20 Z:3 WSJ:2 S:7 M:6 RES RPC, Inc.: 16.34%, 1
+70.26 Y:2.30 Z:3 WSJ:2 S:5 M:6 WLK Westlake Chemical Co: 2.95%, 1
+70.25 Y:1.80 Z:3 WSJ:2 S:6 M:6 TPRE Third Point Reinsura: 9.59%, 1
+70.22 Y:2.00 Z:4 WSJ:2 S:7 M:6 HNI HNI Corporation: 41.1%, 1
+70.22 Y:2.20 Z:3 WSJ:2 S:7 M:6 KS KapStone Paper and P: 16.12%, 1
+70.21 Y:2.10 Z:3 WSJ:2 S:5 M:6 MAA Mid-America Apartmen: 2.72%, 1
+70.17 Y:2.40 Z:3 WSJ:2 S:6 M:1.7999999999999998 SIRI Sirius XM Holdings I: -0.63%, 1
+70.12 Y:2.20 Z:3 WSJ:2 S:9 M:6 AGI Alamos Gold Inc.: 28.93%, 1
+70.11 Y:2.50 Z:3 WSJ:2 S:1 M:2.0 CCMP Cabot Microelectroni: 20.69%, 2
+70.09 Y:2.30 Z:3 WSJ:2 S:4 M:3.0 MATW Matthews Internation: 15.56%, 1
+70.08 Y:1.80 Z:3 WSJ:1 S:11 M:6 QTWO Q2 Holdings, Inc.: 17.09%, 1
+70.05 Y:2.40 Z:3 WSJ:2 S:4 M:2.5 VRSK Verisk Analytics, In: 2.82%, 1
+70.04 Y:2.10 Z:3 WSJ:2 S:9 M:6 ECA Encana Corporation: 28.53%, 1
+70.02 Y:2.40 Z:3 WSJ:2 S:11 M:6 P Pandora Media, Inc.: 41.76%, 1
+70.0 Y:2.10 Z:3 WSJ:2 S:5 M:6 TX Ternium S.A.: 1.67%, 1
+69.99 Y:2.20 Z:3 WSJ:2 S:8 M:6 XEC Cimarex Energy Co: 21.64%, 1
+69.97 Y:2.70 Z:1 WSJ:3 S:2 M:6 CNI Canadian National Ra: 6.51%, 2
+69.97 Y:2.50 Z:1 WSJ:2 S:5 M:6 JBL Jabil Inc.: 1.51%, 2
+69.96 Y:2.00 Z:3 WSJ:2 S:8 M:6 CLNS Colony NorthStar, In: 21.48%, 1
+69.95 Y:1.80 Z:3 WSJ:2 S:8 M:6 BSM Black Stone Minerals: 21.43%, 1
+69.94 Y:1.80 Z:3 WSJ:2 S:11 M:1.7000000000000002 BNFT Benefitfocus, Inc.: 28.8%, 1
+69.92 Y:2.00 Z:4 WSJ:2 S:7 M:6 FL Foot Locker, Inc.: 39.61%, 1
+69.91 Y:2.50 Z:3 WSJ:2 S:8 M:6 ERJ Embraer-Empresa Bras: 21.21%, 1
+69.9 Y:2.00 Z:2 WSJ:2 S:7 M:6 BNS Bank of Nova Scotia : -10.5%, 1
+69.9 Y:3.00 Z:2 WSJ:2 S:9 M:6 LTM LATAM Airlines Group: 2.81%, 1
+69.89 Y:1.90 Z:3 WSJ:2 S:8 M:6 HPP Hudson Pacific Prope: 21.12%, 1
+69.88 Y:2.00 Z:4 WSJ:2 S:7 M:1.5 SBNY Signature Bank: 21.8%, 1
+69.86 Y:2.60 Z:3 WSJ:2 S:9 M:6 PBR Petroleo Brasileiro : 27.62%, 1
+69.85 Y:2.50 Z:3 WSJ:2 S:6 M:6 PM Philip Morris Intern: 7.56%, 1
+69.84 Y:2.10 Z:3 WSJ:2 S:6 M:6 GWRE Guidewire Software, : 7.53%, 1
+69.83 Y:2.10 Z:2 WSJ:2 S:2 M:6 ANTM Anthem, Inc.: 5.83%, 2
+69.82 Y:2.40 Z:1 WSJ:3 S:1 M:2.3 LFUS Littelfuse, Inc.: 1.43%, 2
+69.82 Y:2.00 Z:4 WSJ:2 S:5 M:2.0 UBSH Union Bankshares Cor: 20.58%, 1
+69.76 Y:1.00 Z:2 WSJ:2 S:10 M:6 CHU China Unicom (Hong K: 8.81%, 1
+69.75 Y:2.00 Z:3 WSJ:2 S:6 M:6 JLL Jones Lang LaSalle I: 7.09%, 1
+69.71 Y:2.60 Z:1 WSJ:3 S:2 M:6 RJF Raymond James Financ: 5.24%, 2
+69.69 Y:2.30 Z:3 WSJ:2 S:6 M:6 NLSN Nielsen N.V.: 6.79%, 1
+69.69 Y:2.10 Z:3 WSJ:2 S:5 M:6 REXR Rexford Industrial R: 0.11%, 1
+69.69 Y:2.80 Z:4 WSJ:2 S:4 M:6 UGP Ultrapar Participaco: 18.46%, 1
+69.67 Y:2.00 Z:3 WSJ:2 S:5 M:3.0 IRDM Iridium Communicatio: 19.7%, 1
+69.67 Y:1.80 Z:5 WSJ:2 S:5 M:6 TTMI TTM Technologies, In: 58.91%, 1
+69.66 Y:2.20 Z:3 WSJ:2 S:7 M:2.2 NFLX Netflix, Inc.: 12.98%, 1
+69.66 Y:2.40 Z:3 WSJ:2 S:6 M:6 BYD Boyd Gaming Corporat: 6.63%, 1
+69.65 Y:2.10 Z:3 WSJ:2 S:8 M:6 ETE Energy Transfer Equi: 19.93%, 1
+69.56 Y:2.80 Z:2 WSJ:2 S:1 M:6 HII Huntington Ingalls I: -2.18%, 2
+69.55 Y:2.20 Z:3 WSJ:2 S:5 M:6 TRNO Terreno Realty Corpo: -0.56%, 1
+69.53 Y:1.90 Z:5 WSJ:1 S:8 M:1.0999999999999996 AMZN Amazon.com, Inc.: 16.32%, 1
+69.48 Y:2.10 Z:3 WSJ:2 S:9 M:6 DVN Devon Energy Corpora: 25.75%, 1
+69.48 Y:1.80 Z:3 WSJ:2 S:8 M:6 HTA Healthcare Trust of : 19.09%, 1
+69.47 Y:2.30 Z:3 WSJ:2 S:6 M:3.0 NTGR NETGEAR, Inc.: 25.13%, 1
+69.45 Y:2.70 Z:4 WSJ:2 S:6 M:1.5 KHC The Kraft Heinz Comp: 12.53%, 1
+69.41 Y:2.30 Z:3 WSJ:2 S:8 M:6 IGT International Game T: 18.74%, 1
+69.38 Y:2.40 Z:2 WSJ:2 S:17 M:3.0 TRVG trivago N.V.: 46.88%, 2
+69.38 Y:2.20 Z:4 WSJ:2 S:5 M:2.5 ULTA Ulta Beauty, Inc.: 30.45%, 1
+69.38 Y:2.00 Z:3 WSJ:2 S:8 M:6 COP ConocoPhillips: 18.58%, 1
+69.38 Y:2.00 Z:3 WSJ:2 S:7 M:6 ESRT Empire State Realty : 11.92%, 1
+69.37 Y:1.80 Z:3 WSJ:6 S:8 M:1.0 LVNTA Liberty Interactive : -6.47%, 1
+69.36 Y:1.80 Z:3 WSJ:1 S:11 M:6 HUBS HubSpot, Inc.: 13.45%, 1
+69.35 Y:2.10 Z:4 WSJ:2 S:7 M:1.0 ATSG Air Transport Servic: 6.11%, 1
+69.33 Y:2.40 Z:3 WSJ:2 S:7 M:2.0 WEB Web.com Group, Inc.: 5.99%, 1
+69.33 Y:2.20 Z:4 WSJ:2 S:9 M:6 NGL NGL ENERGY PARTNERS : 69.01%, 1
+69.33 Y:2.20 Z:3 WSJ:2 S:6 M:6 VLO Valero Energy Corpor: 4.98%, 1
+69.32 Y:2.10 Z:4 WSJ:2 S:6 M:2.0 JACK Jack In The Box Inc.: 24.24%, 1
+69.32 Y:2.30 Z:1 WSJ:2 S:5 M:6 RAVN Raven Industries, In: -1.71%, 2
+69.32 Y:1.90 Z:3 WSJ:2 S:6 M:2.0 WB Weibo Corporation: -0.75%, 1
+69.31 Y:2.00 Z:3 WSJ:2 S:11 M:1.0 ACIA Acacia Communication: 7.5%, 1
+69.29 Y:1.90 Z:3 WSJ:2 S:7 M:6 WMB Williams Companies, : 11.44%, 1
+69.26 Y:2.00 Z:4 WSJ:1 S:8 M:6 LADR Ladder Capital Corp: 17.99%, 1
+69.2 Y:2.10 Z:5 WSJ:2 S:4 M:1.7000000000000002 BECN Beacon Roofing Suppl: 27.7%, 1
+69.2 Y:2.40 Z:3 WSJ:2 S:8 M:6 ENB Enbridge Inc: 17.68%, 1
+69.15 Y:2.00 Z:2 WSJ:2 S:9 M:6 ENV Envestnet, Inc: -0.92%, 1
+69.15 Y:2.30 Z:3 WSJ:2 S:7 M:6 NEM Newmont Mining Corpo: 10.77%, 1
+69.1 Y:2.60 Z:2 WSJ:2 S:3 M:6 CW Curtiss-Wright Corpo: 8.84%, 2
+69.09 Y:1.40 Z:3 WSJ:1 S:10 M:6 PEN Penumbra, Inc.: 5.44%, 1
+69.08 Y:2.20 Z:3 WSJ:2 S:8 M:6 COG Cabot Oil & Gas Corp: 17.08%, 1
+69.06 Y:3.00 Z:2 WSJ:3 S:3 M:6 CORT Corcept Therapeutics: -16.38%, 1
+69.05 Y:2.00 Z:3 WSJ:2 S:11 M:6 APC Anadarko Petroleum C: 36.92%, 1
+69.02 Y:2.00 Z:3 WSJ:2 S:7 M:6 GWR Genesee & Wyoming, I: 10.12%, 1
+69.01 Y:2.30 Z:2 WSJ:2 S:3 M:6 AB AllianceBernstein Ho: 8.38%, 2
+68.93 Y:1.80 Z:3 WSJ:2 S:5 M:6 INGN Inogen, Inc: -3.69%, 1
+68.93 Y:2.10 Z:3 WSJ:2 S:8 M:6 VOYA Voya Financial, Inc.: 16.34%, 1
+68.9 Y:2.20 Z:3 WSJ:2 S:7 M:6 CIT CIT Group Inc (DEL): 9.5%, 1
+68.9 Y:2.00 Z:2 WSJ:2 S:3 M:6 NSP Insperity, Inc.: 7.82%, 2
+68.89 Y:2.20 Z:4 WSJ:2 S:5 M:6 IPG Interpublic Group of: 21.14%, 1
+68.89 Y:2.70 Z:2 WSJ:3 S:5 M:6 NUS Nu Skin Enterprises,: -3.89%, 1
+68.83 Y:2.40 Z:2 WSJ:2 S:2 M:6 NOC Northrop Grumman Cor: 0.82%, 2
+68.83 Y:2.40 Z:1 WSJ:2 S:5 M:6 TEX Terex Corporation: -4.17%, 2
+68.77 Y:1.70 Z:3 WSJ:2 S:8 M:6 NRG NRG Energy, Inc.: 15.51%, 1
+68.73 Y:1.90 Z:3 WSJ:2 S:8 M:6 HLT Hilton Worldwide Hol: 15.31%, 1
+68.72 Y:2.20 Z:4 WSJ:2 S:5 M:6 POL PolyOne Corporation: 20.26%, 1
+68.72 Y:2.50 Z:2 WSJ:2 S:5 M:6 WGP Western Gas Equity P: 20.27%, 2
+68.7 Y:2.30 Z:3 WSJ:2 S:8 M:6 SLG SL Green Realty Corp: 15.17%, 1
+68.68 Y:2.60 Z:2 WSJ:2 S:4 M:6 HLS HealthSouth Corporat: 13.4%, 2
+68.66 Y:1.00 Z:4 WSJ:2 S:6 M:6 KEP Korea Electric Power: 26.62%, 1
+68.66 Y:2.30 Z:3 WSJ:2 S:6 M:6 BLD TopBuild Corp.: 1.62%, 1
+68.64 Y:2.50 Z:3 WSJ:3 S:9 M:6 SEAS SeaWorld Entertainme: 46.55%, 1
+68.63 Y:2.10 Z:3 WSJ:2 S:8 M:6 USFD US Foods Holding Cor: 14.8%, 1
+68.61 Y:3.30 Z:1 WSJ:3 S:4 M:6 BHE Benchmark Electronic: 13.06%, 2
+68.6 Y:2.10 Z:3 WSJ:2 S:5 M:2.2 TTWO Take-Two Interactive: -6.72%, 1
+68.53 Y:2.50 Z:2 WSJ:2 S:3 M:6 INGR Ingredion Incorporat: 5.99%, 2
+68.5 Y:2.30 Z:4 WSJ:2 S:8 M:1.7999999999999998 CYBR CyberArk Software Lt: 27.66%, 1
+68.47 Y:2.60 Z:4 WSJ:2 S:8 M:2.7 SYNA Synaptics Incorporat: 56.21%, 1
+68.47 Y:2.10 Z:3 WSJ:2 S:8 M:6 AGN Allergan plc.: 14.02%, 1
+68.47 Y:2.10 Z:3 WSJ:2 S:8 M:6 EOG EOG Resources, Inc.: 14.01%, 1
+68.46 Y:2.30 Z:1 WSJ:2 S:7 M:6 RCI Rogers Communication: 7.29%, 2
+68.43 Y:2.20 Z:3 WSJ:2 S:9 M:6 EGN Energen Corporation: 20.46%, 1
+68.43 Y:2.00 Z:4 WSJ:2 S:5 M:6 WST West Pharmaceutical : 18.84%, 1
+68.42 Y:1.70 Z:5 WSJ:1 S:11 M:1.0 AFSI AmTrust Financial Se: 27.21%, 1
+68.4 Y:2.00 Z:4 WSJ:2 S:3 M:3.0 CSGS CSG Systems Internat: 23.75%, 1
+68.39 Y:2.10 Z:3 WSJ:2 S:7 M:6 RLGY Realogy Holdings Cor: 6.94%, 1
+68.37 Y:2.20 Z:3 WSJ:2 S:7 M:6 CVX Chevron Corporation: 6.84%, 1
+68.36 Y:2.00 Z:3 WSJ:2 S:8 M:6 ARCO Arcos Dorados Holdin: 13.48%, 1
+68.35 Y:1.80 Z:3 WSJ:2 S:8 M:2.0 EQIX Equinix, Inc.: 6.74%, 1
+68.3 Y:2.00 Z:3 WSJ:6 S:10 M:2.2 BMRN BioMarin Pharmaceuti: 31.5%, 1
+68.3 Y: Z:4 WSJ:2 S:6 M:6 MET MetLife, Inc.: 24.84%, 1
+68.29 Y:1.00 Z:4 WSJ:2 S:5 M:6 LUK Leucadia National Co: 18.13%, 1
+68.29 Y:2.70 Z:2 WSJ:2 S:8 M:6 YRD Yirendai Ltd.: -11.9%, 1
+68.27 Y:1.90 Z:3 WSJ:2 S:4 M:6 GRUB GrubHub Inc.: -13.67%, 1
+68.25 Y:2.00 Z:3 WSJ:2 S:11 M:1.0 AAAP Advanced Accelerator: 1.19%, 1
+68.24 Y:2.10 Z:3 WSJ:2 S:8 M:6 CPN Calpine Corporation: 12.89%, 1
+68.21 Y:2.50 Z:3 WSJ:2 S:8 M:6 HLI Houlihan Lokey, Inc.: 12.71%, 1
+68.2 Y:1.70 Z:5 WSJ:1 S:8 M:6 RSPP RSP Permian, Inc.: 37.66%, 1
+68.18 Y: Z:3 WSJ:2 S:9 M:6 EURN Euronav NV: 19.21%, 1
+68.16 Y:2.00 Z:3 WSJ:2 S:10 M:6 CLR Continental Resource: 25.8%, 1
+68.14 Y:2.10 Z:3 WSJ:2 S:8 M:6 CSRA CSRA Inc.: 12.39%, 1
+68.08 Y:1.80 Z:3 WSJ:2 S:7 M:6 SUI Sun Communities, Inc: 5.38%, 1
+68.06 Y:2.70 Z:2 WSJ:2 S:3 M:6 NSIT Insight Enterprises,: 3.62%, 2
+68.05 Y:2.30 Z:4 WSJ:2 S:7 M:1.0 RGLD Royal Gold, Inc.: -1.71%, 1
+68.05 Y:2.00 Z:3 WSJ:2 S:9 M:6 TRGP Targa Resources, Inc: 18.59%, 1
+68.01 Y:2.30 Z:1 WSJ:2 S:6 M:2.5 FSV FirstService Corpora: 3.89%, 2
+68.0 Y:2.20 Z:3 WSJ:2 S:9 M:6 PANW Palo Alto Networks, : 18.35%, 1
+67.97 Y:1.80 Z:3 WSJ:1 S:11 M:2.0 ONCE Spark Therapeutics, : -0.54%, 1
+67.96 Y:2.30 Z:4 WSJ:2 S:9 M:1.0 CAR Avis Budget Group, I: 11.08%, 1
+67.93 Y:1.70 Z:3 WSJ:2 S:8 M:6 KEYS Keysight Technologie: 11.3%, 1
+67.89 Y: Z:4 WSJ:2 S:8 M:1.4000000000000004 MTCH Match Group, Inc.: 14.0%, 1
+67.88 Y:2.00 Z:1 WSJ:2 S:8 M:2.0 AABA Altaba Inc.: 3.94%, 2
+67.88 Y:2.10 Z:5 WSJ:2 S:6 M:1.7000000000000002 THRM Gentherm Inc: 33.12%, 1
+67.85 Y:2.70 Z:2 WSJ:2 S:2 M:6 ALG Alamo Group, Inc.: -4.09%, 2
+67.84 Y:2.30 Z:4 WSJ:2 S:5 M:6 AIR AAR Corp.: 15.89%, 1
+67.82 Y:2.80 Z:1 WSJ:3 S:3 M:6 MKL Markel Corporation: 2.42%, 2
+67.82 Y:2.50 Z:2 WSJ:2 S:4 M:6 SYY Sysco Corporation: 9.08%, 2
+67.8 Y:2.20 Z:2 WSJ:2 S:3 M:2.5 AMTD TD Ameritrade Holdin: 7.62%, 2
+67.77 Y:1.90 Z:3 WSJ:2 S:8 M:6 QTS QTS Realty Trust, In: 10.51%, 1
+67.74 Y:2.30 Z:3 WSJ:2 S:7 M:6 CCOI Cogent Communication: 3.69%, 1
+67.72 Y:2.10 Z:3 WSJ:2 S:8 M:6 COT Cott Corporation: 10.25%, 1
+67.71 Y:2.30 Z:4 WSJ:2 S:6 M:6 JCI Johnson Controls Int: 21.89%, 1
+67.7 Y:2.70 Z:1 WSJ:3 S:2 M:6 NVR NVR, Inc.: -4.85%, 2
+67.68 Y:2.30 Z:5 WSJ:2 S:7 M:1.0 PSMT PriceSmart, Inc.: 21.07%, 1
+67.66 Y:2.30 Z:2 WSJ:2 S:3 M:6 DE Deere & Company: 1.61%, 2
+67.62 Y:2.40 Z:2 WSJ:2 S:5 M:2.3 AMED Amedisys Inc: 14.87%, 2
+67.62 Y:2.50 Z:3 WSJ:2 S:10 M:6 CVE Cenovus Energy Inc: 23.09%, 1
+67.61 Y:2.70 Z:3 WSJ:2 S:8 M:6 CLF Cliffs Natural Resou: 9.74%, 1
+67.58 Y:2.80 Z:1 WSJ:3 S:5 M:2.0 PRGS Progress Software Co: 7.12%, 2
+67.58 Y:2.00 Z:4 WSJ:2 S:5 M:6 DFS Discover Financial S: 14.57%, 1
+67.58 Y:1.00 Z:3 WSJ:2 S:8 M:6 MON Monsanto Company: 9.57%, 1
+67.54 Y:1.60 Z:3 WSJ:1 S:10 M:6 RNG Ringcentral, Inc.: -2.31%, 1
+67.5 Y:2.10 Z:4 WSJ:2 S:5 M:1.9000000000000004 DSGX The Descartes System: 4.17%, 1
+67.48 Y: Z:1 WSJ:3 S:6 M:2.0 RUSHB Rush Enterprises, In: 13.21%, 2
+67.46 Y:1.90 Z:3 WSJ:2 S:8 M:6 MSG MSG Networks Inc.: 8.97%, 1
+67.44 Y:2.20 Z:3 WSJ:2 S:5 M:3.0 WLTW Willis Towers Watson: 6.33%, 1
+67.44 Y:2.20 Z:3 WSJ:2 S:10 M:6 EQT EQT Corporation: 22.22%, 1
+67.43 Y:2.30 Z:4 WSJ:2 S:3 M:6 ALE Allete, Inc.: 0.48%, 1
+67.41 Y:1.90 Z:3 WSJ:2 S:8 M:6 MSG MSG Networks Inc.: 8.71%, 1
+67.39 Y:2.80 Z:1 WSJ:3 S:3 M:6 ARI Apollo Commercial Re: 0.27%, 2
+67.35 Y:2.70 Z:3 WSJ:2 S:8 M:6 POT Potash Corporation o: 8.42%, 1
+67.34 Y:2.70 Z:3 WSJ:2 S:2 M:1.7000000000000002 ACGL Arch Capital Group L: 3.19%, 2
+67.33 Y:2.20 Z:2 WSJ:2 S:5 M:6 DD E.I. du Pont de Nemo: 13.3%, 2
+67.32 Y:2.80 Z:1 WSJ:2 S:8 M:6 ENIA Enel Americas S.A.: 8.25%, 2
+67.31 Y:1.80 Z:4 WSJ:1 S:9 M:6 SFR Colony Starwood Home: 14.88%, 1
+67.29 Y:2.30 Z:4 WSJ:2 S:4 M:6 SAP SAP SE: 6.43%, 1
+67.24 Y:2.40 Z:2 WSJ:2 S:4 M:6 MAN ManpowerGroup: 6.22%, 2
+67.23 Y:1.80 Z:3 WSJ:2 S:9 M:2.2 INCY Incyte Corporation: 11.72%, 1
+67.22 Y:2.60 Z:2 WSJ:3 S:1 M:2.0 LKFN Lakeland Financial C: 3.33%, 2
+67.22 Y:2.10 Z:3 WSJ:2 S:9 M:2.2 CG The Carlyle Group L.: 11.65%, 1
+67.22 Y:2.00 Z:3 WSJ:2 S:10 M:6 MCRN Milacron Holdings Co: 21.11%, 1
+67.2 Y:3.00 Z:1 WSJ:3 S:2 M:3.0 CHCO City Holding Company: 9.87%, 2
+67.2 Y:1.70 Z:5 WSJ:2 S:3 M:6 VMC Vulcan Materials Com: 24.32%, 1
+67.15 Y:2.30 Z:2 WSJ:2 S:5 M:2.2 HAS Hasbro, Inc.: 9.59%, 2
+67.13 Y:1.90 Z:2 WSJ:2 S:11 M:6 TWLO Twilio Inc.: 2.32%, 1
+67.12 Y:2.70 Z:3 WSJ:2 S:5 M:6 BFR BBVA Banco Frances S: 37.25%, 2
+67.1 Y:2.20 Z:2 WSJ:2 S:9 M:3.0 NXTM NxStage Medical, Inc: 5.95%, 1
+67.09 Y:2.10 Z:2 WSJ:2 S:4 M:6 ALLE Allegion plc: 5.46%, 2
+67.05 Y:2.00 Z:4 WSJ:2 S:8 M:6 KN Knowles Corporation: 31.93%, 1
+67.02 Y:3.10 Z:1 WSJ:3 S:3 M:2.3 GRMN Garmin Ltd.: -2.02%, 2
+66.97 Y:2.30 Z:3 WSJ:2 S:3 M:2.0 WSBC WesBanco, Inc.: 15.16%, 2
+66.92 Y:2.30 Z:4 WSJ:2 S:8 M:6 PAH Platform Specialty P: 31.26%, 1
+66.9 Y:1.60 Z:5 WSJ:1 S:6 M:6 FUN Cedar Fair, L.P.: 17.85%, 1
+66.88 Y:2.60 Z:3 WSJ:2 S:8 M:6 VER VEREIT Inc.: 6.07%, 1
+66.86 Y:3.00 Z:1 WSJ:6 S:8 M:2.6 VIA Viacom Inc.: 20.97%, 2
+66.85 Y:2.40 Z:3 WSJ:2 S:8 M:6 PFGC Performance Food Gro: 5.94%, 1
+66.84 Y:2.50 Z:2 WSJ:2 S:5 M:6 KSU Kansas City Southern: 10.85%, 2
+66.83 Y:3.10 Z:1 WSJ:3 S:3 M:6 KBH KB Home: -2.51%, 2
+66.82 Y:2.30 Z:3 WSJ:2 S:1 M:6 FBHS Fortune Brands Home : 9.12%, 2
+66.81 Y:1.90 Z:4 WSJ:2 S:11 M:2.3 CRZO Carrizo Oil & Gas, I: 138.1%, 1
+66.81 Y:2.40 Z:3 WSJ:2 S:5 M:1.0 ICUI ICU Medical, Inc.: 2.55%, 2
+66.8 Y:2.30 Z:3 WSJ:2 S:6 M:6 CTB Cooper Tire & Rubber: 42.33%, 2
+66.78 Y:2.80 Z:3 WSJ:3 S:7 M:6 AXL American Axle & Manu: 23.88%, 1
+66.77 Y:1.90 Z:3 WSJ:2 S:8 M:6 OA Orbital ATK, Inc.: 5.53%, 1
+66.76 Y:2.50 Z:1 WSJ:2 S:7 M:6 TU TELUS Corporation: -1.22%, 2
+66.73 Y:3.00 Z:1 WSJ:3 S:7 M:6 AHGP Alliance Holdings GP: 23.64%, 2
+66.71 Y:2.20 Z:4 WSJ:2 S:9 M:2.0 PNK Pinnacle Entertainme: 28.6%, 1
+66.71 Y:1.80 Z:4 WSJ:1 S:8 M:6 NRZ New Residential Inve: 5.23%, 1
+66.69 Y:2.00 Z:3 WSJ:2 S:8 M:6 AGR Avangrid, Inc.: 5.11%, 1
+66.68 Y:2.20 Z:3 WSJ:2 S:8 M:6 KBR KBR, Inc.: 5.08%, 1
+66.67 Y:2.10 Z:4 WSJ:2 S:11 M:6 NBR Nabors Industries Lt: 76.39%, 1
+66.66 Y:2.20 Z:3 WSJ:2 S:8 M:6 SWFT Swift Transportation: 4.99%, 1
+66.63 Y:2.00 Z:3 WSJ:2 S:9 M:6 FDC First Data Corporati: 11.48%, 1
+66.59 Y:2.50 Z:4 WSJ:2 S:5 M:2.5 ISBC Investors Bancorp, I: 13.72%, 1
+66.58 Y:2.30 Z:2 WSJ:2 S:5 M:6 ST Sensata Technologies: 9.55%, 2
+66.56 Y:2.30 Z:3 WSJ:3 S:5 M:6 FCAU Fiat Chrysler Automo: 9.49%, 1
+66.49 Y:2.30 Z:2 WSJ:2 S:4 M:6 TOL Toll Brothers Inc.: 2.45%, 2
+66.44 Y:3.00 Z:2 WSJ:3 S:5 M:1.0 WBMD WebMD Health Corp: 0.29%, 2
+66.4 Y:2.60 Z:1 WSJ:2 S:6 M:3.0 LPLA LPL Financial Holdin: 6.73%, 2
+66.39 Y:3.00 Z:1 WSJ:3 S:4 M:6 NEU NewMarket Corporatio: 1.97%, 2
+66.37 Y:2.30 Z:3 WSJ:2 S:9 M:3.0 MMYT MakeMyTrip Limited: 26.54%, 1
+66.36 Y:3.50 Z:3 WSJ:2 S:11 M:6 FLOW SPX FLOW, Inc.: 23.47%, 1
+66.34 Y:2.50 Z:3 WSJ:2 S:3 M:2.0 PCAR PACCAR Inc.: 11.39%, 2
+66.33 Y:1.70 Z:2 WSJ:2 S:5 M:6 SNY Sanofi: 8.34%, 2
+66.32 Y:2.20 Z:3 WSJ:2 S:6 M:3.0 KLXI KLX Inc.: 6.28%, 1
+66.29 Y:2.60 Z:1 WSJ:3 S:6 M:2.0 RUSHA Rush Enterprises, In: 6.06%, 2
+66.26 Y:2.10 Z:3 WSJ:2 S:9 M:6 OMF OneMain Holdings, In: 9.61%, 1
+66.26 Y:2.40 Z:4 WSJ:2 S:5 M:6 SERV ServiceMaster Global: 7.99%, 1
+66.23 Y:2.00 Z:4 WSJ:2 S:7 M:3.0 ATNI ATN International, I: 37.35%, 1
+66.22 Y:2.40 Z:3 WSJ:2 S:1 M:2.4 AMGN Amgen Inc.: 7.32%, 2
+66.21 Y:2.70 Z:3 WSJ:3 S:3 M:1.0 UMPQ Umpqua Holdings Corp: 10.62%, 2
+66.21 Y:2.50 Z:2 WSJ:2 S:5 M:6 DG Dollar General Corpo: 7.71%, 2
+66.16 Y:2.30 Z:3 WSJ:2 S:5 M:2.6 ILMN Illumina, Inc.: -11.4%, 1
+66.16 Y:2.50 Z:5 WSJ:2 S:3 M:6 CNK Cinemark Holdings In: 19.14%, 1
+66.12 Y:3.00 Z:1 WSJ:3 S:5 M:6 UFCS United Fire Group, I: 7.28%, 2
+66.12 Y:2.50 Z:3 WSJ:2 S:2 M:6 ETN Eaton Corporation, P: 12.27%, 2
+66.1 Y:1.90 Z:4 WSJ:2 S:8 M:6 CXO Concho Resources Inc: 27.18%, 1
+66.07 Y:2.30 Z:3 WSJ:2 S:5 M:3.0 VC Visteon Corporation: -1.91%, 1
+66.03 Y:2.10 Z:3 WSJ:2 S:9 M:6 ZAYO Zayo Group Holdings,: 8.5%, 1
+66.02 Y:2.40 Z:3 WSJ:2 S:1 M:6 FRC FIRST REPUBLIC BANK: 5.12%, 2
+66.01 Y:2.50 Z:3 WSJ:2 S:2 M:6 COLB Columbia Banking Sys: 11.72%, 2
+65.98 Y:2.50 Z:2 WSJ:2 S:4 M:6 WMT Wal-Mart Stores, Inc: -0.12%, 2
+65.95 Y:1.80 Z:3 WSJ:2 S:7 M:3.0 RGEN Repligen Corporation: 10.69%, 1
+65.91 Y:2.10 Z:4 WSJ:2 S:7 M:3.0 AAXN Axon Enterprise, Inc: 35.43%, 1
+65.9 Y:2.60 Z:4 WSJ:2 S:5 M:3.0 GNTX Gentex Corporation: 22.09%, 1
+65.87 Y:2.30 Z:3 WSJ:2 S:1 M:2.3 MAR Marriott Internation: 2.74%, 2
+65.87 Y:2.50 Z:2 WSJ:2 S:7 M:6 PRTY Party City Holdco In: 19.33%, 2
+65.81 Y:1.90 Z:4 WSJ:2 S:5 M:6 BKH Black Hills Corporat: 5.73%, 1
+65.79 Y:2.00 Z:3 WSJ:2 S:10 M:6 WBT Welbilt, Inc.: 13.93%, 1
+65.74 Y:2.30 Z:3 WSJ:2 S:9 M:6 GDDY GoDaddy Inc.: 7.01%, 1
+65.72 Y:2.60 Z:1 WSJ:2 S:7 M:6 MTOR Meritor, Inc.: -6.4%, 2
+65.71 Y:2.40 Z:3 WSJ:2 S:2 M:2.2 NDSN Nordson Corporation: 5.94%, 2
+65.7 Y:2.60 Z:3 WSJ:6 S:10 M:1.5999999999999996 LILA Liberty Global plc: 3.51%, 1
+65.69 Y:2.30 Z:2 WSJ:3 S:6 M:3.5 IDXX IDEXX Laboratories, : 14.99%, 1
+65.69 Y:2.10 Z:3 WSJ:2 S:11 M:6 BOX Box, Inc.: 20.13%, 1
+65.68 Y:1.80 Z:5 WSJ:2 S:5 M:6 EXP Eagle Materials Inc: 30.08%, 1
+65.67 Y:3.00 Z:1 WSJ:3 S:7 M:6 TFSL TFS Financial Corpor: 18.35%, 2
+65.62 Y:2.50 Z:3 WSJ:2 S:1 M:6 JPM J P Morgan Chase & C: 3.11%, 2
+65.58 Y:2.20 Z:4 WSJ:2 S:9 M:6 SHLX Shell Midstream Part: 31.24%, 1
+65.57 Y:2.40 Z:3 WSJ:2 S:8 M:6 PAA Plains All American : 49.5%, 2
+65.51 Y:2.70 Z:2 WSJ:2 S:4 M:3.0 PNFP Pinnacle Financial P: 13.06%, 2
+65.5 Y:2.50 Z:2 WSJ:2 S:5 M:6 UGI UGI Corporation: 4.17%, 2
+65.48 Y:2.00 Z:4 WSJ:2 S:11 M:6 NFX Newfield Exploration: 44.05%, 1
+65.45 Y:2.50 Z:3 WSJ:2 S:1 M:6 PKG Packaging Corporatio: 2.26%, 2
+65.43 Y:2.50 Z:3 WSJ:2 S:8 M:6 AKS AK Steel Holding Cor: 48.84%, 2
+65.42 Y:2.20 Z:3 WSJ:2 S:11 M:6 PSTG Pure Storage, Inc. : 18.76%, 1
+65.37 Y:2.60 Z:2 WSJ:3 S:1 M:6 PFG Principal Financial : 1.87%, 2
+65.35 Y:2.10 Z:3 WSJ:2 S:10 M:6 FBR Fibria Celulose S.A.: 11.77%, 1
+65.33 Y:2.10 Z:5 WSJ:2 S:4 M:6 ZBH Zimmer Biomet Holdin: 21.65%, 1
+65.32 Y:2.50 Z:4 WSJ:2 S:8 M:1.7000000000000002 NWSA News Corporation: 6.08%, 1
+65.32 Y:2.60 Z:3 WSJ:3 S:5 M:6 IRM Iron Mountain Incorp: 3.29%, 1
+65.28 Y:2.00 Z:5 WSJ:2 S:7 M:2.0 COMM CommScope Holding Co: 31.66%, 1
+65.28 Y:2.50 Z:2 WSJ:2 S:7 M:2.2 GILD Gilead Sciences, Inc: 11.7%, 2
+65.28 Y:2.80 Z:2 WSJ:2 S:8 M:6 CM Canadian Imperial Ba: 23.07%, 2
+65.28 Y:2.20 Z:2 WSJ:2 S:5 M:6 NMFC New Mountain Finance: 3.09%, 2
+65.27 Y:2.10 Z:3 WSJ:2 S:8 M:2.7 SBAC SBA Communications C: 5.77%, 1
+65.25 Y:2.60 Z:3 WSJ:2 S:3 M:6 DRI Darden Restaurants, : 14.56%, 2
+65.19 Y:3.00 Z:1 WSJ:3 S:2 M:3.0 NAVG The Navigators Group: -2.22%, 2
+65.15 Y:2.10 Z:4 WSJ:2 S:7 M:6 CIGI Colliers Internation: 15.73%, 1
+65.1 Y:2.80 Z:2 WSJ:2 S:5 M:6 GATX GATX Corporation: 2.15%, 2
+65.1 Y:2.30 Z:3 WSJ:2 S:2 M:6 WSO Watsco, Inc.: 7.16%, 2
+65.03 Y:1.80 Z:4 WSJ:1 S:11 M:6 TDOC Teladoc, Inc.: 16.82%, 1
+64.97 Y:2.50 Z:4 WSJ:2 S:5 M:6 NOAH Noah Holdings Ltd.: 1.51%, 1
+64.96 Y:2.30 Z:3 WSJ:2 S:4 M:6 TSE Trinseo S.A.: 19.8%, 2
+64.94 Y:2.40 Z:3 WSJ:2 S:2 M:6 RSG Republic Services, I: 6.35%, 2
+64.82 Y:3.00 Z:1 WSJ:3 S:8 M:6 CVI CVR Energy Inc.: 20.76%, 2
+64.81 Y:2.30 Z:3 WSJ:2 S:3 M:6 MDP Meredith Corporation: 12.36%, 2
+64.8 Y:1.70 Z:4 WSJ:2 S:8 M:6 GMS GMS Inc.: 20.66%, 1
+64.77 Y:2.30 Z:2 WSJ:2 S:4 M:6 LNT Alliant Energy Corpo: -6.16%, 2
+64.75 Y:2.00 Z:4 WSJ:2 S:11 M:1.7000000000000002 SPLK Splunk Inc.: 22.68%, 1
+64.75 Y:2.60 Z:3 WSJ:2 S:2 M:6 JNJ Johnson & Johnson: 5.4%, 2
+64.74 Y:2.30 Z:3 WSJ:2 S:11 M:2.0 JUNO Juno Therapeutics, I: 5.08%, 1
+64.74 Y:2.60 Z:2 WSJ:2 S:5 M:6 CAE CAE Inc: 0.38%, 2
+64.72 Y:2.60 Z:3 WSJ:2 S:8 M:2.6 VIAB Viacom Inc.: 50.6%, 2
+64.71 Y:2.10 Z:2 WSJ:2 S:6 M:6 REG Regency Centers Corp: 6.89%, 2
+64.64 Y:3.20 Z:2 WSJ:3 S:1 M:6 CBSH Commerce Bancshares,: -1.79%, 2
+64.64 Y:2.60 Z:2 WSJ:2 S:6 M:6 TD Toronto Dominion Ban: 6.53%, 2
+64.62 Y:2.10 Z:3 WSJ:2 S:3 M:2.3 HSIC Henry Schein, Inc.: 8.57%, 2
+64.56 Y:2.60 Z:2 WSJ:2 S:5 M:6 AEL American Equity Inve: -0.54%, 2
+64.52 Y:2.30 Z:3 WSJ:2 S:5 M:2.0 HBAN Huntington Bancshare: 13.81%, 2
+64.48 Y:2.70 Z:3 WSJ:2 S:3 M:6 DPS Dr Pepper Snapple Gr: 10.73%, 2
+64.45 Y:3.00 Z:1 WSJ:3 S:7 M:2.9 DISCB Discovery Communicat: 24.2%, 2
+64.39 Y:2.80 Z:2 WSJ:3 S:2 M:2.3 WOOF VCA Inc. : 0.49%, 2
+64.38 Y:2.40 Z:4 WSJ:2 S:8 M:6 CCJ Cameco Corporation: 18.58%, 1
+64.37 Y:3.00 Z:1 WSJ:3 S:4 M:6 ESGR Enstar Group Limited: -8.17%, 2
+64.35 Y:3.00 Z:1 WSJ:3 S:5 M:6 WOR Worthington Industri: -1.57%, 2
+64.34 Y:2.40 Z:2 WSJ:2 S:5 M:6 DCT DCT Industrial Trust: -1.62%, 2
+64.32 Y:2.10 Z:2 WSJ:2 S:7 M:6 AAT American Assets Trus: 11.62%, 2
+64.31 Y:2.50 Z:3 WSJ:2 S:1 M:2.7 ODFL Old Dominion Freight: 3.35%, 2
+64.18 Y:1.80 Z:4 WSJ:2 S:8 M:2.5 PINC Premier, Inc.: 19.23%, 1
+64.15 Y:2.30 Z:3 WSJ:2 S:3 M:6 NP Neenah Paper, Inc.: 9.09%, 2
+64.11 Y:2.70 Z:2 WSJ:3 S:2 M:6 BK Bank Of New York Mel: 2.21%, 2
+64.1 Y:2.20 Z:3 WSJ:2 S:1 M:6 XYL Xylem Inc.: -4.52%, 2
+64.05 Y:2.30 Z:3 WSJ:2 S:4 M:2.3 CR Crane Company: 11.79%, 2
+64.04 Y:2.40 Z:3 WSJ:2 S:3 M:2.0 CBOE CBOE Holdings, Inc.: -2.4%, 2
+64.01 Y:3.00 Z:1 WSJ:3 S:5 M:6 AIN Albany International: -3.29%, 2
+63.96 Y:2.30 Z:4 WSJ:2 S:5 M:1.0 HOPE Hope Bancorp, Inc.: 10.4%, 2
+63.94 Y:2.20 Z:3 WSJ:2 S:4 M:2.2 JBHT J.B. Hunt Transport : 8.61%, 2
+63.93 Y:1.70 Z:5 WSJ:1 S:8 M:6 CNQ Canadian Natural Res: 16.33%, 1
+63.93 Y:2.40 Z:3 WSJ:2 S:4 M:6 RPM RPM International In: 14.64%, 2
+63.91 Y:2.00 Z:5 WSJ:2 S:5 M:6 BANC Banc of California, : 21.21%, 1
+63.88 Y: Z:3 WSJ:2 S:3 M:6 LEN Lennar Corporation: 7.71%, 2
+63.87 Y:2.60 Z:3 WSJ:2 S:4 M:6 SAIC SCIENCE APPLICATIONS: 14.35%, 2
+63.84 Y:2.40 Z:3 WSJ:2 S:3 M:6 STI SunTrust Banks, Inc.: 7.55%, 2
+63.83 Y:2.10 Z:3 WSJ:2 S:6 M:3.3 EXEL Exelixis, Inc.: -1.17%, 1
+63.83 Y:2.50 Z:3 WSJ:2 S:2 M:3.0 HBHC Hancock Holding Comp: 14.66%, 2
+63.81 Y:2.30 Z:2 WSJ:2 S:7 M:6 CHE Chemed Corp.: 9.07%, 2
+63.8 Y:2.40 Z:3 WSJ:2 S:2 M:6 ABBV AbbVie Inc.: 0.69%, 2
+63.79 Y:2.60 Z:3 WSJ:2 S:3 M:2.5 TXRH Texas Roadhouse, Inc: 8.6%, 2
+63.79 Y:3.40 Z:2 WSJ:3 S:2 M:6 AVA Avista Corporation: 0.63%, 2
+63.78 Y:2.70 Z:3 WSJ:2 S:3 M:6 VLY Valley National Banc: 7.25%, 2
+63.76 Y:2.30 Z:3 WSJ:2 S:4 M:2.0 NICE NICE Ltd: 2.55%, 2
+63.74 Y:3.20 Z:2 WSJ:3 S:1 M:6 FFIN First Financial Bank: -6.29%, 2
+63.73 Y:2.60 Z:4 WSJ:2 S:9 M:6 BRFS BRF S.A.: 21.99%, 1
+63.71 Y:2.10 Z:3 WSJ:2 S:11 M:2.5 BLUE bluebird bio, Inc.: 11.4%, 1
+63.71 Y:2.80 Z:2 WSJ:3 S:2 M:6 BR Broadridge Financial: 0.2%, 2
+63.7 Y:2.40 Z:3 WSJ:2 S:3 M:2.4 CHKP Check Point Software: 5.52%, 2
+63.63 Y:2.50 Z:4 WSJ:2 S:11 M:6 CSOD Cornerstone OnDemand: 34.82%, 1
+63.6 Y:2.80 Z:1 WSJ:3 S:5 M:6 DAN Dana Incorporated: -5.31%, 2
+63.59 Y:2.60 Z:2 WSJ:2 S:8 M:6 TDS Telephone and Data S: 14.62%, 2
+63.58 Y:2.60 Z:3 WSJ:2 S:5 M:6 MSM MSC Industrial Direc: 19.56%, 2
+63.56 Y:3.00 Z:2 WSJ:3 S:4 M:6 SBSI Southside Bancshares: 12.79%, 2
+63.55 Y:2.60 Z:3 WSJ:2 S:6 M:2.0 DIOD Diodes Incorporated: 14.62%, 2
+63.55 Y:2.50 Z:2 WSJ:2 S:6 M:6 CCE Coca-Cola European P: 1.08%, 2
+63.55 Y:2.10 Z:4 WSJ:2 S:7 M:6 STWD STARWOOD PROPERTY TR: 7.77%, 1
+63.54 Y:1.80 Z:3 WSJ:2 S:5 M:6 MSA MSA Safety Incorporp: 19.36%, 2
+63.51 Y:2.40 Z:3 WSJ:2 S:5 M:2.1 CERN Cerner Corporation: 10.21%, 2
+63.51 Y:2.30 Z:5 WSJ:2 S:5 M:2.5 MEOH Methanex Corporation: 20.25%, 1
+63.5 Y:2.00 Z:5 WSJ:2 S:6 M:1.7999999999999998 ORLY O&#39;Reilly Automot: 9.32%, 1
+63.49 Y:2.40 Z:3 WSJ:2 S:3 M:6 EIX Edison International: 5.78%, 2
+63.48 Y:2.20 Z:3 WSJ:2 S:8 M:2.0 RMR The RMR Group Inc.: 27.52%, 2
+63.47 Y:2.50 Z:3 WSJ:2 S:3 M:6 STM STMicroelectronics N: 5.69%, 2
+63.43 Y:3.00 Z:1 WSJ:3 S:6 M:6 TARO Taro Pharmaceutical : 0.46%, 2
+63.41 Y:2.10 Z:4 WSJ:2 S:8 M:6 MTDR Matador Resources Co: 13.73%, 1
+63.4 Y:2.10 Z:3 WSJ:2 S:8 M:2.7 JD JD.com, Inc.: -5.42%, 1
+63.39 Y:2.80 Z:2 WSJ:3 S:1 M:3.0 SRCE 1st Source Corporati: 5.34%, 2
+63.33 Y:2.10 Z:3 WSJ:2 S:11 M:2.0 XLRN Acceleron Pharma Inc: -3.33%, 1
+63.33 Y:2.60 Z:2 WSJ:3 S:2 M:6 BMI Badger Meter, Inc.: -1.68%, 2
+63.28 Y:2.60 Z:3 WSJ:2 S:3 M:6 PHM PulteGroup, Inc.: 4.74%, 2
+63.25 Y:2.50 Z:1 WSJ:2 S:5 M:6 JOBS 51job, Inc.: -32.07%, 2
+63.25 Y:1.90 Z:5 WSJ:1 S:10 M:6 KOS Kosmos Energy Ltd.: 26.23%, 1
+63.24 Y:2.50 Z:3 WSJ:2 S:6 M:6 ABX Barrick Gold Corpora: 24.53%, 2
+63.24 Y:2.40 Z:3 WSJ:2 S:5 M:6 EPR EPR Properties: 17.86%, 2
+63.21 Y:2.50 Z:3 WSJ:2 S:3 M:6 HXL Hexcel Corporation: 4.4%, 2
+63.21 Y:3.00 Z:1 WSJ:3 S:6 M:6 KRA Kraton Corporation: -0.6%, 2
+63.2 Y:2.50 Z:2 WSJ:2 S:6 M:2.3 LULU lululemon athletica : -4.96%, 2
+63.19 Y:2.00 Z:3 WSJ:2 S:11 M:6 NEWR New Relic, Inc.: 7.6%, 1
+63.17 Y:2.50 Z:3 WSJ:2 S:4 M:6 PFE Pfizer, Inc.: 10.84%, 2
+63.14 Y:3.00 Z:2 WSJ:3 S:4 M:6 MANT ManTech Internationa: 10.72%, 2
+63.14 Y:3.00 Z:2 WSJ:3 S:4 M:6 TRMK Trustmark Corporatio: 10.72%, 2
+63.14 Y:2.30 Z:3 WSJ:2 S:9 M:6 SQ Square, Inc.: -5.99%, 1
+63.13 Y:2.50 Z:3 WSJ:2 S:17 M:1.0 MEDP Medpace Holdings, In: -9.34%, 2
+63.12 Y:2.50 Z:3 WSJ:2 S:6 M:1.9000000000000004 WYNN Wynn Resorts, Limite: 9.58%, 2
+63.11 Y:2.10 Z:5 WSJ:2 S:9 M:6 DBD Diebold Nixdorf Inco: 43.88%, 1
+63.1 Y:2.30 Z:3 WSJ:2 S:8 M:1.0 GIII G-III Apparel Group,: 0.26%, 2
+63.1 Y:2.40 Z:3 WSJ:2 S:3 M:6 AVB AvalonBay Communitie: 3.85%, 2
+63.09 Y:2.50 Z:2 WSJ:2 S:6 M:6 TSU TIM Participacoes S.: -1.2%, 2
+63.06 Y:2.30 Z:3 WSJ:2 S:8 M:3.0 CATM Cardtronics plc: 69.05%, 2
+63.06 Y:2.40 Z:3 WSJ:2 S:8 M:5.0 EFII Electronics for Imag: 75.61%, 1
+63.05 Y: Z:2 WSJ:3 S:3 M:6 CMI Cummins Inc.: 3.6%, 2
+63.05 Y:2.50 Z:3 WSJ:2 S:4 M:6 HUBB Hubbell Inc: 10.26%, 2
+63.04 Y:2.20 Z:4 WSJ:2 S:5 M:6 GLOB Globant S.A.: -8.13%, 1
+63.04 Y:2.40 Z:4 WSJ:2 S:2 M:6 LEG Leggett & Platt, Inc: 21.85%, 2
+63.0 Y:3.00 Z:4 WSJ:2 S:8 M:6 BT BT Group plc: 11.67%, 1
+63.0 Y:2.60 Z:3 WSJ:2 S:10 M:6 FET Forum Energy Technol: 50.79%, 2
+63.0 Y:2.30 Z:3 WSJ:2 S:10 M:6 DNOW NOW Inc.: 68.0%, 2
+63.0 Y:2.30 Z:3 WSJ:2 S:10 M:6 PAGP Plains Group Holding: 52.37%, 2
+63.0 Y:2.60 Z:2 WSJ:3 S:3 M:6 RBC Regal Beloit Corpora: 3.34%, 2
+63.0 Y:2.50 Z:3 WSJ:2 S:10 M:6 THC Tenet Healthcare Cor: 66.97%, 2
+62.99 Y: Z:5 WSJ:2 S:5 M:6 TAP Molson Coors Brewing: 16.61%, 1
+62.97 Y:2.50 Z:3 WSJ:2 S:3 M:6 PRU Prudential Financial: 3.16%, 2
+62.96 Y:1.90 Z:3 WSJ:2 S:8 M:3.0 BSFT BroadSoft, Inc.: -0.56%, 1
+62.96 Y:2.30 Z:3 WSJ:2 S:3 M:6 ITW Illinois Tool Works : 3.15%, 2
+62.96 Y:2.00 Z:4 WSJ:2 S:8 M:6 ITGR Integer Holdings Cor: 11.48%, 1
+62.96 Y:2.00 Z:3 WSJ:2 S:4 M:6 PX Praxair, Inc.: 9.8%, 2
+62.96 Y:2.40 Z:2 WSJ:2 S:5 M:6 SPR Spirit Aerosystems H: -8.52%, 2
+62.91 Y:2.60 Z:3 WSJ:2 S:3 M:2.3 CDNS Cadence Design Syste: -1.69%, 2
+62.89 Y:2.00 Z:5 WSJ:1 S:8 M:6 MANU Manchester United Lt: 11.11%, 1
+62.88 Y:2.30 Z:4 WSJ:2 S:4 M:3.0 JJSF J & J Snack Foods Co: -2.72%, 1
+62.87 Y:2.70 Z:3 WSJ:2 S:5 M:6 CRS Carpenter Technology: 16.04%, 2
+62.87 Y:2.50 Z:1 WSJ:3 S:8 M:6 VCO Vina Concha Y Toro: 11.0%, 2
+62.84 Y:2.00 Z:3 WSJ:2 S:10 M:6 SHOP Shopify Inc.: -0.78%, 1
+62.83 Y:2.10 Z:4 WSJ:2 S:7 M:6 BXMT Capital Trust, Inc.: 4.17%, 1
+62.82 Y:2.20 Z:4 WSJ:2 S:17 M:3.0 BOBE Bob Evans Farms, Inc: 14.09%, 1
+62.82 Y:2.50 Z:3 WSJ:2 S:3 M:6 PG Procter & Gamble Com: 2.42%, 2
+62.78 Y:2.60 Z:3 WSJ:2 S:3 M:6 GLW Corning Incorporated: 2.25%, 2
+62.77 Y:2.60 Z:3 WSJ:2 S:5 M:6 URI United Rentals, Inc.: 15.54%, 2
+62.75 Y:2.30 Z:3 WSJ:2 S:2 M:3.0 OTTR Otter Tail Corporati: 8.14%, 2
+62.74 Y:2.00 Z:3 WSJ:2 S:9 M:6 BITA Bitauto Holdings Lim: -7.99%, 1
+62.73 Y:2.30 Z:3 WSJ:2 S:3 M:6 DTE DTE Energy Company: 1.97%, 2
+62.72 Y:3.00 Z:2 WSJ:3 S:3 M:6 AVX AVX Corporation: 1.93%, 2
+62.71 Y:4.00 Z:3 WSJ:6 S:9 M:2.0 BATRK Liberty Media Corpor: -8.13%, 1
+62.65 Y:3.00 Z:1 WSJ:3 S:5 M:6 COKE Coca-Cola Bottling C: -10.06%, 2
+62.65 Y:2.80 Z:3 WSJ:3 S:8 M:6 PGRE Paramount Group, Inc: 9.92%, 1
+62.65 Y:2.50 Z:3 WSJ:2 S:4 M:6 UTX United Technologies : 8.26%, 2
+62.59 Y:2.50 Z:3 WSJ:2 S:5 M:6 BAH Booz Allen Hamilton : 14.6%, 2
+62.59 Y:2.60 Z:3 WSJ:2 S:3 M:6 THG The Hanover Insuranc: 1.29%, 2
+62.58 Y:2.20 Z:3 WSJ:2 S:5 M:6 VMW Vmware, Inc.: 14.55%, 2
+62.56 Y:2.20 Z:3 WSJ:2 S:6 M:2.0 SFM Sprouts Farmers Mark: 8.7%, 2
+62.53 Y:2.60 Z:3 WSJ:2 S:5 M:6 WFC Wells Fargo & Compan: 14.31%, 2
+62.52 Y:3.00 Z:3 WSJ:3 S:2 M:2.0 CBRL Cracker Barrel Old C: 6.79%, 2
+62.5 Y:2.40 Z:5 WSJ:2 S:5 M:6 ELLI Ellie Mae, Inc.: 14.16%, 1
+62.49 Y:2.60 Z:2 WSJ:3 S:3 M:6 IFF Internationa Flavors: 0.8%, 2
+62.49 Y:2.30 Z:5 WSJ:2 S:6 M:6 WAB Westinghouse Air Bra: 20.76%, 1
+62.48 Y:2.70 Z:3 WSJ:3 S:5 M:1.0 GBDC Golub Capital BDC, I: 1.56%, 2
+62.47 Y:3.00 Z:2 WSJ:3 S:3 M:6 IDA IDACORP, Inc.: 0.69%, 2
+62.44 Y:2.40 Z:3 WSJ:2 S:5 M:3.0 IDCC InterDigital, Inc.: 26.32%, 2
+62.43 Y:3.30 Z:2 WSJ:3 S:2 M:6 MAIN Main Street Capital : -6.17%, 2
+62.43 Y:2.20 Z:3 WSJ:2 S:11 M:6 NYLD NRG Yield, Inc.: 3.83%, 1
+62.4 Y:3.00 Z:2 WSJ:3 S:4 M:6 WDFC WD-40 Company: 6.99%, 2
+62.4 Y:2.60 Z:5 WSJ:2 S:7 M:6 RGC Regal Entertainment : 27.0%, 1
+62.39 Y:2.60 Z:3 WSJ:2 S:3 M:2.8 MXIM Maxim Integrated Pro: 7.65%, 2
+62.38 Y:2.50 Z:3 WSJ:2 S:5 M:6 BAX Baxter International: 13.56%, 2
+62.37 Y:2.60 Z:4 WSJ:2 S:5 M:6 BGS B&G Foods, Inc.: 38.54%, 2
+62.37 Y:2.50 Z:3 WSJ:3 S:17 M:3.0 E ENI S.p.A.: 11.83%, 1
+62.34 Y:2.50 Z:3 WSJ:2 S:5 M:6 FHN First Horizon Nation: 13.38%, 2
+62.3 Y:2.20 Z:3 WSJ:2 S:5 M:6 NNN National Retail Prop: 13.16%, 2
+62.25 Y:2.00 Z:3 WSJ:2 S:6 M:6 ATGE Adtalem Global Educa: 19.58%, 2
+62.22 Y:2.50 Z:3 WSJ:3 S:9 M:6 SHAK Shake Shack, Inc.: 14.44%, 1
+62.19 Y:2.60 Z:3 WSJ:2 S:5 M:6 GM General Motors Compa: 12.63%, 2
+62.15 Y:2.00 Z:4 WSJ:2 S:11 M:1.7000000000000002 ADSK Autodesk, Inc.: 7.08%, 1
+62.15 Y:2.40 Z:3 WSJ:2 S:5 M:2.0 CTRE CareTrust REIT, Inc.: -0.44%, 2
+62.14 Y:2.10 Z:3 WSJ:2 S:3 M:2.7 DOX Amdocs Limited: 3.67%, 2
+62.11 Y:2.60 Z:2 WSJ:3 S:7 M:1.7000000000000002 PRIM Primoris Services Co: 5.16%, 2
+62.07 Y:2.30 Z:3 WSJ:2 S:7 M:1.7000000000000002 ABCO The Advisory Board C: 4.9%, 2
+62.05 Y:2.00 Z:3 WSJ:2 S:11 M:6 CS Credit Suisse Group: 1.91%, 1
+62.04 Y:2.30 Z:3 WSJ:2 S:3 M:6 ES Eversource Energy: -1.45%, 2
+62.03 Y:2.50 Z:3 WSJ:2 S:7 M:6 KMT Kennametal Inc.: 25.17%, 2
+61.99 Y:2.50 Z:3 WSJ:2 S:4 M:3.0 HTLF Heartland Financial : 16.94%, 2
+61.97 Y:2.00 Z:3 WSJ:2 S:9 M:6 IRS IRSA Inversiones Y R: -11.81%, 1
+61.92 Y:1.00 Z:3 WSJ:2 S:5 M:6 TEF Telefonica SA: 11.25%, 2
+61.87 Y:2.60 Z:3 WSJ:2 S:6 M:6 MMP Magellan Midstream P: 17.69%, 2
+61.8 Y:1.00 Z:3 WSJ:2 S:4 M:6 PHG Koninklijke Philips : 4.0%, 2
+61.79 Y:2.50 Z:3 WSJ:2 S:5 M:2.6 AAL American Airlines Gr: 12.43%, 2
+61.75 Y:2.50 Z:2 WSJ:3 S:3 M:6 MTD Mettler-Toledo Inter: -2.91%, 2
+61.74 Y:2.50 Z:3 WSJ:2 S:5 M:6 HRL Hormel Foods Corpora: 10.35%, 2
+61.72 Y:2.40 Z:3 WSJ:2 S:5 M:6 CUBE CubeSmart: 10.25%, 2
+61.72 Y:3.00 Z:2 WSJ:3 S:3 M:6 UNM Unum Group: -3.05%, 2
+61.71 Y:2.50 Z:3 WSJ:2 S:9 M:6 SEMG Semgroup Corporation: 36.87%, 2
+61.69 Y:2.40 Z:2 WSJ:3 S:6 M:6 HLF Herbalife LTD.: 16.79%, 2
+61.67 Y:2.50 Z:5 WSJ:2 S:11 M:6 CBI Chicago Bridge & Iro: 60.28%, 1
+61.67 Y:2.30 Z:3 WSJ:2 S:11 M:6 SM SM Energy Company: 56.46%, 2
+61.66 Y:2.80 Z:2 WSJ:2 S:7 M:6 RY Royal Bank Of Canada: -1.68%, 2
+61.64 Y:2.60 Z:1 WSJ:2 S:8 M:3.0 LIVN LivaNova PLC: -8.48%, 2
+61.64 Y:2.40 Z:3 WSJ:2 S:8 M:1.7999999999999998 ZG Zillow Group, Inc.: 11.52%, 2
+61.64 Y:2.70 Z:2 WSJ:3 S:5 M:6 DRH Diamondrock Hospital: 9.89%, 2
+61.62 Y:2.60 Z:3 WSJ:2 S:5 M:6 JNPR Juniper Networks, In: 9.77%, 2
+61.62 Y:3.00 Z:4 WSJ:3 S:4 M:6 RMD ResMed Inc.: 3.08%, 1
+61.59 Y:2.30 Z:4 WSJ:2 S:3 M:2.0 WWD Woodward, Inc.: 7.88%, 2
+61.59 Y:2.80 Z:2 WSJ:3 S:5 M:6 FCF First Commonwealth F: 9.63%, 2
+61.59 Y:2.50 Z:3 WSJ:2 S:7 M:6 TGNA TEGNA Inc.: 22.94%, 2
+61.57 Y:3.00 Z:1 WSJ:2 S:17 M:6 GSH Guangshen Railway Co: 44.42%, 1
+61.56 Y:2.30 Z:3 WSJ:2 S:5 M:2.7 MIDD The Middleby Corpora: 13.5%, 2
+61.56 Y:1.90 Z:4 WSJ:2 S:9 M:6 CVA Covanta Holding Corp: 11.11%, 1
+61.54 Y:2.40 Z:4 WSJ:2 S:4 M:2.0 SSB South State Corporat: 14.25%, 2
+61.52 Y:2.60 Z:3 WSJ:2 S:9 M:6 GG Goldcorp Inc.: 35.93%, 2
+61.5 Y:2.70 Z:3 WSJ:2 S:7 M:2.3 DISH DISH Network Corpora: 16.53%, 2
+61.5 Y:2.70 Z:3 WSJ:2 S:5 M:2.3 GLPI Gaming and Leisure P: 3.17%, 2
+61.5 Y:2.50 Z:3 WSJ:2 S:4 M:3.2 KLAC KLA-Tencor Corporati: 18.98%, 2
+61.5 Y:2.30 Z:3 WSJ:2 S:5 M:6 TIF Tiffany & Co.: 9.15%, 2
+61.48 Y:2.50 Z:3 WSJ:3 S:5 M:2.0 HA Hawaiian Holdings, I: 20.57%, 2
+61.48 Y:1.70 Z:3 WSJ:2 S:4 M:3.0 NATI National Instruments: 13.86%, 2
+61.48 Y:2.70 Z:3 WSJ:2 S:5 M:6 AWI Armstrong World Indu: 9.09%, 2
+61.46 Y:2.00 Z:5 WSJ:2 S:8 M:6 DM Dominion Energy Mids: 28.97%, 1
+61.44 Y:1.50 Z:1 WSJ:1 S:17 M:6 ALEX Alexander & Baldwin : 18.66%, 1
+61.41 Y:2.50 Z:3 WSJ:2 S:5 M:2.6 TCBI Texas Capital Bancsh: 10.11%, 2
+61.41 Y:2.80 Z:3 WSJ:3 S:5 M:1.2999999999999998 RF Regions Financial Co: 2.6%, 2
+61.41 Y:2.80 Z:2 WSJ:3 S:4 M:6 ROL Rollins, Inc.: 2.04%, 2
+61.37 Y:2.80 Z:3 WSJ:2 S:3 M:3.0 VR Validus Holdings, Lt: 6.58%, 2
+61.35 Y:2.00 Z:3 WSJ:6 S:8 M:3.0 LSXMK Liberty Media Corpor: 3.42%, 1
+61.35 Y:2.30 Z:4 WSJ:2 S:8 M:6 DXC DXC Technology Compa: 3.44%, 1
+61.35 Y:1.50 Z:4 WSJ:2 S:8 M:6 GPT Gramercy Property Tr: 3.41%, 1
+61.34 Y:2.20 Z:3 WSJ:2 S:3 M:6 FICO Fair Isaac Corporati: -4.95%, 2
+61.34 Y:3.30 Z:1 WSJ:3 S:5 M:6 MCY Mercury General Corp: -16.64%, 2
+61.32 Y:2.60 Z:3 WSJ:2 S:5 M:6 OKE ONEOK, Inc.: 8.28%, 2
+61.31 Y:2.00 Z:3 WSJ:2 S:6 M:6 HMC Honda Motor Company,: 14.87%, 2
+61.29 Y:3.00 Z:2 WSJ:3 S:7 M:2.9 DISCK Discovery Communicat: 30.22%, 2
+61.29 Y:3.50 Z:3 WSJ:3 S:10 M:6 HNP Huaneng Power Intern: 16.46%, 1
+61.23 Y:2.40 Z:3 WSJ:2 S:5 M:6 EVR Evercore Partners In: 7.81%, 2
+61.22 Y:2.50 Z:3 WSJ:2 S:7 M:6 ABC AmerisourceBergen Co: 21.12%, 2
+61.21 Y:2.50 Z:2 WSJ:3 S:4 M:6 PPL PPL Corporation: 1.05%, 2
+61.21 Y:2.90 Z:2 WSJ:3 S:3 M:6 RGA Reinsurance Group of: -5.63%, 2
+61.19 Y:2.40 Z:3 WSJ:2 S:5 M:6 FR First Industrial Rea: 7.64%, 2
+61.18 Y:3.20 Z:3 WSJ:3 S:1 M:6 BOH Bank of Hawaii Corpo: 5.92%, 2
+61.16 Y:1.40 Z:4 WSJ:2 S:10 M:6 HBM Hudbay Minerals Inc.: 15.81%, 1
+61.15 Y:3.00 Z:3 WSJ:3 S:2 M:6 ASB Associated Banc-Corp: 12.43%, 2
+61.12 Y:2.60 Z:2 WSJ:3 S:4 M:6 LPT Liberty Property Tru: 0.61%, 2
+61.11 Y:2.50 Z:3 WSJ:2 S:8 M:3.7 HIMX Himax Technologies, : 5.82%, 1
+61.11 Y:2.60 Z:3 WSJ:2 S:5 M:6 T AT&T Inc.: 7.2%, 2
+61.09 Y:2.50 Z:3 WSJ:2 S:5 M:3.0 LANC Lancaster Colony Cor: 18.2%, 2
+61.05 Y:2.50 Z:3 WSJ:2 S:8 M:2.0 QRVO Qorvo, Inc.: 12.96%, 2
+61.05 Y:2.50 Z:3 WSJ:2 S:8 M:6 CHS Chico&#39;s FAS, Inc: 26.93%, 2
+61.05 Y:2.70 Z:3 WSJ:3 S:1 M:6 TWX Time Warner Inc.: 5.25%, 2
+61.03 Y:2.30 Z:3 WSJ:2 S:8 M:1.7000000000000002 EPAY Bottomline Technolog: 5.37%, 2
+60.96 Y:2.30 Z:3 WSJ:2 S:4 M:3.0 TECD Tech Data Corporatio: 10.78%, 2
+60.96 Y:2.40 Z:3 WSJ:2 S:5 M:6 Q Quintiles IMS Holdin: 6.48%, 2
+60.93 Y:3.30 Z:1 WSJ:4 S:5 M:6 STC Stewart Information : 6.3%, 2
+60.89 Y:2.60 Z:3 WSJ:2 S:17 M:2.3 FHB First Hawaiian, Inc.: 11.95%, 2
+60.87 Y:2.60 Z:3 WSJ:2 S:7 M:2.0 EBAY eBay Inc.: 5.23%, 2
+60.87 Y:2.30 Z:3 WSJ:2 S:5 M:6 NVS Novartis AG: 6.03%, 2
+60.82 Y:2.70 Z:3 WSJ:3 S:5 M:6 CLS Celestica, Inc.: 30.78%, 2
+60.81 Y:3.50 Z:2 WSJ:3 S:3 M:6 PSB PS Business Parks, I: -7.63%, 2
+60.8 Y:3.00 Z:1 WSJ:3 S:9 M:6 CMO Capstead Mortgage Co: 7.31%, 2
+60.8 Y:3.00 Z:1 WSJ:3 S:7 M:6 HRB H&R Block, Inc.: -6.0%, 2
+60.8 Y:2.40 Z:3 WSJ:2 S:5 M:6 HIW Highwoods Properties: 5.68%, 2
+60.79 Y:1.80 Z:5 WSJ:2 S:5 M:3.0 POWI Power Integrations, : 16.39%, 1
+60.79 Y:2.30 Z:3 WSJ:2 S:4 M:6 PNC PNC Financial Servic: -1.06%, 2
+60.77 Y:3.10 Z:2 WSJ:3 S:5 M:2.3 BRKR Bruker Corporation: -1.24%, 2
+60.74 Y:2.40 Z:3 WSJ:2 S:6 M:6 CFG Citizens Financial G: 12.05%, 2
+60.71 Y:2.70 Z:2 WSJ:3 S:5 M:6 OI Owens-Illinois, Inc.: 5.22%, 2
+60.7 Y:2.50 Z:3 WSJ:2 S:7 M:2.4 QCOM QUALCOMM Incorporate: 14.19%, 2
+60.68 Y:3.00 Z:1 WSJ:3 S:4 M:3.0 SAFT Safety Insurance Gro: -15.91%, 2
+60.68 Y:2.80 Z:3 WSJ:3 S:2 M:6 LZB La-Z-Boy Incorporate: 10.09%, 2
+60.67 Y:2.40 Z:3 WSJ:2 S:5 M:6 DRE Duke Realty Corporat: 5.02%, 2
+60.66 Y:2.50 Z:3 WSJ:2 S:5 M:6 DLR Digital Realty Trust: 4.96%, 2
+60.66 Y:2.40 Z:3 WSJ:2 S:6 M:6 WEX WEX Inc.: 11.64%, 2
+60.64 Y:2.50 Z:2 WSJ:3 S:4 M:6 MSCI MSCI Inc: -1.79%, 2
+60.64 Y:2.20 Z:5 WSJ:2 S:8 M:6 WCC WESCO International,: 24.88%, 1
+60.63 Y:2.00 Z:3 WSJ:2 S:7 M:6 GSK GlaxoSmithKline PLC: 18.15%, 2
+60.62 Y:3.30 Z:2 WSJ:3 S:3 M:6 OGS ONE Gas, Inc.: -8.57%, 2
+60.6 Y:2.80 Z:2 WSJ:3 S:4 M:3.0 ONB Old National Bancorp: 8.6%, 2
+60.59 Y:2.60 Z:3 WSJ:3 S:3 M:2.3 FFBC First Financial Banc: 9.37%, 2
+60.59 Y:2.70 Z:5 WSJ:1 S:8 M:6 BLX Banco Latinoamerican: -0.38%, 1
+60.58 Y:2.50 Z:3 WSJ:2 S:6 M:6 BXP Boston Properties, I: 11.22%, 2
+60.56 Y:2.60 Z:2 WSJ:2 S:5 M:3.0 SODA SodaStream Internati: -9.95%, 2
+60.56 Y:2.60 Z:4 WSJ:2 S:3 M:6 BMA Macro Bank Inc.: 16.15%, 2
+60.52 Y:2.60 Z:3 WSJ:2 S:6 M:2.5 MLNX Mellanox Technologie: 8.93%, 2
+60.52 Y:2.30 Z:3 WSJ:2 S:10 M:6 CNX CONSOL Energy Inc.: 37.61%, 2
+60.52 Y:2.80 Z:2 WSJ:3 S:4 M:6 ESS Essex Property Trust: -2.42%, 2
+60.48 Y:3.30 Z:1 WSJ:3 S:8 M:6 EOCC Enel Generacion Chil: -0.95%, 2
+60.41 Y:3.00 Z:2 WSJ:3 S:3 M:3.0 VWR VWR Corporation: 0.82%, 2
+60.41 Y:2.40 Z:3 WSJ:3 S:6 M:6 PGEM Ply Gem Holdings, In: 35.36%, 2
+60.38 Y:2.60 Z:3 WSJ:2 S:5 M:6 ABEV Ambev S.A.: 3.59%, 2
+60.37 Y:2.60 Z:1 WSJ:3 S:5 M:6 TNET TriNet Group, Inc.: -21.49%, 2
+60.36 Y:2.20 Z:3 WSJ:2 S:5 M:6 BA Boeing Company (The): 3.45%, 2
+60.34 Y:2.70 Z:3 WSJ:3 S:2 M:6 SNV Synovus Financial Co: 8.39%, 2
+60.33 Y:2.60 Z:3 WSJ:2 S:5 M:6 KO Coca-Cola Company (T: 3.33%, 2
+60.33 Y:2.30 Z:3 WSJ:2 S:3 M:6 GDOT Green Dot Corporatio: -10.03%, 2
+60.31 Y:2.90 Z:2 WSJ:3 S:6 M:3.0 EGOV NIC Inc.: 20.18%, 2
+60.27 Y:2.70 Z:3 WSJ:3 S:2 M:2.4 XLNX Xilinx, Inc.: 3.31%, 2
+60.27 Y:2.30 Z:3 WSJ:2 S:5 M:6 OGE OGE Energy Corporati: 3.04%, 2
+60.23 Y:2.20 Z:3 WSJ:2 S:2 M:3.0 ROLL RBC Bearings Incorpo: -6.94%, 2
+60.18 Y:3.00 Z:3 WSJ:3 S:4 M:1.0 NRCIB National Research Co: -18.95%, 2
+60.17 Y:2.30 Z:3 WSJ:2 S:5 M:6 COR CoreSite Realty Corp: 2.53%, 2
+60.17 Y:2.90 Z:3 WSJ:3 S:1 M:6 EV Eaton Vance Corporat: 0.85%, 2
+60.15 Y:3.00 Z:2 WSJ:3 S:4 M:6 GGG Graco Inc.: -4.26%, 2
+60.14 Y:3.00 Z:1 WSJ:3 S:11 M:6 UA Under Armour, Inc.: 17.37%, 2
+60.04 Y:2.20 Z:2 WSJ:3 S:5 M:6 ELS Equity Lifestyle Pro: 1.89%, 2
+60.03 Y:2.40 Z:5 WSJ:2 S:8 M:6 AAP Advance Auto Parts I: 21.81%, 1
+60.01 Y:2.10 Z:5 WSJ:2 S:8 M:6 THS Treehouse Foods, Inc: 21.74%, 1
+60.0 Y:1.00 Z:5 WSJ:1 S:17 M:5.0 UPL Ultra Petroleum Corp: 113.3%, 1
+59.96 Y:2.40 Z:3 WSJ:2 S:5 M:6 AEP American Electric Po: 1.47%, 2
+59.93 Y:2.70 Z:3 WSJ:2 S:17 M:3.0 OKTA Okta, Inc.: 24.63%, 2
+59.93 Y:3.00 Z:2 WSJ:3 S:4 M:3.0 WAFD Washington Federal, : 4.55%, 2
+59.91 Y:2.70 Z:3 WSJ:3 S:2 M:6 CMA Comerica Incorporate: 6.24%, 2
+59.89 Y:2.40 Z:3 WSJ:3 S:2 M:6 WAT Waters Corporation: 6.11%, 2
+59.87 Y:2.30 Z:3 WSJ:2 S:5 M:6 COLM Columbia Sportswear : 1.01%, 2
+59.86 Y:2.80 Z:2 WSJ:3 S:7 M:6 WSM Williams-Sonoma, Inc: 14.3%, 2
+59.8 Y:2.50 Z:4 WSJ:2 S:3 M:6 SXT Sensient Technologie: 12.35%, 2
+59.78 Y:3.00 Z:2 WSJ:3 S:5 M:6 SF Stifel Financial Cor: 0.56%, 2
+59.77 Y:2.70 Z:4 WSJ:2 S:8 M:6 PMT PennyMac Mortgage In: -4.47%, 1
+59.76 Y:2.40 Z:3 WSJ:2 S:6 M:6 BP BP p.l.c.: 7.13%, 2
+59.72 Y:2.50 Z:4 WSJ:3 S:11 M:2.0 EIGI Endurance Internatio: 25.0%, 1
+59.72 Y:3.00 Z:3 WSJ:3 S:6 M:2.0 SBRA Sabra Healthcare REI: 16.64%, 2
+59.71 Y:1.00 Z:1 WSJ:3 S:7 M:6 CPL CPFL Energia S.A.: -11.43%, 2
+59.71 Y:2.50 Z:3 WSJ:2 S:8 M:6 SSP E.W. Scripps Company: 20.22%, 2
+59.71 Y:2.60 Z:2 WSJ:2 S:9 M:6 FTV Fortive Corporation: 1.87%, 2
+59.67 Y:2.30 Z:3 WSJ:2 S:5 M:2.2 BIDU Baidu, Inc.: -10.33%, 2
+59.67 Y:2.60 Z:3 WSJ:2 S:5 M:5.0 MDXG MiMedx Group, Inc: 9.68%, 1
+59.67 Y:2.70 Z:3 WSJ:3 S:2 M:6 WCG WellCare Health Plan: 5.03%, 2
+59.64 Y:2.70 Z:3 WSJ:3 S:3 M:2.2 NDAQ Nasdaq, Inc.: 1.16%, 2
+59.64 Y:2.50 Z:3 WSJ:3 S:5 M:6 ENS Enersys: 24.86%, 2
+59.61 Y:2.40 Z:3 WSJ:2 S:9 M:2.3 ALKS Alkermes plc: 18.51%, 2
+59.61 Y:2.50 Z:3 WSJ:2 S:6 M:2.6 ATHN athenahealth, Inc.: 6.02%, 2
+59.61 Y:2.80 Z:3 WSJ:3 S:3 M:6 KWR Quaker Chemical Corp: 11.4%, 2
+59.59 Y:2.80 Z:3 WSJ:3 S:2 M:6 WBS Webster Financial Co: 4.64%, 2
+59.58 Y:2.30 Z:3 WSJ:2 S:6 M:6 FRT Federal Realty Inves: 6.24%, 2
+59.56 Y:2.90 Z:2 WSJ:3 S:4 M:3.0 TROW T. Rowe Price Group,: 2.36%, 2
+59.54 Y:2.60 Z:2 WSJ:3 S:2 M:3.0 FOXF Fox Factory Holding : -11.11%, 2
+59.54 Y:2.80 Z:3 WSJ:3 S:3 M:6 BXS BancorpSouth, Inc.: 11.02%, 2
+59.51 Y:3.00 Z:2 WSJ:3 S:5 M:3.0 CFFN Capitol Federal Fina: 8.7%, 2
+59.51 Y:2.60 Z:3 WSJ:2 S:5 M:6 CMS CMS Energy Corporati: -0.79%, 2
+59.5 Y:2.80 Z:4 WSJ:3 S:2 M:2.0 MBFI MB Financial Inc.: 13.65%, 2
+59.46 Y:3.20 Z:1 WSJ:3 S:8 M:3.0 INVA Innoviva, Inc.: 3.42%, 2
+59.46 Y:2.70 Z:3 WSJ:2 S:9 M:6 DK Delek US Holdings, I: 25.65%, 2
+59.45 Y:2.40 Z:3 WSJ:2 S:8 M:6 KGC Kinross Gold Corpora: 18.94%, 2
+59.42 Y:2.00 Z:5 WSJ:2 S:4 M:6 ERIE Erie Indemnity Compa: -7.91%, 1
+59.39 Y:2.60 Z:3 WSJ:2 S:5 M:6 CPT Camden Property Trus: -1.37%, 2
+59.38 Y:2.40 Z:3 WSJ:2 S:9 M:2.1 MDRX Allscripts Healthcar: 12.09%, 2
+59.38 Y:2.40 Z:3 WSJ:2 S:11 M:6 SPN Superior Energy Serv: 38.59%, 2
+59.37 Y:2.80 Z:3 WSJ:3 S:3 M:6 ABB ABB Ltd: 10.19%, 2
+59.37 Y:2.50 Z:2 WSJ:3 S:5 M:6 NI NiSource, Inc: -1.48%, 2
+59.35 Y:2.30 Z:3 WSJ:2 S:8 M:6 RPAI Retail Properties of: 18.43%, 2
+59.34 Y:2.30 Z:4 WSJ:2 S:8 M:2.0 SHEN Shenandoah Telecommu: 18.38%, 4
+59.34 Y:2.20 Z:3 WSJ:2 S:5 M:6 LMT Lockheed Martin Corp: -1.61%, 2
+59.34 Y:2.50 Z:3 WSJ:3 S:3 M:2.0 L Loews Corporation: -5.6%, 2
+59.32 Y:2.60 Z:3 WSJ:3 S:2 M:6 DGX Quest Diagnostics In: 3.29%, 2
+59.31 Y:3.20 Z:2 WSJ:3 S:4 M:6 VSH Vishay Intertechnolo: -8.44%, 2
+59.3 Y:2.50 Z:3 WSJ:3 S:5 M:6 CMD Cantel Medical Corp.: 23.18%, 2
+59.28 Y:2.40 Z:3 WSJ:2 S:5 M:5.0 C Citigroup Inc.: 7.34%, 1
+59.28 Y:2.60 Z:3 WSJ:2 S:5 M:6 HIG Hartford Financial S: -1.94%, 2
+59.26 Y:2.80 Z:3 WSJ:3 S:6 M:6 NSH Nustar GP Holdings, : 29.63%, 2
+59.25 Y:2.20 Z:3 WSJ:3 S:9 M:6 STO Statoil ASA: -0.4%, 1
+59.21 Y:2.10 Z:4 WSJ:2 S:7 M:1.7000000000000002 ROIC Retail Opportunity I: 12.75%, 2
+59.16 Y:2.50 Z:3 WSJ:3 S:5 M:2.0 ECOL US Ecology, Inc.: 6.61%, 2
+59.12 Y:2.40 Z:3 WSJ:3 S:1 M:6 TTC Toro Company (The): -4.42%, 2
+59.11 Y:2.50 Z:3 WSJ:2 S:8 M:2.6 SYMC Symantec Corporation: 16.32%, 2
+59.06 Y:3.30 Z:1 WSJ:3 S:5 M:4.0 BCPC Balchem Corporation: 6.04%, 2
+59.05 Y:2.40 Z:3 WSJ:2 S:7 M:6 CFX Colfax Corporation: 10.24%, 2
+59.05 Y:2.50 Z:4 WSJ:2 S:3 M:6 KAMN Kaman Corporation: 8.57%, 2
+59.05 Y:3.60 Z:2 WSJ:4 S:1 M:6 TMK Torchmark Corporatio: -4.77%, 2
+59.03 Y:2.30 Z:5 WSJ:2 S:7 M:6 VNO Vornado Realty Trust: 10.13%, 1
+58.94 Y:2.40 Z:3 WSJ:2 S:7 M:6 ACC American Campus Comm: 9.69%, 2
+58.92 Y:2.50 Z:3 WSJ:3 S:5 M:6 AF Astoria Financial Co: 21.26%, 2
+58.92 Y:2.80 Z:2 WSJ:3 S:5 M:6 CNP CenterPoint Energy, : -3.75%, 2
+58.9 Y:2.50 Z:3 WSJ:2 S:4 M:6 PNM PNM Resources, Inc. : -10.52%, 2
+58.9 Y:2.40 Z:3 WSJ:2 S:7 M:6 RMP Rice Midstream Partn: 9.51%, 2
+58.89 Y:2.70 Z:4 WSJ:2 S:11 M:2.2 ENDP Endo International p: 87.5%, 2
+58.89 Y:2.50 Z:4 WSJ:2 S:6 M:6 PLT Plantronics, Inc.: 27.8%, 2
+58.86 Y:2.60 Z:3 WSJ:3 S:2 M:6 BBT BB&T Corporation: 0.97%, 2
+58.86 Y:2.20 Z:3 WSJ:2 S:6 M:6 STOR STORE Capital Corpor: 2.64%, 2
+58.81 Y:2.60 Z:3 WSJ:2 S:4 M:3.0 QLYS Qualys, Inc.: -2.11%, 2
+58.8 Y:2.70 Z:3 WSJ:2 S:7 M:6 EPC Energizer Holdings, : 8.99%, 2
+58.8 Y:2.60 Z:3 WSJ:2 S:6 M:6 PSX Phillips 66: 2.32%, 2
+58.77 Y:2.70 Z:3 WSJ:2 S:6 M:6 NFG National Fuel Gas Co: 2.2%, 2
+58.74 Y:2.70 Z:3 WSJ:3 S:4 M:2.5 LECO Lincoln Electric Hol: 9.94%, 2
+58.74 Y:2.90 Z:2 WSJ:3 S:6 M:6 APAM Artisan Partners Ass: 2.03%, 2
+58.71 Y:3.20 Z:3 WSJ:3 S:9 M:6 NSM Nationstar Mortgage : -3.13%, 1
+58.67 Y:3.50 Z:1 WSJ:4 S:4 M:3.0 WABC Westamerica Bancorpo: -2.97%, 2
+58.67 Y:2.40 Z:3 WSJ:2 S:8 M:2.2 ZBRA Zebra Technologies C: 3.71%, 2
+58.66 Y:2.40 Z:3 WSJ:2 S:5 M:6 FMC FMC Corporation: -5.05%, 2
+58.65 Y: Z:1 WSJ:1 S:17 M:6 VEDL Vedanta  Limited: 1.87%, 1
+58.64 Y:3.10 Z:2 WSJ:3 S:5 M:6 RLI RLI Corp.: -5.15%, 2
+58.63 Y:3.10 Z:3 WSJ:3 S:3 M:6 CFR Cullen/Frost Bankers: 6.47%, 2
+58.6 Y:2.30 Z:5 WSJ:2 S:4 M:2.0 SANM Sanmina Corporation: 21.63%, 2
+58.59 Y:2.90 Z:3 WSJ:3 S:5 M:2.3 FELE Franklin Electric Co: 10.69%, 2
+58.59 Y:3.00 Z:3 WSJ:3 S:2 M:6 ROK Rockwell Automation,: -0.39%, 2
+58.54 Y:2.70 Z:3 WSJ:3 S:4 M:6 CTXS Citrix Systems, Inc.: 12.71%, 2
+58.53 Y:2.60 Z:3 WSJ:2 S:10 M:6 OIS Oil States Internati: 27.66%, 2
+58.51 Y:3.00 Z:3 WSJ:3 S:2 M:6 MTB M&T Bank Corporation: -0.8%, 2
+58.49 Y:1.50 Z:1 WSJ:1 S:17 M:6 LEXEA Liberty Expedia Hold: 0.95%, 1
+58.48 Y:2.30 Z:4 WSJ:2 S:5 M:2.3 CASY Caseys General Store: 10.07%, 2
+58.47 Y:3.10 Z:3 WSJ:3 S:2 M:3.0 FULT Fulton Financial Cor: 7.5%, 2
+58.47 Y:2.20 Z:4 WSJ:2 S:8 M:6 PBI Pitney Bowes Inc.: 39.0%, 2
+58.47 Y:2.80 Z:2 WSJ:3 S:6 M:6 TRI Thomson Reuters Corp: 0.68%, 2
+58.44 Y:2.30 Z:3 WSJ:2 S:7 M:6 SEE Sealed Air Corporati: 7.19%, 2
+58.42 Y: Z:1 WSJ:1 S:17 M:6 LEXEB Liberty Expedia Hold: 0.51%, 1
+58.41 Y:2.70 Z:3 WSJ:2 S:9 M:6 X United States Steel : 20.38%, 2
+58.4 Y:2.40 Z:3 WSJ:2 S:8 M:6 HPE Hewlett Packard Ente: 13.67%, 2
+58.38 Y:2.70 Z:3 WSJ:3 S:3 M:3.0 UMBF UMB Financial Corpor: 13.6%, 2
+58.36 Y:2.50 Z:3 WSJ:3 S:4 M:6 BRC Brady Corporation: 11.79%, 2
+58.34 Y:2.50 Z:2 WSJ:2 S:9 M:6 DATA Tableau Software, In: -4.95%, 2
+58.33 Y:1.90 Z:3 WSJ:1 S:17 M:6 PUMP ProPetro Holding Cor: 50.65%, 1
+58.28 Y:2.70 Z:3 WSJ:3 S:3 M:2.6 INTU Intuit Inc.: 3.04%, 2
+58.27 Y:2.60 Z:4 WSJ:2 S:1 M:6 TSM Taiwan Semiconductor: -8.67%, 2
+58.25 Y:2.40 Z:3 WSJ:2 S:8 M:2.4 FSLR First Solar, Inc.: 6.18%, 2
+58.22 Y:2.70 Z:3 WSJ:3 S:2 M:6 IEX IDEX Corporation: -2.25%, 2
+58.19 Y:2.90 Z:2 WSJ:3 S:7 M:2.9 BBRY BlackBerry Limited: 11.61%, 2
+58.19 Y:2.90 Z:2 WSJ:3 S:5 M:6 EVTC Evertec, Inc.: -7.36%, 2
+58.19 Y:1.30 Z:2 WSJ:1 S:1 M:6 LCII LCI Industries : 24.14%, 4
+58.17 Y:2.80 Z:3 WSJ:3 S:3 M:6 MKC McCormick & Company,: 4.2%, 2
+58.16 Y:2.10 Z:3 WSJ:2 S:6 M:6 SJI South Jersey Industr: -0.85%, 2
+58.15 Y:3.00 Z:2 WSJ:3 S:5 M:3.0 PRXL PAREXEL Internationa: 0.57%, 2
+58.11 Y:2.30 Z:4 WSJ:2 S:11 M:1.0 HMHC Houghton Mifflin Har: 15.3%, 2
+58.11 Y:2.30 Z:3 WSJ:2 S:8 M:6 KIM Kimco Realty Corpora: 12.2%, 2
+58.07 Y:2.10 Z:3 WSJ:2 S:10 M:1.7000000000000002 W Wayfair Inc.: 0.91%, 2
+58.06 Y:2.50 Z:3 WSJ:2 S:8 M:6 NOK Nokia Corporation: 11.98%, 2
+58.03 Y:3.10 Z:2 WSJ:3 S:5 M:6 MTH Meritage Corporation: -8.2%, 2
+58.02 Y:2.40 Z:3 WSJ:2 S:8 M:6 BRX Brixmor Property Gro: 11.79%, 2
+58.02 Y:1.00 Z:1 WSJ:2 S:17 M:6 JHX James Hardie Industr: 23.14%, 1
+57.99 Y:2.80 Z:3 WSJ:3 S:11 M:6 SFUN Fang Holdings Limite: 6.62%, 1
+57.99 Y:2.60 Z:2 WSJ:3 S:5 M:6 HYH Halyard Health, Inc.: -8.38%, 2
+57.97 Y:2.60 Z:3 WSJ:2 S:6 M:2.8 AMCX AMC Networks Inc.: 1.15%, 2
+57.97 Y:2.10 Z:5 WSJ:2 S:8 M:6 SU Suncor Energy  Inc.: 11.53%, 1
+57.96 Y:2.70 Z:2 WSJ:3 S:5 M:6 CNO CNO Financial Group,: -8.55%, 2
+57.96 Y:2.50 Z:4 WSJ:2 S:3 M:6 WR Westar Energy, Inc.: 3.13%, 2
+57.94 Y:2.00 Z:1 WSJ:1 S:17 M:6 BEDU Bright Scholar Educa: -2.35%, 1
+57.94 Y:2.40 Z:3 WSJ:2 S:8 M:6 GIMO Gigamon Inc.: 11.39%, 2
+57.94 Y:2.60 Z:2 WSJ:3 S:6 M:6 HAE Haemonetics Corporat: -1.98%, 2
+57.93 Y:2.50 Z:3 WSJ:2 S:8 M:6 GME Gamestop Corporation: 11.31%, 2
+57.91 Y:2.70 Z:3 WSJ:3 S:3 M:6 BCE BCE, Inc.: 2.89%, 2
+57.9 Y:4.00 Z:3 WSJ:3 S:3 M:6 CHT Chunghwa Telecom Co.: 2.83%, 2
+57.88 Y:2.30 Z:4 WSJ:2 S:3 M:6 AWK American Water Works: 2.74%, 2
+57.87 Y:2.70 Z:4 WSJ:2 S:5 M:6 TTS Tile Shop Hldgs, Inc: 16.04%, 2
+57.87 Y:2.30 Z:3 WSJ:2 S:8 M:6 AKR Acadia Realty Trust: 11.0%, 2
+57.84 Y:2.60 Z:4 WSJ:2 S:4 M:6 FUL H. B. Fuller Company: 9.21%, 2
+57.83 Y:3.00 Z:3 WSJ:3 S:4 M:6 SON Sonoco Products Comp: 9.14%, 2
+57.82 Y:3.10 Z:1 WSJ:3 S:7 M:3.0 CYOU Changyou.com Limited: -13.06%, 2
+57.81 Y:2.40 Z:4 WSJ:2 S:5 M:6 CBT Cabot Corporation: 15.74%, 2
+57.79 Y:3.00 Z:2 WSJ:2 S:11 M:6 UBS UBS AG: 5.61%, 2
+57.78 Y:2.00 Z:3 WSJ:2 S:8 M:6 CIG Comp En De Mn Cemig : 10.58%, 2
+57.77 Y:2.90 Z:3 WSJ:3 S:2 M:6 RE Everest Re Group, Lt: -4.47%, 2
+57.77 Y:2.80 Z:2 WSJ:3 S:5 M:6 SQM Sociedad Quimica y M: -9.46%, 2
+57.71 Y:2.30 Z:3 WSJ:2 S:8 M:3.0 INCR INC Research Holding: 17.91%, 2
+57.7 Y:3.20 Z:2 WSJ:3 S:5 M:6 NYT New York Times Compa: -9.81%, 2
+57.69 Y:2.90 Z:3 WSJ:3 S:3 M:6 BRO Brown & Brown, Inc.: 1.78%, 2
+57.69 Y:2.40 Z:3 WSJ:2 S:8 M:6 SIG Signet Jewelers Limi: 10.11%, 2
+57.68 Y:3.00 Z:2 WSJ:3 S:3 M:3.0 SAFM Sanderson Farms, Inc: -15.57%, 2
+57.67 Y:2.80 Z:3 WSJ:3 S:5 M:6 RHI Robert Half Internat: 15.03%, 2
+57.64 Y:1.80 Z:2 WSJ:1 S:17 M:6 HGV Hilton Grand Vacatio: 20.86%, 1
+57.6 Y:3.10 Z:2 WSJ:3 S:6 M:6 WU Western Union Compan: -3.65%, 2
+57.58 Y:2.60 Z:3 WSJ:2 S:8 M:6 BEL Belmond Ltd.: 9.59%, 2
+57.58 Y:1.90 Z:3 WSJ:1 S:17 M:6 CJ C: 45.49%, 1
+57.58 Y:2.70 Z:3 WSJ:3 S:4 M:6 PKI PerkinElmer, Inc.: 7.9%, 2
+57.55 Y:2.50 Z:3 WSJ:3 S:5 M:6 VMI Valmont Industries, : 14.44%, 2
+57.54 Y:2.80 Z:3 WSJ:3 S:4 M:3.0 LAMR Lamar Advertising Co: 15.24%, 2
+57.53 Y:2.40 Z:5 WSJ:2 S:8 M:6 GE General Electric Com: 9.33%, 1
+57.52 Y:2.70 Z:3 WSJ:3 S:3 M:3.0 BOKF BOK Financial Corpor: 8.45%, 2
+57.52 Y:2.50 Z:3 WSJ:3 S:7 M:3.0 CSTE Caesarstone Ltd.: 35.11%, 2
+57.52 Y:2.90 Z:3 WSJ:3 S:6 M:6 TUP Tupperware Brands Co: 20.93%, 2
+57.5 Y:2.70 Z:3 WSJ:3 S:5 M:6 MCK McKesson Corporation: 14.16%, 2
+57.47 Y:3.00 Z:3 WSJ:3 S:4 M:6 RHP Ryman Hospitality Pr: 7.36%, 2
+57.45 Y:3.10 Z:3 WSJ:3 S:3 M:6 FDS FactSet Research Sys: 0.57%, 2
+57.39 Y:3.30 Z:1 WSJ:3 S:5 M:4.0 PCH Potlatch Corporation: -4.01%, 2
+57.39 Y:2.70 Z:3 WSJ:3 S:4 M:6 UNF Unifirst Corporation: 6.94%, 2
+57.37 Y:3.00 Z:3 WSJ:3 S:5 M:6 AIT Applied Industrial T: 13.51%, 2
+57.36 Y:2.60 Z:3 WSJ:3 S:4 M:6 MMS Maximus, Inc.: 6.79%, 2
+57.36 Y:2.80 Z:3 WSJ:3 S:5 M:6 TCP TC PipeLines, LP: 13.45%, 2
+57.32 Y:2.80 Z:2 WSJ:3 S:6 M:6 BSMX Grupo Financiero San: -5.08%, 2
+57.28 Y:2.30 Z:3 WSJ:2 S:9 M:6 LPI Laredo Petroleum, In: 14.75%, 2
+57.25 Y:2.50 Z:3 WSJ:3 S:3 M:6 DCI Donaldson Company, I: -0.4%, 2
+57.24 Y:2.90 Z:3 WSJ:3 S:3 M:3.0 GBCI Glacier Bancorp, Inc: 6.78%, 2
+57.23 Y:3.00 Z:2 WSJ:3 S:4 M:3.0 NEOG Neogen Corporation: -11.62%, 2
+57.23 Y:2.60 Z:3 WSJ:3 S:4 M:2.6 NTRS Northern Trust Corpo: 3.38%, 2
+57.23 Y:3.00 Z:2 WSJ:3 S:8 M:6 NMR Nomura Holdings Inc : 7.84%, 2
+57.19 Y:2.90 Z:2 WSJ:3 S:8 M:6 CNHI CNH Industrial N.V.: 7.63%, 2
+57.19 Y:2.20 Z:4 WSJ:2 S:6 M:6 HTH Hilltop Holdings Inc: 19.28%, 2
+57.18 Y:3.00 Z:2 WSJ:3 S:8 M:6 GPS Gap, Inc. (The): 7.59%, 2
+57.14 Y:2.50 Z:4 WSJ:2 S:4 M:3.0 ABCB Ameris Bancorp: 12.83%, 2
+57.13 Y:2.70 Z:2 WSJ:3 S:8 M:6 SBH Sally Beauty Holding: 7.32%, 2
+57.12 Y:2.90 Z:3 WSJ:3 S:5 M:3.0 AOBC American Outdoor Bra: 19.38%, 2
+57.11 Y:2.70 Z:3 WSJ:3 S:2 M:6 SR Spire Inc.: -7.76%, 2
+57.05 Y:2.50 Z:3 WSJ:3 S:6 M:5.0 VSAT ViaSat, Inc.: 25.64%, 1
+57.05 Y:3.10 Z:2 WSJ:3 S:7 M:6 TGT Target Corporation: 0.24%, 2
+57.04 Y:4.00 Z:3 WSJ:3 S:3 M:6 KYO Kyocera Corporation: -1.49%, 2
+57.02 Y:2.70 Z:4 WSJ:2 S:5 M:6 PRA ProAssurance Corpora: 11.75%, 2
+57.01 Y:2.80 Z:3 WSJ:2 S:6 M:6 CABO Cable One, Inc.: -6.61%, 2
+56.99 Y:2.20 Z:4 WSJ:2 S:5 M:6 BLL Ball Corporation: 11.63%, 2
+56.97 Y:3.40 Z:3 WSJ:3 S:3 M:6 WPC W.P. Carey Inc.: -1.83%, 2
+56.94 Y:2.60 Z:4 WSJ:2 S:11 M:6 AVAL Grupo Aval Acciones : 1.35%, 1
+56.92 Y:3.30 Z:3 WSJ:3 S:3 M:3.1 PAYX Paychex, Inc.: 7.35%, 2
+56.89 Y:2.70 Z:3 WSJ:2 S:7 M:3.2 ESRX Express Scripts Hold: 11.35%, 2
+56.89 Y:2.40 Z:3 WSJ:2 S:9 M:6 IAG Iamgold Corporation: 12.78%, 2
+56.88 Y:2.40 Z:4 WSJ:2 S:4 M:3.0 JRVR James River Group Ho: 11.25%, 2
+56.87 Y:2.40 Z:4 WSJ:2 S:5 M:2.4 INFO IHS Markit Ltd.: 2.89%, 2
+56.87 Y:2.30 Z:3 WSJ:2 S:11 M:2.6 KITE Kite Pharma, Inc.: -27.13%, 1
+56.87 Y:3.00 Z:1 WSJ:2 S:17 M:6 CRH CRH PLC: 16.19%, 1
+56.86 Y:2.60 Z:3 WSJ:3 S:4 M:6 EXR Extra Space Storage : 4.32%, 2
+56.85 Y:2.40 Z:4 WSJ:2 S:4 M:3.0 MKTX MarketAxess Holdings: 11.08%, 2
+56.85 Y:2.00 Z:4 WSJ:2 S:5 M:6 HY Hyster-Yale Material: 10.92%, 2
+56.82 Y:3.00 Z:3 WSJ:3 S:5 M:6 LPX Louisiana-Pacific Co: 10.79%, 2
+56.8 Y:2.60 Z:3 WSJ:3 S:5 M:3.0 ALGT Allegiant Travel Com: 17.46%, 2
+56.8 Y:2.90 Z:3 WSJ:3 S:3 M:6 AFL Aflac Incorporated: -2.66%, 2
+56.78 Y:2.40 Z:3 WSJ:3 S:3 M:6 AEE Ameren Corporation: -2.77%, 2
+56.78 Y:3.00 Z:3 WSJ:3 S:4 M:6 SSD Simpson Manufacturin: 3.91%, 2
+56.75 Y:2.70 Z:3 WSJ:3 S:4 M:6 USB U.S. Bancorp: 3.73%, 2
+56.72 Y:2.80 Z:3 WSJ:3 S:4 M:6 PRI Primerica, Inc.: 3.6%, 2
+56.68 Y:2.90 Z:3 WSJ:3 S:5 M:6 LVLT Level 3 Communicatio: 10.09%, 2
+56.68 Y:2.90 Z:3 WSJ:3 S:3 M:6 TRV The Travelers Compan: -3.28%, 2
+56.67 Y:2.70 Z:3 WSJ:3 S:11 M:6 ESV ENSCO plc: 58.19%, 2
+56.67 Y:2.70 Z:3 WSJ:3 S:11 M:6 SWN Southwestern Energy : 70.13%, 2
+56.67 Y:2.60 Z:3 WSJ:3 S:11 M:6 WLL Whiting Petroleum Co: 69.85%, 2
+56.62 Y:2.60 Z:3 WSJ:6 S:4 M:3.0 FWRD Forward Air Corporat: 3.11%, 2
+56.61 Y:2.50 Z:3 WSJ:3 S:4 M:2.5 FISV Fiserv, Inc.: -2.82%, 2
+56.57 Y:2.40 Z:3 WSJ:2 S:7 M:2.7 LNCE Snyder&#39;s-Lance, : -3.05%, 2
+56.57 Y:2.90 Z:3 WSJ:3 S:5 M:6 TCF TCF Financial Corpor: 9.54%, 2
+56.56 Y:3.00 Z:3 WSJ:3 S:3 M:3.0 STBA S&T Bancorp, Inc.: 2.71%, 2
+56.56 Y:2.90 Z:3 WSJ:3 S:3 M:6 PNW Pinnacle West Capita: -3.88%, 2
+56.55 Y:2.50 Z:3 WSJ:3 S:3 M:6 WEC WEC Energy Group, In: -3.91%, 2
+56.53 Y:3.00 Z:3 WSJ:3 S:5 M:6 PSA Public Storage: 9.32%, 2
+56.53 Y:2.50 Z:3 WSJ:3 S:4 M:6 VAR Varian Medical Syste: 2.64%, 2
+56.51 Y:3.10 Z:3 WSJ:3 S:4 M:3.0 PLXS Plexus Corp.: 9.05%, 2
+56.5 Y:4.00 Z:4 WSJ:3 S:9 M:6 PHI PLDT Inc.: 10.84%, 1
+56.48 Y:2.80 Z:3 WSJ:3 S:7 M:6 DVA DaVita Inc.: 22.42%, 2
+56.46 Y:3.00 Z:4 WSJ:3 S:2 M:6 SCL Stepan Company: 13.98%, 2
+56.45 Y:2.40 Z:3 WSJ:2 S:8 M:6 STAG Stag Industrial, Inc: 3.93%, 2
+56.39 Y:5.00 Z:3 WSJ:3 S:3 M:6 XEL Xcel Energy Inc.: -4.73%, 2
+56.38 Y:2.60 Z:3 WSJ:2 S:8 M:6 STN Stantec Inc: 3.59%, 2
+56.37 Y:3.30 Z:3 WSJ:3 S:4 M:6 FII Federated Investors,: 1.86%, 2
+56.35 Y:4.00 Z:3 WSJ:3 S:4 M:6 CAJ Canon, Inc.: 1.76%, 2
+56.34 Y:2.50 Z:3 WSJ:2 S:11 M:6 MRO Marathon Oil Corpora: 23.36%, 2
+56.32 Y:2.60 Z:3 WSJ:3 S:5 M:6 NSC Norfolk Souther Corp: 8.27%, 2
+56.32 Y:3.10 Z:3 WSJ:3 S:5 M:6 OMC Omnicom Group Inc.: 8.29%, 2
+56.28 Y:3.00 Z:3 WSJ:3 S:4 M:3.0 CBF Capital Bank Financi: 7.68%, 2
+56.27 Y:2.80 Z:3 WSJ:3 S:4 M:6 TMHC Taylor Morrison Home: 1.34%, 2
+56.26 Y:2.80 Z:3 WSJ:3 S:8 M:2.0 HSNI HSN, Inc.: 9.23%, 2
+56.24 Y:2.90 Z:3 WSJ:3 S:5 M:6 PNR Pentair plc.: 7.86%, 2
+56.22 Y:2.80 Z:3 WSJ:3 S:5 M:6 AYR Aircastle Limited: 7.76%, 2
+56.21 Y:2.80 Z:3 WSJ:3 S:8 M:6 LB L Brands, Inc.: 27.72%, 2
+56.19 Y:2.70 Z:3 WSJ:3 S:6 M:6 FSIC FS Investment Corpor: 14.29%, 2
+56.18 Y:2.80 Z:2 WSJ:3 S:8 M:6 DNB Dun & Bradstreet Cor: 2.57%, 2
+56.18 Y:2.80 Z:3 WSJ:3 S:5 M:6 OAK Oaktree Capital Grou: 7.59%, 2
+56.17 Y:3.20 Z:3 WSJ:3 S:7 M:2.0 ISCA International Speedw: 2.02%, 2
+56.16 Y:2.60 Z:3 WSJ:3 S:8 M:6 FLS Flowserve Corporatio: 27.45%, 2
+56.15 Y:2.30 Z:3 WSJ:2 S:11 M:2.3 ALNY Alnylam Pharmaceutic: 11.06%, 2
+56.15 Y:2.70 Z:4 WSJ:2 S:6 M:6 AXE Anixter Internationa: 14.06%, 2
+56.13 Y:2.80 Z:3 WSJ:3 S:6 M:6 GPI Group 1 Automotive, : 13.96%, 2
+56.13 Y:1.50 Z:2 WSJ:1 S:17 M:6 SCI Service Corporation : 11.78%, 1
+56.12 Y:3.00 Z:3 WSJ:3 S:8 M:6 DRQ Dril-Quip, Inc.: 27.27%, 2
+56.1 Y:2.80 Z:3 WSJ:3 S:5 M:6 SJM J.M. Smucker Company: 7.16%, 2
+56.1 Y:3.00 Z:3 WSJ:3 S:6 M:6 PDM Piedmont Office Real: 13.81%, 2
+56.08 Y:2.60 Z:3 WSJ:3 S:3 M:6 MMM 3M Company: -6.28%, 2
+56.04 Y:3.00 Z:3 WSJ:3 S:7 M:2.9 DISCA Discovery Communicat: 23.77%, 2
+55.99 Y:2.30 Z:1 WSJ:2 S:17 M:6 LXFT Luxoft Holding, Inc.: 10.93%, 1
+55.99 Y:2.40 Z:3 WSJ:2 S:8 M:6 YUM Yum! Brands, Inc.: 1.62%, 2
+55.98 Y:3.00 Z:2 WSJ:3 S:7 M:6 BMO Bank Of Montreal: -5.09%, 2
+55.97 Y:2.90 Z:3 WSJ:3 S:5 M:6 K Kellogg Company: 6.52%, 2
+55.96 Y:2.90 Z:3 WSJ:3 S:6 M:6 IBM International Busine: 13.11%, 2
+55.94 Y:3.10 Z:3 WSJ:3 S:7 M:2.0 WSTC West Corporation: 0.64%, 2
+55.94 Y:2.90 Z:3 WSJ:3 S:5 M:6 LHO LaSalle Hotel Proper: 6.38%, 2
+55.93 Y:2.80 Z:3 WSJ:3 S:5 M:6 HST Host Hotels & Resort: 6.32%, 2
+55.9 Y:2.70 Z:3 WSJ:3 S:5 M:6 CMC Commercial Metals Co: 6.16%, 2
+55.9 Y:2.70 Z:1 WSJ:4 S:7 M:6 UMC United Microelectron: -5.51%, 2
+55.89 Y:2.70 Z:2 WSJ:3 S:5 M:6 NJR NewJersey Resources : -18.86%, 2
+55.88 Y:2.50 Z:3 WSJ:2 S:9 M:2.0 SGMS Scientific Games Cor: -11.37%, 2
+55.86 Y:3.00 Z:1 WSJ:3 S:11 M:6 OZM Och-Ziff Capital Man: -4.02%, 2
+55.85 Y:2.70 Z:3 WSJ:3 S:5 M:6 H Hyatt Hotels Corpora: 5.9%, 2
+55.84 Y:2.60 Z:3 WSJ:3 S:5 M:6 HR Healthcare Realty Tr: 5.85%, 2
+55.83 Y:2.40 Z:4 WSJ:2 S:11 M:4.0 IRWD Ironwood Pharmaceuti: 26.67%, 1
+55.82 Y:2.70 Z:3 WSJ:3 S:8 M:2.0 GHDX Genomic Health, Inc.: 6.56%, 2
+55.82 Y:2.70 Z:3 WSJ:3 S:6 M:6 MPW Medical Properties T: 12.45%, 2
+55.79 Y:2.60 Z:3 WSJ:3 S:5 M:6 CVG Convergys Corporatio: 5.62%, 2
+55.77 Y:2.80 Z:3 WSJ:3 S:3 M:3.2 LSTR Landstar System, Inc: 2.95%, 2
+55.73 Y:2.80 Z:3 WSJ:3 S:11 M:2.6 FTR Frontier Communicati: 35.32%, 4
+55.73 Y:3.20 Z:3 WSJ:3 S:4 M:3.0 PBCT People&#39;s United : 4.38%, 2
+55.73 Y:2.60 Z:4 WSJ:2 S:8 M:6 USAC USA Compression Part: 25.33%, 2
+55.72 Y:2.50 Z:3 WSJ:3 S:6 M:6 ABG Asbury Automotive Gr: 11.95%, 2
+55.7 Y:3.20 Z:3 WSJ:3 S:3 M:6 SCCO Southern Copper Corp: -8.16%, 2
+55.69 Y:2.40 Z:4 WSJ:2 S:8 M:2.0 NTCT NetScout Systems, In: 5.81%, 2
+55.69 Y:2.00 Z:1 WSJ:6 S:9 M:6 HRG HRG Group, Inc.: 37.46%, 1
+55.68 Y:3.00 Z:4 WSJ:3 S:6 M:6 TBI TrueBlue, Inc.: 36.75%, 2
+55.65 Y:2.90 Z:3 WSJ:3 S:5 M:6 EMR Emerson Electric Com: 4.9%, 2
+55.65 Y: Z:3 WSJ:3 S:4 M:6 VVC Vectren Corporation: -1.75%, 2
+55.63 Y:3.20 Z:4 WSJ:3 S:1 M:3.0 LABL Multi-Color Corporat: 8.79%, 2
+55.61 Y:2.60 Z:4 WSJ:3 S:5 M:3.0 ASTE Astec Industries, In: 35.31%, 2
+55.61 Y:2.30 Z:3 WSJ:2 S:9 M:6 SITE SiteOne Landscape Su: 6.4%, 2
+55.6 Y:2.80 Z:3 WSJ:3 S:4 M:6 BBY Best Buy Co., Inc.: -2.01%, 2
+55.6 Y:2.80 Z:3 WSJ:3 S:5 M:6 HSY Hershey Company (The: 4.65%, 2
+55.59 Y:2.30 Z:3 WSJ:3 S:5 M:6 WNRL Western Refining Log: 4.63%, 2
+55.59 Y:2.50 Z:4 WSJ:2 S:8 M:6 INT World Fuel Services : 24.63%, 2
+55.57 Y:2.80 Z:3 WSJ:3 S:5 M:6 O Realty Income Corpor: 4.53%, 2
+55.56 Y:3.10 Z:3 WSJ:3 S:7 M:2.3 SNH Senior Housing Prope: 5.88%, 2
+55.56 Y:2.80 Z:3 WSJ:3 S:8 M:6 CLI Mack-Cali Realty Cor: 24.49%, 2
+55.55 Y:2.80 Z:3 WSJ:3 S:5 M:6 SHO Sunstone Hotel Inves: 4.43%, 2
+55.54 Y:2.60 Z:3 WSJ:2 S:11 M:2.5 SGEN Seattle Genetics, In: 12.38%, 2
+55.52 Y:2.60 Z:3 WSJ:3 S:5 M:6 AXP American Express Com: 4.26%, 2
+55.52 Y:2.50 Z:4 WSJ:2 S:8 M:6 AXTA Axalta Coating Syste: 24.25%, 2
+55.52 Y:2.60 Z:3 WSJ:2 S:3 M:4.2 D Dominion Energy, Inc: 1.44%, 2
+55.52 Y:2.60 Z:2 WSJ:3 S:8 M:6 FCPT Four Corners Propert: -0.74%, 2
+55.52 Y:2.70 Z:5 WSJ:3 S:7 M:1.0 NS Nustar Energy L.P.: 23.13%, 2
+55.49 Y:2.60 Z:3 WSJ:2 S:8 M:6 RICE Rice Energy Inc.: -0.88%, 2
+55.46 Y:2.80 Z:3 WSJ:3 S:11 M:6 RDC Rowan Companies plc: 43.99%, 2
+55.46 Y:2.00 Z:3 WSJ:3 S:6 M:6 R Ryder System, Inc.: 10.65%, 2
+55.43 Y:2.50 Z:4 WSJ:2 S:8 M:6 AZO AutoZone, Inc.: 23.82%, 2
+55.41 Y:2.80 Z:2 WSJ:3 S:8 M:6 TPX Tempur Sealy Interna: -1.27%, 2
+55.4 Y:3.10 Z:3 WSJ:3 S:5 M:6 BEN Franklin Resources, : 3.69%, 2
+55.38 Y:2.70 Z:3 WSJ:3 S:8 M:6 CTL CenturyLink, Inc.: 23.57%, 2
+55.38 Y:2.60 Z:3 WSJ:3 S:5 M:6 DOV Dover Corporation: 3.57%, 2
+55.38 Y:2.60 Z:3 WSJ:3 S:5 M:6 PEG Public Service Enter: 3.59%, 2
+55.37 Y:3.00 Z:3 WSJ:3 S:5 M:3.0 BPFH Boston Private Finan: 8.91%, 2
+55.37 Y:2.70 Z:3 WSJ:3 S:8 M:2.5 GTLS Chart Industries, In: 16.4%, 2
+55.34 Y:3.30 Z:2 WSJ:4 S:4 M:6 ASR Grupo Aeroportuario : -3.28%, 2
+55.25 Y:2.60 Z:3 WSJ:3 S:5 M:6 UPS United Parcel Servic: 2.91%, 2
+55.24 Y:2.90 Z:3 WSJ:3 S:5 M:2.8 FITB Fifth Third Bancorp: 3.09%, 2
+55.24 Y:3.10 Z:3 WSJ:3 S:3 M:6 RMAX RE/MAX Holdings, Inc: -10.48%, 2
+55.21 Y:3.00 Z:3 WSJ:3 S:5 M:2.7 WFM Whole Foods Market, : 0.42%, 2
+55.2 Y:2.60 Z:3 WSJ:3 S:3 M:3.3 CTAS Cintas Corporation: 2.03%, 2
+55.2 Y:2.60 Z:3 WSJ:3 S:6 M:6 FLO Flowers Foods, Inc.: 9.35%, 2
+55.19 Y:2.60 Z:3 WSJ:3 S:7 M:3.0 BLMN Bloomin&#39; Brands,: 21.11%, 2
+55.19 Y:2.90 Z:4 WSJ:3 S:1 M:3.0 RNST Renasant Corporation: 6.13%, 2
+55.19 Y:3.20 Z:3 WSJ:3 S:5 M:6 AXS Axis Capital Holding: 2.63%, 2
+55.14 Y:2.80 Z:4 WSJ:3 S:8 M:1.7000000000000002 HUBG Hub Group, Inc.: 20.0%, 2
+55.14 Y:2.60 Z:3 WSJ:3 S:5 M:6 STT State Street Corpora: 2.37%, 2
+55.14 Y:2.70 Z:3 WSJ:3 S:5 M:6 HCN Welltower Inc.: 2.37%, 2
+55.11 Y:1.50 Z:2 WSJ:1 S:17 M:6 AZUL Azul S.A.: 5.66%, 1
+55.11 Y:2.80 Z:3 WSJ:3 S:8 M:2.1 CL Colgate-Palmolive Co: 4.81%, 2
+55.1 Y:3.20 Z:3 WSJ:3 S:5 M:6 APU AmeriGas Partners, L: 2.18%, 2
+55.1 Y:2.80 Z:2 WSJ:3 S:5 M:6 ATHM Autohome Inc.: -22.81%, 2
+55.08 Y:2.70 Z:3 WSJ:3 S:5 M:6 NHI National Health Inve: 2.05%, 2
+55.07 Y:2.70 Z:3 WSJ:3 S:5 M:6 LII Lennox International: 2.02%, 2
+55.03 Y:2.80 Z:3 WSJ:3 S:7 M:6 F Ford Motor Company: 15.15%, 2
+55.03 Y:1.70 Z:3 WSJ:1 S:17 M:6 NBLX Noble Midstream Part: 30.2%, 1
+54.99 Y:2.80 Z:3 WSJ:3 S:5 M:2.8 NTAP NetApp, Inc.: 1.58%, 2
+54.98 Y:2.50 Z:3 WSJ:3 S:8 M:6 ENLK EnLink Midstream Par: 21.56%, 2
+54.98 Y:2.60 Z:3 WSJ:3 S:8 M:6 TS Tenaris S.A.: 21.57%, 2
+54.98 Y:2.70 Z:3 WSJ:3 S:5 M:6 WYN Wyndham Worldwide Co: 1.59%, 2
+54.97 Y:2.50 Z:3 WSJ:3 S:8 M:6 SMLP Summit Midstream Par: 21.5%, 2
+54.94 Y:2.90 Z:3 WSJ:3 S:5 M:6 CLX Clorox Company (The): 1.39%, 2
+54.93 Y:2.60 Z:3 WSJ:3 S:8 M:2.6 SONC Sonic Corp.: 16.23%, 2
+54.92 Y:2.70 Z:3 WSJ:3 S:5 M:6 LYB LyondellBasell Indus: 1.29%, 2
+54.86 Y:3.10 Z:3 WSJ:3 S:5 M:6 VTR Ventas, Inc.: 0.95%, 2
+54.85 Y:2.80 Z:3 WSJ:3 S:6 M:6 OHI Omega Healthcare Inv: 7.6%, 2
+54.83 Y:2.60 Z:3 WSJ:3 S:5 M:6 WWW Wolverine World Wide: 0.82%, 2
+54.81 Y:2.80 Z:3 WSJ:2 S:9 M:3.0 IONS Ionis Pharmaceutical: 7.22%, 2
+54.8 Y:3.50 Z:3 WSJ:3 S:5 M:6 TM Toyota Motor Corp Lt: 0.69%, 2
+54.79 Y:3.00 Z:3 WSJ:3 S:4 M:6 AIZ Assurant, Inc.: -6.03%, 2
+54.77 Y:3.00 Z:3 WSJ:3 S:5 M:6 UDR United Dominion Real: 0.54%, 2
+54.76 Y: Z:3 WSJ:2 S:10 M:6 ATI Allegheny Technologi: 8.81%, 2
+54.74 Y:2.00 Z:2 WSJ:2 S:17 M:6 CHL China Mobile (Hong K: 28.42%, 1
+54.71 Y:3.00 Z:3 WSJ:3 S:5 M:6 CHD Church & Dwight Comp: 0.24%, 2
+54.7 Y:2.10 Z:5 WSJ:2 S:5 M:6 CSL Carlisle Companies I: 25.15%, 2
+54.69 Y:3.00 Z:3 WSJ:3 S:5 M:6 CBU Community Bank Syste: 0.13%, 2
+54.65 Y:2.70 Z:4 WSJ:3 S:6 M:2.2 LPNT LifePoint Health, In: 16.22%, 2
+54.63 Y:2.30 Z:3 WSJ:2 S:12 M:6 HRI Herc Holdings Inc.: 21.49%, 2
+54.62 Y:3.00 Z:1 WSJ:2 S:17 M:6 CEA China Eastern Airlin: 2.71%, 1
+54.62 Y:2.70 Z:3 WSJ:3 S:3 M:6 CNA CNA Financial Corpor: -13.57%, 2
+54.61 Y:2.50 Z:3 WSJ:3 S:5 M:6 KNX Knight Transportatio: -0.27%, 2
+54.6 Y:3.00 Z:3 WSJ:3 S:5 M:6 EQR Equity Residential: -0.31%, 2
+54.6 Y:2.70 Z:3 WSJ:3 S:5 M:6 LTC LTC Properties, Inc.: -0.32%, 2
+54.58 Y:2.90 Z:5 WSJ:3 S:7 M:2.3 MSTR MicroStrategy Incorp: 60.06%, 2
+54.58 Y:2.90 Z:3 WSJ:3 S:5 M:6 BCR C.R. Bard, Inc.: -0.42%, 2
+54.56 Y:1.80 Z:2 WSJ:1 S:17 M:6 TRTN Triton International: 2.36%, 1
+54.55 Y:2.10 Z:2 WSJ:2 S:17 M:6 BL BlackLine, Inc.: 27.33%, 1
+54.5 Y:2.90 Z:3 WSJ:3 S:5 M:6 WTS Watts Water Technolo: -0.85%, 2
+54.49 Y:4.00 Z:3 WSJ:3 S:5 M:6 NVO Novo Nordisk A/S: -0.88%, 2
+54.47 Y:3.30 Z:1 WSJ:4 S:6 M:6 KRO Kronos Worldwide Inc: -19.31%, 2
+54.44 Y:2.60 Z:4 WSJ:2 S:6 M:6 XHR Xenia Hotels & Resor: 5.51%, 2
+54.43 Y:2.60 Z:4 WSJ:2 S:4 M:6 CPK Chesapeake Utilities: -7.83%, 2
+54.43 Y:3.50 Z:2 WSJ:4 S:2 M:6 FFG FBL Financial Group,: -21.16%, 2
+54.34 Y:1.00 Z:1 WSJ:2 S:17 M:6 CUK Carnival Corporation: 1.02%, 1
+54.33 Y:2.70 Z:5 WSJ:2 S:9 M:6 AG First Majestic Silve: 58.96%, 2
+54.31 Y:3.10 Z:3 WSJ:3 S:4 M:3.3 CA CA Inc.: 3.36%, 2
+54.3 Y:2.80 Z:3 WSJ:3 S:9 M:6 EEP Enbridge Energy, L.P: 24.83%, 2
+54.28 Y:2.70 Z:4 WSJ:2 S:6 M:6 CNMD CONMED Corporation: 4.73%, 2
+54.26 Y:2.70 Z:4 WSJ:3 S:2 M:6 CPRT Copart, Inc.: 2.96%, 2
+54.2 Y:1.70 Z:6 WSJ:1 S:6 M:6 BABA Alibaba Group Holdin: 8.54%, 1
+54.2 Y:3.20 Z:3 WSJ:3 S:3 M:6 AWR American States Wate: -15.65%, 2
+54.19 Y:3.50 Z:1 WSJ:4 S:8 M:6 ARR ARMOUR Residential R: -7.37%, 2
+54.16 Y:2.90 Z:3 WSJ:3 S:6 M:6 RYN Rayonier Inc.: 4.13%, 2
+54.16 Y:2.30 Z:1 WSJ:2 S:17 M:6 VSM Versum Materials, In: -0.01%, 1
+54.11 Y:2.60 Z:2 WSJ:3 S:11 M:2.6 FEYE FireEye, Inc.: 6.31%, 2
+54.08 Y:2.20 Z:3 WSJ:2 S:9 M:2.6 PODD Insulet Corporation: -7.2%, 2
+54.07 Y:1.00 Z:1 WSJ:2 S:17 M:6 ING ING Group, N.V.: -0.57%, 1
+54.05 Y:2.90 Z:3 WSJ:3 S:5 M:6 ALV Autoliv, Inc.: -3.09%, 2
+54.04 Y:2.80 Z:3 WSJ:3 S:7 M:6 CHH Choice Hotels Intern: 10.2%, 2
+54.04 Y:2.90 Z:3 WSJ:3 S:6 M:6 PII Polaris Industries I: 3.54%, 2
+54.03 Y:2.90 Z:3 WSJ:3 S:4 M:3.2 WERN Werner Enterprises, : -0.83%, 2
+54.02 Y:2.70 Z:3 WSJ:3 S:6 M:6 PEB Pebblebrook Hotel Tr: 3.45%, 2
+53.96 Y:2.50 Z:3 WSJ:2 S:10 M:6 PAY Verifone Systems, In: 4.82%, 2
+53.95 Y:1.90 Z:2 WSJ:2 S:17 M:6 REVG REV Group, Inc.: 23.67%, 1
+53.92 Y:3.20 Z:3 WSJ:3 S:5 M:2.7 UTHR United Therapeutics : -7.33%, 2
+53.89 Y:3.00 Z:4 WSJ:3 S:3 M:6 SFBS ServisFirst Bancshar: 7.8%, 2
+53.87 Y:2.50 Z:3 WSJ:3 S:8 M:6 RPT Ramco-Gershenson Pro: 16.03%, 2
+53.86 Y:2.70 Z:3 WSJ:2 S:8 M:6 HF HFF, Inc.: -9.01%, 2
+53.85 Y:2.80 Z:4 WSJ:3 S:7 M:6 MD Mednax, Inc: 34.25%, 2
+53.84 Y:2.90 Z:3 WSJ:3 S:3 M:3.2 ANSS ANSYS, Inc.: -8.6%, 2
+53.83 Y:2.40 Z:3 WSJ:2 S:17 M:6 HESM Hess Midstream Partn: 47.96%, 1
+53.82 Y:2.90 Z:3 WSJ:3 S:6 M:6 GPC Genuine Parts Compan: 2.41%, 2
+53.77 Y:3.10 Z:3 WSJ:3 S:7 M:6 NYCB New York Community B: 8.87%, 2
+53.76 Y:2.70 Z:3 WSJ:3 S:6 M:6 AIV Apartment Investment: 2.11%, 2
+53.72 Y:2.00 Z:2 WSJ:1 S:17 M:6 AYX Alteryx, Inc.: -2.7%, 1
+53.72 Y:3.80 Z:2 WSJ:4 S:7 M:6 OMI Owens & Minor, Inc.: 8.62%, 2
+53.65 Y:2.50 Z:5 WSJ:2 S:7 M:2.0 TSCO Tractor Supply Compa: 11.89%, 2
+53.63 Y:2.60 Z:3 WSJ:3 S:8 M:6 CLH Clean Harbors, Inc.: 14.83%, 2
+53.59 Y:2.90 Z:3 WSJ:3 S:6 M:6 ETR Entergy Corporation: 1.29%, 2
+53.58 Y:1.70 Z:4 WSJ:1 S:17 M:6 WRD WildHorse Resource D: 46.46%, 1
+53.54 Y:3.10 Z:3 WSJ:3 S:3 M:3.5 EXPD Expeditors Internati: -2.91%, 2
+53.54 Y:2.80 Z:3 WSJ:3 S:5 M:3.0 TTEC TeleTech Holdings, I: -2.11%, 2
+53.52 Y:3.10 Z:3 WSJ:3 S:8 M:2.8 TRIP TripAdvisor, Inc.: 12.79%, 2
+53.52 Y:2.90 Z:3 WSJ:3 S:7 M:6 LSI Life Storage, Inc.: 7.59%, 2
+53.51 Y:2.50 Z:4 WSJ:2 S:8 M:6 SC Santander Consumer U: 14.2%, 2
+53.5 Y:1.90 Z:3 WSJ:1 S:17 M:6 WOW WideOpenWest, Inc.: 20.99%, 1
+53.46 Y:2.70 Z:4 WSJ:3 S:5 M:6 ORI Old Republic Interna: 18.99%, 2
+53.43 Y:1.80 Z:3 WSJ:1 S:17 M:6 ARCH Arch Coal, Inc.: 20.57%, 1
+53.39 Y:2.80 Z:3 WSJ:3 S:8 M:6 CMG Chipotle Mexican Gri: 13.61%, 2
+53.38 Y:3.00 Z:3 WSJ:3 S:7 M:3.0 STX Seagate Technology P: 10.31%, 2
+53.35 Y:3.00 Z:3 WSJ:3 S:5 M:3.0 IBKR Interactive Brokers : -3.23%, 2
+53.33 Y:2.80 Z:3 WSJ:3 S:7 M:2.5 NXPI NXP Semiconductors N: -2.5%, 2
+53.31 Y:2.50 Z:5 WSJ:2 S:8 M:2.0 AKAM Akamai Technologies,: 16.55%, 2
+53.25 Y:3.00 Z:4 WSJ:3 S:3 M:3.0 CVBF CVB Financial Corpor: 7.83%, 2
+53.19 Y:2.40 Z:4 WSJ:2 S:8 M:6 APLE Apple Hospitality RE: 12.64%, 2
+53.19 Y:2.60 Z:3 WSJ:3 S:6 M:6 VALE VALE S.A.: -0.74%, 2
+53.12 Y:2.70 Z:3 WSJ:3 S:7 M:6 DEI Douglas Emmett, Inc.: 5.6%, 2
+53.1 Y:3.00 Z:4 WSJ:3 S:2 M:3.0 SIGI Selective Insurance : 0.29%, 2
+53.09 Y:2.70 Z:3 WSJ:3 S:5 M:6 CHSP Chesapeake Lodging T: -7.89%, 2
+53.07 Y:2.90 Z:3 WSJ:3 S:7 M:6 CIB BanColombia S.A.: 5.34%, 2
+53.03 Y:3.00 Z:2 WSJ:3 S:10 M:3.0 SYNT Syntel, Inc.: 3.2%, 2
+53.02 Y:2.80 Z:3 WSJ:3 S:9 M:6 PRGO Perrigo Company: 18.41%, 2
+53.01 Y:2.60 Z:5 WSJ:2 S:8 M:6 FLR Fluor Corporation: 36.74%, 2
+53.0 Y:2.70 Z:3 WSJ:3 S:5 M:6 PRLB Proto Labs, Inc.: -8.34%, 2
+52.95 Y:2.80 Z:4 WSJ:3 S:3 M:6 ATR AptarGroup, Inc.: 3.09%, 2
+52.92 Y:2.90 Z:3 WSJ:3 S:6 M:6 ADM Archer-Daniels-Midla: -2.05%, 2
+52.9 Y:3.00 Z:3 WSJ:3 S:8 M:6 MOH Molina Healthcare In: 11.15%, 2
+52.87 Y:3.00 Z:4 WSJ:3 S:3 M:3.0 DORM Dorman Products, Inc: 5.56%, 2
+52.86 Y:2.70 Z:3 WSJ:3 S:8 M:6 PBF PBF Energy Inc.: 10.96%, 2
+52.84 Y:2.70 Z:3 WSJ:3 S:8 M:6 SPH Suburban Propane Par: 10.86%, 2
+52.83 Y:2.00 Z:2 WSJ:2 S:17 M:6 VST Vistra Energy Corp.: 16.99%, 1
+52.78 Y:2.70 Z:2 WSJ:3 S:11 M:2.9 AMD Advanced Micro Devic: 5.84%, 2
+52.77 Y:2.00 Z:3 WSJ:1 S:17 M:6 BTU Peabody Energy Corpo: 16.61%, 1
+52.76 Y:2.30 Z:5 WSJ:2 S:6 M:6 BPL Buckeye Partners L.P: 22.15%, 2
+52.74 Y:2.70 Z:3 WSJ:3 S:7 M:6 VZ Verizon Communicatio: 3.68%, 2
+52.72 Y:2.20 Z:2 WSJ:2 S:17 M:6 ARD Ardagh Group S.A.: 16.33%, 1
+52.68 Y:2.60 Z:3 WSJ:3 S:6 M:6 AON Aon plc: -3.25%, 2
+52.64 Y:3.10 Z:3 WSJ:3 S:2 M:3.6 JKHY Jack Henry & Associa: -12.5%, 2
+52.64 Y:3.40 Z:3 WSJ:4 S:1 M:6 CWT California Water  Se: -11.8%, 2
+52.6 Y:2.70 Z:3 WSJ:3 S:4 M:6 KMPR Kemper Corporation: -17.01%, 2
+52.57 Y:3.00 Z:3 WSJ:3 S:5 M:3.5 SLGN Silgan Holdings Inc.: 4.58%, 2
+52.54 Y:3.40 Z:3 WSJ:3 S:5 M:6 NLY Annaly Capital Manag: -10.61%, 2
+52.5 Y:2.50 Z:4 WSJ:2 S:8 M:6 BDN Brandywine Realty Tr: 9.18%, 2
+52.49 Y:2.90 Z:3 WSJ:3 S:8 M:6 SJR Shaw Communications : 9.14%, 2
+52.48 Y:2.80 Z:3 WSJ:3 S:6 M:3.3 DNKN Dunkin&#39; Brands G: 5.71%, 2
+52.43 Y:3.20 Z:4 WSJ:3 S:3 M:6 WRB W.R. Berkley Corpora: 0.48%, 2
+52.41 Y:2.90 Z:4 WSJ:3 S:4 M:6 SCG Scana Corporation: 7.05%, 2
+52.39 Y:3.00 Z:4 WSJ:3 S:4 M:3.0 AAON AAON, Inc.: 9.33%, 2
+52.39 Y:2.60 Z:4 WSJ:2 S:8 M:6 KR Kroger Company (The): 8.6%, 2
+52.38 Y:3.10 Z:3 WSJ:3 S:6 M:6 EGP EastGroup Properties: -4.75%, 2
+52.38 Y:1.80 Z:3 WSJ:1 S:17 M:6 INVH Invitation Homes Inc: 14.29%, 1
+52.37 Y:3.30 Z:4 WSJ:3 S:6 M:6 WMS Advanced Drainage Sy: 20.19%, 2
+52.36 Y:2.30 Z:3 WSJ:1 S:17 M:6 GDI Gardner Denver Holdi: 14.16%, 1
+52.35 Y:2.90 Z:3 WSJ:3 S:10 M:6 NOV National Oilwell Var: 21.73%, 2
+52.33 Y:3.10 Z:3 WSJ:3 S:7 M:6 LXP Lexington Realty Tru: 1.63%, 2
+52.31 Y:3.00 Z:2 WSJ:3 S:4 M:5.0 NBTB NBT Bancorp Inc.: 8.85%, 2
+52.3 Y:3.00 Z:2 WSJ:3 S:8 M:3.0 ETSY Etsy, Inc.: -14.53%, 2
+52.29 Y:2.40 Z:5 WSJ:2 S:5 M:2.3 BLKB Blackbaud, Inc.: -2.07%, 2
+52.25 Y:2.60 Z:3 WSJ:3 S:8 M:6 USM United States Cellul: 7.9%, 2
+52.24 Y:3.00 Z:3 WSJ:3 S:8 M:3.0 CENX Century Aluminum Com: 10.09%, 2
+52.24 Y:2.70 Z:3 WSJ:3 S:8 M:2.5 S Sprint Corporation: -2.38%, 2
+52.16 Y:2.90 Z:2 WSJ:3 S:12 M:6 FIT Fitbit, Inc.: 9.15%, 2
+52.16 Y:2.80 Z:3 WSJ:3 S:8 M:6 MAC Macerich Company (Th: 7.49%, 2
+52.15 Y:2.60 Z:3 WSJ:3 S:6 M:6 VFC V.F. Corporation: -5.93%, 2
+52.1 Y:2.60 Z:5 WSJ:2 S:8 M:2.3 NAVI Navient Corporation: 16.77%, 2
+52.08 Y: Z:4 WSJ:3 S:5 M:6 JEC Jacobs Engineering G: 12.09%, 2
+52.05 Y:3.00 Z:3 WSJ:3 S:7 M:6 AEG Aegon NV: 0.26%, 2
+52.02 Y:1.70 Z:3 WSJ:1 S:17 M:6 ADSW Advanced Disposal Se: 12.12%, 1
+52.01 Y:2.80 Z:3 WSJ:3 S:8 M:6 KEX Kirby Corporation: 6.74%, 2
+52.0 Y:2.80 Z:3 WSJ:3 S:7 M:6 DFT Dupont Fabros Techno: 0.02%, 2
+51.97 Y:3.30 Z:3 WSJ:4 S:3 M:3.0 NWBI Northwest Bancshares: 0.13%, 2
+51.97 Y:2.60 Z:3 WSJ:3 S:8 M:6 COTY Coty Inc.: 6.54%, 2
+51.97 Y:2.90 Z:3 WSJ:3 S:8 M:6 SKT Tanger Factory Outle: 6.54%, 2
+51.96 Y:2.80 Z:3 WSJ:3 S:7 M:6 HFC HollyFrontier Corpor: -0.21%, 2
+51.93 Y:2.30 Z:3 WSJ:3 S:10 M:6 CNSL Consolidated Communi: 19.67%, 2
+51.93 Y: Z:3 WSJ:3 S:7 M:6 WRI Weingarten Realty In: -0.36%, 2
+51.89 Y:2.10 Z:2 WSJ:2 S:17 M:6 TVPT Travelport Worldwide: 11.34%, 1
+51.87 Y:3.00 Z:3 WSJ:3 S:7 M:6 NORD Nord Anglia Educatio: -0.67%, 2
+51.86 Y:2.80 Z:3 WSJ:3 S:6 M:6 WD Walker & Dunlop, Inc: -7.39%, 2
+51.84 Y:1.60 Z:3 WSJ:1 S:17 M:6 CWH Camping World Holdin: 11.04%, 1
+51.82 Y:2.60 Z:3 WSJ:3 S:7 M:6 DSW DSW Inc.: -0.88%, 2
+51.74 Y:2.70 Z:3 WSJ:3 S:7 M:6 DGI DigitalGlobe, Inc: -1.31%, 2
+51.74 Y:2.90 Z:4 WSJ:3 S:3 M:6 SWX Southwest Gas Holdin: -2.97%, 2
+51.72 Y:3.00 Z:3 WSJ:3 S:9 M:6 ENLC EnLink Midstream, LL: 11.93%, 2
+51.65 Y:3.10 Z:3 WSJ:3 S:11 M:2.7 SSYS Stratasys, Ltd.: 19.05%, 2
+51.65 Y:3.00 Z:3 WSJ:3 S:7 M:6 CIM Chimera Investment C: -1.76%, 2
+51.65 Y:2.60 Z:4 WSJ:3 S:3 M:6 EE El Paso Electric Com: -3.44%, 2
+51.61 Y:2.60 Z:5 WSJ:2 S:8 M:2.3 BWLD Buffalo Wild Wings, : 13.82%, 2
+51.61 Y:3.20 Z:3 WSJ:3 S:8 M:6 GWW W.W. Grainger, Inc.: 4.73%, 2
+51.59 Y:1.00 Z:3 WSJ:2 S:17 M:6 TTM Tata Motors Ltd: 34.56%, 1
+51.57 Y:2.70 Z:3 WSJ:3 S:8 M:6 TV Grupo Televisa S.A.: 4.52%, 2
+51.49 Y:2.50 Z:4 WSJ:6 S:8 M:2.0 MNRO Monro Muffler Brake,: 4.1%, 2
+51.48 Y:2.70 Z:4 WSJ:2 S:8 M:6 FE FirstEnergy Corporat: 4.07%, 2
+51.48 Y:2.10 Z:3 WSJ:2 S:17 M:6 FRAC Keane Group, Inc.: 33.9%, 1
+51.46 Y:2.80 Z:3 WSJ:3 S:8 M:3.0 WETF WisdomTree Investmen: 5.43%, 2
+51.45 Y:2.80 Z:3 WSJ:3 S:5 M:3.0 PAHC Phibro Animal Health: -14.65%, 2
+51.45 Y:2.70 Z:4 WSJ:3 S:6 M:6 RLJ RLJ Lodging Trust: 15.58%, 2
+51.44 Y:2.00 Z:3 WSJ:2 S:17 M:6 LFC China Life Insurance: 33.61%, 1
+51.42 Y:3.00 Z:3 WSJ:3 S:2 M:4.0 CINF Cincinnati Financial: -9.79%, 2
+51.4 Y:2.70 Z:5 WSJ:2 S:5 M:3.0 STRA Strayer Education, I: 10.09%, 2
+51.37 Y:3.00 Z:3 WSJ:3 S:4 M:6 OB OneBeacon Insurance : -23.16%, 2
+51.37 Y:2.90 Z:4 WSJ:3 S:5 M:6 PB Prosperity Bancshare: 8.51%, 2
+51.35 Y:3.10 Z:2 WSJ:4 S:5 M:6 NWN Northwest Natural Ga: -16.6%, 2
+51.33 Y:3.00 Z:3 WSJ:3 S:8 M:3.0 BRCD Brocade Communicatio: 4.64%, 2
+51.32 Y:2.50 Z:5 WSJ:2 S:8 M:2.7 MAT Mattel, Inc.: 22.09%, 2
+51.28 Y:2.60 Z:3 WSJ:3 S:8 M:6 BVN Buenaventura Mining : 3.07%, 2
+51.23 Y:3.20 Z:3 WSJ:3 S:11 M:6 DO Diamond Offshore Dri: 22.81%, 2
+51.2 Y:3.00 Z:3 WSJ:3 S:8 M:6 ALR Alere Inc.: 2.68%, 2
+51.18 Y:3.00 Z:3 WSJ:3 S:8 M:6 XOM Exxon Mobil Corporat: 2.55%, 2
+51.09 Y: Z:3 WSJ:2 S:17 M:6 AMFW Amec Plc Ord: 31.54%, 1
+51.08 Y:1.00 Z:2 WSJ:2 S:17 M:6 PUK Prudential Public Li: 6.47%, 1
+51.07 Y:2.50 Z:3 WSJ:3 S:9 M:6 TIME Time Inc.: 8.7%, 2
+51.06 Y:2.60 Z:3 WSJ:3 S:9 M:6 CCP Care Capital Propert: 8.61%, 2
+51.06 Y:3.20 Z:3 WSJ:3 S:9 M:6 HP Helmerich & Payne, I: 8.63%, 2
+51.06 Y:3.00 Z:4 WSJ:3 S:8 M:6 SSTK Shutterstock, Inc.: 26.99%, 2
+51.04 Y:3.00 Z:4 WSJ:3 S:4 M:6 IPCC Infinity Property an: 0.21%, 2
+51.02 Y:2.80 Z:3 WSJ:3 S:8 M:3.0 AINV Apollo Investment Co: 2.77%, 2
+51.02 Y:3.30 Z:1 WSJ:3 S:8 M:5.0 CALM Cal-Maine Foods, Inc: 2.81%, 2
+50.95 Y:2.60 Z:3 WSJ:3 S:9 M:2.6 ERIC Ericsson: -0.95%, 2
+50.95 Y:2.00 Z:4 WSJ:1 S:17 M:6 JAG Jagged Peak Energy I: 30.67%, 1
+50.94 Y:2.90 Z:3 WSJ:3 S:8 M:6 JWN Nordstrom, Inc.: 1.38%, 2
+50.91 Y:2.80 Z:4 WSJ:3 S:4 M:2.7 ADP Automatic Data Proce: -7.05%, 2
+50.9 Y:2.80 Z:4 WSJ:3 S:6 M:6 CAH Cardinal Health, Inc: 12.85%, 2
+50.9 Y:1.00 Z:2 WSJ:2 S:17 M:6 RENX RELX N.V.: 5.4%, 1
+50.89 Y:3.40 Z:3 WSJ:4 S:3 M:6 HE Hawaiian Electric In: -7.21%, 2
+50.88 Y:2.30 Z:5 WSJ:2 S:7 M:6 SCS Steelcase Inc.: 19.4%, 2
+50.85 Y:3.00 Z:4 WSJ:3 S:5 M:6 KMB Kimberly-Clark Corpo: 5.9%, 2
+50.83 Y:3.00 Z:3 WSJ:3 S:8 M:3.0 AKRX Akorn, Inc.: 1.64%, 2
+50.79 Y:2.60 Z:5 WSJ:2 S:5 M:6 GS Goldman Sachs Group,: 5.64%, 2
+50.76 Y:3.00 Z:4 WSJ:3 S:6 M:2.8 PDCO Patterson Companies,: 7.87%, 2
+50.75 Y:2.60 Z:2 WSJ:6 S:5 M:6 CPA Copa Holdings, S.A.: 6.17%, 1
+50.75 Y:1.50 Z:1 WSJ:2 S:8 M:6 FTS Fortis Inc.: 26.18%, 4
+50.72 Y:3.60 Z:1 WSJ:4 S:10 M:6 CYS CYS Investments, Inc: -11.38%, 2
+50.7 Y:2.70 Z:2 WSJ:3 S:11 M:2.6 SPWR SunPower Corporation: -14.16%, 2
+50.68 Y:2.60 Z:3 WSJ:2 S:17 M:6 FTI TechnipFMC plc: 29.1%, 1
+50.68 Y:1.00 Z:2 WSJ:2 S:17 M:6 WBK Westpac Banking Corp: 4.08%, 1
+50.66 Y:2.90 Z:3 WSJ:3 S:8 M:3.5 ODP Office Depot, Inc.: 13.11%, 2
+50.57 Y:2.80 Z:3 WSJ:3 S:10 M:6 DDR DDR Corp.: 12.86%, 2
+50.57 Y:3.00 Z:3 WSJ:3 S:8 M:6 FGL Fidelity and Guarant: -0.48%, 2
+50.5 Y:2.20 Z:2 WSJ:2 S:17 M:6 FMX Fomento Economico Me: 2.99%, 1
+50.48 Y:3.20 Z:4 WSJ:3 S:5 M:6 CPB Campbell Soup Compan: 4.09%, 2
+50.38 Y:2.40 Z:4 WSJ:2 S:11 M:6 HES Hess Corporation: 18.57%, 2
+50.36 Y:2.50 Z:4 WSJ:2 S:17 M:3.2 BIVV Bioverativ Inc.: 6.79%, 2
+50.32 Y:3.00 Z:3 WSJ:3 S:10 M:6 GNW Genworth Financial I: 11.58%, 2
+50.25 Y:1.00 Z:5 WSJ:2 S:8 M:6 PTR PetroChina Company L: 22.91%, 2
+50.25 Y:2.60 Z:3 WSJ:3 S:8 M:6 SRC Spirit Realty Capita: -2.09%, 2
+50.19 Y:2.80 Z:3 WSJ:3 S:11 M:2.6 IPXL Impax Laboratories, : 7.78%, 2
+50.11 Y:2.20 Z:3 WSJ:1 S:17 M:6 MGP MGM Growth Propertie: 0.67%, 1
+50.11 Y:3.00 Z:5 WSJ:3 S:5 M:6 RGR Sturm, Ruger & Compa: 27.24%, 2
+50.09 Y:3.20 Z:3 WSJ:3 S:9 M:6 CMCM Cheetah Mobile Inc.: 3.79%, 2
+50.07 Y:3.00 Z:3 WSJ:4 S:4 M:6 CCU Compania Cervecerias: -4.65%, 2
+50.05 Y:1.60 Z:4 WSJ:1 S:17 M:6 GCP GCP Applied Technolo: 25.32%, 1
+50.02 Y:4.00 Z:3 WSJ:3 S:10 M:6 DB Deutsche Bank AG: 10.11%, 2
+50.01 Y:2.50 Z:3 WSJ:3 S:10 M:6 VSTO Vista Outdoor Inc.: 10.06%, 2
+50.0 Y:2.00 Z:1 WSJ:6 S:1 M:6 IRCP IRSA Propiedades Com: 247.39%, 4
+49.97 Y:3.20 Z:4 WSJ:3 S:5 M:6 WGL WGL Holdings Inc: 1.54%, 2
+49.91 Y:2.80 Z:3 WSJ:3 S:10 M:6 CEQP Crestwood Equity Par: 9.53%, 2
+49.9 Y:2.80 Z:4 WSJ:3 S:6 M:6 UFS Domtar Corporation: 7.81%, 2
+49.9 Y:1.60 Z:4 WSJ:1 S:17 M:6 GTT GTT Communications, : 24.39%, 1
+49.9 Y:2.70 Z:4 WSJ:3 S:6 M:6 MDU MDU Resources Group,: 7.82%, 2
+49.81 Y:2.60 Z:3 WSJ:3 S:5 M:5.0 AGII Argo Group Internati: 25.53%, 2
+49.73 Y:3.20 Z:4 WSJ:3 S:5 M:6 GIS General Mills, Inc.: 0.32%, 2
+49.73 Y:2.50 Z:3 WSJ:2 S:9 M:6 YELP Yelp Inc.: -23.04%, 2
+49.69 Y:2.50 Z:5 WSJ:2 S:8 M:6 CLB Core Laboratories N.: 20.1%, 2
+49.67 Y:3.30 Z:4 WSJ:3 S:8 M:6 WAIR Wesco Aircraft Holdi: 20.0%, 2
+49.64 Y:3.00 Z:4 WSJ:3 S:7 M:3.0 STFC State Auto Financial: 12.83%, 2
+49.55 Y:3.10 Z:5 WSJ:3 S:8 M:6 CVRR CVR Refining, LP: 44.4%, 2
+49.55 Y:2.60 Z:3 WSJ:3 S:9 M:6 DDC Dominion Diamond Cor: 1.06%, 2
+49.54 Y:3.00 Z:3 WSJ:3 S:8 M:3.0 AGNC AGNC Investment Corp: -6.1%, 2
+49.52 Y:3.00 Z:6 WSJ:3 S:10 M:3.0 CREE Cree, Inc.: 7.59%, 2
+49.51 Y:3.00 Z:3 WSJ:3 S:10 M:6 OII Oceaneering Internat: 7.57%, 2
+49.47 Y:2.00 Z:1 WSJ:2 S:6 M:6 UHAL Amerco: 5.13%, 4
+49.45 Y:3.00 Z:3 WSJ:3 S:9 M:3.0 SPNC The Spectranetics Co: 0.06%, 2
+49.45 Y:3.40 Z:3 WSJ:4 S:3 M:6 MDC M.D.C. Holdings, Inc: -14.44%, 2
+49.44 Y:2.70 Z:3 WSJ:3 S:10 M:6 JCP J.C. Penney Company,: 7.18%, 2
+49.44 Y:2.80 Z:3 WSJ:3 S:8 M:6 LQ La Quinta Holdings I: -6.15%, 2
+49.43 Y:2.00 Z:3 WSJ:3 S:9 M:6 BEP Brookfield Renewable: 0.49%, 2
+49.42 Y:2.40 Z:5 WSJ:2 S:8 M:6 TEGP Tallgrass Energy GP,: 18.76%, 2
+49.39 Y:2.20 Z:3 WSJ:2 S:17 M:6 ZTO ZTO Express (Cayman): 21.32%, 1
+49.36 Y:2.70 Z:4 WSJ:2 S:8 M:6 MFA MFA Financial, Inc.: -6.52%, 2
+49.34 Y:2.90 Z:3 WSJ:3 S:9 M:6 MBLY Mobileye N.V.: 0.03%, 2
+49.33 Y:3.00 Z:4 WSJ:3 S:7 M:6 AZZ AZZ Inc.: 11.67%, 2
+49.33 Y:2.80 Z:5 WSJ:3 S:9 M:6 TEVA Teva Pharmaceutical : 113.55%, 2
+49.25 Y:3.00 Z:3 WSJ:3 S:11 M:6 VRX Valeant Pharmaceutic: 12.91%, 2
+49.25 Y:1.90 Z:3 WSJ:1 S:7 M:6 WPM Wheaton Precious Met: 35.51%, 4
+49.24 Y:2.60 Z:4 WSJ:3 S:7 M:6 EDR Education Realty Tru: 11.2%, 2
+49.17 Y:2.80 Z:3 WSJ:3 S:9 M:3.0 SPLS Staples, Inc.: -1.62%, 2
+49.11 Y:3.20 Z:3 WSJ:3 S:6 M:3.7 QSII Quality Systems, Inc: -4.52%, 2
+49.09 Y:2.90 Z:4 WSJ:3 S:6 M:6 WNC Wabash National Corp: 3.8%, 2
+49.07 Y:2.90 Z:4 WSJ:3 S:8 M:6 HL Hecla Mining Company: 17.03%, 2
+49.05 Y:3.40 Z:3 WSJ:3 S:8 M:6 TDC Teradata Corporation: -8.1%, 2
+49.02 Y:1.00 Z:3 WSJ:2 S:17 M:6 IBN ICICI Bank Limited: 19.13%, 1
+48.99 Y:3.50 Z:4 WSJ:3 S:7 M:6 AUO AU Optronics Corp: 9.96%, 2
+48.94 Y:2.80 Z:3 WSJ:3 S:9 M:6 SUN Sunoco LP: -1.96%, 2
+48.88 Y:2.90 Z:4 WSJ:3 S:7 M:6 CMP Compass Minerals Int: 9.42%, 2
+48.87 Y:2.60 Z:5 WSJ:3 S:6 M:3.0 CAKE The Cheesecake Facto: 26.58%, 2
+48.85 Y:2.90 Z:4 WSJ:3 S:7 M:6 AEO American Eagle Outfi: 9.24%, 2
+48.84 Y:3.40 Z:3 WSJ:4 S:4 M:6 ED Consolidated Edison : -10.82%, 2
+48.81 Y:2.90 Z:4 WSJ:3 S:5 M:2.7 SNI Scripps Networks Int: -13.0%, 2
+48.81 Y:3.00 Z:4 WSJ:3 S:6 M:6 SO Southern Company (Th: 2.4%, 2
+48.78 Y:2.10 Z:3 WSJ:2 S:17 M:6 ELF e.l.f. Beauty, Inc.: 17.69%, 1
+48.78 Y:3.00 Z:3 WSJ:2 S:17 M:6 ORAN Orange: 17.7%, 1
+48.76 Y:1.00 Z:3 WSJ:2 S:17 M:6 SHI SINOPEC Shangai Petr: 17.57%, 1
+48.75 Y:2.40 Z:5 WSJ:2 S:8 M:3.0 GMLP Golar LNG Partners L: 14.17%, 2
+48.74 Y:2.40 Z:4 WSJ:3 S:8 M:6 MSGN MSG Networks Inc.: 15.38%, 2
+48.73 Y:2.90 Z:4 WSJ:3 S:6 M:6 SFL Ship Finance Interna: 2.0%, 2
+48.65 Y:2.80 Z:3 WSJ:3 S:7 M:4.0 QGEN Qiagen N.V.: 6.91%, 2
+48.65 Y:2.80 Z:4 WSJ:3 S:8 M:6 TCO Taubman Centers, Inc: 14.9%, 2
+48.61 Y:2.80 Z:4 WSJ:3 S:8 M:6 ESL Esterline Technologi: 14.74%, 2
+48.53 Y:2.20 Z:3 WSJ:2 S:17 M:6 ATUS Altice USA, Inc.: 16.17%, 1
+48.49 Y:2.00 Z:3 WSJ:2 S:17 M:6 CBS CBS Corporation: 15.94%, 1
+48.48 Y:2.90 Z:3 WSJ:3 S:8 M:6 BCH Banco De Chile: -10.94%, 2
+48.46 Y:2.80 Z:3 WSJ:3 S:5 M:4.0 SCSS Select Comfort Corpo: -7.6%, 2
+48.46 Y:1.90 Z:3 WSJ:6 S:4 M:6 IVZ Invesco Plc: 10.75%, 1
+48.45 Y:3.00 Z:1 WSJ:6 S:9 M:6 TROX Tronox Limited: -5.95%, 1
+48.39 Y:2.00 Z:3 WSJ:2 S:17 M:6 LW Lamb Weston Holdings: 15.34%, 1
+48.38 Y:2.60 Z:4 WSJ:2 S:8 M:6 CF CF Industries Holdin: -11.45%, 2
+48.36 Y:2.20 Z:4 WSJ:3 S:8 M:6 MOS Mosaic Company (The): 13.48%, 2
+48.29 Y:2.00 Z:3 WSJ:2 S:17 M:6 AA Alcoa Corporation: 14.72%, 1
+48.27 Y:3.00 Z:3 WSJ:3 S:8 M:6 BSAC Banco Santander Chil: -11.96%, 2
+48.26 Y:3.00 Z:2 WSJ:3 S:8 M:3.7 MYGN Myriad Genetics, Inc: -21.25%, 2
+48.17 Y:2.00 Z:4 WSJ:2 S:17 M:6 AMGP Antero Midstream GP : 39.03%, 1
+48.14 Y:1.80 Z:3 WSJ:6 S:9 M:6 CZZ Cosan Limited: 42.15%, 1
+48.1 Y:2.80 Z:4 WSJ:3 S:8 M:6 AN AutoNation, Inc.: 12.15%, 2
+48.04 Y:2.60 Z:3 WSJ:3 S:8 M:6 GES Guess?, Inc.: -13.11%, 2
+48.04 Y:3.00 Z:3 WSJ:3 S:10 M:6 MUR Murphy Oil Corporati: 0.19%, 2
+48.01 Y:2.60 Z:5 WSJ:3 S:5 M:3.0 MELI MercadoLibre, Inc.: 14.72%, 2
+48.01 Y:3.00 Z:3 WSJ:3 S:11 M:6 UE Urban Edge Propertie: 6.72%, 2
+47.99 Y:1.00 Z:3 WSJ:2 S:17 M:6 SMFG Sumitomo Mitsui Fina: 12.93%, 1
+47.93 Y:1.80 Z:3 WSJ:6 S:17 M:2.0 SAGE Sage Therapeutics, I: 12.57%, 1
+47.9 Y:3.00 Z:3 WSJ:3 S:8 M:6 RATE Bankrate, Inc.: -13.82%, 2
+47.89 Y:2.30 Z:3 WSJ:2 S:17 M:6 EQGP EQT GP Holdings, LP: 12.36%, 1
+47.73 Y:2.70 Z:3 WSJ:3 S:8 M:3.1 TSLA Tesla, Inc. : -14.45%, 2
+47.71 Y:3.60 Z:3 WSJ:4 S:7 M:3.0 HTLD Heartland Express, I: 1.25%, 2
+47.68 Y:3.00 Z:5 WSJ:3 S:3 M:6 TOWN Towne Bank: 1.75%, 2
+47.62 Y:2.70 Z:4 WSJ:3 S:9 M:2.8 URBN Urban Outfitters, In: 9.03%, 2
+47.61 Y:3.00 Z:3 WSJ:3 S:10 M:6 TAC TransAlta Corporatio: -1.94%, 2
+47.54 Y:3.00 Z:5 WSJ:3 S:6 M:3.0 UBSI United Bankshares, I: 18.58%, 2
+47.46 Y:3.00 Z:1 WSJ:6 S:4 M:6 ALX Alexander&#39;s, Inc: 4.76%, 2
+47.38 Y:2.70 Z:4 WSJ:3 S:8 M:6 CXP Columbia Property Tr: 8.59%, 2
+47.37 Y:2.60 Z:3 WSJ:3 S:12 M:6 LC LendingClub Corporat: 10.2%, 2
+47.35 Y:2.30 Z:3 WSJ:2 S:17 M:6 ARNC Arconic Inc.: 9.09%, 1
+47.3 Y:2.90 Z:3 WSJ:3 S:9 M:6 FCX Freeport-McMoran, In: -10.16%, 2
+47.25 Y:3.00 Z:4 WSJ:3 S:7 M:6 FIG Fortress Investment : 1.25%, 2
+47.22 Y:2.00 Z:3 WSJ:6 S:11 M:6 CPG Crescent Point Energ: 56.62%, 1
+47.21 Y:2.70 Z:3 WSJ:3 S:10 M:3.0 SOHU Sohu.com Inc.: -6.74%, 2
+47.14 Y:2.90 Z:5 WSJ:3 S:5 M:6 USG USG Corporation: 12.36%, 2
+47.12 Y:2.90 Z:3 WSJ:3 S:13 M:6 CHK Chesapeake Energy Co: 15.61%, 2
+47.04 Y:3.60 Z:4 WSJ:4 S:3 M:6 NWE NorthWestern Corpora: -1.49%, 2
+47.04 Y:2.30 Z:5 WSJ:2 S:8 M:6 TGP Teekay LNG Partners : 6.85%, 2
+47.01 Y:2.80 Z:5 WSJ:3 S:5 M:3.0 FFIV F5 Networks, Inc.: 8.71%, 2
+46.92 Y:2.10 Z:3 WSJ:6 S:6 M:6 WPZ Williams Partners LP: 14.88%, 1
+46.9 Y:1.80 Z:3 WSJ:6 S:5 M:6 AMG Affiliated Managers : 8.06%, 1
+46.88 Y:2.80 Z:4 WSJ:3 S:8 M:6 TRCO Tribune Media Compan: 6.09%, 2
+46.87 Y:2.90 Z:4 WSJ:3 S:8 M:6 OFC Corporate Office Pro: 6.02%, 2
+46.84 Y:3.00 Z:1 WSJ:4 S:4 M:6 ESLT Elbit Systems Ltd.: -20.79%, 3
+46.79 Y:2.00 Z:4 WSJ:2 S:17 M:6 GOLF Acushnet Holdings Co: 30.73%, 1
+46.77 Y:2.70 Z:3 WSJ:3 S:12 M:3.0 AZPN Aspen Technology, In: 3.97%, 2
+46.75 Y:2.90 Z:4 WSJ:3 S:8 M:3.3 UNFI United Natural Foods: 9.65%, 2
+46.75 Y:3.00 Z:4 WSJ:3 S:8 M:6 FCN FTI Consulting, Inc.: 5.42%, 2
+46.72 Y:2.00 Z:3 WSJ:2 S:6 M:6 CXW CoreCivic, Inc.: 38.67%, 4
+46.67 Y:2.80 Z:5 WSJ:3 S:11 M:6 AVP Avon Products, Inc.: 66.67%, 2
+46.67 Y:3.20 Z:5 WSJ:3 S:11 M:6 CYH Community Health Sys: 51.39%, 2
+46.53 Y:3.70 Z:4 WSJ:4 S:6 M:3.0 AMKR Amkor Technology, In: 12.49%, 2
+46.51 Y:3.00 Z:3 WSJ:3 S:9 M:6 RL Ralph Lauren Corpora: -14.11%, 2
+46.45 Y:2.60 Z:3 WSJ:3 S:11 M:3.4 CAFD 8point3 Energy Partn: 5.34%, 2
+46.39 Y:2.30 Z:3 WSJ:2 S:8 M:6 TAHO Tahoe Resources, Inc: 87.0%, 4
+46.38 Y:2.00 Z:3 WSJ:2 S:17 M:6 CARS Cars.com Inc.: 3.31%, 1
+46.37 Y:3.00 Z:5 WSJ:3 S:5 M:6 HEP Holly Energy Partner: 8.53%, 2
+46.37 Y:2.80 Z:4 WSJ:3 S:8 M:6 RWT Redwood Trust, Inc.: 3.53%, 2
+46.26 Y:3.00 Z:1 WSJ:6 S:3 M:3.0 MORN Morningstar, Inc.: -9.08%, 4
+46.22 Y:3.00 Z:1 WSJ:2 S:17 M:6 UN Unilever NV: 2.32%, 2
+46.2 Y:1.70 Z:3 WSJ:2 S:17 M:6 HOME At Home Group Inc.: 2.21%, 1
+46.14 Y:2.90 Z:5 WSJ:3 S:8 M:6 EAT Brinker Internationa: 27.35%, 2
+46.09 Y:2.80 Z:1 WSJ:6 S:4 M:6 AGCO AGCO Corporation: -3.49%, 2
+46.06 Y:3.00 Z:3 WSJ:3 S:8 M:6 KORS Michael Kors Holding: -23.04%, 2
+45.97 Y:2.00 Z:3 WSJ:2 S:17 M:6 GPN Global Payments Inc.: 0.84%, 1
+45.93 Y:3.30 Z:3 WSJ:4 S:8 M:6 EC Ecopetrol S.A.: 1.3%, 2
+45.83 Y:3.00 Z:1 WSJ:2 S:17 M:6 ACH Aluminum Corporation: -84.15%, 1
+45.76 Y:2.70 Z:4 WSJ:3 S:9 M:6 OXY Occidental Petroleum: 7.13%, 2
+45.72 Y:2.00 Z:3 WSJ:2 S:3 M:6 ABM ABM Industries Incor: 12.64%, 4
+45.68 Y:2.30 Z:1 WSJ:6 S:17 M:6 ITCB Ita? CorpBanca: 24.05%, 1
+45.67 Y:3.00 Z:3 WSJ:4 S:8 M:3.0 CMPR Cimpress N.V: -4.31%, 2
+45.67 Y:2.10 Z:3 WSJ:2 S:17 M:6 BIP Brookfield Infrastru: -0.98%, 1
+45.6 Y:3.30 Z:3 WSJ:4 S:8 M:6 TWTR Twitter, Inc.: -0.31%, 2
+45.52 Y:3.10 Z:3 WSJ:3 S:11 M:3.5 GRPN Groupon, Inc.: 2.3%, 2
+45.48 Y:1.00 Z:3 WSJ:2 S:17 M:6 DEO Diageo plc: -2.12%, 1
+45.45 Y:2.10 Z:3 WSJ:6 S:8 M:6 SLB Schlumberger N.V.: 19.39%, 1
+45.43 Y:1.90 Z:3 WSJ:6 S:8 M:6 KRG Kite Realty Group Tr: 19.27%, 1
+45.42 Y:2.30 Z:3 WSJ:2 S:17 M:6 CBD Companhia Brasileira: -2.5%, 1
+45.4 Y:3.00 Z:5 WSJ:3 S:6 M:3.0 MANH Manhattan Associates: 5.75%, 2
+45.34 Y:3.00 Z:4 WSJ:3 S:9 M:6 UAA Under Armour, Inc.: 5.01%, 2
+45.19 Y:3.00 Z:5 WSJ:3 S:5 M:3.2 CHRW C.H. Robinson Worldw: 2.81%, 2
+45.08 Y:2.50 Z:5 WSJ:2 S:8 M:3.2 HAIN The Hain Celestial G: -2.86%, 2
+45.08 Y:3.40 Z:4 WSJ:4 S:4 M:6 POR Portland General Ele: -4.62%, 2
+45.0 Y:2.50 Z:2 WSJ:2 S:17 M:6 FND Floor & Decor Holdin: 20.0%, 2
+44.91 Y:2.90 Z:3 WSJ:3 S:8 M:4.2 MNTA Momenta Pharmaceutic: -3.9%, 2
+44.72 Y:3.00 Z:5 WSJ:3 S:6 M:3.0 ABAX ABAXIS, Inc.: 1.64%, 2
+44.72 Y:3.30 Z:5 WSJ:3 S:8 M:2.7 BBBY Bed Bath & Beyond In: 7.49%, 2
+44.72 Y:2.90 Z:4 WSJ:3 S:8 M:6 CBL CBL & Associates Pro: -4.71%, 2
+44.67 Y:2.30 Z:5 WSJ:2 S:3 M:6 Y Alleghany Corporatio: -38.3%, 2
+44.52 Y:2.30 Z:2 WSJ:2 S:17 M:6 JELD JELD-WEN Holding, In: 17.15%, 2
+44.5 Y:1.00 Z:1 WSJ:6 S:17 M:6 DVMT Dell Technologies In: 16.99%, 1
+44.48 Y:2.70 Z:3 WSJ:3 S:11 M:3.0 FMI Foundation Medicine,: -16.46%, 2
+44.43 Y:1.90 Z:4 WSJ:2 S:17 M:6 HRC Hill-Rom Holdings In: 16.55%, 1
+44.42 Y:2.70 Z:5 WSJ:3 S:10 M:6 AUY Yamana Gold Inc.: 32.09%, 2
+44.39 Y:1.00 Z:1 WSJ:6 S:17 M:6 TYG Tortoise Energy Infr: 16.32%, 1
+44.33 Y:2.50 Z:3 WSJ:3 S:10 M:6 APPF AppFolio, Inc.: -18.37%, 2
+44.26 Y:2.80 Z:5 WSJ:3 S:6 M:6 HOG Harley-Davidson, Inc: 4.65%, 2
+44.17 Y:2.90 Z:5 WSJ:3 S:7 M:6 BMS Bemis Company, Inc.: 10.87%, 2
+44.16 Y:3.30 Z:3 WSJ:4 S:5 M:3.0 UBNT Ubiquiti Networks, I: -33.37%, 2
+44.13 Y:2.80 Z:4 WSJ:3 S:8 M:6 WUBA 58.com Inc.: -7.69%, 2
+43.96 Y:3.00 Z:2 WSJ:2 S:17 M:6 CADE Cadence Bancorporati: 13.74%, 2
+43.96 Y:1.80 Z:4 WSJ:2 S:17 M:6 SNDR Schneider National, : 13.74%, 1
+43.94 Y:2.10 Z:4 WSJ:2 S:17 M:6 EEX Emerald Expositions : 13.66%, 1
+43.92 Y:2.00 Z:3 WSJ:6 S:9 M:6 COTV Cotiviti Holdings, I: 16.86%, 1
+43.85 Y:3.00 Z:4 WSJ:3 S:8 M:6 WPG Washington Prime Gro: -9.09%, 2
+43.72 Y:2.00 Z:3 WSJ:1 S:10 M:6 VET Vermilion Energy Inc: 22.33%, 4
+43.66 Y:2.50 Z:2 WSJ:2 S:17 M:6 PK Park Hotels & Resort: 11.97%, 2
+43.58 Y:2.60 Z:2 WSJ:2 S:17 M:6 GOL Gol Linhas Aereas In: 11.5%, 2
+43.58 Y:2.70 Z:5 WSJ:3 S:7 M:6 RBA Ritchie Bros. Auctio: 7.92%, 2
+43.52 Y:3.00 Z:4 WSJ:3 S:9 M:6 ICL Israel Chemicals Shs: -4.08%, 2
+43.52 Y:2.20 Z:3 WSJ:6 S:1 M:6 AOS Smith (A.O.) Corpora: 11.11%, 2
+43.49 Y:3.00 Z:5 WSJ:3 S:6 M:6 TNC Tennant Company: 0.79%, 2
+43.48 Y:3.30 Z:4 WSJ:4 S:5 M:6 HMN Horace Mann Educator: -5.91%, 2
+43.42 Y:3.10 Z:5 WSJ:3 S:10 M:6 DDD 3D Systems Corporati: 27.08%, 2
+43.35 Y:2.30 Z:2 WSJ:6 S:8 M:6 RACE Ferrari N.V.: -18.23%, 1
+43.24 Y:2.60 Z:2 WSJ:2 S:17 M:6 CNDT Conduent Incorporate: 9.46%, 2
+43.16 Y:3.00 Z:2 WSJ:4 S:11 M:6 CCO Clear Channel Outdoo: -17.53%, 2
+43.14 Y:4.00 Z:1 WSJ:5 S:8 M:6 VHI Valhi, Inc.: 12.36%, 3
+43.09 Y:2.00 Z:4 WSJ:2 S:4 M:6 SMP Standard Motor Produ: 28.54%, 4
+43.08 Y:2.70 Z:4 WSJ:3 S:10 M:6 WDAY Workday, Inc.: 0.4%, 2
+42.93 Y:3.00 Z:5 WSJ:3 S:8 M:6 AHL Aspen Insurance Hold: 11.34%, 2
+42.88 Y:2.70 Z:3 WSJ:3 S:8 M:6 WTW Weight Watchers Inte: -38.93%, 2
+42.82 Y:3.40 Z:3 WSJ:3 S:11 M:3.0 GPRO GoPro, Inc.: -26.4%, 2
+42.81 Y:2.50 Z:5 WSJ:2 S:17 M:6 VREX Varex Imaging Corpor: 31.89%, 1
+42.78 Y:2.40 Z:3 WSJ:2 S:6 M:6 GGP GGP Inc.: 14.99%, 4
+42.69 Y:3.70 Z:3 WSJ:4 S:5 M:6 WIT Wipro Limited: -34.88%, 2
+42.68 Y:3.00 Z:5 WSJ:3 S:4 M:3.0 MGEE MGE Energy Inc.: -23.95%, 2
+42.66 Y:2.90 Z:5 WSJ:3 S:6 M:6 AMX America Movil, S.A.B: -3.38%, 2
+42.53 Y:3.00 Z:3 WSJ:4 S:5 M:4.0 IRBT iRobot Corporation: -18.13%, 2
+42.42 Y:2.00 Z:3 WSJ:3 S:17 M:6 NGG National Grid Transc: 4.53%, 1
+42.37 Y:2.90 Z:1 WSJ:3 S:8 M:6 RH RH: 0.86%, 4
+42.18 Y:2.30 Z:3 WSJ:2 S:5 M:6 WRE Washington Real Esta: 4.74%, 4
+41.67 Y:3.00 Z:1 WSJ:6 S:17 M:6 KYN Kayne Anderson MLP I: 86.62%, 2
+41.07 Y:2.70 Z:5 WSJ:3 S:9 M:6 TGI Triumph Group, Inc.: 8.7%, 2
+40.82 Y:2.30 Z:5 WSJ:2 S:17 M:6 CEO CNOOC Limited: 19.92%, 1
+40.78 Y:2.20 Z:2 WSJ:6 S:17 M:6 ATH Athene Holding Ltd.: 19.7%, 1
+40.72 Y:2.40 Z:5 WSJ:2 S:17 M:6 CPS Cooper-Standard Hold: 19.3%, 1
+40.68 Y:3.20 Z:5 WSJ:3 S:8 M:6 QIWI QIWI plc: 0.05%, 2
+40.67 Y:3.00 Z:3 WSJ:3 S:8 M:6 WTM White Mountains Insu: -57.6%, 2
+40.66 Y:3.10 Z:5 WSJ:3 S:9 M:6 RAD Rite Aid Corporation: 6.61%, 2
+40.64 Y:3.30 Z:3 WSJ:4 S:10 M:3.0 INOV Inovalon Holdings, I: -21.15%, 2
+40.47 Y:2.60 Z:3 WSJ:2 S:17 M:6 YEXT Yext, Inc.: 17.82%, 2
+40.44 Y:3.30 Z:4 WSJ:4 S:6 M:4.0 VRSN VeriSign, Inc.: 0.96%, 2
+40.27 Y:2.50 Z:1 WSJ:6 S:9 M:6 FNFV Fidelity National Fi: -5.04%, 2
+40.26 Y:2.70 Z:2 WSJ:2 S:17 M:6 TREX Trex Company, Inc.: -8.42%, 2
+40.19 Y:1.80 Z:5 WSJ:3 S:8 M:6 ATU Actuant Corporation: -2.39%, 2
+39.82 Y:2.50 Z:3 WSJ:2 S:17 M:6 ADNT Adient plc: 13.9%, 2
+39.74 Y:3.50 Z:5 WSJ:2 S:17 M:6 BCS Barclays PLC: 13.42%, 1
+39.48 Y:3.40 Z:2 WSJ:4 S:8 M:6 SAM Boston Beer Company,: -5.94%, 3
+39.44 Y:3.00 Z:2 WSJ:3 S:17 M:6 KREF KKR Real Estate Fina: 11.64%, 2
+39.24 Y:2.30 Z:3 WSJ:2 S:17 M:6 YUMC Yum China Holdings, : 10.46%, 2
+39.22 Y:2.80 Z:3 WSJ:3 S:17 M:6 EEQ Enbridge Energy Mana: 35.32%, 2
+39.21 Y:3.10 Z:6 WSJ:3 S:3 M:6 DUK Duke Energy Corporat: -1.39%, 2
+39.1 Y:2.50 Z:4 WSJ:2 S:17 M:6 AU AngloGold Ashanti Li: 34.61%, 2
+39.06 Y:3.00 Z:1 WSJ:6 S:5 M:6 MLI Mueller Industries, : 11.04%, 4
+39.03 Y:2.40 Z:4 WSJ:2 S:17 M:6 CLDR Cloudera, Inc.: 34.19%, 2
+38.89 Y:3.00 Z:1 WSJ:6 S:11 M:6 REV Revlon, Inc.: 95.77%, 4
+38.88 Y:2.20 Z:2 WSJ:6 S:17 M:6 NTB Bank of N.T. Butterf: 8.25%, 1
+38.4 Y:2.70 Z:3 WSJ:2 S:17 M:6 ITUB Itau Unibanco Banco : 5.42%, 2
+38.33 Y:3.00 Z:1 WSJ:6 S:4 M:6 NSR Neustar, Inc.: 0%, 4
+38.33 Y: Z:1 WSJ:6 S:4 M:6 TPL Texas Pacific Land T: 0%, 4
+38.28 Y:3.60 Z:1 WSJ:4 S:3 M:5.0 CACC Credit Acceptance Co: -31.98%, 3
+38.01 Y:3.00 Z:3 WSJ:2 S:17 M:6 UL Unilever PLC: 3.08%, 2
+37.98 Y:4.00 Z:3 WSJ:4 S:6 M:3.0 PSEC Prospect Capital Cor: -13.79%, 3
+37.89 Y:2.20 Z:3 WSJ:2 S:17 M:6 BHP BHP Billiton Limited: 2.35%, 2
+37.87 Y:3.50 Z:1 WSJ:5 S:3 M:6 FIZZ National Beverage Co: -47.34%, 3
+37.84 Y:3.00 Z:5 WSJ:3 S:11 M:3.0 TERP TerraForm Power, Inc: -6.32%, 2
+37.81 Y:2.00 Z:1 WSJ:3 S:17 M:6 ZNH China Southern Airli: -23.14%, 2
+37.68 Y:1.00 Z:5 WSJ:2 S:17 M:6 SSL Sasol Ltd.: 1.07%, 1
+37.53 Y:1.70 Z:2 WSJ:3 S:17 M:6 SNN Smith & Nephew SNATS: 0.2%, 2
+37.5 Y:1.80 Z:4 WSJ:1 S:17 M:6 PVG Pretium Resources, I: 70.16%, 4
+37.42 Y:2.20 Z:3 WSJ:2 S:17 M:6 CUZ Cousins Properties I: -0.49%, 2
+37.42 Y:2.70 Z:3 WSJ:6 S:7 M:6 BFS Saul Centers, Inc.: 14.52%, 2
+37.36 Y:1.00 Z:2 WSJ:3 S:17 M:6 RBS Royal Bank Scotland : -0.83%, 2
+37.22 Y: Z:1 WSJ:6 S:5 M:6 NWLI National Western Lif: 0%, 4
+37.17 Y:2.90 Z:3 WSJ:2 S:17 M:6 BBD Banco Bradesco Sa: -2.0%, 2
+36.92 Y:3.30 Z:3 WSJ:3 S:17 M:6 RIG Transocean Ltd.: 21.51%, 2
+36.91 Y:3.60 Z:3 WSJ:4 S:8 M:6 DDS Dillard&#39;s, Inc.: -43.76%, 2
+36.8 Y:3.00 Z:3 WSJ:6 S:9 M:6 GNL Global Net Lease, In: 24.11%, 2
+36.67 Y:2.00 Z:3 WSJ:3 S:5 M:6 SNHY Sun Hydraulics Corpo: -3.31%, 4
+36.66 Y:4.00 Z:2 WSJ:3 S:17 M:6 BBVA Banco Bilbao Viscaya: -5.05%, 2
+36.56 Y:3.00 Z:1 WSJ:6 S:5 M:6 ZPIN Zhaopin Limited: -3.95%, 4
+36.33 Y:1.80 Z:3 WSJ:6 S:11 M:3.0 VEON VEON Ltd.: 34.64%, 4
+36.09 Y:2.80 Z:4 WSJ:3 S:17 M:6 SNAP Snap Inc.: 41.53%, 2
+35.97 Y:5.00 Z:1 WSJ:6 S:5 M:3.3 TR Tootsie Roll Industr: -56.32%, 4
+35.89 Y:2.00 Z:2 WSJ:3 S:17 M:6 HSBC HSBC Holdings plc: -9.67%, 2
+35.89 Y:2.00 Z:1 WSJ:6 S:7 M:6 UVV Universal Corporatio: 5.36%, 4
+35.87 Y:2.70 Z:6 WSJ:3 S:7 M:6 GNRC Generac Holdlings In: 5.22%, 2
+35.77 Y:2.30 Z:4 WSJ:2 S:17 M:6 VVV Valvoline Inc.: 14.61%, 2
+35.51 Y:2.00 Z:3 WSJ:6 S:17 M:6 NYRT New York REIT, Inc.: 13.04%, 1
+35.48 Y:1.50 Z:3 WSJ:6 S:17 M:6 RIO Rio Tinto Plc: 12.85%, 1
+35.47 Y: Z:6 WSJ:3 S:6 M:6 AMOV America Movil, S.A.B: -3.83%, 2
+35.47 Y: Z:6 WSJ:3 S:6 M:6 AMOV America Movil, S.A.B: -3.83%, 2
+35.4 Y:2.40 Z:4 WSJ:2 S:17 M:6 MULE MuleSoft, Inc.: 12.41%, 2
+35.35 Y: Z:1 WSJ:6 S:6 M:6 CMCT CIM Commercial Trust: -4.56%, 4
+35.27 Y:3.30 Z:3 WSJ:6 S:6 M:6 BSBR Banco Santander Bras: -5.05%, 2
+35.15 Y:2.40 Z:3 WSJ:6 S:17 M:6 BUD Anheuser-Busch Inbev: 10.92%, 1
+34.81 Y:2.90 Z:3 WSJ:3 S:17 M:6 HCP HCP, Inc.: 8.84%, 2
+34.66 Y:3.00 Z:3 WSJ:3 S:17 M:6 MFG Mizuho Financial Gro: 7.98%, 2
+34.61 Y:4.00 Z:1 WSJ:5 S:8 M:6 GNCMA General Communicatio: -30.3%, 3
+34.54 Y:3.60 Z:3 WSJ:4 S:8 M:6 WDR Waddell & Reed Finan: -5.61%, 3
+34.41 Y:3.00 Z:4 WSJ:2 S:17 M:6 SAN Banco Santander, S.A: 6.44%, 2
+34.21 Y:3.00 Z:6 WSJ:3 S:10 M:6 APA Apache Corporation: 15.23%, 2
+34.16 Y: Z:1 WSJ:6 S:1 M:6 FCNCA First Citizens BancS: -45.05%, 4
+34.15 Y:3.50 Z:3 WSJ:3 S:17 M:6 AVT Avnet, Inc.: 4.88%, 2
+34.01 Y:2.50 Z:3 WSJ:3 S:17 M:6 DECK Deckers Outdoor Corp: 4.05%, 2
+33.89 Y:5.00 Z:1 WSJ:6 S:8 M:6 TNH Terra Nitrogen Compa: 0%, 4
+33.84 Y:2.00 Z:1 WSJ:6 S:7 M:6 GHC Graham Holdings Comp: -6.94%, 4
+33.82 Y:1.50 Z:3 WSJ:6 S:17 M:6 CGBD TCG BDC, Inc.: 2.93%, 1
+33.64 Y:2.60 Z:4 WSJ:2 S:17 M:6 HLNE Hamilton Lane Incorp: 1.84%, 2
+33.6 Y:2.70 Z:5 WSJ:3 S:12 M:6 NAV Navistar Internation: -8.68%, 2
+33.35 Y:3.00 Z:3 WSJ:3 S:17 M:6 PKY Parkway, Inc.: 0.13%, 2
+33.35 Y:3.00 Z:3 WSJ:3 S:17 M:6 PTHN Patheon N.V.: 0.13%, 2
+33.33 Y:4.00 Z:1 WSJ:6 S:1 M:5.0 ATRI Atrion Corporation: -53.27%, 4
+33.33 Y:2.00 Z:1 WSJ:6 S:17 M:6 LORL Loral Space and Comm: 90.17%, 4
+33.33 Y:3.00 Z:1 WSJ:6 S:17 M:6 TELL Tellurian Inc.: 86.7%, 4
+33.33 Y: Z:3 WSJ:1 S:17 M:6 AQN Algonquin Power & Ut: 0%, 4
+33.33 Y:1.00 Z:1 WSJ:6 S:17 M:6 ETY Eaton Vance Tax-Mana: 0%, 2
+33.33 Y: Z:3 WSJ:1 S:17 M:6 OR Osisko Gold Royaltie: 0%, 4
+33.32 Y:4.00 Z:3 WSJ:3 S:17 M:6 PSO Pearson, Plc: -0.1%, 2
+32.59 Y:2.50 Z:3 WSJ:3 S:17 M:6 IHG Intercontinental Hot: -4.49%, 2
+32.5 Y:3.10 Z:3 WSJ:3 S:17 M:6 RNR RenaissanceRe Holdin: -4.98%, 2
+32.41 Y:2.30 Z:3 WSJ:3 S:17 M:6 BBL BHP Billiton plc: -5.53%, 2
+32.11 Y:3.00 Z:3 WSJ:3 S:17 M:6 SYT Syngenta AG: -7.36%, 2
+32.09 Y:2.30 Z:3 WSJ:3 S:17 M:6 SBGL Sibanye Gold Limited: -7.47%, 2
+31.91 Y:2.50 Z:4 WSJ:6 S:7 M:6 AGU Agrium Inc.: 6.43%, 2
+31.51 Y:2.00 Z:3 WSJ:2 S:17 M:6 XRX Xerox Corporation: 14.04%, 4
+31.28 Y:2.30 Z:4 WSJ:6 S:8 M:6 EQC Equity Commonwealth: 9.33%, 2
+30.98 Y: Z:1 WSJ:6 S:6 M:6 WMK Weis Markets, Inc.: -30.8%, 4
+30.73 Y:3.00 Z:1 WSJ:6 S:5 M:6 IBOC International Bancsh: -38.97%, 4
+30.56 Y: Z:1 WSJ:6 S:11 M:6 WINS Wins Finance Holding: 0%, 4
+30.11 Y:3.50 Z:3 WSJ:6 S:10 M:6 SRG Seritage Growth Prop: -9.34%, 2
+30.05 Y:4.00 Z:1 WSJ:6 S:4 M:6 NTL Nortel Inversora SA: -49.67%, 4
+29.88 Y:2.80 Z:3 WSJ:6 S:17 M:3.0 APPN Appian Corporation: -20.74%, 2
+29.59 Y:1.00 Z:4 WSJ:6 S:17 M:6 RELX RELX PLC: 2.54%, 1
+29.2 Y:2.70 Z:5 WSJ:3 S:17 M:6 DCP DCP Midstream LP: 25.22%, 2
+28.89 Y:3.00 Z:1 WSJ:6 S:5 M:6 UHT Universal Health Rea: -55.57%, 4
+28.83 Y:3.50 Z:3 WSJ:4 S:8 M:5.0 GOV Government Propertie: -5.38%, 3
+28.7 Y:2.10 Z:6 WSJ:6 S:17 M:6 TLLP Tesoro Logistics LP: 22.19%, 1
+28.4 Y:2.00 Z:6 WSJ:6 S:17 M:6 AYA Amaya Inc.: 20.42%, 1
+28.22 Y:2.00 Z:4 WSJ:3 S:17 M:6 LN LINE Corporation: -5.7%, 2
+26.87 Y:2.50 Z:1 WSJ:5 S:10 M:5.0 IEP Icahn Enterprises L.: -28.77%, 3
+26.2 Y:3.30 Z:4 WSJ:3 S:17 M:6 GFI Gold Fields Limited: -17.81%, 2
+25.96 Y:3.00 Z:3 WSJ:6 S:8 M:6 JOE St. Joe Company (The: 2.43%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 ADOM ADOMANI, Inc.: 0%, 4
+25.0 Y:1.00 Z:1 WSJ:6 S:17 M:6 CSQ Calamos Strategic To: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 FTXO First Trust Nasdaq B: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 QTEC First Trust NASDAQ-1: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 ACWI iShares MSCI ACWI In: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 QQQ PowerShares QQQ Trus: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 SRUN Silver Run Acquisiti: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 VONG Vanguard Russell 100: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 ADX Adams Diversified Eq: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 AWF Alliance World Dolla: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 BBDO Banco Bradesco Sa: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 BTZ BlackRock Credit All: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 UTF Cohen & Steers Infra: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 RQI Cohen & Steers Quali: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 DNP Duff & Phelps Utilit: 0%, 4
+25.0 Y:3.00 Z:1 WSJ:6 S:17 M:6 EVT Eaton Vance Tax Adva: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 GAB Gabelli Equity Trust: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 USA Liberty All-Star Equ: 0%, 4
+25.0 Y:1.00 Z:1 WSJ:6 S:17 M:6 NUV Nuveen AMT-Free Muni: 0%, 4
+25.0 Y:3.00 Z:1 WSJ:6 S:17 M:6 JQC Nuveen Credit Strate: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 NAD Nuveen Quality Munic: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 JPS Nuveen Quality Prefe: 0%, 4
+25.0 Y:3.00 Z:1 WSJ:6 S:17 M:6 BXMX Nuveen S&P 500 Buy-W: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 PTY Pimco Corporate & In: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 PHK Pimco High Income Fu: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 QCP Quality Care Propert: 0%, 4
+25.0 Y:2.00 Z:1 WSJ:6 S:17 M:6 RVT Royce Value Trust, I: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 HQH Tekla Healthcare Inv: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 TY Tri Continental Corp: 0%, 4
+25.0 Y: Z:1 WSJ:6 S:17 M:6 BIF USLIFE Income Fund, : 0%, 4
+24.23 Y: Z:1 WSJ:6 S:10 M:6 PZE Petrobras Argentina : -44.59%, 4
+24.04 Y:4.00 Z:3 WSJ:5 S:10 M:6 SID National Steel Compa: -19.79%, 3
+23.28 Y:3.00 Z:6 WSJ:6 S:4 M:6 AWH Allied World Assuran: 9.67%, 4
+22.78 Y:2.80 Z:6 WSJ:6 S:3 M:6 RAI Reynolds American In: 0%, 4
+21.02 Y: Z:1 WSJ:6 S:17 M:6 YERR Yangtze River Develo: -23.88%, 4
+20.83 Y: Z:2 WSJ:6 S:17 M:6 ACWX iShares MSCI ACWI ex: 0%, 4
+20.83 Y: Z:2 WSJ:6 S:17 M:6 SCZ iShares MSCI EAFE Sm: 0%, 4
+20.83 Y: Z:2 WSJ:6 S:17 M:6 EUFN iShares MSCI Europe : 0%, 4
+20.83 Y: Z:2 WSJ:6 S:17 M:6 IBB iShares Nasdaq Biote: 0%, 4
+20.83 Y: Z:2 WSJ:6 S:17 M:6 INDY iShares S&P India Ni: 0%, 4
+20.83 Y: Z:2 WSJ:6 S:17 M:6 VXUS Vanguard Total Inter: 0%, 4
+20.4 Y: Z:1 WSJ:6 S:17 M:6 ANAT American National In: -27.58%, 4
+19.44 Y: Z:6 WSJ:6 S:6 M:6 ANTX Anthem, Inc.: 0%, 4
+18.89 Y:1.00 Z:1 WSJ:6 S:17 M:6 CACQ Caesars Acquisition : -36.68%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 FEX First Trust Large Ca: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 FTA First Trust Large Ca: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 AAXJ iShares MSCI All Cou: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 MCHI iShares MSCI China E: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 PRFZ PowerShares FTSE RAF: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VGIT Vanguard Intermediat: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VCIT Vanguard Intermediat: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VCLT Vanguard Long-Term C: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VONV Vanguard Russell 100: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VTWO Vanguard Russell 200: 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VCSH Vanguard Short-Term : 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 VGSH Vanguard Short-Term : 0%, 4
+16.67 Y: Z:3 WSJ:6 S:17 M:6 DGRW WisdomTree U.S. Qual: 0%, 4
+16.67 Y:1.70 Z:3 WSJ:6 S:17 M:6 CISN Cision Ltd.: 0%, 4
+12.5 Y: Z:4 WSJ:6 S:17 M:6 TLT iShares 20+ Year Tre: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 AGNCB AGNC Investment Corp: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 CBSHP Commerce Bancshares,: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 FV First Trust Dorsey W: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 HYLS First Trust High Yie: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 FTSL First Trust Senior L: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 HBANO Huntington Bancshare: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 IXUS iShares Core MSCI To: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 IGF iShares Global Infra: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 PNRA Panera Bread Company: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 PKW PowerShares BuyBack : 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 PDP PowerShares DWA Mome: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 TQQQ ProShares UltraPro Q: 0%, 4
+8.33 Y:2.30 Z:6 WSJ:6 S:17 M:6 SSRI Silver Standard Reso: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 VNQI Vanguard Global ex-U: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 VMBS Vanguard Mortgage-Ba: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 VTIP Vanguard Short-Term : 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 BNDX Vanguard Total Inter: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 CSA VictoryShares US Sma: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 NFJ AllianzGI NFJ Divide: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 AXON           Axovant Sciences Ltd: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 BBN BalckRock Taxable Mu: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 HYT Blackrock Corporate : 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 BDJ Blackrock Enhanced E: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 BTT BlackRock Municipal : 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 CEM ClearBridge Energy M: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 DSL DoubleLine Income So: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 ETW Eaton Vance Corporat: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 ETG Eaton Vance Tax-Adva: 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 EXG Eaton Vance Tax-Mana: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 FPF First Trust Intermed: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 GDV Gabelli Dividend: 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 KATE Kate Spade & Company: 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 KCG KCG Holdings, Inc.: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 MORE           Monogram Residential: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 NVG Nuveen AMT-Free Muni: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 NEA Nuveen AMT-Free Qual: 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 NAC Nuveen California Qu: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 NZF Nuveen Municipal Cre: 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 NRK Nuveen New York AMT-: 0%, 4
+8.33 Y:3.00 Z:6 WSJ:6 S:17 M:6 JPC Nuveen Preferred Inc: 0%, 4
+8.33 Y:1.00 Z:6 WSJ:6 S:17 M:6 PCI PIMCO Dynamic Credit: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 PDI PIMCO Dynamic Income: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 CTX Qwest Corporation: 0%, 4
+8.33 Y: Z:6 WSJ:6 S:17 M:6 SPB            Spectrum Brands Hold: 0%, 4
+8.33 Y:1.80 Z:6 WSJ:6 S:17 M:6 TSO Tesoro Corporation: 0%, 4
