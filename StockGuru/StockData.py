@@ -437,12 +437,12 @@ class StockData:
         report = ""
 
         report += str(self.ryan_rank) + " "     # Ryan Rank
+        report += self.ticker + " " + self.name[:20] + ": "  # Name
         report += "Y:" + str(self.yahoo_rating.value_string) + " "
         report += "Z:" + str(self.zacks_rank.value_string) + " "     # Zack's Rank
         report += "WSJ:" + str(self.wsj_rating.value_string) + " "   # WSJ Rating
         report += "S:" + str(self.street_rating.value_string) + " "  # Street Rank
         report += "M:" + str(self.morning_rating.value_string) + " "     # Morning rating
-        report += self.ticker + " " + self.name[:20] + ": "  # Name
         report += str(self.change_percent.value_string) + "%, "
         report += self.recommended_action.value_string   # CNN recommended action
 
@@ -456,25 +456,25 @@ class StockData:
 
     @staticmethod
     def get_csv_data_headings():
-        return ["Top of The Market Rating",
+        return ["Rating",
+                "Ticker",
+                "Company Name",
                 "Yahoo (1-5)",
                 "Zacks (1-5)",
                 "Wall Street Journal Rating (1-5)",
                 "MorningStar (1-5)",
                 "Street Rank (1-16)",
-                "Ticker",
-                "Company Name",
                 "Projected Change % in 12 Months",
                 "CNN Recommendation"]
 
     def get_csv_data_list(self):
         return [self.ryan_rank,
+                self.ticker,
+                self.name,
                 self.yahoo_rating.numerical_value,
                 self.zacks_rank.numerical_value,
                 self.wsj_rating.numerical_value,
                 self.morning_rating.numerical_value,
                 self.street_rating.numerical_value,
-                self.ticker,
-                self.name,
                 self.change_percent.numerical_value,
                 self.recommended_action.numerical_value]
