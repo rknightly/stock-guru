@@ -1,9 +1,11 @@
 from bs4 import BeautifulSoup
-from StockGuru.translate import translate
+
 from threading import Thread
 import requests
 import http.client
 import csv
+from StockGuru.translate import translate
+from StockGuru.Signal import Signal
 
 
 class StockData:
@@ -18,13 +20,16 @@ class StockData:
         self.industry = industry
         self.exchange = exchange
 
-        self.change_percent = 0
-        self.recommended_action = ""
-        self.zacks_rank = 6
-        self.street_rating = 17
-        self.wsj_rating = 6
-        self.yahoo_rating = 6
-        self.morning_rating = 6
+        self.change_percent = Signal(name="Change Percent", worst=-50, best=50, default=0)
+        self.recommended_action = Signal(name="Recommended Action", worst=3, best=1, default=4)
+        self.zacks_rank = Signal(name="Zack's Rank", worst=5, best=1, default=6)
+        self.street_rating = Signal(name="TheStreet Rank", worst=16, best=1, default=17)
+        self.wsj_rating = Signal(name="Wall Street Journal Rank", worst=5, best=1, default=6)
+        self.yahoo_rating = Signal(name="Yahoo Rating", worst=5, best=1, default=6)
+        self.morning_rating = Signal(name="MorningStar Rating", worst=5, best=1, default=6)
+
+        self.signals = []
+
         self.ryan_rank = 0  # 0-100
 
         self.failed_connections = 0
@@ -137,9 +142,10 @@ class StockData:
             return
         try:
             result = r.json()['quoteSummary']['result'][0]
-            self.yahoo_rating = float(result['financialData']['recommendationMean']['fmt'])
+            # TODO: set value outside of method, with other value sets
+            self.yahoo_rating.set_value(result['financialData']['recommendationMean']['fmt'])
         except (ValueError, KeyError):
-            return 6
+            return
 
     def get_soups(self):
         """
@@ -233,18 +239,28 @@ class StockData:
     def find_recommended_action(self):
         """
         Find the buy/sell/hold recommendation from the stock's CNN Money page
-        :return: CNN's buy/sell/hold recommendation for the stock as a string
-         of either 'Buy', 'Sell', or 'Hold' if the recommendation is found.
-         Otherwise an empty string
+        :return: CNN's buy/sell/hold recommendation for the stock as a number
+         of 1/2/3 corrresponding to Buy/Sell/Hold if the recommendation is found.
+         Otherwise 4
         """
+        numerical_value = 4
 
         # find section of page that states buy/sell/hold recommendation
         recommendation_section = self.cnn_soup.find_all("strong",
                                                         class_="wsod_rating")
         if len(recommendation_section) == 0:
-            return ""
+            return numerical_value
 
-        return recommendation_section[0].text
+        action_str = recommendation_section[0].text
+
+        if action_str == "Buy":
+            numerical_value = 1
+        elif action_str == "Hold":
+            numerical_value = 2
+        elif action_str == "Sell":
+            numerical_value = 3
+
+        return numerical_value
 
     def find_zacks_rank(self):
         """
@@ -343,33 +359,29 @@ class StockData:
         Soups must already be retrieved
         """
 
-        self.recommended_action = self.find_recommended_action()
-        self.zacks_rank = self.find_zacks_rank()
-        self.street_rating = self.find_street_rank()
-        self.wsj_rating = self.find_wsj_rating()
-        self.change_percent = self.find_change_percent()
-        self.morning_rating = self.find_morning_rating()
-
-        self.ryan_rank = self.get_ryan_rank()
+        self.recommended_action.set_value(self.find_recommended_action())
+        self.zacks_rank.set_value(self.find_zacks_rank())
+        self.street_rating.set_value(self.find_street_rank())
+        self.wsj_rating.set_value(self.find_wsj_rating())
+        self.change_percent.set_value(self.find_change_percent())
+        self.morning_rating.set_value(self.find_morning_rating())
 
         self.delete_soups()     # done with soups, free up space
 
+        self.signals.append(self.recommended_action)
+        self.signals.append(self.zacks_rank)
+        self.signals.append(self.street_rating)
+        self.signals.append(self.wsj_rating)
+        self.signals.append(self.change_percent)
+        self.signals.append(self.morning_rating)
+
+        self.ryan_rank = self.get_ryan_rank()
+
     def count_missing_values(self):
         missing_values = 0
-        if self.change_percent == 0:
-            missing_values += 1
-        if self.zacks_rank == 6:
-            missing_values += 1
-        if self.street_rating == 17:
-            missing_values += 1
-        if self.wsj_rating == 6:
-            missing_values += 1
-        if self.yahoo_rating == 6:
-            missing_values += 1
-        if self.recommended_action == "":
-            missing_values += 1
-        if self.morning_rating == 6:
-            missing_values += 1
+        for signal in self.signals:
+            if not signal.is_found:
+                missing_values += 1
 
         return missing_values
 
@@ -379,33 +391,11 @@ class StockData:
         the signals
         :return: the Ryan Rank as an int in the range 0-100
         """
-        signals = []
         missing_values = self.count_missing_values()
-        if self.change_percent != 0 or missing_values > 1:
-            signals.append(translate(self.change_percent, -50, 50, 0,
-                                     100))
-        if self.zacks_rank != 6 or missing_values > 1:
-            signals.append(translate(self.zacks_rank, 1, 5, 100, 0))
-        if self.street_rating != 17 or missing_values > 1:
-            signals.append(translate(self.street_rating, 1, 16, 100, 0))
-        if self.wsj_rating != 6 or missing_values > 1:
-            signals.append(translate(self.wsj_rating, 1, 5, 100, 0))
-        if self.yahoo_rating != 6 or missing_values > 1:
-            signals.append(translate(self.yahoo_rating, 1, 5, 100, 0))
-        if self.morning_rating != 6 or missing_values > 1:
-            signals.append(translate(self.morning_rating, 1, 5, 100, 0))
+        effective_signal_values = [signal.get_scaled_score() for signal in self.signals
+                                   if signal.is_found or missing_values > 1]
 
-        if self.recommended_action != "" or missing_values > 1:
-            if self.recommended_action == "Buy":
-                signals.append(100)
-            elif self.recommended_action == "Hold":
-                signals.append(50)
-            elif self.recommended_action == "Sell":
-                signals.append(0)
-            elif self.recommended_action == "":
-                signals.append(0)
-
-        rank = sum(signals) / len(signals)
+        rank = sum(effective_signal_values) / len(effective_signal_values)
         return round(rank, 2)
 
     def find_exchange(self):
@@ -431,10 +421,11 @@ class StockData:
         print(self.ticker, self.name)
         print("Ryan Rank:", str(self.ryan_rank)[:5])
         print("Estimated Change: %.1f%%" %
-              self.change_percent,
-              self.recommended_action)
-        print("Yahoo:", self.yahoo_rating, "Zacks:", self.zacks_rank, "Street:", self.street_rating, "WSJ:",
-              self.wsj_rating, "M:", self.morning_rating)
+              self.change_percent.numerical_value,
+              self.recommended_action.numerical_value)
+        print("Yahoo:", self.yahoo_rating.numerical_value, "Zacks:", self.zacks_rank.numerical_value,
+              "Street:", self.street_rating.numerical_value, "WSJ:", self.wsj_rating.numerical_value,
+              "M:", self.morning_rating.numerical_value)
 
     def make_one_line_report(self):
         """
@@ -446,14 +437,14 @@ class StockData:
         report = ""
 
         report += str(self.ryan_rank) + " "     # Ryan Rank
-        report += "Y:" + str(self.yahoo_rating) + " "
-        report += "Z:" + str(self.zacks_rank) + " "     # Zack's Rank
-        report += "WSJ:" + str(self.wsj_rating) + " "   # WSJ Rating
-        report += "S:" + str(self.street_rating) + " "  # Street Rank
-        report += "M:" + str(self.morning_rating) + " "     # Morning rating
+        report += "Y:" + str(self.yahoo_rating.value_string) + " "
+        report += "Z:" + str(self.zacks_rank.value_string) + " "     # Zack's Rank
+        report += "WSJ:" + str(self.wsj_rating.value_string) + " "   # WSJ Rating
+        report += "S:" + str(self.street_rating.value_string) + " "  # Street Rank
+        report += "M:" + str(self.morning_rating.value_string) + " "     # Morning rating
         report += self.ticker + " " + self.name[:20] + ": "  # Name
-        report += str(self.change_percent) + "%, "
-        report += self.recommended_action   # CNN recommended action
+        report += str(self.change_percent.value_string) + "%, "
+        report += self.recommended_action.value_string   # CNN recommended action
 
         return report
 
@@ -478,12 +469,12 @@ class StockData:
 
     def get_csv_data_list(self):
         return [self.ryan_rank,
-                self.yahoo_rating,
-                self.zacks_rank,
-                self.wsj_rating,
-                self.morning_rating,
-                self.street_rating,
+                self.yahoo_rating.numerical_value,
+                self.zacks_rank.numerical_value,
+                self.wsj_rating.numerical_value,
+                self.morning_rating.numerical_value,
+                self.street_rating.numerical_value,
                 self.ticker,
                 self.name,
-                self.change_percent,
-                self.recommended_action]
+                self.change_percent.numerical_value,
+                self.recommended_action.numerical_value]
