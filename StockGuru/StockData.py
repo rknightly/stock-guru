@@ -210,6 +210,8 @@ class StockData:
         quote_list = self.wsj_soup.find_all("span", id="quote_val")
         try:
             current_price = float(quote_list[0].text)
+            if current_price == 0:
+                return change_percent
         except IndexError:
             print("No current Value")
             return change_percent
