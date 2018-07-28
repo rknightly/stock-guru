@@ -3,3 +3,4 @@ yahoo-finance==1.4.0
 numpy==1.13.1
 requests
 lxml
+requests[security]

@@ -57,15 +57,17 @@ class StockData:
         try:
             # Pretend to be desktop browser
             if as_desktop:
-                headers = {
-                    'User-Agent': 'Mozilla/5.0 '
-                                  '(Macintosh; Intel Mac OS X 10_10_1) '
-                                  'AppleWebKit/537.36 (KHTML, like Gecko) '
-                                  'Chrome/39.0.2171.95 Safari/537.36'}
+                headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36'}
+                    # {
+                    # 'User-Agent': 'Mozilla/5.0 '
+                    #               '(Macintosh; Intel Mac OS X 10_10_1) '
+                    #               'AppleWebKit/537.36 (KHTML, like Gecko) '
+                    #               'Chrome/39.0.2171.95 Safari/537.36'}
             else:
                 headers = {}
-
-            request = requests.get(url, headers=headers, timeout=10)
+            print(url)
+            request = requests.get(url, headers=headers)#, timeout=10)
+            print("Status:", request.status_code)
             soup = BeautifulSoup(request.text, "html.parser")
 
         except ConnectionResetError:
@@ -76,9 +78,11 @@ class StockData:
             self.failed_connections += 1
             print("Connection timed out")
 
-        except requests.exceptions.ConnectionError:
+        except requests.exceptions.ConnectionError as err:
             self.failed_connections += 1
-            print("Page doesn't exist")
+            print("Page doesn't exist:", url)
+            print("HEADERS:", headers)
+            print("ERR:", err)
 
         except http.client.IncompleteRead:
             self.failed_connections += 1
@@ -101,7 +105,7 @@ class StockData:
 
     def get_street_soup(self):
         self.the_street_soup = self.get_soup_from_url(
-            "http://www.thestreet.com/"
+            "https://www.thestreet.com/"
             "quote/%s" % self.ticker,
             as_desktop=True)
 
