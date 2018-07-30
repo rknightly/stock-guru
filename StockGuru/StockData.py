@@ -101,7 +101,8 @@ class StockData:
 
     def get_zack_soup(self):
         self.zack_soup = self.get_soup_from_url("http://www.zacks.com/stock/"
-                                                "quote/%s" % self.ticker)
+                                                "quote/%s" % self.ticker,
+                                                as_desktop=True)
 
     def get_street_soup(self):
         self.the_street_soup = self.get_soup_from_url(
