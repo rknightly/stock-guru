@@ -65,9 +65,9 @@ class StockData:
                     #               'Chrome/39.0.2171.95 Safari/537.36'}
             else:
                 headers = {}
-            print(url)
+            # print(url)
             request = requests.get(url, headers=headers)#, timeout=10)
-            print("Status:", request.status_code)
+            # print("Status:", request.status_code)
             soup = BeautifulSoup(request.text, "html.parser")
 
         except ConnectionResetError:
@@ -81,8 +81,8 @@ class StockData:
         except requests.exceptions.ConnectionError as err:
             self.failed_connections += 1
             print("Page doesn't exist:", url)
-            print("HEADERS:", headers)
-            print("ERR:", err)
+            # print("HEADERS:", headers)
+            # print("ERR:", err)
 
         except http.client.IncompleteRead:
             self.failed_connections += 1
