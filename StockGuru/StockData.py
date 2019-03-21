@@ -78,7 +78,7 @@ class StockData:
 
         except requests.exceptions.ConnectionError:
             self.failed_connections += 1
-            print("Page doesn't exist")
+            print("Page doesn't exist. Url: %s" % url)
 
         except http.client.IncompleteRead:
             self.failed_connections += 1
@@ -88,6 +88,10 @@ class StockData:
             self.failed_connections += 1
             print("Decoding incomplete")
 
+        except requests.exceptions.ReadTimeout:
+            self.failed_connections += 1
+            print("ReadTimeout")
+
         return soup
 
     def get_cnn_soup(self):
@@ -96,8 +100,9 @@ class StockData:
             self.ticker)
 
     def get_zack_soup(self):
-        self.zack_soup = self.get_soup_from_url("http://www.zacks.com/stock/"
-                                                "quote/%s" % self.ticker)
+        self.zack_soup = self.get_soup_from_url(
+            "https://www.zacks.com/stock/quote/%s" % self.ticker,
+            as_desktop=True)
 
     def get_street_soup(self):
         self.the_street_soup = self.get_soup_from_url(

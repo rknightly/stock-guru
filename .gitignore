@@ -1,3 +1,6 @@
+pyvenv
+env
+
 .idea/
 StockGuru/__pycache__/
 tests/__pycache__/
