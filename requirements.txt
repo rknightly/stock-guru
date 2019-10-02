@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.0
 yahoo-finance==1.4.0
-numpy==1.13.1
+numpy
 requests
 lxml
 requests[security]
